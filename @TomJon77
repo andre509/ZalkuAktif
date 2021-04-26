@@ -1447,6 +1447,14 @@ http://iptv.zqstream.com:80/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Indo Ch
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies SELECT HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -1863,6 +1871,9 @@ https://rico.besttvps.com:443/live/Ricotvv/Ricotvv/3406.ts
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ZQ Sport
 http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Bein Sport 1
 http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Bein Sport 2
@@ -1899,6 +1910,12 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",BT Sport 3
 http://212.8.253.172:2052/BT-3HD/index.m3u8?username=FernanSisayan&password=8cZk4jnB7y&token=4cf664d53451318603085725c43a5796&ch_id=437218
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",Sony ESPN HD
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",Fox Cricket HD
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",US Sports
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",SPORTS TV [HD]
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
@@ -1918,16 +1935,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="SPORTS WAK",Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="SPORTS WAK", Star Sports 1 HD
-http://hitectv.live/hls/stream15.m3u8  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="SPORTS WAK",Star Sports 2 HD
-http://hitectv.live/hls/stream16.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="SPORTS WAK",Беларусь 5
-https://95-213-224-183.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="SPORTS WAK",NBA HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="SPORTS WAK",NBCSN  HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sony Six
 http://103.157.249.122:5005/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sony Ten 1
