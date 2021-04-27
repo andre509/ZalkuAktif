@@ -10,8 +10,6 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7676_1080p/index
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7677_1080p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="INFO",CORONA VIRUS UPDATE
-http://qqtv.nl:8080/milena/milena/322446
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CCTV",HLS Stream 1
 https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8
 
@@ -1624,6 +1622,8 @@ http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141
 
 #EXTINF:-1 group-title="CH",CINEMAX PLUS HD
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 group-title="CH",Movies Phere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CH",FX
 http://gooserace.xyz:2052/live/ricky1/ricky1/1549099.m3u8
 #EXTINF:-1 group-title="CH",FXX
@@ -2153,6 +2153,124 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="" group-title="SPORT FIRE",SPORT TV 1 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2628
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="SPORT FIRE",SPORT TV 2 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2629
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="http://62.210.244.18/logo/PORTUGAL/SPORTTV3.png" group-title="SPORT FIRE",SPORT TV 3 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2630
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="" group-title="SPORT FIRE",SPORT TV 4 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2631
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="http://62.210.244.18/logo/PORTUGAL/SPORTTV5.png" group-title="SPORT FIRE",SPORT TV 5 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2632
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV+" tvg-logo="" group-title="SPORT FIRE",SPORT TV+
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2633
+#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV" tvg-logo="http://62.210.244.18/logo/PORTUGAL/SPORTINGTV.png" group-title="SPORT FIRE",SPORTING TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2634
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 1 HD" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT 1 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11282
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 2 HD" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT 2 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11283
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 3 HD" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT 3 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11284
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 4 HD" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT 4 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11285
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 5 HD" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT 5 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11286
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 6 HD" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT 6 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11287
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT KOSOVA 1" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT KOSOVA 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11288
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT KOSOVA 2" tvg-logo="" group-title="SPORT FIRE",SUPER SPORT KOSOVA 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/11289
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS NEWS" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS NEWS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20342
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS NEWS " tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS NEWS 
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20343
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS MAIN EVENT" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS MAIN EVENT
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20344
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS MAIN EVENT" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS MAIN EVENT
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20345
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS PREMIER LEAGUE
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20346
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS PREMIER LEAGUE " tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS PREMIER LEAGUE 
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20347
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS ACTION" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS ACTION
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20348
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS ARENA" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS ARENA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20349
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS GOLF" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS GOLF
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20350
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS MIX" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS MIX
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20351
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS CRICKET HD" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS CRICKET HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20352
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS CRICKET SD" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS CRICKET SD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20353
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS F1" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS F1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20354
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS F1" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS F1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20355
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS F1" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS F1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20356
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORTS FOOTBALL" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORTS FOOTBALL
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20357
+#EXTINF:-1 tvg-id="" tvg-name="UK  SKY SPORTS / GBI  RACING" tvg-logo="" group-title="SPORT FIRE",UK  SKY SPORTS / GBI  RACING
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20358
+#EXTINF:-1 tvg-id="" tvg-name="UK SKY SPORT NHL HD" tvg-logo="" group-title="SPORT FIRE",UK SKY SPORT NHL HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20359
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT 1" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20362
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT 1" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20363
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT 2" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20364
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT 2" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20365
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT 3" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT 3
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20366
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT 3" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT 3
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20367
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT EXTRA" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT EXTRA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20368
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT EXTRA 1" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT EXTRA 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20369
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT EXTRA 2" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT EXTRA 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20370
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT EXTRA 3" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT EXTRA 3
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20371
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT EXTRA 4" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT EXTRA 4
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20372
+#EXTINF:-1 tvg-id="" tvg-name="UK BT SPORT MOSAIC" tvg-logo="" group-title="SPORT FIRE",UK BT SPORT MOSAIC
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20373
+#EXTINF:-1 tvg-id="" tvg-name="UK PREMIER SPORTS 1" tvg-logo="" group-title="SPORT FIRE",UK PREMIER SPORTS 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20374
+#EXTINF:-1 tvg-id="" tvg-name="UK PREMIER SPORTS 2" tvg-logo="" group-title="SPORT FIRE",UK PREMIER SPORTS 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20375
+#EXTINF:-1 tvg-id="" tvg-name="UK EIR SPORT 1" tvg-logo="" group-title="SPORT FIRE",UK EIR SPORT 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20376
+#EXTINF:-1 tvg-id="" tvg-name="UK EIR SPORT 2" tvg-logo="" group-title="SPORT FIRE",UK EIR SPORT 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20377
+#EXTINF:-1 tvg-id="" tvg-name="UK FREE SPORTS" tvg-logo="" group-title="SPORT FIRE",UK FREE SPORTS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20378
+#EXTINF:-1 tvg-id="" tvg-name="UK RACING UK" tvg-logo="" group-title="SPORT FIRE",UK RACING UK
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20379
+#EXTINF:-1 tvg-id="" tvg-name="UK RACING UK HD" tvg-logo="" group-title="SPORT FIRE",UK RACING UK HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20380
+#EXTINF:-1 tvg-id="" tvg-name="UK BOX NATION" tvg-logo="" group-title="SPORT FIRE",UK BOX NATION
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20381
+#EXTINF:-1 tvg-id="" tvg-name="UK FIGHTBOX" tvg-logo="" group-title="SPORT FIRE",UK FIGHTBOX
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20382
+#EXTINF:-1 tvg-id="" tvg-name="UK SUPERSPORT 1" tvg-logo="" group-title="SPORT FIRE",UK SUPERSPORT 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20383
+#EXTINF:-1 tvg-id="" tvg-name="UK  SUPERSPORT 2" tvg-logo="" group-title="SPORT FIRE",UK  SUPERSPORT 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20384
+#EXTINF:-1 tvg-id="" tvg-name="UK  SUPERSPORT 3" tvg-logo="" group-title="SPORT FIRE",UK  SUPERSPORT 3
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20385
+#EXTINF:-1 tvg-id="" tvg-name="UK  SUPERSPORT 4" tvg-logo="" group-title="SPORT FIRE",UK  SUPERSPORT 4
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20386
+#EXTINF:-1 tvg-id="" tvg-name="UK  SUPERSPORT 5" tvg-logo="" group-title="SPORT FIRE",UK  SUPERSPORT 5
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/20387
 
 
 
@@ -2239,51 +2357,6 @@ https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
 #EXTINF:-1    group-title="SportS" ,Esport 3
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="De- Sky Sport News HD" tvg-logo="http://www.vod-logo.net/photos/1b4f77ea6be87be95bf087d7e1b6dda7.jpg" group-title="Sky Sports",De- Sky Sport News HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33379
-#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="De- Sky Sport Bundesliga 1 HD" tvg-logo="http://www.vod-logo.net/photos/bfa54192427f9e62269d740a46e3cac5.png" group-title="Sky Sports",De- Sky Sport Bundesliga 1 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33359
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="De- Sky Sport Bundesliga 2 HD" tvg-logo="http://www.vod-logo.net/photos/3291f013b058f1775a15ed2ccc2f439e.png" group-title="Sky Sports",De- Sky Sport Bundesliga 2 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33360
-#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="De- Sky Sport Bundesliga 3 HD" tvg-logo="http://www.vod-logo.net/photos/419e978408a1f963aa1a6880c1368497.jpg" group-title="Sky Sports",De- Sky Sport Bundesliga 3 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33361
-#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="De- Sky Sport Bundesliga 4 HD" tvg-logo="http://www.vod-logo.net/photos/bb8d6f94865fca7c4eabb7a6f2cf4af4.jpg" group-title="Sky Sports",De- Sky Sport Bundesliga 4 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33362
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="De- Sky Sport Bundesliga 5 HD" tvg-logo="http://www.vod-logo.net/photos/41883c30a8e91f269e8db52729d8b46b.jpg" group-title="Sky Sports",De- Sky Sport Bundesliga 5 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33363
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="De- Sky Sport Bundesliga 6 HD" tvg-logo="http://www.vod-logo.net/photos/b08781bf256ccc3873faa69b32500abc.jpg" group-title="Sky Sports",De- Sky Sport Bundesliga 6 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33364
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="De- Sky Sport Bundesliga 7 HD" tvg-logo="http://www.vod-logo.net/photos/4c5eec9f49b7a0ea24607a7da78dbdba.jpg" group-title="Sky Sports",De- Sky Sport Bundesliga 7 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33365
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="De- Sky Sport Bundesliga 8 HD" tvg-logo="http://www.vod-logo.net/photos/d77fe86b7efc0da7cece272905df0d22.jpg" group-title="Sky Sports",De- Sky Sport Bundesliga 8 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33366
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport Bundesliga 9 HD" tvg-logo="http://www.vod-logo.net/photos/0c123a6a55958d75477816c5d00c1ae5.jpg" group-title="Sky Sports",De- Sky Sport Bundesliga 9 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33367
-#EXTINF:-1 tvg-id="" tvg-name="DE- Sky Sport Bundesliga 10 HD" tvg-logo="http://www.vod-logo.net/photos/e7acc8a46abdb708e96266f0f283d5c9.jpg" group-title="Sky Sports",DE- Sky Sport Bundesliga 10 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33237
-#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="De- Sky Sport 1 HD" tvg-logo="http://www.vod-logo.net/photos/8c9023f5b5008bc510920aa626b8c8c0.jpg" group-title="Sky Sports",De- Sky Sport 1 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33368
-#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="De- Sky Sport 2 HD" tvg-logo="http://www.vod-logo.net/photos/83eaa2a3557623ab12a9c4d00401da22.jpg" group-title="Sky Sports",De- Sky Sport 2 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33369
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 3 HD" tvg-logo="http://www.vod-logo.net/photos/d2aff271f94d241699e2a6dfacf98cf6.jpg" group-title="Sky Sports",De- Sky Sport 3 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33370
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 4 HD" tvg-logo="http://www.vod-logo.net/photos/826c8526fdc1fac53af51fb8173d2ce3.jpg" group-title="Sky Sports",De- Sky Sport 4 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33371
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 5 HD" tvg-logo="http://www.vod-logo.net/photos/c9d5e16a6e167663910e66fab2938ea3.jpg" group-title="Sky Sports",De- Sky Sport 5 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33372
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 6 HD" tvg-logo="http://www.vod-logo.net/photos/cfa654567db67179c35deddb44e8223a.jpg" group-title="Sky Sports",De- Sky Sport 6 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33373
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 7 HD" tvg-logo="http://www.vod-logo.net/photos/e46a70c59d9a069fe650e43070633060.jpg" group-title="Sky Sports",De- Sky Sport 7 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33374
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 8 HD" tvg-logo="http://www.vod-logo.net/photos/b2e08d81553a46248a75dadb3f78fd1b.jpg" group-title="Sky Sports",De- Sky Sport 8 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33375
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 9 HD" tvg-logo="http://www.vod-logo.net/photos/efa3bd1bab369d4b878002c1fc85e18d.jpg" group-title="Sky Sports",De- Sky Sport 9 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33376
-#EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 10 HD" tvg-logo="http://www.vod-logo.net/photos/41a6047b8a249ecc13d733f3cbe36899.jpg" group-title="Sky Sports",De- Sky Sport 10 HD
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33377
 
 #EXTINF:-1 tvg-id="" tvg-name="IND INDIA TV" tvg-logo="" group-title="INDIAN",IND INDIA TV
 http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46918
