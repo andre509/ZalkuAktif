@@ -2046,13 +2046,13 @@ http://gooserace.xyz:2052/live/ricky1/ricky1/2473637.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASTRO ARENA
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 http://starshare.live:8080/live/120120/120120/5479.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP 1
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP 2
 http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP 3
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS WAK",MOTV
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
@@ -2285,6 +2285,224 @@ http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33376
 #EXTINF:-1 tvg-id="" tvg-name="De- Sky Sport 10 HD" tvg-logo="http://www.vod-logo.net/photos/41a6047b8a249ecc13d733f3cbe36899.jpg" group-title="Sky Sports",De- Sky Sport 10 HD
 http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/33377
 
+#EXTINF:-1 tvg-id="" tvg-name="IND INDIA TV" tvg-logo="" group-title="INDIAN",IND INDIA TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46918
+#EXTINF:-1 tvg-id="" tvg-name="IND NEWS 24" tvg-logo="" group-title="INDIAN",IND NEWS 24
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46919
+#EXTINF:-1 tvg-id="" tvg-name="IND ZEE TV HD" tvg-logo="" group-title="INDIAN",IND ZEE TV HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46920
+#EXTINF:-1 tvg-id="" tvg-name="IND COLORS HD" tvg-logo="" group-title="INDIAN",IND COLORS HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46921
+#EXTINF:-1 tvg-id="" tvg-name="IND AAJ TAK" tvg-logo="" group-title="INDIAN",IND AAJ TAK
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46922
+#EXTINF:-1 tvg-id="" tvg-name="IND AAJ TAK TEJ" tvg-logo="" group-title="INDIAN",IND AAJ TAK TEJ
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46923
+#EXTINF:-1 tvg-id="" tvg-name="IND DELHI AAJ TAK" tvg-logo="" group-title="INDIAN",IND DELHI AAJ TAK
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46924
+#EXTINF:-1 tvg-id="" tvg-name="IND SET INDIA" tvg-logo="" group-title="INDIAN",IND SET INDIA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46925
+#EXTINF:-1 tvg-id="" tvg-name="IND SONY MIX" tvg-logo="" group-title="INDIAN",IND SONY MIX
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46926
+#EXTINF:-1 tvg-id="" tvg-name="IND SURYA HD" tvg-logo="" group-title="INDIAN",IND SURYA HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46927
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR SPORTS 3" tvg-logo="" group-title="INDIAN",IND STAR SPORTS 3
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46928
+#EXTINF:-1 tvg-id="" tvg-name="IND RISHTEY" tvg-logo="" group-title="INDIAN",IND RISHTEY
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46929
+#EXTINF:-1 tvg-id="" tvg-name="IND FOOD FOOD" tvg-logo="" group-title="INDIAN",IND FOOD FOOD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46930
+#EXTINF:-1 tvg-id="" tvg-name="IND SONY MAX" tvg-logo="" group-title="INDIAN",IND SONY MAX
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46931
+#EXTINF:-1 tvg-id="" tvg-name="IND SONY PIX 4K" tvg-logo="" group-title="INDIAN",IND SONY PIX 4K
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46932
+#EXTINF:-1 tvg-id="" tvg-name="IND SONY SAB" tvg-logo="" group-title="INDIAN",IND SONY SAB
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46933
+#EXTINF:-1 tvg-id="" tvg-name="IND SONY YAY" tvg-logo="" group-title="INDIAN",IND SONY YAY
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46934
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR BHARAT HD" tvg-logo="" group-title="INDIAN",IND STAR BHARAT HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46935
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR GOLD HD" tvg-logo="" group-title="INDIAN",IND STAR GOLD HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46936
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR PLUS HD" tvg-logo="" group-title="INDIAN",IND STAR PLUS HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46937
+#EXTINF:-1 tvg-id="" tvg-name="IND VENUS" tvg-logo="" group-title="INDIAN",IND VENUS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46938
+#EXTINF:-1 tvg-id="" tvg-name="IND ZEE CINEMA HD" tvg-logo="" group-title="INDIAN",IND ZEE CINEMA HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46939
+#EXTINF:-1 tvg-id="" tvg-name="IND SONY ESPN HD" tvg-logo="" group-title="INDIAN",IND SONY ESPN HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46940
+#EXTINF:-1 tvg-id="" tvg-name="IND SUN TV" tvg-logo="" group-title="INDIAN",IND SUN TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46941
+#EXTINF:-1 tvg-id="" tvg-name="IND AAB TAK" tvg-logo="" group-title="INDIAN",IND AAB TAK
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46942
+#EXTINF:-1 tvg-id="" tvg-name="IND BBC EARTH" tvg-logo="" group-title="INDIAN",IND BBC EARTH
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46943
+#EXTINF:-1 tvg-id="" tvg-name="IND COLORS CINEPLEX" tvg-logo="" group-title="INDIAN",IND COLORS CINEPLEX
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46944
+#EXTINF:-1 tvg-id="" tvg-name="IND COLORS GUJARATI" tvg-logo="" group-title="INDIAN",IND COLORS GUJARATI
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46945
+#EXTINF:-1 tvg-id="" tvg-name="IND DDSPORT" tvg-logo="" group-title="INDIAN",IND DDSPORT
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46946
+#EXTINF:-1 tvg-id="" tvg-name="IND DUNYA NEWS" tvg-logo="" group-title="INDIAN",IND DUNYA NEWS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46947
+#EXTINF:-1 tvg-id="" tvg-name="IND KAY-2" tvg-logo="" group-title="INDIAN",IND KAY-2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46948
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR SPORTS 1 HD" tvg-logo="" group-title="INDIAN",IND STAR SPORTS 1 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46949
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR SPORTS 2" tvg-logo="" group-title="INDIAN",IND STAR SPORTS 2
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46950
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR SPORTS 2 HD" tvg-logo="" group-title="INDIAN",IND STAR SPORTS 2 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46951
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR SPORTS 1" tvg-logo="" group-title="INDIAN",IND STAR SPORTS 1
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46952
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="INDIAN",IND STAR SPORTS SELECT 1 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46953
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="INDIAN",IND STAR SPORTS SELECT 2 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46954
+#EXTINF:-1 tvg-id="" tvg-name="IND TEN 2 HD" tvg-logo="" group-title="INDIAN",IND TEN 2 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46955
+#EXTINF:-1 tvg-id="" tvg-name="IND TEN 3 HD" tvg-logo="" group-title="INDIAN",IND TEN 3 HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46956
+#EXTINF:-1 tvg-id="" tvg-name="IND TEN 1ᴴᴰ" tvg-logo="" group-title="INDIAN",IND TEN 1ᴴᴰ
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46957
+#EXTINF:-1 tvg-id="" tvg-name="IND AMRITA" tvg-logo="" group-title="INDIAN",IND AMRITA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46958
+#EXTINF:-1 tvg-id="" tvg-name="IND ENTERR 10" tvg-logo="" group-title="INDIAN",IND ENTERR 10
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46959
+#EXTINF:-1 tvg-id="" tvg-name="IND HBO" tvg-logo="" group-title="INDIAN",IND HBO
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46960
+#EXTINF:-1 tvg-id="" tvg-name="IND JAIHIND" tvg-logo="" group-title="INDIAN",IND JAIHIND
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46961
+#EXTINF:-1 tvg-id="" tvg-name="IND JEEVAN" tvg-logo="" group-title="INDIAN",IND JEEVAN
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46962
+#EXTINF:-1 tvg-id="" tvg-name="IND MAHA MOVIES" tvg-logo="" group-title="INDIAN",IND MAHA MOVIES
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46963
+#EXTINF:-1 tvg-id="" tvg-name="IND MAZHAVIL MANORAMA" tvg-logo="" group-title="INDIAN",IND MAZHAVIL MANORAMA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46964
+#EXTINF:-1 tvg-id="" tvg-name="IND MINIPLEX AIRTEL" tvg-logo="" group-title="INDIAN",IND MINIPLEX AIRTEL
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46965
+#EXTINF:-1 tvg-id="" tvg-name="IND MOVIES ACTIVE HD 2DH" tvg-logo="" group-title="INDIAN",IND MOVIES ACTIVE HD 2DH
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46966
+#EXTINF:-1 tvg-id="" tvg-name="IND MTV BEATS" tvg-logo="" group-title="INDIAN",IND MTV BEATS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46967
+#EXTINF:-1 tvg-id="" tvg-name="IND NDTV INDIA TV" tvg-logo="" group-title="INDIAN",IND NDTV INDIA TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46968
+#EXTINF:-1 tvg-id="" tvg-name="IND NEWS18 INDIA" tvg-logo="" group-title="INDIAN",IND NEWS18 INDIA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46969
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR MOVIES SELECT" tvg-logo="" group-title="INDIAN",IND STAR MOVIES SELECT
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46970
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR WORLD" tvg-logo="" group-title="INDIAN",IND STAR WORLD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46971
+#EXTINF:-1 tvg-id="" tvg-name="IND ZEE KERALAAM" tvg-logo="" group-title="INDIAN",IND ZEE KERALAAM
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46972
+#EXTINF:-1 tvg-id="" tvg-name="HINDI-Malayalam: Asianet Middle east" tvg-logo="" group-title="INDIAN",HINDI-Malayalam: Asianet Middle east
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46973
+#EXTINF:-1 tvg-id="" tvg-name="HINDI-Malayalam: Asianet News" tvg-logo="" group-title="INDIAN",HINDI-Malayalam: Asianet News
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46974
+#EXTINF:-1 tvg-id="" tvg-name="IND ANIMAL PLANET HD WORLD" tvg-logo="" group-title="INDIAN",IND ANIMAL PLANET HD WORLD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46975
+#EXTINF:-1 tvg-id="" tvg-name="IND NDTV 24x7" tvg-logo="" group-title="INDIAN",IND NDTV 24x7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46976
+#EXTINF:-1 tvg-id="" tvg-name="IND SURVANA NEWS" tvg-logo="" group-title="INDIAN",IND SURVANA NEWS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46977
+#EXTINF:-1 tvg-id="" tvg-name="IND V6" tvg-logo="" group-title="INDIAN",IND V6
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46978
+#EXTINF:-1 tvg-id="" tvg-name="IND WE" tvg-logo="" group-title="INDIAN",IND WE
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46979
+#EXTINF:-1 tvg-id="" tvg-name="IND WIN TV" tvg-logo="" group-title="INDIAN",IND WIN TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46980
+#EXTINF:-1 tvg-id="" tvg-name="IND YONETV" tvg-logo="" group-title="INDIAN",IND YONETV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46981
+#EXTINF:-1 tvg-id="" tvg-name="IND ZEE ACTION" tvg-logo="" group-title="INDIAN",IND ZEE ACTION
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46982
+#EXTINF:-1 tvg-id="" tvg-name="IND ZEE ANMOL CINEMA" tvg-logo="" group-title="INDIAN",IND ZEE ANMOL CINEMA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46983
+#EXTINF:-1 tvg-id="" tvg-name="IND STUDIO ONE" tvg-logo="" group-title="INDIAN",IND STUDIO ONE
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46984
+#EXTINF:-1 tvg-id="" tvg-name="IND CINEPLEX HD" tvg-logo="" group-title="INDIAN",IND CINEPLEX HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46985
+#EXTINF:-1 tvg-id="" tvg-name="IND KAIRALI" tvg-logo="" group-title="INDIAN",IND KAIRALI
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46986
+#EXTINF:-1 tvg-id="" tvg-name="IND KAIRALI ARABIA" tvg-logo="" group-title="INDIAN",IND KAIRALI ARABIA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46987
+#EXTINF:-1 tvg-id="" tvg-name="IND KAIRALI NEWS" tvg-logo="" group-title="INDIAN",IND KAIRALI NEWS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46988
+#EXTINF:-1 tvg-id="" tvg-name="IND KALAIGNAR CHITHIRAM" tvg-logo="" group-title="INDIAN",IND KALAIGNAR CHITHIRAM
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46989
+#EXTINF:-1 tvg-id="" tvg-name="IND KALAIGNAR ISAI ARUVI" tvg-logo="" group-title="INDIAN",IND KALAIGNAR ISAI ARUVI
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46990
+#EXTINF:-1 tvg-id="" tvg-name="IND KALAIGNAR MURASU" tvg-logo="" group-title="INDIAN",IND KALAIGNAR MURASU
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46991
+#EXTINF:-1 tvg-id="" tvg-name="IND KALAIGNAR SEITHIGAL" tvg-logo="" group-title="INDIAN",IND KALAIGNAR SEITHIGAL
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46992
+#EXTINF:-1 tvg-id="" tvg-name="IND KALAIGNAR SIRIPPOLI" tvg-logo="" group-title="INDIAN",IND KALAIGNAR SIRIPPOLI
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46993
+#EXTINF:-1 tvg-id="" tvg-name="IND KALAIGNAR TV" tvg-logo="" group-title="INDIAN",IND KALAIGNAR TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46994
+#EXTINF:-1 tvg-id="" tvg-name="IND KALINGA TV" tvg-logo="" group-title="INDIAN",IND KALINGA TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46995
+#EXTINF:-1 tvg-id="" tvg-name="IND MK TELEVISION" tvg-logo="" group-title="INDIAN",IND MK TELEVISION
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46996
+#EXTINF:-1 tvg-id="" tvg-name="IND MK TUNES" tvg-logo="" group-title="INDIAN",IND MK TUNES
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46997
+#EXTINF:-1 tvg-id="" tvg-name="IND MOON TV" tvg-logo="" group-title="INDIAN",IND MOON TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46998
+#EXTINF:-1 tvg-id="" tvg-name="IND ORANGE TV" tvg-logo="" group-title="INDIAN",IND ORANGE TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46999
+#EXTINF:-1 tvg-id="" tvg-name="IND POLIMER" tvg-logo="" group-title="INDIAN",IND POLIMER
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47000
+#EXTINF:-1 tvg-id="" tvg-name="IND POWER VISION" tvg-logo="" group-title="INDIAN",IND POWER VISION
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47001
+#EXTINF:-1 tvg-id="" tvg-name="IND PUBLIC MOVIES" tvg-logo="" group-title="INDIAN",IND PUBLIC MOVIES
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47002
+#EXTINF:-1 tvg-id="" tvg-name="IND PUBLIC MUSIC" tvg-logo="" group-title="INDIAN",IND PUBLIC MUSIC
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47003
+#EXTINF:-1 tvg-id="" tvg-name="IND PUBLIC TV" tvg-logo="" group-title="INDIAN",IND PUBLIC TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47004
+#EXTINF:-1 tvg-id="" tvg-name="IND R TV" tvg-logo="" group-title="INDIAN",IND R TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47005
+#EXTINF:-1 tvg-id="" tvg-name="IND RM RUJUMARGAM TV" tvg-logo="" group-title="INDIAN",IND RM RUJUMARGAM TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47006
+#EXTINF:-1 tvg-id="" tvg-name="IND Sadhna Prime News" tvg-logo="" group-title="INDIAN",IND Sadhna Prime News
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47007
+#EXTINF:-1 tvg-id="" tvg-name="IND SATHIYAM TV" tvg-logo="" group-title="INDIAN",IND SATHIYAM TV
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47008
+#EXTINF:-1 tvg-id="" tvg-name="IND SHEMAROO MARATHIBANA" tvg-logo="" group-title="INDIAN",IND SHEMAROO MARATHIBANA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47009
+#EXTINF:-1 tvg-id="" tvg-name="IND SRI SANKARA" tvg-logo="" group-title="INDIAN",IND SRI SANKARA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47010
+#EXTINF:-1 tvg-id="" tvg-name="IND T NEWS" tvg-logo="" group-title="INDIAN",IND T NEWS
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47011
+#EXTINF:-1 tvg-id="" tvg-name="IND TAMILAN TELEVISION" tvg-logo="" group-title="INDIAN",IND TAMILAN TELEVISION
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47012
+#EXTINF:-1 tvg-id="" tvg-name="IND TOLLYWOOD" tvg-logo="" group-title="INDIAN",IND TOLLYWOOD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47013
+#EXTINF:-1 tvg-id="" tvg-name="IND TV 5" tvg-logo="" group-title="INDIAN",IND TV 5
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47014
+#EXTINF:-1 tvg-id="" tvg-name="IND TV5 KANNADA" tvg-logo="" group-title="INDIAN",IND TV5 KANNADA
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47015
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: CHU CHU TV 24/7" tvg-logo="" group-title="INDIAN",KIDS: CHU CHU TV 24/7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47016
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: CoComelon TV 24/7" tvg-logo="" group-title="INDIAN",KIDS: CoComelon TV 24/7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47017
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: MASHA & THE BEAR 24/7" tvg-logo="" group-title="INDIAN",KIDS: MASHA & THE BEAR 24/7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47018
+#EXTINF:-1 tvg-id="" tvg-name="KIDS MR BEAN (CARTOON) 24/7" tvg-logo="" group-title="INDIAN",KIDS MR BEAN (CARTOON) 24/7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47019
+#EXTINF:-1 tvg-id="" tvg-name="KIDS PINK PANTHER 24/7" tvg-logo="" group-title="INDIAN",KIDS PINK PANTHER 24/7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47020
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TALKING TOM 24/7" tvg-logo="" group-title="INDIAN",KIDS TALKING TOM 24/7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47021
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TOM & JERRY 24/7" tvg-logo="" group-title="INDIAN",KIDS TOM & JERRY 24/7
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47022
+#EXTINF:-1 tvg-id="" tvg-name="IND STAR VIJAY 4K HD" tvg-logo="" group-title="INDIAN",IND STAR VIJAY 4K HD
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47023
+#EXTINF:-1 tvg-id="" tvg-name="IND SUN MUSIC" tvg-logo="" group-title="INDIAN",IND SUN MUSIC
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47024
+#EXTINF:-1 tvg-id="" tvg-name="IND COLORS MARATHI 4K" tvg-logo="" group-title="INDIAN",IND COLORS MARATHI 4K
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47025
+#EXTINF:-1 tvg-id="" tvg-name="IND ZEE MARATHI 4K" tvg-logo="" group-title="INDIAN",IND ZEE MARATHI 4K
+http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/47026
 
 
 
