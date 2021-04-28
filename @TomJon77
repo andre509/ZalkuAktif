@@ -863,26 +863,6 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TV MALAYSIA",DRAMA SANGAT
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58011&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",BERITA RTM
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58010&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",TV OKEY
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",Tv Alhijrah
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58008&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",TV9
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",8TV
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",NTV7
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",TV3
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",TV2
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b
-#EXTINF:-1 group-title="TV MALAYSIA",TV1
-http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-logo="tv1.png" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png" group-title="TV MALAYSIA",TV1
 http://51.79.208.146:61980/myplay/c_58001/index.m3u8
