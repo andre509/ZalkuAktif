@@ -49,7 +49,7 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6399_720p/index.
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YMiadg_41VRnuypCyn0luzLMeco=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" group-title="LOKAL-Vidio",ZING
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6747_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="LOKAL-Vidio)", Smithsonian
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="LOKAL-Vidio", Smithsonian
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6550_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="LOKAL-Vidio", Love Nature
