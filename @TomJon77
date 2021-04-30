@@ -2141,6 +2141,81 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORT 1 FHD" tvg-logo="http://webo.asia/logos/Astro_supersport_logo.png" group-title="[ WORLD ]  SPORTS",ASTRO SUPERSPORT 1 FHD
+http://webo.asia:80/Andrews/Ben/57500
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORT 2 FHD" tvg-logo="http://webo.asia/logos/832_300.png" group-title="[ WORLD ]  SPORTS",ASTRO SUPERSPORT 2 FHD
+http://webo.asia:80/Andrews/Ben/57501
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORT 3 FHD" tvg-logo="http://b1g.me:80/images/e8da61d472e0c78a5c5bd5cfef1e6b0e.png" group-title="[ WORLD ]  SPORTS",ASTRO SUPERSPORT 3 FHD
+http://webo.asia:80/Andrews/Ben/57502
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORT 4 FHD" tvg-logo="http://webo.asia/logos/astro_supersport_my_4.png" group-title="[ WORLD ]  SPORTS",ASTRO SUPERSPORT 4 FHD
+http://webo.asia:80/Andrews/Ben/57503
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO EPL 1 FHD" tvg-logo="http://webo.asia/logos/Astro_supersport_logo.png" group-title="[ WORLD ]  SPORTS",ASTRO EPL 1 FHD
+http://webo.asia:80/Andrews/Ben/57504
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO EPL 2 FHD" tvg-logo="http://webo.asia/logos/832_300.png" group-title="[ WORLD ]  SPORTS",ASTRO EPL 2 FHD
+http://webo.asia:80/Andrews/Ben/57505
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO EPL 3 FHD" tvg-logo="http://webo.asia/logos/Astro_Supersport_3_2015.png" group-title="[ WORLD ]  SPORTS",ASTRO EPL 3 FHD
+http://webo.asia:80/Andrews/Ben/57506
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO WWE CHANNEL FHD" tvg-logo="http://webo.asia/logos/wwenetwork.png" group-title="[ WORLD ]  SPORTS",ASTRO WWE CHANNEL FHD
+http://webo.asia:80/Andrews/Ben/57507
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SENTANTA SPORTS FHD" tvg-logo="http://webo.asia/logos/14592647241684.png" group-title="[ WORLD ]  SPORTS",ASTRO SENTANTA SPORTS FHD
+http://webo.asia:80/Andrews/Ben/57508
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO GOLF CHANNEL FHD" tvg-logo="http://webo.asia/logos/QaaLI7kO_400x400.jpg" group-title="[ WORLD ]  SPORTS",ASTRO GOLF CHANNEL FHD
+http://webo.asia:80/Andrews/Ben/57509
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO FOX SPORTS 3 FHD" tvg-logo="http://webo.asia/logos/unnamed.png" group-title="[ WORLD ]  SPORTS",ASTRO FOX SPORTS 3 FHD
+http://webo.asia:80/Andrews/Ben/57510
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO FOX SPORTS 2 FHD" tvg-logo="http://webo.asia/logos/unnamed.png" group-title="[ WORLD ]  SPORTS",ASTRO FOX SPORTS 2 FHD
+http://webo.asia:80/Andrews/Ben/57511
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO FOX SPORTS 1 FHD" tvg-logo="http://webo.asia/logos/unnamed.png" group-title="[ WORLD ]  SPORTS",ASTRO FOX SPORTS 1 FHD
+http://webo.asia:80/Andrews/Ben/57512
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO CRICKET CHANNEL FHD" tvg-logo="http://b1g.ca:80/images/fd3de0efa8580058e544cc3fb4df9997.png" group-title="[ WORLD ]  SPORTS",ASTRO CRICKET CHANNEL FHD
+http://webo.asia:80/Andrews/Ben/57513
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO BEIN SPORTS FHD" tvg-logo="http://webo.asia/logos/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="[ WORLD ]  SPORTS",ASTRO BEIN SPORTS FHD
+http://webo.asia:80/Andrews/Ben/57514
+#EXTINF:-1 tvg-ID="" tvg-name="ASTRO ARENA FHD" tvg-logo="http://webo.asia/logos/astro_arena_my.png" group-title="[ WORLD ]  SPORTS",ASTRO ARENA FHD
+http://webo.asia:80/Andrews/Ben/57515
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS RUGBY" tvg-logo="http://webo.asia/logos/a" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS RUGBY
+http://webo.asia:80/Andrews/Ben/52056
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS GOLF" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS GOLF
+http://webo.asia:80/Andrews/Ben/52060
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS VARIETY 1" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS VARIETY 1
+http://webo.asia:80/Andrews/Ben/52061
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS FOOTBALL" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS FOOTBALL
+http://webo.asia:80/Andrews/Ben/52062
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS ACTION" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS ACTION
+http://webo.asia:80/Andrews/Ben/52063
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS CRICKET" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS CRICKET
+http://webo.asia:80/Andrews/Ben/52064
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS VARIETY 2" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS VARIETY 2
+http://webo.asia:80/Andrews/Ben/52065
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS GRAND STAND" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS GRAND STAND
+http://webo.asia:80/Andrews/Ben/52066
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS HD" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS HD
+http://webo.asia:80/Andrews/Ben/52067
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS VARIETY 3" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS VARIETY 3
+http://webo.asia:80/Andrews/Ben/52057
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS VARIETY 4" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS VARIETY 4
+http://webo.asia:80/Andrews/Ben/52058
+#EXTINF:-1 tvg-ID="" tvg-name="AF | SUPER SPORTS PREMIER LEAGUE" tvg-logo="http://webo.asia/logos/" group-title="[ WORLD ]  SPORTS",AF | SUPER SPORTS PREMIER LEAGUE
+http://webo.asia:80/Andrews/Ben/52059
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 1" tvg-logo="http://webo.asia/logos/flowsports.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 1
+http://webo.asia:80/Andrews/Ben/35915
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 2" tvg-logo="http://webo.asia/logos/flowsports.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 2
+http://webo.asia:80/Andrews/Ben/35914
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 3" tvg-logo="http://webo.asia/logos/flowsports.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 3
+http://webo.asia:80/Andrews/Ben/35913
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 4" tvg-logo="http://webo.asia/logos/flowsports.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 4
+http://webo.asia:80/Andrews/Ben/35912
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 5" tvg-logo="http://webo.asia/logos/flowsports.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 5
+http://webo.asia:80/Andrews/Ben/35911
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 6" tvg-logo="http://webo.asia/logos/flowsports.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 6
+http://webo.asia:80/Andrews/Ben/35910
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 7" tvg-logo="http://webo.asia/logos/flowsports1.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 7
+http://webo.asia:80/Andrews/Ben/35909
+#EXTINF:-1 tvg-ID="" tvg-name="Now HK Premier Sports 8" tvg-logo="http://webo.asia/logos/nbcgold.png" group-title="[ WORLD ]  SPORTS",Now HK Premier Sports 8
+http://webo.asia:80/Andrews/Ben/35908
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="" group-title="SPORT FIRE",SPORT TV 1 HD
 http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/2628
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="" group-title="SPORT FIRE",SPORT TV 2 HD
