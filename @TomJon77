@@ -703,131 +703,131 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMalukuamb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1PqcBD/TEVERIID-S1.png" group-title="NASIONAL",TVRI PAPUA
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
  
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",TVKU
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",BAYU TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",BAYU TV
 http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
 http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",JTV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",JTV
 http://122.248.43.138:1935/ch2/myStream/live.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",SULTRA TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",SULTRA TV
 http://122.248.43.138:1935/ch20/myStream/live.m3u8
 http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",Padang tv
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",Padang tv
 http://122.248.43.138:1935/ch16/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",Jawa post
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",Jawa post
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",Dayak Tv
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",Dayak Tv
 http://122.248.43.138:1935/ch26/myStream/live.m3u8
  
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",CTV BANTEN
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",CTV BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 http://122.248.43.138:1935/ch9/myStream/chunklist_w1428793298.m3u8
  
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",RIAU TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",RIAU TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
  
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",jogja TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",ntv TV
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",ntv TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",Home & Living
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",NABAWI TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",NABAWI TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",TATV Solo
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",TATV Solo
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",HOME AND LIVING
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",HOME AND LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="LOKAL DAERAH",TVKU
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg" group-title="LOKAL DAERAH",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",ADiTV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Arek TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Arek TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Jek TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Jek TV
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Radar TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Radar TV
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",BMSTV Purwokerto
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",BMSTV Purwokerto
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Bandung TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Pontianak TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Pontianak TV
 http://122.248.43.138:1935/ch15/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",BTV Balikpapan
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",BTV Balikpapan
 http://122.248.43.138:1935/ch10/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Radar TV Lampung
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Radar TV Lampung
 http://122.248.43.138:1935/ch17/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Simpang 5 TV Pati
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Simpang 5 TV Pati
 http://122.248.43.138:1935/ch4/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Banten Raya TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Banten Raya TV
 http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Jek TV Jambi
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Jek TV Jambi
 http://122.248.43.138:1935/ch14/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Jambi TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",PAL TV Palembang
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",PAL TV Palembang
 http://122.248.43.138:1935/ch7/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",RBTV Bengkulu
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",RBTV Bengkulu
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",BETV Bengkulu
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",BETV Bengkulu
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Jember1 TV
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Jember1 TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",TVKU Semarang
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",TVKU Semarang
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",RCTV Cirebon
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",RCTV Cirebon
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",RuaiTV Pontianak
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",RuaiTV Pontianak
 http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",SaktiTV Madiun
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",SaktiTV Madiun
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Fajar TV Makassar
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Fajar TV Makassar
 http://122.248.43.138:1935/ch27/myStream/live.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png"  group-title="LOKAL DAERAH",Radar TV Tasikmalaya
+#EXTINF: -1 tvg-logo="https://userscontent2.emaze.com/images/9d8344af-0dd9-40c0-bd32-a717ae4be428/3139fe3dd287ac6cef66820f4b565c29.jpg"  group-title="LOKAL DAERAH",Radar TV Tasikmalaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
  
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",MGI TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",MGI TV
 https://tv.rodja.live/tasik/mgitv/chunklist_w791927921.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",Muadz TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",Muadz TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",Wesal tv
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",Wesal tv
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",PULDAPI TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",PULDAPI TV
 http://103.77.106.227:8080/hls/web.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",AL IMAN TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",AL IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w1604743112.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",RIFQAN TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",RIFQAN TV
 http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",NIAGA TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",NIAGA TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",Salam TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",Salam TV
 http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",RODJA TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/01.m3u8
 https://vcdnjt.useetv.com/joss/14/tv9/chunklist_w2005714057_b684100_sleng_65786.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",AHSAN TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",SURAU TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",AL-IMAN TV
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",AL-IMAN TV
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",AL SAUDI QURAN
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",AL SAUDI QURAN
 http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",AL SAUDI SUNNAH
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",AL SAUDI SUNNAH
 http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",WHITE CH
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",WHITE CH
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
  
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",TV 4
+#EXTINF:-1  tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI",TV 4
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
