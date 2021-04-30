@@ -1653,6 +1653,79 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1    group-title="CH" ,Animal Planet
 http://103.147.87.245:8001/play/a005/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV UHD" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="PUBLIC DEMAND (IND)",ZEE TV UHD
+http://sonyiptv.net:8080/1255/1255/147744
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS UHD" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="PUBLIC DEMAND (IND)",STAR PLUS UHD
+http://sonyiptv.net:8080/1255/1255/147745
+#EXTINF:-1 tvg-id="" tvg-name="COLORS UHD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="PUBLIC DEMAND (IND)",COLORS UHD
+http://sonyiptv.net:8080/1255/1255/147746
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV UHD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="PUBLIC DEMAND (IND)",SONY TV UHD
+http://sonyiptv.net:8080/1255/1255/147747
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB UHD" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="PUBLIC DEMAND (IND)",SONY SAB UHD
+http://sonyiptv.net:8080/1255/1255/147748
+#EXTINF:-1 tvg-id="" tvg-name="& TV UHD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="PUBLIC DEMAND (IND)",& TV UHD
+http://sonyiptv.net:8080/1255/1255/147749
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA UHD" tvg-logo="https://static.epg.best/gb/ZeeCinema.uk.png" group-title="PUBLIC DEMAND (IND)",ZEE CINEMA UHD
+http://sonyiptv.net:8080/1255/1255/147750
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD UHD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="PUBLIC DEMAND (IND)",STAR GOLD UHD
+http://sonyiptv.net:8080/1255/1255/147751
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT UHD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="PUBLIC DEMAND (IND)",STAR GOLD SELECT UHD
+http://sonyiptv.net:8080/1255/1255/147752
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX UHD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="PUBLIC DEMAND (IND)",SONY MAX UHD
+http://sonyiptv.net:8080/1255/1255/147753
+#EXTINF:-1 tvg-id="" tvg-name="& PICTURE UHD" tvg-logo="https://www.mediafire.com/convkey/ec84/vzlln50qk0bbhiczg.jpg" group-title="PUBLIC DEMAND (IND)",& PICTURE UHD
+http://sonyiptv.net:8080/1255/1255/147754
+#EXTINF:-1 tvg-id="" tvg-name="CINEPLEX UHD" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="PUBLIC DEMAND (IND)",CINEPLEX UHD
+http://sonyiptv.net:8080/1255/1255/147755
+#EXTINF:-1 tvg-id="" tvg-name="& EXPLORE UHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/%26xplor_HD.svg/revision/latest/scale-to-width-down/340?cb=20200430142333" group-title="PUBLIC DEMAND (IND)",& EXPLORE UHD
+http://sonyiptv.net:8080/1255/1255/147756
+#EXTINF:-1 tvg-id="" tvg-name="& PRIVE UHD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="PUBLIC DEMAND (IND)",& PRIVE UHD
+http://sonyiptv.net:8080/1255/1255/147757
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP UHD" tvg-logo="https://static.epg.best/us/TravelChannel.us.png" group-title="PUBLIC DEMAND (IND)",TRAVEL XP UHD
+http://sonyiptv.net:8080/1255/1255/147759
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="PUBLIC DEMAND (IND)",BBC EARTH UHD
+http://sonyiptv.net:8080/1255/1255/147760
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="PUBLIC DEMAND (IND)",FOX LIFE UHD
+http://sonyiptv.net:8080/1255/1255/147761
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD PREMIER UHD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" group-title="PUBLIC DEMAND (IND)",STAR WORLD PREMIER UHD
+http://sonyiptv.net:8080/1255/1255/147762
+#EXTINF:-1 tvg-id="" tvg-name="ANIMALS PLANET UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Animal_Planet_logo_2018.svg/langfr-230px-Animal_Planet_logo_2018.png" group-title="PUBLIC DEMAND (IND)",ANIMALS PLANET UHD
+http://sonyiptv.net:8080/1255/1255/147763
+#EXTINF:-1 tvg-id="" tvg-name="ZING HD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",ZING HD
+http://sonyiptv.net:8080/1255/1255/147776
+#EXTINF:-1 tvg-id="" tvg-name="INFINITY UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",INFINITY UHD
+http://sonyiptv.net:8080/1255/1255/147777
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2 HD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",SONY MAX 2 HD
+http://sonyiptv.net:8080/1255/1255/147778
+#EXTINF:-1 tvg-id="" tvg-name="MTV BEAT UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",MTV BEAT UHD
+http://sonyiptv.net:8080/1255/1255/147779
+#EXTINF:-1 tvg-id="" tvg-name="9X TASHAN HD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",9X TASHAN HD
+http://sonyiptv.net:8080/1255/1255/147780
+#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC HD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",B4U MUSIC HD
+http://sonyiptv.net:8080/1255/1255/147812
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA HD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",MUSIC INDIA HD
+http://sonyiptv.net:8080/1255/1255/147813
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",STAR MOVIES UHD
+http://sonyiptv.net:8080/1255/1255/147814
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELCET 1-UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",STAR SPORTS SELCET 1-UHD
+http://sonyiptv.net:8080/1255/1255/147839
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2-UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",STAR SPORTS SELECT 2-UHD
+http://sonyiptv.net:8080/1255/1255/147840
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1-UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",SONY TEN 1-UHD
+http://sonyiptv.net:8080/1255/1255/147841
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2-UHD" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="PUBLIC DEMAND (IND)",SONY TEN 2-UHD
+http://sonyiptv.net:8080/1255/1255/147842
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3-UHD" tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="PUBLIC DEMAND (IND)",SONY TEN 3-UHD
+http://sonyiptv.net:8080/1255/1255/147843
+#EXTINF:-1 tvg-id="" tvg-name="EURO SPORTS UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",EURO SPORTS UHD
+http://sonyiptv.net:8080/1255/1255/152271
+#EXTINF:-1 tvg-id="" tvg-name="OUTDOOR-UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",OUTDOOR-UHD
+http://sonyiptv.net:8080/1255/1255/152272
+#EXTINF:-1 tvg-id="" tvg-name="WORLD FISHING-UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",WORLD FISHING-UHD
+http://sonyiptv.net:8080/1255/1255/152273
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 SD FR" tvg-logo="" group-title="FRANCE SPORTS",BEINSPORT 1 SD FR
 http://h2.fire-iptv.cc:2052/NTOTTOFUQI/0K4WaoCEuy/46795
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 2 SD FR" tvg-logo="" group-title="FRANCE SPORTS",BEINSPORT 2 SD FR
@@ -2419,6 +2492,28 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
 #EXTINF:-1    group-title="SportS" ,Esport 3
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist.m3u8
+
+
+http://sonyiptv.net:8080/1255/1255/22302
+#EXTINF:-1 tvg-id="" tvg-name="Netflix -Salam Khan 1  HD" tvg-logo="" group-title="NET FLIX LIVE",Netflix -Salam Khan 1  HD
+http://sonyiptv.net:8080/1255/1255/27412
+#EXTINF:-1 tvg-id="" tvg-name="Netflix -Bollywood UHD" tvg-logo="" group-title="NET FLIX LIVE",Netflix -Bollywood UHD
+http://sonyiptv.net:8080/1255/1255/27413
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 1" tvg-logo="https://en.m.wikipedia.org/wiki/Netflix#/media/File%3ANetflix_-_English.png" group-title="NET FLIX LIVE",Netflix Action 1
+http://sonyiptv.net:8080/1255/1255/27414
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 2 HD" tvg-logo="" group-title="NET FLIX LIVE",Netflix Action 2 HD
+http://sonyiptv.net:8080/1255/1255/27415
+#EXTINF:-1 tvg-id="" tvg-name=" Netflix - Marvel  HD" tvg-logo="" group-title="NET FLIX LIVE", Netflix - Marvel  HD
+http://sonyiptv.net:8080/1255/1255/27416
+#EXTINF:-1 tvg-id="" tvg-name="Netflix - Sci-Fi HD" tvg-logo="" group-title="NET FLIX LIVE",Netflix - Sci-Fi HD
+http://sonyiptv.net:8080/1255/1255/27417
+#EXTINF:-1 tvg-id="" tvg-name=" Netflix - Comedy" tvg-logo="" group-title="NET FLIX LIVE", Netflix - Comedy
+http://sonyiptv.net:8080/1255/1255/27418
+#EXTINF:-1 tvg-id="" tvg-name="Netflix - Kids HD" tvg-logo="" group-title="NET FLIX LIVE",Netflix - Kids HD
+http://sonyiptv.net:8080/1255/1255/27420
+#EXTINF:-1 tvg-id="" tvg-name="FILM BOX 4k" tvg-logo="" group-title="NET FLIX LIVE",FILM BOX 4k
+http://sonyiptv.net:8080/1255/1255/43480
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="<<<<< CHINESE 中文频道 >>>>>" tvg-logo="" group-title="CHINESE -//- KOREAN",<<<<< CHINESE 中文频道 >>>>>
