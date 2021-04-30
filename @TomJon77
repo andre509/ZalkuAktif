@@ -720,12 +720,13 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/cCWQDjVD/chespirito.png" group-title="RELIGI",TV 4
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 1",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 1",TV1
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 1",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 1",TV2
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
