@@ -1906,8 +1906,6 @@ http://sonyiptv.net:8080/1255/1255/81624
 http://sonyiptv.net:8080/1255/1255/81625
 #EXTINF:-1 tvg-id="" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="INDIAN",IN | Romedy Now
 http://sonyiptv.net:8080/1255/1255/81626
-#EXTINF:-1 tvg-id="" tvg-name="Sony yay (Hindi)" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS",Sony yay (Hindi)
-http://sonyiptv.net:8080/1255/1255/81627
 #EXTINF:-1 tvg-id="" tvg-name="IN | B4U AFLAM" tvg-logo="https://static.epg.best/ae/B4UAflam.ae.png" group-title="INDIAN",IN | B4U AFLAM
 http://sonyiptv.net:8080/1255/1255/81628
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="INDIAN",Zee Cafe HD
@@ -1922,16 +1920,12 @@ http://sonyiptv.net:8080/1255/1255/81635
 http://sonyiptv.net:8080/1255/1255/81648
 #EXTINF:-1 tvg-id="" tvg-name="Colors Infinty" tvg-logo="https://static.epg.best/in/ColorsInfinity.in.png" group-title="INDIAN",Colors Infinty
 http://sonyiptv.net:8080/1255/1255/81650
-#EXTINF:-1 tvg-id="" tvg-name="IN | Nick Jr (Hindi)" tvg-logo="https://static.epg.best/in/NickJr.in.png" group-title="KIDS",IN | Nick Jr (Hindi)
-http://sonyiptv.net:8080/1255/1255/81651
 #EXTINF:-1 tvg-id="" tvg-name="IN | AXN HD" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="INDIAN",IN | AXN HD
 http://sonyiptv.net:8080/1255/1255/81652
 #EXTINF:-1 tvg-id="" tvg-name="& xplore 4k" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/%26xplor_HD.svg/revision/latest/scale-to-width-down/340?cb=20200430142333" group-title="INDIAN",& xplore 4k
 http://sonyiptv.net:8080/1255/1255/81653
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="INDIAN",Star Movies Select HD
 http://sonyiptv.net:8080/1255/1255/81654
-#EXTINF:-1 tvg-id="" tvg-name="Pogo (hindi)" tvg-logo="https://static.epg.best/in/Pogo.in.png" group-title="KIDS",Pogo (hindi)
-http://sonyiptv.net:8080/1255/1255/81657
 #EXTINF:-1 tvg-id="" tvg-name="Star World Premier HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" group-title="INDIAN",Star World Premier HD
 http://sonyiptv.net:8080/1255/1255/81659
 #EXTINF:-1 tvg-id="" tvg-name="IN Zee Anmol" tvg-logo="https://www.mediafire.com/convkey/a9aa/bztq698e18ky79bzg.jpg" group-title="INDIAN",IN Zee Anmol
@@ -2012,6 +2006,122 @@ http://sonyiptv.net:8080/1255/1255/152272
 #EXTINF:-1 tvg-id="" tvg-name="WORLD FISHING-UHD" tvg-logo="" group-title="PUBLIC DEMAND (IND)",WORLD FISHING-UHD
 http://sonyiptv.net:8080/1255/1255/152273
 
+#EXTINF:-1 tvg-id="" tvg-name="SP: ELEVEN SPORTS 1 HD PT" tvg-logo="" group-title="Sports Smart",SP: ELEVEN SPORTS 1 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/485
+#EXTINF:-1 tvg-id="" tvg-name="SP: ELEVEN SPORTS 2 HD PT" tvg-logo="" group-title="Sports Smart",SP: ELEVEN SPORTS 2 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/488
+#EXTINF:-1 tvg-id="" tvg-name="SP: ELEVEN SPORTS 3 HD PT" tvg-logo="" group-title="Sports Smart",SP: ELEVEN SPORTS 3 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/490
+#EXTINF:-1 tvg-id="" tvg-name="SP: ELEVEN SPORTS 4 HD PT" tvg-logo="" group-title="Sports Smart",SP: ELEVEN SPORTS 4 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/493
+#EXTINF:-1 tvg-id="" tvg-name="SP: ELEVEN SPORTS 5 HD PT" tvg-logo="" group-title="Sports Smart",SP: ELEVEN SPORTS 5 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/494
+#EXTINF:-1 tvg-id="" tvg-name="SP: ELEVEN SPORTS 6 HD PT" tvg-logo="" group-title="Sports Smart",SP: ELEVEN SPORTS 6 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/495
+#EXTINF:-1 tvg-id="" tvg-name="SP: SPORT TV 1 HD PT" tvg-logo="" group-title="Sports Smart",SP: SPORT TV 1 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/496
+#EXTINF:-1 tvg-id="" tvg-name="SP: SPORT TV 2 HD PT" tvg-logo="" group-title="Sports Smart",SP: SPORT TV 2 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/497
+#EXTINF:-1 tvg-id="" tvg-name="SP: SPORT TV 3 HD PT" tvg-logo="" group-title="Sports Smart",SP: SPORT TV 3 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/499
+#EXTINF:-1 tvg-id="" tvg-name="SP: SPORT TV 4 HD PT" tvg-logo="" group-title="Sports Smart",SP: SPORT TV 4 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/502
+#EXTINF:-1 tvg-id="" tvg-name="SP: SPORT TV 5 HD PT" tvg-logo="" group-title="Sports Smart",SP: SPORT TV 5 HD PT
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/514
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 1 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 1 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/516
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 2 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 2 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/517
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 3 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 3 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/518
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 4 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 4 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/519
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 5 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 5 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/521
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 6 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 6 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/522
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 7 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 7 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/523
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 8 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 8 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/524
+#EXTINF:-1 tvg-id="" tvg-name="SP: RMC Sport 10 HD" tvg-logo="" group-title="Sports Smart",SP: RMC Sport 10 HD
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/525
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 1 TR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 1 TR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/583
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 2 TR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 2 TR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/584
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 3 TR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 3 TR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/585
+#EXTINF:-1 tvg-id="" tvg-name="SP: ESPN US" tvg-logo="" group-title="Sports Smart",SP: ESPN US
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/650
+#EXTINF:-1 tvg-id="" tvg-name="SP: ESPN 2 US" tvg-logo="" group-title="Sports Smart",SP: ESPN 2 US
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/651
+#EXTINF:-1 tvg-id="" tvg-name="SP: TSN 1" tvg-logo="" group-title="Sports Smart",SP: TSN 1
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/652
+#EXTINF:-1 tvg-id="" tvg-name="SP: TSN 2" tvg-logo="" group-title="Sports Smart",SP: TSN 2
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/653
+#EXTINF:-1 tvg-id="" tvg-name="SP: TSN 3" tvg-logo="" group-title="Sports Smart",SP: TSN 3
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/654
+#EXTINF:-1 tvg-id="" tvg-name="SP: TSN 4" tvg-logo="" group-title="Sports Smart",SP: TSN 4
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/655
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARENA SPORT 1 SR" tvg-logo="" group-title="Sports Smart",SP: ARENA SPORT 1 SR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/859
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARENA SPORT 2 SR" tvg-logo="" group-title="Sports Smart",SP: ARENA SPORT 2 SR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/860
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARENA SPORT 3 SR" tvg-logo="" group-title="Sports Smart",SP: ARENA SPORT 3 SR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/861
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARENA SPORT 4 SR" tvg-logo="" group-title="Sports Smart",SP: ARENA SPORT 4 SR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/862
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARENA SPORT 5 SR" tvg-logo="" group-title="Sports Smart",SP: ARENA SPORT 5 SR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/863
+#EXTINF:-1 tvg-id="" tvg-name="SP: SUPERSPORT 1 AL" tvg-logo="" group-title="Sports Smart",SP: SUPERSPORT 1 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/919
+#EXTINF:-1 tvg-id="" tvg-name="SP: SUPERSPORT 2 AL" tvg-logo="" group-title="Sports Smart",SP: SUPERSPORT 2 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/920
+#EXTINF:-1 tvg-id="" tvg-name="SP: SUPERSPORT 3 AL" tvg-logo="" group-title="Sports Smart",SP: SUPERSPORT 3 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/921
+#EXTINF:-1 tvg-id="" tvg-name="SP: SUPERSPORT 4 AL" tvg-logo="" group-title="Sports Smart",SP: SUPERSPORT 4 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/922
+#EXTINF:-1 tvg-id="" tvg-name="SP: SUPERSPORT 5 AL" tvg-logo="" group-title="Sports Smart",SP: SUPERSPORT 5 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/923
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 FR" tvg-logo="" group-title="Sports Smart",FR: EUROSPORT 1 FR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/955
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 1 FR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 1 FR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/956
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 2 FR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 2 FR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/957
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 3 FR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 3 FR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/958
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 1 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 1 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/967
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 2 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 2 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/968
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 3 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 3 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/969
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 4 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 4 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/970
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 5 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 5 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/971
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 6 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 6 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/972
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 7 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 7 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/973
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 8 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 8 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/974
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN SPORT 9 AR" tvg-logo="" group-title="Sports Smart",SP: BEIN SPORT 9 AR
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/975
+#EXTINF:-1 tvg-id="" tvg-name="SP: SKY SPORT 1 DE" tvg-logo="" group-title="Sports Smart",SP: SKY SPORT 1 DE
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/1078
+#EXTINF:-1 tvg-id="" tvg-name="SP: SKY SPORT 2 DE" tvg-logo="" group-title="Sports Smart",SP: SKY SPORT 2 DE
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/1079
+#EXTINF:-1 tvg-id="" tvg-name="SP: K SPORT 1 AL" tvg-logo="" group-title="Sports Smart",SP: K SPORT 1 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/1367
+#EXTINF:-1 tvg-id="" tvg-name="SP: K SPORT 2 AL" tvg-logo="" group-title="Sports Smart",SP: K SPORT 2 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/1368
+#EXTINF:-1 tvg-id="" tvg-name="SP: K SPORT 3 AL" tvg-logo="" group-title="Sports Smart",SP: K SPORT 3 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/1369
+#EXTINF:-1 tvg-id="" tvg-name="SP: K SPORT 5 AL" tvg-logo="" group-title="Sports Smart",SP: K SPORT 5 AL
+http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/1370
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT 1 SD FR" tvg-logo="" group-title="FRANCE SPORTS",BEINSPORT 1 SD FR
