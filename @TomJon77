@@ -1495,176 +1495,132 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.76:8430
 #EXTINF:-1 group-title="Cinema Myan",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" Zee Cinema 4k" tvg-logo="https://static.epg.best/in/ZeeCinema.in.png" group-title="INDIAN", Zee Cinema 4k
-http://sonyiptv.net:8080/1255/1255/81546
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIAN",Sony Max 2
-http://sonyiptv.net:8080/1255/1255/81547
-#EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://static.epg.best/in/StarWorld.in.png" group-title="INDIAN",Star World HD
-http://sonyiptv.net:8080/1255/1255/81548
-#EXTINF:-1 tvg-id="" tvg-name=" Star Plus HD*" tvg-logo="https://static.epg.best/nz/StarPlusHindi.nz.png" group-title="INDIAN", Star Plus HD*
-http://sonyiptv.net:8080/1255/1255/81549
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://static.epg.best/in/StarMovies.in.png" group-title="INDIAN",Star Movies HD
-http://sonyiptv.net:8080/1255/1255/81550
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select HD" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN",Star Gold Select HD
-http://sonyiptv.net:8080/1255/1255/81551
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="INDIAN",Star Gold HD
-http://sonyiptv.net:8080/1255/1255/81552
-#EXTINF:-1 tvg-id="" tvg-name="Star Bharat*" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN",Star Bharat*
-http://sonyiptv.net:8080/1255/1255/81553
-#EXTINF:-1 tvg-id="" tvg-name="Sony Sab HD" tvg-logo="https://static.epg.best/in/SonySAB.in.png" group-title="INDIAN",Sony Sab HD
-http://sonyiptv.net:8080/1255/1255/81554
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP Hd" tvg-logo="https://static.epg.best/us/TravelChannel.us.png" group-title="INDIAN",Travel XP Hd
-http://sonyiptv.net:8080/1255/1255/81555
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV 4k." tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN",Sony TV 4k.
-http://sonyiptv.net:8080/1255/1255/81556
-#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="https://www.mediafire.com/convkey/5a40/6ttc8qzfxzymcnlzg.jpg" group-title="INDIAN",Zee News
-http://sonyiptv.net:8080/1255/1255/81557
-#EXTINF:-1 tvg-id="" tvg-name="UTV HD" tvg-logo="https://static.epg.best/in/UTV.in.png" group-title="INDIAN",UTV HD
-http://sonyiptv.net:8080/1255/1255/81558
-#EXTINF:-1 tvg-id="" tvg-name="Movies Active" tvg-logo="https://www.mediafire.com/convkey/f798/4hj6skv0i3733kazg.jpg" group-title="INDIAN",Movies Active
-http://sonyiptv.net:8080/1255/1255/81559
-#EXTINF:-1 tvg-id="" tvg-name="IN | Willow xtra" tvg-logo="https://www.mediafire.com/convkey/0e51/kgilo5ipc2dmf05zg.jpg" group-title="INDIAN",IN | Willow xtra
-http://sonyiptv.net:8080/1255/1255/81560
-#EXTINF:-1 tvg-id="" tvg-name="IN | National Geographic" tvg-logo="https://static.epg.best/au/NationalGeographic.au.png" group-title="INDIAN",IN | National Geographic
-http://sonyiptv.net:8080/1255/1255/81561
-#EXTINF:-1 tvg-id="" tvg-name="IN | Nat Geo Wild" tvg-logo="https://static.epg.best/au/NatGeoWild.au.png" group-title="INDIAN",IN | Nat Geo Wild
-http://sonyiptv.net:8080/1255/1255/81562
-#EXTINF:-1 tvg-id="" tvg-name="ZEE 5 KIDS" tvg-logo="https://lh3.googleusercontent.com/fLiwIcBuhoqiCiPIqwx5z6Qbg0mvl7BfXTQZI9pMgRQDuXY53r-NiEgOybdfI6cq_RA" group-title="INDIAN",ZEE 5 KIDS
-http://sonyiptv.net:8080/1255/1255/81563
-#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="INDIAN",IN | 9x Jalwa
-http://sonyiptv.net:8080/1255/1255/81564
-#EXTINF:-1 tvg-id="" tvg-name="JUST FOR FUN" tvg-logo="https://www.mediafire.com/convkey/7777/ibuwfk7rs6v5z6azg.jpg" group-title="INDIAN",JUST FOR FUN
-http://sonyiptv.net:8080/1255/1255/81565
-#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://static.epg.best/au/HistoryChannel.au.png" group-title="INDIAN",History HD
-http://sonyiptv.net:8080/1255/1255/81566
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://static.epg.best/in/HBO.in.png" group-title="INDIAN",HBO HD
-http://sonyiptv.net:8080/1255/1255/81567
-#EXTINF:-1 tvg-id="" tvg-name="UTV ACTION HD*" tvg-logo="https://static.epg.best/in/UTVAction.in.png" group-title="INDIAN",UTV ACTION HD*
-http://sonyiptv.net:8080/1255/1255/81568
-#EXTINF:-1 tvg-id="" tvg-name=" Epic HD" tvg-logo="https://static.epg.best/in/EPIC.in.png" group-title="INDIAN", Epic HD
-http://sonyiptv.net:8080/1255/1255/81570
-#EXTINF:-1 tvg-id="" tvg-name="IN | Discovery Turbo" tvg-logo="https://static.epg.best/au/DiscoveryTurbo.au.png" group-title="INDIAN",IN | Discovery Turbo
-http://sonyiptv.net:8080/1255/1255/81572
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD Hindi" tvg-logo="https://static.epg.best/fr/DiscoveryScience.fr.png" group-title="INDIAN",Discovery Science HD Hindi
-http://sonyiptv.net:8080/1255/1255/81573
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD Hindi" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="INDIAN",Discovery HD Hindi
-http://sonyiptv.net:8080/1255/1255/81574
-#EXTINF:-1 tvg-id="" tvg-name="PTC Chakdai" tvg-logo="https://static.epg.best/in/DDUrdu.in.png" group-title="INDIAN",PTC Chakdai
-http://sonyiptv.net:8080/1255/1255/81575
-#EXTINF:-1 tvg-id="" tvg-name="Dangal" tvg-logo="https://static.epg.best/in/Dangal.in.png" group-title="INDIAN",Dangal
-http://sonyiptv.net:8080/1255/1255/81577
-#EXTINF:-1 tvg-id="" tvg-name="Colours UK" tvg-logo="https://static.epg.best/in/ColorsTamil.in.png" group-title="INDIAN",Colours UK
-http://sonyiptv.net:8080/1255/1255/81578
-#EXTINF:-1 tvg-id="" tvg-name="Cineplex 4k" tvg-logo="https://static.epg.best/in/RishteyCineplex.in.png" group-title="INDIAN",Cineplex 4k
-http://sonyiptv.net:8080/1255/1255/81581
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network*" tvg-logo="https://www.mediafire.com/convkey/2cda/t3hpr0q7l06eekizg.jpg" group-title="KIDS",Cartoon Network*
-http://sonyiptv.net:8080/1255/1255/81582
-#EXTINF:-1 tvg-id="" tvg-name="B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="INDIAN",B4u Music
-http://sonyiptv.net:8080/1255/1255/81583
-#EXTINF:-1 tvg-id="" tvg-name="IN | Animal Planet World HD" tvg-logo="https://static.epg.best/gb/AnimalPlanet.uk.png" group-title="INDIAN",IN | Animal Planet World HD
-http://sonyiptv.net:8080/1255/1255/81584
-#EXTINF:-1 tvg-id="" tvg-name="IN | Animal Planet HD Hindi" tvg-logo="https://static.epg.best/gb/AnimalPlanet.uk.png" group-title="INDIAN",IN | Animal Planet HD Hindi
-http://sonyiptv.net:8080/1255/1255/81585
-#EXTINF:-1 tvg-id="" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN",IN | 9xm
-http://sonyiptv.net:8080/1255/1255/81586
-#EXTINF:-1 tvg-id="" tvg-name="IN | MINEPLEX HD" tvg-logo="https://static.epg.best/in/Miniplex.in.png" group-title="INDIAN",IN | MINEPLEX HD
-http://sonyiptv.net:8080/1255/1255/81587
-#EXTINF:-1 tvg-id="" tvg-name="&Tv HD" tvg-logo="https://static.epg.best/in/AndTV.in.png" group-title="INDIAN",&Tv HD
-http://sonyiptv.net:8080/1255/1255/81588
-#EXTINF:-1 tvg-id="" tvg-name="IN | &Prive HD" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="INDIAN",IN | &Prive HD
-http://sonyiptv.net:8080/1255/1255/81589
-#EXTINF:-1 tvg-id="" tvg-name="IN | &Pictures HD" tvg-logo="https://www.mediafire.com/convkey/ec84/vzlln50qk0bbhiczg.jpg" group-title="INDIAN",IN | &Pictures HD
-http://sonyiptv.net:8080/1255/1255/81590
-#EXTINF:-1 tvg-id="" tvg-name=" &Flix HD" tvg-logo="https://www.mediafire.com/convkey/2191/8weg5rbzxogan10zg.jpg" group-title="INDIAN", &Flix HD
-http://sonyiptv.net:8080/1255/1255/81591
-#EXTINF:-1 tvg-id="" tvg-name="IN | UK- SONY TV" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN",IN | UK- SONY TV
-http://sonyiptv.net:8080/1255/1255/81592
-#EXTINF:-1 tvg-id="" tvg-name=" Sony Max (UK)" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN", Sony Max (UK)
-http://sonyiptv.net:8080/1255/1255/81593
-#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://static.epg.best/mu/Zing.mu.png" group-title="INDIAN",Zing
-http://sonyiptv.net:8080/1255/1255/81594
-#EXTINF:-1 tvg-id="" tvg-name="IN | Colors SD" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN",IN | Colors SD
-http://sonyiptv.net:8080/1255/1255/81596
-#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE ACTION" tvg-logo="https://static.epg.best/in/ZeeAction.in.png" group-title="INDIAN",IN | ZEE ACTION
-http://sonyiptv.net:8080/1255/1255/81597
-#EXTINF:-1 tvg-id="" tvg-name=" Sony Max HD" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN", Sony Max HD
-http://sonyiptv.net:8080/1255/1255/81601
-#EXTINF:-1 tvg-id="" tvg-name=" Sony HD" tvg-logo="https://static.epg.best/gb/SonyEntertainmentAsia.uk.png" group-title="INDIAN", Sony HD
-http://sonyiptv.net:8080/1255/1255/81602
-#EXTINF:-1 tvg-id="" tvg-name=" STAR SPORT 2 UHD" tvg-logo="https://static.epg.best/in/StarSports1.in.png" group-title="INDIAN", STAR SPORT 2 UHD
-http://sonyiptv.net:8080/1255/1255/81604
-#EXTINF:-1 tvg-id="" tvg-name="IN | Star Plus HD" tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="INDIAN",IN | Star Plus HD
-http://sonyiptv.net:8080/1255/1255/81605
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES FHD" tvg-logo="https://i.imgur.com/9NfQc6f.png" group-title="INDIAN",SONY MOVIES FHD
-http://sonyiptv.net:8080/1255/1255/81606
-#EXTINF:-1 tvg-id="" tvg-name="IN | House Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/HousefullMoviesLogo.jpg" group-title="INDIAN",IN | House Full HD
-http://sonyiptv.net:8080/1255/1255/81607
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://static.epg.best/gb/ZeeCinema.uk.png" group-title="INDIAN",Zee Cinema HD
-http://sonyiptv.net:8080/1255/1255/81608
-#EXTINF:-1 tvg-id="" tvg-name="IN | BBC EART HD" tvg-logo="https://static.epg.best/za/BBCEarth.za.png" group-title="INDIAN",IN | BBC EART HD
-http://sonyiptv.net:8080/1255/1255/81610
-#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN",Zoom TV
-http://sonyiptv.net:8080/1255/1255/81611
-#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Pal" tvg-logo="https://static.epg.best/in/SonyPal.in.png" group-title="INDIAN",IN | Sony Pal
-http://sonyiptv.net:8080/1255/1255/81612
-#EXTINF:-1 tvg-id="" tvg-name="IN | Zee Bollywood" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_407,h_229,c_scale,f_auto,q_auto/resources/0-9-zeeclassic/channel_list/09zeeclassiczeebollywood.png" group-title="INDIAN",IN | Zee Bollywood
-http://sonyiptv.net:8080/1255/1255/81613
-#EXTINF:-1 tvg-id="" tvg-name="IN | Zee Anmol Cinema" tvg-logo="https://static.epg.best/in/ZeeAnmolCinema.in.png" group-title="INDIAN",IN | Zee Anmol Cinema
-http://sonyiptv.net:8080/1255/1255/81614
-#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Pix HD" tvg-logo="https://static.epg.best/in/SonyPix.in.png" group-title="INDIAN",IN | Sony Pix HD
-http://sonyiptv.net:8080/1255/1255/81615
-#EXTINF:-1 tvg-id="" tvg-name="IN | MTV +" tvg-logo="https://static.epg.best/in/MTVHDPlus.in.png" group-title="INDIAN",IN | MTV +
-http://sonyiptv.net:8080/1255/1255/81616
-#EXTINF:-1 tvg-id="" tvg-name="MN PLUS 4K" tvg-logo="https://static.epg.best/in/MNPlus.in.png" group-title="INDIAN",MN PLUS 4K
-http://sonyiptv.net:8080/1255/1255/81617
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now HD 4k" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" group-title="INDIAN",Movies Now HD 4k
-http://sonyiptv.net:8080/1255/1255/81618
-#EXTINF:-1 tvg-id="" tvg-name="IN | MTV BEAT HD" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="INDIAN",IN | MTV BEAT HD
-http://sonyiptv.net:8080/1255/1255/81619
-#EXTINF:-1 tvg-id="" tvg-name="IN | BBO HD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="INDIAN",IN | BBO HD
-http://sonyiptv.net:8080/1255/1255/81621
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD*" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" group-title="INDIAN",Fox Life HD*
-http://sonyiptv.net:8080/1255/1255/81622
-#EXTINF:-1 tvg-id="" tvg-name="IN | Colors Rishtey" tvg-logo="https://static.epg.best/in/ColorsRishtey.in.png" group-title="INDIAN",IN | Colors Rishtey
-http://sonyiptv.net:8080/1255/1255/81623
-#EXTINF:-1 tvg-id="" tvg-name="Living Food HD" tvg-logo="https://static.epg.best/in/LivingFoodz.in.png" group-title="INDIAN",Living Food HD
-http://sonyiptv.net:8080/1255/1255/81624
-#EXTINF:-1 tvg-id="" tvg-name="Food Food Hd" tvg-logo="https://static.epg.best/in/FoodFood.in.png" group-title="INDIAN",Food Food Hd
-http://sonyiptv.net:8080/1255/1255/81625
-#EXTINF:-1 tvg-id="" tvg-name="IN | Romedy Now" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" group-title="INDIAN",IN | Romedy Now
-http://sonyiptv.net:8080/1255/1255/81626
-#EXTINF:-1 tvg-id="" tvg-name="Sony yay (Hindi)" tvg-logo="https://static.epg.best/in/SonyYAY.in.png" group-title="KIDS",Sony yay (Hindi)
-http://sonyiptv.net:8080/1255/1255/81627
-#EXTINF:-1 tvg-id="" tvg-name="IN | B4U AFLAM" tvg-logo="https://static.epg.best/ae/B4UAflam.ae.png" group-title="INDIAN",IN | B4U AFLAM
-http://sonyiptv.net:8080/1255/1255/81628
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" group-title="INDIAN",Zee Cafe HD
-http://sonyiptv.net:8080/1255/1255/81631
-#EXTINF:-1 tvg-id="" tvg-name=" 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="INDIAN", 9x Tashan
-http://sonyiptv.net:8080/1255/1255/81633
-#EXTINF:-1 tvg-id="" tvg-name=" Sony Wah" tvg-logo="https://static.epg.best/in/SonyWah.in.png" group-title="INDIAN", Sony Wah
-http://sonyiptv.net:8080/1255/1255/81634
-#EXTINF:-1 tvg-id="" tvg-name="Shemaroo TV" tvg-logo="https://content.indiainfoline.com/_media/iifl/img/article/2020-05/01/full/1588321205-046.png" group-title="INDIAN",Shemaroo TV
-http://sonyiptv.net:8080/1255/1255/81635
-#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Jhakaas" tvg-logo="https://static.epg.best/in/9XJhakaas.in.png" group-title="INDIAN",IN | 9x Jhakaas
-http://sonyiptv.net:8080/1255/1255/81648
-#EXTINF:-1 tvg-id="" tvg-name="Colors Infinty" tvg-logo="https://static.epg.best/in/ColorsInfinity.in.png" group-title="INDIAN",Colors Infinty
-http://sonyiptv.net:8080/1255/1255/81650
-#EXTINF:-1 tvg-id="" tvg-name="IN | Nick Jr (Hindi)" tvg-logo="https://static.epg.best/in/NickJr.in.png" group-title="KIDS",IN | Nick Jr (Hindi)
-http://sonyiptv.net:8080/1255/1255/81651
-#EXTINF:-1 tvg-id="" tvg-name="IN | AXN HD" tvg-logo="https://static.epg.best/kr/AXN.kr.png" group-title="INDIAN",IN | AXN HD
-http://sonyiptv.net:8080/1255/1255/81652
-#EXTINF:-1 tvg-id="" tvg-name="& xplore 4k" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/%26xplor_HD.svg/revision/latest/scale-to-width-down/340?cb=20200430142333" group-title="INDIAN",& xplore 4k
-http://sonyiptv.net:8080/1255/1255/81653
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png" group-title="INDIAN",Star Movies Select HD
-http://sonyiptv.net:8080/1255/1255/81654
-#EXTINF:-1 tvg-id="" tvg-name="Pogo (hindi)" tvg-logo="https://static.epg.best/in/Pogo.in.png" group-title="KIDS",Pogo (hindi)
-http://sonyiptv.net:8080/1255/1255/81657
-#EXTINF:-1 tvg-id="" tvg-name="Star World Premier HD" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288042288199_star-world-premier-hd.png" group-title="INDIAN",Star World Premier HD
-http://sonyiptv.net:8080/1255/1255/81659
-#EXTINF:-1 tvg-id="" tvg-name="IN Zee Anmol" tvg-logo="https://www.mediafire.com/convkey/a9aa/bztq698e18ky79bzg.jpg" group-title="INDIAN",IN Zee Anmol
-http://sonyiptv.net:8080/1255/1255/81685
-#EXTINF:-1 tvg-id="" tvg-name="TIKTOK FUN" tvg-logo="https://www.mediafire.com/convkey/7777/ibuwfk7rs6v5z6azg.jpg" group-title="INDIAN",TIKTOK FUN
-http://sonyiptv.net:8080/1255/1255/81686
+#EXTINF:-1 tvg-id="" tvg-name="IN: &FLIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: &FLIX HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/45506
+#EXTINF:-1 tvg-id="" tvg-name="IN: &Now TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: &Now TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/82513
+#EXTINF:-1 tvg-id="" tvg-name="IN: &PICTURES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: &PICTURES HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/16958
+#EXTINF:-1 tvg-id="" tvg-name="IN: &Prive HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: &Prive HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/49557
+#EXTINF:-1 tvg-id="" tvg-name="IN: &TV FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: &TV FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/16964
+#EXTINF:-1 tvg-id="" tvg-name="IN: &Xplor HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: &Xplor HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/196116
+#EXTINF:-1 tvg-id="sonychannel.uk" tvg-name="IN: Sony Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Channel
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1072
+#EXTINF:-1 tvg-id="sonychristmas.uk" tvg-name="IN: Sony Christmas HD" tvg-logo="http://vod-gate.sytes.net/files/t20.png" group-title="India",IN: Sony Christmas HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/16200
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Entertainment HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Entertainment HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/63395
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony ESPN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony ESPN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/16636
+#EXTINF:-1 tvg-id="" tvg-name="IN Sony ESPN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",IN Sony ESPN HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/275067
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Marathi" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Marathi
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193097
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Max 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/270412
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Max 2 TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/4862
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Max FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1359
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Mix HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Mix HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1358
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Movie +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Movie +1
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/263681
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Movie Christmas" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Movie Christmas
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/266015
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Movies
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/4644
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Movies Action +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Movies Action +1
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267198
+#EXTINF:-1 tvg-id="sonymoviesplus1.uk" tvg-name="IN: Sony Movies Action HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ec0776f598b0d589519a14feac91942b.png" group-title="India",IN: Sony Movies Action HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/4709
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Movies Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Movies Classic
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/173235
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Pal HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony PIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony PIX HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/49539
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony SAB HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB HD USA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony SAB HD USA
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/201081
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony SIX HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony TEN 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/74893
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1 HEVC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Ten 1 HEVC
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/197940
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony TEN 2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/56190
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2 HEVC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Ten 2 HEVC
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/197743
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony TEN 3
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Wah TV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165801
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Waha HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony Waha HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/269711
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony YAY!" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sony YAY!
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1355
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sri Sankara" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Sri Sankara
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193151
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR BHARAT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: STAR BHARAT HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/16614
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Gold 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/270406
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Gold 2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/197719
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR GOLD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: STAR GOLD FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1070
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Gold Select HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/82623
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR GOLD UK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: STAR GOLD UK
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62480
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Maa HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Maa HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/82624
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Maa Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Maa Movies HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193194
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Movies FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/11511
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies HD Middle East" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Movies HD Middle East
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/82558
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Movies Select HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267542
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Plus FHD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/1069
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS HD UK" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: STAR PLUS HD UK
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/60347
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Pravah HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Pravah HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193149
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Sport 1
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sport 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Sport 2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sport 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Sport 3 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2 Select HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Sports 2 Select HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/201082
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Sports Select 1 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: STAR SPORTS SELECT 2 HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/16619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Suvarna Plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Suvarna Plus
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/193114
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Utsav Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Utsav Movies
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/165805
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR UTSUV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: STAR UTSUV
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/267181
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijay HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e04563af118a3b0a49dff1c7b3496ce8.png" group-title="India",IN: Star Vijay HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/19744
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijya HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star Vijya HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/192191
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star World HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/49565
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premiere HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="India",IN: Star World Premiere HD
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/270409
 
  
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",ZQ Drama
