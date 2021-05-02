@@ -2808,6 +2808,36 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1    group-title="CH" ,Animal Planet
 http://103.147.87.245:8001/play/a005/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/23de07828ba332e769ee3349d500fdee.png" group-title="Sports Astro 1",ASTRO ARENA HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157485
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c4a3de785816d77f68c207cf5e8709e6.png" group-title="Sports Astro 1",ASTRO ASSP HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0f47dd99757c57640fa8d59006d3406.png" group-title="Sports Astro 1",ASTRO ASSP2 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/321eab4888e02c863a7b8b2ba30f60e8.png" group-title="Sports Astro 1",ASTRO ASSP3 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/50e02a8627aa307538fa24480bc9d061.png" group-title="Sports Astro 1",ASTRO ASSP4 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247419
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sports Astro 1",Astro SuperSport 1 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146068
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Sports Astro 1",Astro SuperSport 2 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157556
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Sports Astro 1",Astro SuperSport 3 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157557
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sports Astro 1",Astro SuperSport 4 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157558
+#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264787
+#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 2
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264788
+#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 3
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264789
+#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 4
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264790
+#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 5
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264791
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SP: ELEVEN SPORTS 1 HD PT" tvg-logo="" group-title="Sports Smart",SP: ELEVEN SPORTS 1 HD PT
 http://smartiptv.dyndns.info:25461/live:aidin.imanian/skype863/485
