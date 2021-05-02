@@ -3023,6 +3023,14 @@ http://54k.top:8000/live/to44j/oyvee/104.ts
 #EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein-7-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein-7-512k-h265
 http://54k.top:8000/live/to44j/oyvee/105.ts
 
+#EXTINF:-1 tvg-id="OEX" group-title="Sports Astro 1",ASSP 1 
+http://96.44.14-1.132:18-1-16/view.php?type=m3u8&id=mlsp_6-11&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="OEX" group-title="Sports Astro 1",ASSP 2 
+http://96.44.14-1.132:18-1-16/view.php?type=m3u8&id=mlsp_6-12&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="OEX" group-title="Sports Astro 1",ASSP 3 
+http://96.44.14-1.132:18-1-16/view.php?type=m3u8&id=mlsp_6-13&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="OEX" group-title="Sports Astro 1",ASSP 4 
+http://96.44.14-1.132:18-1-16/view.php?type=m3u8&id=mlsp_6-14&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/23de07828ba332e769ee3349d500fdee.png" group-title="Sports Astro 1",ASTRO ARENA HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157485
