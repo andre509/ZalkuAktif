@@ -2808,6 +2808,222 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1    group-title="CH" ,Animal Planet
 http://103.147.87.245:8001/play/a005/index.m3u8
 
+
+#EXTM3U
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD9" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD9
+http://54k.top:8000/live/to44j/oyvee/47.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD8" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD8
+http://54k.top:8000/live/to44j/oyvee/48.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD7" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD7
+http://54k.top:8000/live/to44j/oyvee/49.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD6" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD6
+http://54k.top:8000/live/to44j/oyvee/50.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD5" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD5
+http://54k.top:8000/live/to44j/oyvee/51.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD4" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD4
+http://54k.top:8000/live/to44j/oyvee/52.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD3" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD3
+http://54k.top:8000/live/to44j/oyvee/2.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD2" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD2
+http://54k.top:8000/live/to44j/oyvee/3.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD10" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD10
+http://54k.top:8000/live/to44j/oyvee/53.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="VIP AR: Bein Sport HD1" tvg-logo="Sports 54k" group-title="Sports 54k",VIP AR: Bein Sport HD1
+http://54k.top:8000/live/to44j/oyvee/4.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS MAX 5" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS MAX 5
+http://54k.top:8000/live/to44j/oyvee/71.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="beIN SPORTS MAX 4" tvg-logo="Sports 54k" group-title="Sports 54k",beIN SPORTS MAX 4
+http://54k.top:8000/live/to44j/oyvee/72.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="beIN SPORTS MAX 3" tvg-logo="Sports 54k" group-title="Sports 54k",beIN SPORTS MAX 3
+http://54k.top:8000/live/to44j/oyvee/73.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="beIN SPORTS MAX 2" tvg-logo="Sports 54k" group-title="Sports 54k",beIN SPORTS MAX 2
+http://54k.top:8000/live/to44j/oyvee/74.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="beIN SPORTS MAX 1" tvg-logo="Sports 54k" group-title="Sports 54k",beIN SPORTS MAX 1
+http://54k.top:8000/live/to44j/oyvee/75.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="beIN SPORTS XTRA 2" tvg-logo="Sports 54k" group-title="Sports 54k",beIN SPORTS XTRA 2
+http://54k.top:8000/live/to44j/oyvee/76.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="beIN SPORTS XTRA 1" tvg-logo="Sports 54k" group-title="Sports 54k",beIN SPORTS XTRA 1
+http://54k.top:8000/live/to44j/oyvee/77.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="FR-BEIN3" tvg-logo="Sports 54k" group-title="Sports 54k",FR-BEIN3
+http://54k.top:8000/live/to44j/oyvee/78.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="FR-BEIN2" tvg-logo="Sports 54k" group-title="Sports 54k",FR-BEIN2
+http://54k.top:8000/live/to44j/oyvee/79.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="FR-BEIN1" tvg-logo="Sports 54k" group-title="Sports 54k",FR-BEIN1
+http://54k.top:8000/live/to44j/oyvee/60.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-9 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-9 1M
+http://54k.top:8000/live/to44j/oyvee/33.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-8 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-8 1M
+http://54k.top:8000/live/to44j/oyvee/34.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-7 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-7 1M
+http://54k.top:8000/live/to44j/oyvee/35.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-6 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-6 1M
+http://54k.top:8000/live/to44j/oyvee/36.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-5 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-5 1M
+http://54k.top:8000/live/to44j/oyvee/37.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-4 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-4 1M
+http://54k.top:8000/live/to44j/oyvee/38.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-3 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-3 1M
+http://54k.top:8000/live/to44j/oyvee/5.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-2 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-2 1M
+http://54k.top:8000/live/to44j/oyvee/6.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-10 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-10 1M
+http://54k.top:8000/live/to44j/oyvee/39.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BeinSport-1 1M" tvg-logo="Sports 54k" group-title="Sports 54k",BeinSport-1 1M
+http://54k.top:8000/live/to44j/oyvee/7.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-9-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-9-SD
+http://54k.top:8000/live/to44j/oyvee/54.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-8-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-8-SD
+http://54k.top:8000/live/to44j/oyvee/55.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-7-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-7-SD
+http://54k.top:8000/live/to44j/oyvee/56.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-6-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-6-SD
+http://54k.top:8000/live/to44j/oyvee/57.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-5-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-5-SD
+http://54k.top:8000/live/to44j/oyvee/58.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-4-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-4-SD
+http://54k.top:8000/live/to44j/oyvee/59.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-3-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-3-SD
+http://54k.top:8000/live/to44j/oyvee/67.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-2-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-2-SD
+http://54k.top:8000/live/to44j/oyvee/70.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-10-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-10-SD
+http://54k.top:8000/live/to44j/oyvee/68.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORTS-1-SD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORTS-1-SD
+http://54k.top:8000/live/to44j/oyvee/69.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-9=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-9=512
+http://54k.top:8000/live/to44j/oyvee/19.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-8=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-8=512
+http://54k.top:8000/live/to44j/oyvee/20.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-7=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-7=512
+http://54k.top:8000/live/to44j/oyvee/21.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-6=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-6=512
+http://54k.top:8000/live/to44j/oyvee/22.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-5=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-5=512
+http://54k.top:8000/live/to44j/oyvee/23.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-4=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-4=512
+http://54k.top:8000/live/to44j/oyvee/24.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-3=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-3=512
+http://54k.top:8000/live/to44j/oyvee/18.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-2=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-2=512
+http://54k.top:8000/live/to44j/oyvee/1.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-1=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-1=512
+http://54k.top:8000/live/to44j/oyvee/17.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN-SPORT-10=512" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN-SPORT-10=512
+http://54k.top:8000/live/to44j/oyvee/25.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 9 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 9 HD
+http://54k.top:8000/live/to44j/oyvee/61.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 8 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 8 HD
+http://54k.top:8000/live/to44j/oyvee/62.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 7 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 7 HD
+http://54k.top:8000/live/to44j/oyvee/63.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 6 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 6 HD
+http://54k.top:8000/live/to44j/oyvee/64.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 5 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 5 HD
+http://54k.top:8000/live/to44j/oyvee/65.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 4 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 4 HD
+http://54k.top:8000/live/to44j/oyvee/66.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 3 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 3 HD
+http://54k.top:8000/live/to44j/oyvee/8.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 2 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 2 HD
+http://54k.top:8000/live/to44j/oyvee/9.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 10 HD HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 10 HD HD
+http://54k.top:8000/live/to44j/oyvee/80.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN SPORTS 1 HD" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN SPORTS 1 HD
+http://54k.top:8000/live/to44j/oyvee/10.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN 2 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN 2 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/11.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  9 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  9 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/40.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  8 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  8 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/41.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  7 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  7 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/42.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  6 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  6 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/43.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  5 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  5 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/44.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  4 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  4 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/45.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  3 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  3 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/12.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  10 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  10 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/46.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="BEIN  1 HD LOC-1m" tvg-logo="Sports 54k" group-title="Sports 54k",BEIN  1 HD LOC-1m
+http://54k.top:8000/live/to44j/oyvee/13.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_9Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_9Low
+http://54k.top:8000/live/to44j/oyvee/26.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_8Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_8Low
+http://54k.top:8000/live/to44j/oyvee/27.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_7Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_7Low
+http://54k.top:8000/live/to44j/oyvee/28.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_6Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_6Low
+http://54k.top:8000/live/to44j/oyvee/29.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_5Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_5Low
+http://54k.top:8000/live/to44j/oyvee/30.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_4Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_4Low
+http://54k.top:8000/live/to44j/oyvee/31.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_3Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_3Low
+http://54k.top:8000/live/to44j/oyvee/14.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_2Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_2Low
+http://54k.top:8000/live/to44j/oyvee/15.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_1Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_1Low
+http://54k.top:8000/live/to44j/oyvee/16.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="AR:BEIN_SPORTS_10Low" tvg-logo="Sports 54k" group-title="Sports 54k",AR:BEIN_SPORTS_10Low
+http://54k.top:8000/live/to44j/oyvee/32.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein9-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein9-265-1M
+http://54k.top:8000/live/to44j/oyvee/81.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein9-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein9-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/82.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein8-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein8-265-1M
+http://54k.top:8000/live/to44j/oyvee/83.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein8-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein8-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/84.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein7-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein7-265-1M
+http://54k.top:8000/live/to44j/oyvee/85.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein7-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein7-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/86.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein6-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein6-265-1M
+http://54k.top:8000/live/to44j/oyvee/87.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein6-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein6-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/88.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein5-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein5-512k-h265
+http://54k.top:8000/live/to44j/oyvee/89.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein5-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein5-265-1M
+http://54k.top:8000/live/to44j/oyvee/90.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein5-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein5-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/91.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein4-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein4-512k-h265
+http://54k.top:8000/live/to44j/oyvee/92.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein4-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein4-265-1M
+http://54k.top:8000/live/to44j/oyvee/93.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein4-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein4-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/94.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein3-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein3-512k-h265
+http://54k.top:8000/live/to44j/oyvee/95.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein3-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein3-265-1M
+http://54k.top:8000/live/to44j/oyvee/96.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein3-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein3-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/97.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein2-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein2-512k-h265
+http://54k.top:8000/live/to44j/oyvee/98.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein2-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein2-265-1M
+http://54k.top:8000/live/to44j/oyvee/99.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein2-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein2-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/100.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein10-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein10-512k-h265
+http://54k.top:8000/live/to44j/oyvee/106.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein10-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein10-265-1M
+http://54k.top:8000/live/to44j/oyvee/101.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein1-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein1-512k-h265
+http://54k.top:8000/live/to44j/oyvee/102.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein1-265-1M" tvg-logo="Sports 54k" group-title="Sports 54k",bein1-265-1M
+http://54k.top:8000/live/to44j/oyvee/103.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein1-1200k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein1-1200k-h265
+http://54k.top:8000/live/to44j/oyvee/104.ts
+#EXTINF:-1 tvg-ID="Sports 54k" tvg-name="bein-7-512k-h265" tvg-logo="Sports 54k" group-title="Sports 54k",bein-7-512k-h265
+http://54k.top:8000/live/to44j/oyvee/105.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/23de07828ba332e769ee3349d500fdee.png" group-title="Sports Astro 1",ASTRO ARENA HD
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157485
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c4a3de785816d77f68c207cf5e8709e6.png" group-title="Sports Astro 1",ASTRO ASSP HD
