@@ -1672,6 +1672,52 @@ http://mantul.biz.id:8888/294/294/1161
 #EXTINF:-1 tvg-id="" tvg-name="Etv Thrill" tvg-logo="" group-title="ETV Specials",Etv Thrill
 http://mantul.biz.id:8888/294/294/5356
 
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Baby First LHD
+http://supersonictv.live:25461/daniela/daniela/21789
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Baby TV
+http://supersonictv.live:25461/daniela/daniela/21790
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Boomerang UHD
+http://supersonictv.live:25461/daniela/daniela/21791
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Cartoon Network UHD
+http://supersonictv.live:25461/daniela/daniela/21792
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Cartoon Network West
+http://supersonictv.live:25461/daniela/daniela/21793
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Cartoon Network Pacific
+http://supersonictv.live:25461/daniela/daniela/21794
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Channel East UHD
+http://supersonictv.live:25461/daniela/daniela/21795
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Channel West LHD
+http://supersonictv.live:25461/daniela/daniela/21796
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Channel Paficic
+http://supersonictv.live:25461/daniela/daniela/21797
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Junior UHD
+http://supersonictv.live:25461/daniela/daniela/21798
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Junior West LHD
+http://supersonictv.live:25461/daniela/daniela/21799
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Junior Pacific
+http://supersonictv.live:25461/daniela/daniela/21800
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney XD UHD
+http://supersonictv.live:25461/daniela/daniela/21801
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney XD West LHD
+http://supersonictv.live:25461/daniela/daniela/21802
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney XD Pacific
+http://supersonictv.live:25461/daniela/daniela/21803
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Freeform UHD
+http://supersonictv.live:25461/daniela/daniela/21804
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Freeform West LHD
+http://supersonictv.live:25461/daniela/daniela/21805
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA NICK JR
+http://supersonictv.live:25461/daniela/daniela/21806
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Nickelodeon UHD
+http://supersonictv.live:25461/daniela/daniela/21808
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA NickToons UHD
+http://supersonictv.live:25461/daniela/daniela/21809
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA PBS Kids
+http://supersonictv.live:25461/daniela/daniela/21810
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA TEEN NICK
+http://supersonictv.live:25461/daniela/daniela/21811
+#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Universal Kids
+http://supersonictv.live:25461/daniela/daniela/21812
 
 
 #EXTINF:-1 tvg-id="" tvg-name=" Zee Cinema 4k" tvg-logo="https://static.epg.best/in/ZeeCinema.in.png" group-title="INDIAN", Zee Cinema 4k
@@ -3030,6 +3076,61 @@ http://200.54.19.131:8500/play/a0k9
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1 tvg-id="SK2.AU" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Bein Sports UHD
+http://supersonictv.live:25461/daniela/daniela/22187
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 2
+http://supersonictv.live:25461/daniela/daniela/22189
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 4
+http://supersonictv.live:25461/daniela/daniela/22190
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 5
+http://supersonictv.live:25461/daniela/daniela/22191
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 6
+http://supersonictv.live:25461/daniela/daniela/22192
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 7
+http://supersonictv.live:25461/daniela/daniela/22193
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Bein Sports N Espanol UHD
+http://supersonictv.live:25461/daniela/daniela/22195
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports LaLiga
+http://supersonictv.live:25461/daniela/daniela/22196
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Latin BEIN Sports Latin
+http://supersonictv.live:25461/daniela/daniela/22197
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA ESPN UHD
+http://supersonictv.live:25461/daniela/daniela/22198
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA ESPN 2 UHD
+http://supersonictv.live:25461/daniela/daniela/22199
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA ESPNU UHD
+http://supersonictv.live:25461/daniela/daniela/22202
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports 1 UHD
+http://supersonictv.live:25461/daniela/daniela/78936
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports Wisconsin
+http://supersonictv.live:25461/daniela/daniela/78962
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Tennessee
+http://supersonictv.live:25461/daniela/daniela/78960
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports West
+http://supersonictv.live:25461/daniela/daniela/78961
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports Sun
+http://supersonictv.live:25461/daniela/daniela/78959
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOx SportTime Ohio
+http://supersonictv.live:25461/daniela/daniela/78958
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Southwest
+http://supersonictv.live:25461/daniela/daniela/78957
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Southeast
+http://supersonictv.live:25461/daniela/daniela/78956
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports San Diego
+http://supersonictv.live:25461/daniela/daniela/78953
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports South
+http://supersonictv.live:25461/daniela/daniela/78954
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports South East (North Carolina)
+http://supersonictv.live:25461/daniela/daniela/78955
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Indiana Plus KDVR
+http://supersonictv.live:25461/daniela/daniela/78945
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Midwest
+http://supersonictv.live:25461/daniela/daniela/78946
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports Netbase
+http://supersonictv.live:25461/daniela/daniela/78947
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="ASTRO SUPERSPORT 1 FHD" tvg-logo="http://webo.asia/logos/Astro_supersport_logo.png" group-title="[ WORLD ]  SPORTS",ASTRO SUPERSPORT 1 FHD
