@@ -3426,6 +3426,11 @@ http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",MOLA TV FREE
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",WWE HD
+http://linux-app.tv:8080/Iptvtree/He73ghh/70287
+#EXTINF:-1 tvg-id="" tvg-name="WWE Raw HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",WWE Raw HD
+http://linux-app.tv:8080/Iptvtree/He73ghh/35621
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ZQ Sport
 http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="SPORTS WAK", ChampionTV 1 (Vidio)
