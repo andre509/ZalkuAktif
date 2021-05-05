@@ -2578,6 +2578,17 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6786_720p/index.
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 2
 http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Sport bein Yalla
+https://d127008t0c0m28.cloudfront.net/out/v1/fb3de4f5183d48018454f6ac3a9307a6/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein pre 1 fire" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein pre 1 fire
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/1
+#EXTINF:-1 tvg-id="" tvg-name="Bein 2 pre fire " tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein 2 pre fire 
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/2
+#EXTINF:-1 tvg-id="" tvg-name="Bein1" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein1
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/3
+#EXTINF:-1 tvg-id="" tvg-name="Bein3" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein3
+http://173.198.198.102:25461/shahidandroid/FeyxFIpoYz/5
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
 
