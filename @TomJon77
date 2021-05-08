@@ -29,7 +29,14 @@ https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8
 https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8
 
 
+#EXTINF:-1 group-title="LOKAL-Vidio",Sctv
+http://daygun.online:19410/Dyos/live/Sctvdyos/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="LOKAL-Vidio",Tv One
+http://103.140.90.211:19420/Dyos/live/TVone/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="LOKAL-Vidio",Antv
+http://103.140.90.211:19420/Dyos/live/ANTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL-Vidio", SCTV
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
 
