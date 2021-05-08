@@ -29,96 +29,6 @@ https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8
 https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8
 
 
-#EXTINF:-1 group-title="LOKAL-Vidio",Sctv
-http://daygun.online:19410/Dyos/live/Sctvdyos/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="LOKAL-Vidio",Tv One
-http://103.140.90.211:19420/Dyos/live/TVone/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="LOKAL-Vidio",Antv
-http://103.140.90.211:19420/Dyos/live/ANTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj9xtQv/sctv.png" group-title="LOKAL-Vidio", SCTV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_204_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j4R8H2m/indosiar.png" group-title="LOKAL-Vidio", Indosiar
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_205_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOKAL-Vidio", RCTI
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WmsvPYGur2ALODusr0oSQf-Y33U=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="LOKAL-Vidio", Citra Bioskop
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6684_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yyZPrC-4QUEcnxaZnqrJdLYKbFY=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="LOKAL-Vidio", Citra Entertainment
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6402_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GxAUzRNEtV0AI3vcAztxw0A7Nxc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="LOKAL-Vidio", Citra Dangdut
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/35Q9GFDWUq-UB3aZVH_eqDvvlB8=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="LOKAL-Vidio",TVN
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6362_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aX7SvsQYb7BB-Fk3waen5AiM2Ak=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-bdb0e4.jpg" group-title="LOKAL-Vidio",ZEE BIOSKOP
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6399_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YMiadg_41VRnuypCyn0luzLMeco=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" group-title="LOKAL-Vidio",ZING
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6747_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="LOKAL-Vidio", Smithsonian
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6550_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0mWZ02V/love.png" group-title="LOKAL-Vidio", Love Nature
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6635_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wsj5jWc/ochannel.png" group-title="LOKAL-Vidio", O Channel
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_206_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJW91X/kompas.png" group-title="LOKAL-Vidio", Kompas
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_874_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DLt5SLw/beritasatu.png" group-title="LOKAL-Vidio", Berita Satu
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6165_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxmmHPZ/metro.png" group-title="LOKAL-Vidio", MetroTV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_777_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sV6MzVZ/net.png" group-title="LOKAL-Vidio", NET. 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_875_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k34VZbT/transtv.png" group-title="LOKAL-Vidio", TransTV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_733_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qn8drTY/trans7.png" group-title="LOKAL-Vidio", Trans7 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_734_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="LOKAL-Vidio", TVRI 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6441_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="LOKAL-Vidio", MNC TV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_870_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8PX1m5F/jaktv.png" group-title="LOKAL-Vidio", Jaktv 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5415_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FxSXwG7/gtv.png" group-title="LOKAL-Vidio", Global TV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_778_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XkXXXrp/rtv.png" group-title="LOKAL-Vidio", Rajawali TV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_1561_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8LSMg9/inews.png" group-title="LOKAL-Vidio", Inews
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_5409_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ncBt90d/oshop.png" group-title="LOKAL-Vidio", O Shop 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6166_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZNsjW0/mytv.png" group-title="LOKAL-Vidio", MyTV
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6711_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSn2gxL/nusantara.png" group-title="LOKAL-Vidio", Nusantara TV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7432_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WxMM0S7/daaitv.png" group-title="LOKAL-Vidio", Daai TV 
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6482_720p/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="UseeTv",Ruang Trampil _USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
@@ -437,6 +347,15 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",Tv One
+http://34.101.173.51:7788/Dyos/online/Tvone/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",Antv
+http://103.140.90.211:19420/Dyos/live/ANTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",Sctv
+http://daygun.online:19410/Dyos/live/Sctvdyos/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",ANTV
 http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
 http://streamku.live:8888/live/Mutv/0705/611.ts
