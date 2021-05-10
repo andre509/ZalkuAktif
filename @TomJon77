@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="NULL" tvg-name="|RU| COVID-19 INFORMATION" tvg-logo="http://tv.iptvboss.net/ch_logo/covid.png" group-title="INFO COVID",COVID-19 INFORMATION
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/38853
-#EXTINF:-1 tvg-id="NULL" tvg-name="|GR| COVID-19 INFORMATION" tvg-logo="http://tv.iptvboss.net/ch_logo/covid.png" group-title="INFO COVID",COVID-19 INFORMATION
-http://test.satlok.club:80/Amigo/do92Rd6x8yr3/38851
-
+http://starshare.live:8080/live/arfat/arfat/4031.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive01(indosiar)
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7674_1080p/index.m3u8
@@ -340,11 +337,26 @@ https://dl.dropbox.com/s/hr4pu9fqongh3m9/PeaceTV.m3u8?dl=0
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id=".SHINTA" tvg-name"Indosiar _VIDIO" group-title="Lokal Wak",Indosiar _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69e0cf1f47118daebc5b16269099ad7347
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id=".SHINTA" tvg-name"RCTI _VIDIO" group-title="Lokal Wak",RCTI _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",MNC Vidio
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",GTV Vidio
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",ANTV 1
+http://103.140.90.211:19420/Dyos/live/ANTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.fa162703d9d267b0195c8b58eb14bd9c.SHINTA" tvg-name" RCTI _VIDIO" group-title="Lokal Wak",MNCTV _+
+https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.474eeef97fc719487e0d2427b2ed63bd.SHINTA" tvg-name" GTV _VIDIO" group-title="Lokal Wak",GTV _+
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",ZEE Bioskop
+https://radenroro.net/RHS/homempd.m3u8?channel=zbioskop
+
 #EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Lokal Wak",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="Lokal Wak",Tv One
@@ -2715,109 +2727,6 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1    group-title="CH" ,Animal Planet
 http://103.147.87.245:8001/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports NEWS" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports NEWS
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5770
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN NEWS" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: BEIN NEWS
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6918
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5768
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 1 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5742
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 1 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5747
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 1 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6927
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 2 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5752
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 2 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5753
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 2 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6928
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 3 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5743
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 3 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5754
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 3 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6929
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 4 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5744
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 4 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5755
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 4 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6936
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 5 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5757
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 5 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5756
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 5 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6930
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 6 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5759
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 6 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5758
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 6 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6931
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 7 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5745
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 7 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5760
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 7 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6932
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 8 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5746
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 8 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5761
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 8 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6933
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 9 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 9 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5763
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 9 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 9 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5762
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 9 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 9 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6934
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 10 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 10 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5748
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 10 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 10 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5764
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 10 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 10 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6935
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 10 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 10 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6926
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 11 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 11 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5749
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 11 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 11 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5765
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 11 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 11 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6937
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 12 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 12 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5750
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 12 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 12 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5766
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 12 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 12 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6938
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 13 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 13 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5751
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 13 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 13 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5767
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 13 SD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 13 SD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6939
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 14 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 14 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6917
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 14 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 14 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6922
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 15 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 15 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6921
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 15 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 15 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6923
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 16 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 16 FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6920
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 16 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports 16 HD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6924
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 2" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports Max 2
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/5769
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports NBA FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports NBA FHD
-http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6919
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports NBA HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS ",AR: beIN Sports NBA HD
 
 
 
@@ -2971,16 +2880,27 @@ http://foxx-tv.com:9600/GhsKWsBsnwnCWZB/kZ84c1GXN4G944N/56648
 #EXTINF:0 tvg-logo="http://crystalle.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-italia/SKY%20SPORT%20COLLECTION.png" group-title="IT| SPORTS",IT|  SKY SPORT COLLECTION HEVC
 http://foxx-tv.com:9600/GhsKWsBsnwnCWZB/kZ84c1GXN4G944N/136687
 
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",MOLA TV FREE
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ZQ Sport
+http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 1
+http://gumisasak.site/USEETV/master.m3u8?id=useesports
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 2
+http://gumisasak.site/USEETV/master.m3u8?id=useesports2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 1
+http://gumisasak.site/USEETV/master.m3u8?id=foxsport
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 2
+http://gumisasak.site/USEETV/master.m3u8?id=foxsport2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 3
+http://gumisasak.site/USEETV/master.m3u8?id=foxsport3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 1
+http://gumisasak.site/USEETV/master.m3u8?id=bein1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 2
+http://gumisasak.site/USEETV/master.m3u8?id=bein2
 #EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",WWE HD
+http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/8
 http://linux-app.tv:8080/Iptvtree/He73ghh/70287
 #EXTINF:-1 tvg-id="" tvg-name="WWE Raw HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",WWE Raw HD
 http://linux-app.tv:8080/Iptvtree/He73ghh/35621
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ZQ Sport
-http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 2
@@ -3042,8 +2962,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",SPORTS TV [HD]
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-#EXTINF:-1    group-title="SportS" ,Fox Sports News
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",Fox Sports 1 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
