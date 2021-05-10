@@ -1079,6 +1079,264 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
 #EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="LIVE | MEDIA PRIMA",RTB MALAYSIA
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7188
 
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia ID" tvg-logo="" group-title="Indonesia",ABC Australia ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62302
+#EXTINF:-1 tvg-id="" tvg-name="ANTV ID" tvg-logo="" group-title="Indonesia",ANTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62297
+#EXTINF:-1 tvg-id="" tvg-name="AXN ID" tvg-logo="" group-title="Indonesia",AXN ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62293
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English ID" tvg-logo="" group-title="Indonesia",Al Jazeera English ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62301
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Karem ID" tvg-logo="" group-title="Indonesia",Al Quran Al Karem ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62300
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet ID" tvg-logo="" group-title="Indonesia",Animal Planet ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62299
+#EXTINF:-1 tvg-id="" tvg-name="Animax ID" tvg-logo="" group-title="Indonesia",Animax ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62298
+#EXTINF:-1 tvg-id="" tvg-name="Arirang Korea ID" tvg-logo="" group-title="Indonesia",Arirang Korea ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62296
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel ID" tvg-logo="" group-title="Indonesia",Asian Food Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62295
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth ID" tvg-logo="" group-title="Indonesia",BBC Earth ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62289
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News ID" tvg-logo="" group-title="Indonesia",BBC World News ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62288
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV ID" tvg-logo="" group-title="Indonesia",Baby TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62292
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV ID" tvg-logo="" group-title="Indonesia",Bali TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62291
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu ID" tvg-logo="" group-title="Indonesia",Berita Satu ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62284
+#EXTINF:-1 tvg-id="" tvg-name="Besmart ID" tvg-logo="" group-title="Indonesia",Besmart ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62283
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg ID" tvg-logo="" group-title="Indonesia",Bloomberg ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62282
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang 1 ID" tvg-logo="" group-title="Indonesia",Boomerang 1 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62281
+#EXTINF:-1 tvg-id="" tvg-name="CCM ID" tvg-logo="" group-title="Indonesia",CCM ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62278
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4 ID" tvg-logo="" group-title="Indonesia",CCTV4 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62277
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ID" tvg-logo="" group-title="Indonesia",CNBC ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62273
+#EXTINF:-1 tvg-id="" tvg-name="CNN ID" tvg-logo="" group-title="Indonesia",CNN ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62272
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network ID" tvg-logo="" group-title="Indonesia",Cartoon Network ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62279
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies ID" tvg-logo="" group-title="Indonesia",Celestial Movies ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62276
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World ID" tvg-logo="" group-title="Indonesia",Cinema World ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62274
+#EXTINF:-1 tvg-id="" tvg-name="MTA TV ID" tvg-logo="" group-title="Indonesia",MTA TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62271
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation ID" tvg-logo="" group-title="Indonesia",Crime Investigation ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62270
+#EXTINF:-1 tvg-id="" tvg-name="DIVA ID" tvg-logo="" group-title="Indonesia",DIVA ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62264
+#EXTINF:-1 tvg-id="" tvg-name="DW ID" tvg-logo="" group-title="Indonesia",DW ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62262
+#EXTINF:-1 tvg-id="" tvg-name="Daai TV ID" tvg-logo="" group-title="Indonesia",Daai TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62269
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel ID" tvg-logo="" group-title="Indonesia",Discovery Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62268
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel ID" tvg-logo="" group-title="Indonesia",Disney Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62267
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior ID" tvg-logo="" group-title="Indonesia",Disney Junior ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62266
+#EXTINF:-1 tvg-id="" tvg-name="Drama Channel ID" tvg-logo="" group-title="Indonesia",Drama Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62263
+#EXTINF:-1 tvg-id="" tvg-name="Padang TV ID" tvg-logo="" group-title="Indonesia",Padang TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62261
+#EXTINF:-1 tvg-id="" tvg-name="EWTN ID" tvg-logo="" group-title="Indonesia",EWTN ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62259
+#EXTINF:-1 tvg-id="" tvg-name="Euronews ID" tvg-logo="" group-title="Indonesia",Euronews ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62260
+#EXTINF:-1 tvg-id="" tvg-name="FMN ID" tvg-logo="" group-title="Indonesia",FMN ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62257
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports ID" tvg-logo="" group-title="Indonesia",Fight Sports ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62258
+#EXTINF:-1 tvg-id="" tvg-name="Reformed 21 ID" tvg-logo="" group-title="Indonesia",Reformed 21 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62256
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime ID" tvg-logo="" group-title="Indonesia",Fox Crime ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62254
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies ID" tvg-logo="" group-title="Indonesia",Fox Family Movies ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62253
+#EXTINF:-1 tvg-id="" tvg-name="Fox ID" tvg-logo="" group-title="Indonesia",Fox ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62255
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life ID" tvg-logo="" group-title="Indonesia",Fox Life ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62252
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies Action ID" tvg-logo="" group-title="Indonesia",Fox Movies Action ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62250
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies ID" tvg-logo="" group-title="Indonesia",Fox Movies ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62251
+#EXTINF:-1 tvg-id="" tvg-name="Fox News ID" tvg-logo="" group-title="Indonesia",Fox News ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62249
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 ID" tvg-logo="" group-title="Indonesia",Fox Sports 1 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62248
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 ID" tvg-logo="" group-title="Indonesia",Fox Sports 2 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62247
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 ID" tvg-logo="" group-title="Indonesia",Fox Sports 3 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62246
+#EXTINF:-1 tvg-id="" tvg-name="France24 ID" tvg-logo="" group-title="Indonesia",France24 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62245
+#EXTINF:-1 tvg-id="" tvg-name="GTV ID" tvg-logo="" group-title="Indonesia",GTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62243
+#EXTINF:-1 tvg-id="" tvg-name="HGTV ID" tvg-logo="" group-title="Indonesia",HGTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62242
+#EXTINF:-1 tvg-id="" tvg-name="Hidayah ID" tvg-logo="" group-title="Indonesia",Hidayah ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62241
+#EXTINF:-1 tvg-id="" tvg-name="History ID" tvg-logo="" group-title="Indonesia",History ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62240
+#EXTINF:-1 tvg-id="" tvg-name="Hits ID" tvg-logo="" group-title="Indonesia",Hits ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62239
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies ID" tvg-logo="" group-title="Indonesia",Hits Movies ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62238
+#EXTINF:-1 tvg-id="" tvg-name="IDX ID" tvg-logo="" group-title="Indonesia",IDX ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62237
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar ID" tvg-logo="" group-title="Indonesia",Indosiar ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62236
+#EXTINF:-1 tvg-id="" tvg-name="Infotainment ID" tvg-logo="" group-title="Indonesia",Infotainment ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62234
+#EXTINF:-1 tvg-id="" tvg-name="JTV ID" tvg-logo="" group-title="Indonesia",JTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62232
+#EXTINF:-1 tvg-id="" tvg-name="Jak TV ID" tvg-logo="" group-title="Indonesia",Jak TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62233
+#EXTINF:-1 tvg-id="" tvg-name="KIX ID" tvg-logo="" group-title="Indonesia",KIX ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62230
+#EXTINF:-1 tvg-id="" tvg-name="Kids Channel ID" tvg-logo="" group-title="Indonesia",Kids Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62231
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV 1 ID" tvg-logo="" group-title="Indonesia",Kompas TV 1 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62229
+#EXTINF:-1 tvg-id="" tvg-name="Life ID" tvg-logo="" group-title="Indonesia",Life ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62227
+#EXTINF:-1 tvg-id="" tvg-name="Life Style Fashion ID" tvg-logo="" group-title="Indonesia",Life Style Fashion ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62226
+#EXTINF:-1 tvg-id="" tvg-name="MNC Channel ID" tvg-logo="" group-title="Indonesia",MNC Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62222
+#EXTINF:-1 tvg-id="" tvg-name="MNC Entertainment ID" tvg-logo="" group-title="Indonesia",MNC Entertainment ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62221
+#EXTINF:-1 tvg-id="" tvg-name="MNC News ID" tvg-logo="" group-title="Indonesia",MNC News ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62220
+#EXTINF:-1 tvg-id="" tvg-name="MNC Shop Smart ID" tvg-logo="" group-title="Indonesia",MNC Shop Smart ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62219
+#EXTINF:-1 tvg-id="" tvg-name="MNC Shop Trendy ID" tvg-logo="" group-title="Indonesia",MNC Shop Trendy ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62218
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sports ID" tvg-logo="" group-title="Indonesia",MNC Sports ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62216
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV ID" tvg-logo="" group-title="Indonesia",MNCTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62214
+#EXTINF:-1 tvg-id="" tvg-name="MYTV ID" tvg-logo="" group-title="Indonesia",MYTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62211
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV ID" tvg-logo="" group-title="Indonesia",Metro TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62224
+#EXTINF:-1 tvg-id="" tvg-name="MiaoMI ID" tvg-logo="" group-title="Indonesia",MiaoMI ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62223
+#EXTINF:-1 tvg-id="" tvg-name="Music Channel ID" tvg-logo="" group-title="Indonesia",Music Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62212
+#EXTINF:-1 tvg-id="" tvg-name="NET.1 ID" tvg-logo="" group-title="Indonesia",NET.1 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62207
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan ID" tvg-logo="" group-title="Indonesia",NHK World Japan ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62204
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo ID" tvg-logo="" group-title="Indonesia",Nat Geo ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62210
+#EXTINF:-1 tvg-id="" tvg-name="News Asia Channel ID" tvg-logo="" group-title="Indonesia",News Asia Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62205
+#EXTINF:-1 tvg-id="" tvg-name="Nick ID" tvg-logo="" group-title="Indonesia",Nick ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62202
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR ID" tvg-logo="" group-title="Indonesia",Nick JR ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62201
+#EXTINF:-1 tvg-id="" tvg-name="RCTI ID" tvg-logo="" group-title="Indonesia",RCTI ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62199
+#EXTINF:-1 tvg-id="" tvg-name="RT English ID" tvg-logo="" group-title="Indonesia",RT English ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62198
+#EXTINF:-1 tvg-id="" tvg-name="RTV5 Makin Cakep 1 ID" tvg-logo="" group-title="Indonesia",RTV5 Makin Cakep 1 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62197
+#EXTINF:-1 tvg-id="" tvg-name="tvOne ID" tvg-logo="" group-title="Indonesia",tvOne ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62195
+#EXTINF:-1 tvg-id="" tvg-name="SCM Legend ID" tvg-logo="" group-title="Indonesia",SCM Legend ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62194
+#EXTINF:-1 tvg-id="" tvg-name="SCTV ID" tvg-logo="" group-title="Indonesia",SCTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62193
+#EXTINF:-1 tvg-id="" tvg-name="S News ID" tvg-logo="" group-title="Indonesia",S News ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62192
+#EXTINF:-1 tvg-id="" tvg-name="RBTV ID" tvg-logo="" group-title="Indonesia",RBTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62191
+#EXTINF:-1 tvg-id="" tvg-name="Sony One ID" tvg-logo="" group-title="Indonesia",Sony One ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62190
+#EXTINF:-1 tvg-id="" tvg-name="TLC ID" tvg-logo="" group-title="Indonesia",TLC ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62188
+#EXTINF:-1 tvg-id="" tvg-name="TRT World ID" tvg-logo="" group-title="Indonesia",TRT World ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62183
+#EXTINF:-1 tvg-id="" tvg-name="TV One ID" tvg-logo="" group-title="Indonesia",TV One ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62181
+#EXTINF:-1 tvg-id="" tvg-name="TV9 ID" tvg-logo="" group-title="Indonesia",TV9 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62180
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies ID" tvg-logo="" group-title="Indonesia",TVN Movies ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62178
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime ID" tvg-logo="" group-title="Indonesia",Lifetime ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62175
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS ID" tvg-logo="" group-title="Indonesia",HBO HITS ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62173
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY ID" tvg-logo="" group-title="Indonesia",HBO FAMILY ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62172
+#EXTINF:-1 tvg-id="" tvg-name="HBO RED ID" tvg-logo="" group-title="Indonesia",HBO RED ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62171
+#EXTINF:-1 tvg-id="" tvg-name="TVRI ID" tvg-logo="" group-title="Indonesia",TVRI ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62177
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia ID" tvg-logo="" group-title="Indonesia",CNN Indonesia ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62163
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV ID" tvg-logo="" group-title="Indonesia",Fashion TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62162
+#EXTINF:-1 tvg-id="" tvg-name="RCTV ID" tvg-logo="" group-title="Indonesia",RCTV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62159
+#EXTINF:-1 tvg-id="" tvg-name="ANIPlus ID" tvg-logo="" group-title="Indonesia",ANIPlus ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62158
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel HD ID" tvg-logo="" group-title="Indonesia",Asian Food Channel HD ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62156
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks ID" tvg-logo="" group-title="Indonesia",Dreamworks ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62150
+#EXTINF:-1 tvg-id="" tvg-name="Thrill ID" tvg-logo="" group-title="Indonesia",Thrill ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62189
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV ID" tvg-logo="" group-title="Indonesia",Trans TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62186
+#EXTINF:-1 tvg-id="" tvg-name="Trans7 ID" tvg-logo="" group-title="Indonesia",Trans7 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62187
+#EXTINF:-1 tvg-id="" tvg-name="Wesal TV ID" tvg-logo="" group-title="Indonesia",Wesal TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62185
+#EXTINF:-1 tvg-id="" tvg-name="V Channel ID" tvg-logo="" group-title="Indonesia",V Channel ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62144
+#EXTINF:-1 tvg-id="" tvg-name="Waku Waku Japan ID" tvg-logo="" group-title="Indonesia",Waku Waku Japan ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62143
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV ID" tvg-logo="" group-title="Indonesia",Warner TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62142
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop ID" tvg-logo="" group-title="Indonesia",Zee Bioskop ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62141
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema ID" tvg-logo="" group-title="Indonesia",Zee Cinema ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62140
+#EXTINF:-1 tvg-id="" tvg-name="Zee News ID" tvg-logo="" group-title="Indonesia",Zee News ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62139
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV ID" tvg-logo="" group-title="Indonesia",Zee TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62138
+#EXTINF:-1 tvg-id="" tvg-name="Zing ID" tvg-logo="" group-title="Indonesia",Zing ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62137
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ID" tvg-logo="" group-title="Indonesia",beIN Sports 1 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62286
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ID" tvg-logo="" group-title="Indonesia",beIN Sports 2 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62287
+#EXTINF:-1 tvg-id="" tvg-name="Insan TV ID" tvg-logo="" group-title="Indonesia",Insan TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62285
+#EXTINF:-1 tvg-id="" tvg-name="MTA 3 ID" tvg-logo="" group-title="Indonesia",MTA 3 ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/6188
+#EXTINF:-1 tvg-id="" tvg-name="iNews ID" tvg-logo="" group-title="Indonesia",iNews ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/62235
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET ID" tvg-logo="" group-title="Indonesia",RRI NET ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/78282
+#EXTINF:-1 tvg-id="" tvg-name="TV5Monde ID" tvg-logo="" group-title="Indonesia",TV5Monde ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/78288
+#EXTINF:-1 tvg-id="" tvg-name="TEGAR TV ID" tvg-logo="" group-title="Indonesia",TEGAR TV ID
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/78290
+#EXTINF:-1 tvg-id="" tvg-name="Test Panel" tvg-logo="" group-title="A1 TV",Test Panel
+http://portal.entertainmentxl.com:8080/ZbangBung/rBwxTRQY2X/97170
 
 
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Kids OEX",Aniplus Indonesia
