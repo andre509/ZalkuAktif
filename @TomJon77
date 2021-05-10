@@ -2883,11 +2883,11 @@ http://foxx-tv.com:9600/GhsKWsBsnwnCWZB/kZ84c1GXN4G944N/136687
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ZQ Sport
 http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 1
-http://gumisasak.site/USEETV/master.m3u8?id=useesports
+http://gumisasak.site/USEETV/master.m3u8?id=useesports1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 2
 http://gumisasak.site/USEETV/master.m3u8?id=useesports2
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 1
-http://gumisasak.site/USEETV/master.m3u8?id=foxsport
+http://gumisasak.site/USEETV/master.m3u8?id=foxsport1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 2
 http://gumisasak.site/USEETV/master.m3u8?id=foxsport2
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 3
