@@ -3704,6 +3704,121 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"    group-title="SPORTS M3U" ,Esport 3
 http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 1
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6810
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 10
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6819
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 2
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6811
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 3
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6812
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 4
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6813
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 5
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6814
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 6
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6815
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 7
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6816
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 8
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6817
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports 9
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6818
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports English 1 / 11
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6820
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",beIN Sports English 2 / 12
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/6821
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Action
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/347
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Blitz
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/340
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Cricket
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/352
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Football
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/348
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Golf
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/353
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Grandstand
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/344
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport La Liga
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/342
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",Supersport Maximo
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/356
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Motorsports
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/354
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Premier League
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/341
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport PSL
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/343
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Rugby
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/351
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Tennis
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/355
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Variety 01
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/346
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Variety 02
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/345
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Variety 03
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/350
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",SuperSport Variety 04
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/349
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport 1 FHD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/178
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport 1 SD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/179
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport 2 FHD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/180
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport 2 SD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/181
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport 3 FHD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/182
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport 3 SD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/183
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport ESPN FHD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/184
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS Hot",UK: BT Sport ESPN SD
+#EXTVLCOPT:file-caching=1000
+http://hotdog-mustard.eu:8880/BP7K0CDrFV/FmrzzZS2GH/185
+
+
+
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="[UK] BT Sport 1" tvg-logo="http://fauconteam.com/logo/btsport1.png" group-title="SPORTS TEAM",[UK] BT Sport 1
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/4122
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="[UK] BT Sport 1 FHD" tvg-logo="http://fauconteam.com/logo/btsport1hd.png" group-title="SPORTS TEAM",[UK] BT Sport 1 FHD
