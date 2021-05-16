@@ -3069,6 +3069,73 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF:-1 tvg-id="SK2.AU" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein premium 1 
+http://1.alhawalouh.xyz/live/6161655/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein premium 2
+http://2.alhawalouh.xyz/live/616194987/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein premium 3
+http://3.alhawalouh.xyz/live/6151278887/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein sports 1
+http://2.alhawalouh.xyz/live/918454578/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein sports 2
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein sports 3
+http://3.alhawalouh.xyz/live/645587700/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein sports 4
+http://1.alhawalouh.xyz/live/9787488847/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein sports 5
+http://1.alhawalouh.xyz/live/610303030/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein sports 6
+http://2.alhawalouh.xyz/live/1515000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein sports 7
+http://3.alhawalouh.xyz/live/791001144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein xtra 1
+http://1.alhawalouh.xyz/live/9962564400/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein xtra 2
+http://1.alhawalouh.xyz/live/880025552/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein french 1
+http://1.adrawayoun.xyz/live/103/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein french 2
+http://1.adrawayoun.xyz/live/104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein french 3
+http://1.adrawayoun.xyz/live/105/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bt sports 1
+http://1.adrawayoun.xyz/live/143/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bt sports 2
+http://1.adrawayoun.xyz/live/144/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bt sports 3
+http://1.adrawayoun.xyz/live/145/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,premier sports
+http://1.adrawayoun.xyz/live/148/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,canal+ sports
+http://1.adrawayoun.xyz/live/117/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,ziggo select
+http://1.adrawayoun.xyz/live/150/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,Dazn 1
+http://1.adrawayoun.xyz/live/146/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS M3U" ,Skynetsport HD
 http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
