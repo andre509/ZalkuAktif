@@ -3,15 +3,6 @@
 #EXTINF:-1 tvg-id="NULL" tvg-name="|RU| COVID-19 INFORMATION" tvg-logo="http://tv.iptvboss.net/ch_logo/covid.png" group-title="INFO COVID",COVID-19 INFORMATION
 http://starshare.live:8080/live/arfat/arfat/4031.ts
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive01(indosiar)
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7674_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive02(indosiar)
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7675_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive03(indosiar)
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7676_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive04(indosiar)
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7677_1080p/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CCTV",HLS Stream 1
 https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8
@@ -25,7 +16,50 @@ https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CCTV",HLS Stream 4
 https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", RCTI
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", SCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Indosiar
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", NET TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", MNCTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", TRANSTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", GTV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Kompas TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Metro TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_777_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Metro TV [Backup]
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", O Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_206_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Jak TV
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Jek TV
+http://122.248.43.138:1935/ch14/myStream/chunklist_w1542065869.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", TVRI NASIONAL
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Citra Drama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Citra Muslim
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", TV Edukasi
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Berita Satu
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", Berita Satu [Backup]
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", CNN Indonesia 1
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="UseeTv",Ruang Trampil _USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
