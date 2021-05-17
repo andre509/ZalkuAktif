@@ -717,7 +717,8 @@ http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV3
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV 6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",NTV7
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 
@@ -728,9 +729,12 @@ http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8
-
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",AL Hijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-logo="rtb4.png" tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",RTB SUKMAINDERA
 https://rtb-channel.glue.live/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",Tv Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
 
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",Selangor
 http://seb.sason.top/sc/SelangorTV.m3u8
