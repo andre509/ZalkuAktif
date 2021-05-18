@@ -2599,11 +2599,41 @@ http://iptv.zqstream.com:80/zqdrama-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Indo Ch
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Hits Movies
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW" ,Axn HD
-http://103.81.104.118/hls/stream2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW" ,Star Movies HD
-http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Cinema World
+http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Oh!k
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Tvn Id
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",TvN Malaysia
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Tvn movies
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Sony One Id
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Axn
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Sony One My
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Thrill
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Celesial Movies My
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",Celesial Classic Movies My
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",S gem
 http://210.210.155.35/uq2663/h/h19/01.m3u8
@@ -3075,6 +3105,13 @@ http://foxx-tv.com:9600/GhsKWsBsnwnCWZB/kZ84c1GXN4G944N/136687
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ZQ Sport
 http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.f94e4345da4a5c37ca4b98ceac2907fa.SHINTA" tvg-name"[CODAY] Champions TV 1 _VIDIO" group-title="SPORTS WAK",Champions TV 1 _VIDIO
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6685_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.5798ce6ff30d7091f36ba5281a525e1d.SHINTA" tvg-name"[CODAY] Champions TV 2 _VIDIO" group-title="SPORTS WAK",Champions TV 2 _VIDIO
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.878427f65486bcabdef8b0085f410383.SHINTA" tvg-name"[CODAY] Champions TV 3 _VIDIO" group-title="SPORTS WAK",Champions TV 3 _VIDIO
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 1
 http://gumisasak.site/USEETV/master.m3u8?id=useesports1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 2
