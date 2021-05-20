@@ -1406,38 +1406,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7235
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Eflix" tvg-logo="" group-title="ETV Specials",Eflix
-http://mantul.biz.id:8888/294/294/228
-#EXTINF:-1 tvg-id="MNCTV" tvg-name="Etv 21" tvg-logo="" group-title="ETV Specials",Etv 21
-http://mantul.biz.id:8888/294/294/233
-#EXTINF:-1 tvg-id="" tvg-name="Etv Bollywood" tvg-logo="" group-title="ETV Specials",Etv Bollywood
-http://mantul.biz.id:8888/294/294/1175
-#EXTINF:-1 tvg-id="" tvg-name="Etv Celestial Classic" tvg-logo="" group-title="ETV Specials",Etv Celestial Classic
-http://mantul.biz.id:8888/294/294/1173
-#EXTINF:-1 tvg-id="" tvg-name="Etv Cinema" tvg-logo="" group-title="ETV Specials",Etv Cinema
-http://mantul.biz.id:8888/294/294/237
-#EXTINF:-1 tvg-id="" tvg-name="Etv Family" tvg-logo="" group-title="ETV Specials",Etv Family
-http://mantul.biz.id:8888/294/294/1383
-#EXTINF:-1 tvg-id="" tvg-name="Etv Hot Star" tvg-logo="" group-title="ETV Specials",Etv Hot Star
-http://mantul.biz.id:8888/294/294/226
-#EXTINF:-1 tvg-id="" tvg-name="Etv INDO" tvg-logo="" group-title="ETV Specials",Etv INDO
-http://mantul.biz.id:8888/294/294/230
-#EXTINF:-1 tvg-id="" tvg-name="Etv Kids" tvg-logo="" group-title="Kids",Etv Kids
-http://mantul.biz.id:8888/294/294/11343
-#EXTINF:-1 tvg-id="" tvg-name="Etv Mix" tvg-logo="" group-title="ETV Specials",Etv Mix
-http://mantul.biz.id:8888/294/294/225
-#EXTINF:-1 tvg-id="" tvg-name="Etv Movie+" tvg-logo="" group-title="ETV Specials",Etv Movie+
-http://mantul.biz.id:8888/294/294/227
-#EXTINF:-1 tvg-id="" tvg-name="Etv Movies" tvg-logo="" group-title="ETV Specials",Etv Movies
-http://mantul.biz.id:8888/294/294/235
-#EXTINF:-1 tvg-id="" tvg-name="Etv Plus" tvg-logo="" group-title="ETV Specials",Etv Plus
-http://mantul.biz.id:8888/294/294/236
-#EXTINF:-1 tvg-id="" tvg-name="Etv Premiere" tvg-logo="" group-title="ETV Specials",Etv Premiere
-http://mantul.biz.id:8888/294/294/1161
-#EXTINF:-1 tvg-id="" tvg-name="Etv Thrill" tvg-logo="" group-title="ETV Specials",Etv Thrill
-http://mantul.biz.id:8888/294/294/5356
-
 #EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Baby First LHD
 http://supersonictv.live:25461/daniela/daniela/21789
 #EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Baby TV
