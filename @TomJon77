@@ -3440,6 +3440,185 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF:-1 tvg-id="SK2.AU" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
+
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BeIN Sports N" tvg-logo="http://51.15.181.146/iconos/nuevo/BEINES.jpg" group-title="SPORTS WIN",BeIN Sports N
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/47
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BeIN Sports EN EspaNol OP2" tvg-logo="http://51.15.181.146/iconos/nuevo/bein.png" group-title="SPORTS WIN",BeIN Sports EN EspaNol OP2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/48
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="BeIN Sports la Liga (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/2ee3eb26f20299659477421a0ae68939.png" group-title="SPORTS WIN",BeIN Sports la Liga (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/49
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="EN | beIN Sports Laliga HD US" tvg-logo="http://51.15.181.146/iconos/nuevo/BEINES.jpg" group-title="SPORTS WIN",EN | beIN Sports Laliga HD US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2401
+#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BeIN Sports N  4K (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/ceb096384dad6d9e03407fb8f239e0ed.jpg" group-title="SPORTS WIN",BeIN Sports N  4K (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13949
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA HD (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" group-title="SPORTS WIN",BEIN SPORTS XTRA HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25091
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA HD (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" group-title="SPORTS WIN",BEIN SPORTS LA LIGA HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25092
+
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN Sports +  HD (CO)" tvg-logo="http://topmv.myq-see.com/WINMAS.jpg" group-title="SPORTS WIN",WIN Sports +  HD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23594
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports + SD (CO)" tvg-logo="http://topmv.myq-see.com/WINMAS.jpg" group-title="SPORTS WIN",Win Sports + SD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23596
+#EXTINF:-1 tvg-id="win.sports.hdtv.winspohd.co" tvg-name="WIN Sports FHD (CO)---" tvg-logo="http://topmv.myq-see.com/WINSPOR.jpg" group-title="SPORTS WIN",WIN Sports FHD (CO)---
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23598
+#EXTINF:-1 tvg-id="" tvg-name="TIGO Sports  FHD (PY)" tvg-logo="http://topmv.myq-see.com/TIGO.png" group-title="SPORTS WIN",TIGO Sports  FHD (PY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23600
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS + HD (GT)" tvg-logo="http://topmv.myq-see.com/TIGOmas.jpg" group-title="SPORTS WIN",TIGO SPORTS + HD (GT)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23603
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS (GT) (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/88fca3ecca088ab66a6a2c7e9022efda.jpg" group-title="SPORTS WIN",TIGO SPORTS (GT) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23604
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HD (CR)" tvg-logo="http://topmv.myq-see.com/TIGO.png" group-title="SPORTS WIN",TIGO SPORTS HD (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23605
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS FHD (HN)" tvg-logo="http://51.222.43.170:36995/skymaster32@/efsdf/240943" group-title="SPORTS WIN",TIGO SPORTS FHD (HN)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23606
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 1 SD (BO)" tvg-logo="http://coresys.dvrdns.org:8080/images/159e8fa4043b1f39955f9498032aff2b.png" group-title="SPORTS WIN",TIGO SPORTS 1 SD (BO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23608
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2 SD (BO) (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/159e8fa4043b1f39955f9498032aff2b.png" group-title="SPORTS WIN",TIGO SPORTS 2 SD (BO) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23609
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 3 SD (BO)" tvg-logo="http://topmv.myq-see.com/TIGO.png" group-title="SPORTS WIN",TIGO SPORTS 3 SD (BO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23610
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS FHD OP2 (CR)" tvg-logo="http://topmv.myq-see.com/TIGO.png" group-title="SPORTS WIN",TIGO SPORTS FHD OP2 (CR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23611
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN Sports + (.CO)" tvg-logo="http://topmv.myq-see.com/WINMAS.jpg" group-title="SPORTS WIN",WIN Sports + (.CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23593
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HD (GT) (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/88fca3ecca088ab66a6a2c7e9022efda.jpg" group-title="SPORTS WIN",TIGO SPORTS HD (GT) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23602
+
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports (PY)" tvg-logo="http://51.15.181.146/iconos/1/TIGOSPORTSN.jpg" group-title="DEPORTES",Tigo Sports (PY)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/9
+#EXTINF:-1 tvg-id="tigosports.py" tvg-name="Tigo Sports 2 (C)" tvg-logo="http://coresys.dvrdns.org:8080/images/7febabcfff4da10e481133e75aa7efdb.jpg" group-title="DEPORTES",Tigo Sports 2 (C)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/10
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 HD (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/7febabcfff4da10e481133e75aa7efdb.jpg" group-title="DEPORTES",Tigo Sports 3 HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/11
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 1 HD (CO)" tvg-logo="http://51.15.181.146/iconos/1/TIGOSPORTSN.jpg" group-title="DEPORTES",Tigo Sports 1 HD (CO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/12
+#EXTINF:-1 tvg-id="I1446.91306.schedulesdirect.org" tvg-name="WWE Net (L)" tvg-logo="http://coresys.dvrdns.org:8080/images/947af30fc5fd1aaf1e0d8899d5d5baee.png" group-title="DEPORTES",WWE Net (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet 360" tvg-logo="http://51.15.181.146/iconos/NHLW.jpg" group-title="DEPORTES",Sportsnet 360
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/18
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East" tvg-logo="http://51.15.181.146/iconos/NHLW.jpg" group-title="DEPORTES",Sportsnet East
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/19
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet One" tvg-logo="http://51.15.181.146/iconos/NHLW.jpg" group-title="DEPORTES",Sportsnet One
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/20
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet World" tvg-logo="http://51.15.181.146/iconos/NHLW.jpg" group-title="DEPORTES",Sportsnet World
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/21
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario" tvg-logo="http://51.15.181.146/iconos/NHLW.jpg" group-title="DEPORTES",Sportsnet Ontario
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/22
+#EXTINF:-1 tvg-id="I407.18801.schedulesdirect.org" tvg-name="Sportsnet Pacific" tvg-logo="http://51.15.181.146/iconos/NHLW.jpg" group-title="DEPORTES",Sportsnet Pacific
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/23
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="http://51.15.181.146/iconos/TSN1.jpg" group-title="DEPORTES",TSN 1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/24
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="http://51.15.181.146/iconos/TSN2.png" group-title="DEPORTES",TSN 2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://51.15.181.146/iconos/TSN3.png" group-title="DEPORTES",TSN 3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/26
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="http://51.15.181.146/iconos/TSN4.png" group-title="DEPORTES",TSN 4
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/27
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5" tvg-logo="http://51.15.181.146/iconos/TSN5.png" group-title="DEPORTES",TSN 5
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28
+#EXTINF:-1 tvg-id="" tvg-name="FUTV FHD (CR) (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/5f5bb1ab2bad8bd6d3954eeda0f8d145.jpg" group-title="DEPORTES",FUTV FHD (CR) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/29
+#EXTINF:-1 tvg-id="" tvg-name="Spectrum SportsNet LA op2" tvg-logo="http://51.15.181.146/iconos/spek.jpg" group-title="DEPORTES",Spectrum SportsNet LA op2
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/31
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="FOX Sports MX" tvg-logo="http://51.15.181.146/iconos/fox%20col.jpg" group-title="DEPORTES",FOX Sports MX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/35
+#EXTINF:-1 tvg-id="Fox Sports 3 (Cono Norte)" tvg-name="FOX Sports 3 MX" tvg-logo="http://51.15.181.146/iconos/FOXPSORS3.jpg" group-title="DEPORTES",FOX Sports 3 MX
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/37
+#EXTINF:-1 tvg-id="I316.61704.schedulesdirect.org" tvg-name="FOX Sports 1  HD (AR) (R)" tvg-logo="http://51.161.14.77/covid/FOXSPORT1.jpg" group-title="DEPORTES",FOX Sports 1  HD (AR) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/38
+#EXTINF:-1 tvg-id="I324.105006.schedulesdirect.org" tvg-name="FOX Sport 3 HD (AR) (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/04ce07501c8e3f2f7f5ce41b9ede000a.jpg" group-title="DEPORTES",FOX Sport 3 HD (AR) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/40
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD" tvg-logo="http://51.161.14.77/covid/directvsports.jpg" group-title="DEPORTES",Directv Sports HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/43
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD" tvg-logo="http://51.161.14.77/covid/DIRECTV.jpg" group-title="DEPORTES",Directv Sports 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/44
+#EXTINF:-1 tvg-id="la.CO-DIRECTV Sports+" tvg-name="Directv Sports + HD (R)" tvg-logo="http://51.161.14.77/covid/DIRECTV.jpg" group-title="DEPORTES",Directv Sports + HD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/45
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (AR)" tvg-logo="http://51.161.14.77/covid/directvsports.jpg" group-title="DEPORTES",Directv Sports HD (AR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/46
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 (BO)" tvg-logo="http://51.15.181.146/iconos/1/TIGOSPORTSN.jpg" group-title="DEPORTES",Tigo Sports 2 (BO)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/55
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 (BO) (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/7febabcfff4da10e481133e75aa7efdb.jpg" group-title="DEPORTES",Tigo Sports 3 (BO) (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/56
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="http://51.15.181.146/iconos/1/TIGOSPORTSN.jpg" group-title="DEPORTES",TNT Sports HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/57
+#EXTINF:-1 tvg-id="" tvg-name="YES Network" tvg-logo="http://coresys.dvrdns.org:8080/images/7469a286259799e5b37e5db9296f00b3.png" group-title="DEPORTES",YES Network
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/59
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://51.15.181.146/iconos/UFC.jpg" group-title="DEPORTES",UFC Fight Pass
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/60
+#EXTINF:-1 tvg-id="" tvg-name="BOX Nation" tvg-logo="http://51.15.181.146/iconos/BOXNATIO.png" group-title="DEPORTES",BOX Nation
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/61
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN 2 MX HD" tvg-logo="http://51.15.181.146/iconos/nuevo/ESPN2.jpg" group-title="DEPORTES",ESPN 2 MX HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/63
+#EXTINF:-1 tvg-id="ESPN-US" tvg-name="ESPN + HD" tvg-logo="http://coresys.dvrdns.org:8080/images/b718d50fb442a0c0d13c3fcf9f96f9e4.jpg" group-title="Deportes HD & SUR",ESPN + HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/65
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes" tvg-logo="" group-title="DEPORTES",ESPN Deportes
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/66
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN (AR)" tvg-logo="http://51.161.14.77/covid/espn.jpg" group-title="DEPORTES",ESPN (AR)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/109
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN 3" tvg-logo="http://legacyplay.myq-see.com/covid/ESPN3.jpg" group-title="DEPORTES",ESPN 3
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/125
+#EXTINF:-1 tvg-id="" tvg-name="F 1 Movistar" tvg-logo="http://51.15.181.146/iconos/F1.jpg" group-title="DEPORTES",F 1 Movistar
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/126
+#EXTINF:-1 tvg-id="I468.32161.schedulesdirect.org" tvg-name="GOLTV US" tvg-logo="http://51.161.14.77/covid/GOLTV.png" group-title="DEPORTES",GOLTV US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/129
+#EXTINF:-1 tvg-id="I468.32161.schedulesdirect.org" tvg-name="Gol TV (EC) (R) (SOLO EVENTOS)" tvg-logo="http://51.161.14.77/covid/GOLECU.jpg" group-title="DEPORTES",Gol TV (EC) (R) (SOLO EVENTOS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/130
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TVC Deportes HD" tvg-logo="http://51.15.181.146/iconos/tvc.jpg" group-title="DEPORTES",TVC Deportes HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/137
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="http://51.15.181.146/iconos/1/TyCsPORTn.jpg" group-title="DEPORTES",TyC Sports HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/139
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network US" tvg-logo="http://51.15.181.146/iconos/1/FIGHTSPORTS.jpg" group-title="DEPORTES",Fight Network US
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/140
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Canal 5  Deportes" tvg-logo="http://51.161.118.171/cover/canal5.jpg" group-title="DEPORTES",Canal 5  Deportes
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/157
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sports F1" tvg-logo="http://51.15.181.146/iconos/F1.jpg" group-title="DEPORTES",SKY Sports F1
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/171
+#EXTINF:-1 tvg-id="" tvg-name="The Golf Channel HD (B)" tvg-logo="http://coresys.dvrdns.org:8080/images/dfcf28d0734569a6a693bc8194de62bf.jpg" group-title="DEPORTES",The Golf Channel HD (B)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/172
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="SKY Sports 21 HD MX (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" group-title="DEPORTES",SKY Sports 21 HD MX (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/749
+#EXTINF:-1 tvg-id="I703.65025.schedulesdirect.org" tvg-name="NFL RedZone HD" tvg-logo="http://legacyplay.myq-see.com/covid/nfl-redzonne.jpg" group-title="DEPORTES",NFL RedZone HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/588
+#EXTINF:-1 tvg-id="I400.59724.schedulesdirect.org" tvg-name="Afiizzionados FHD (R)" tvg-logo="http://legacyplay.myq-see.com/covid/izzi.jpg" group-title="DEPORTES",Afiizzionados FHD (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/683
+#EXTINF:-1 tvg-id="tycsports.us" tvg-name="TyCSport" tvg-logo="http://legacyplay.myq-see.com/covid/tycsports.jpg" group-title="DEPORTES",TyCSport
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/685
+#EXTINF:-1 tvg-id="I465.72189.schedulesdirect.org" tvg-name="FOX Sports Premium HD" tvg-logo="http://legacyplay.myq-see.com/covid/foxsportspremium.jpg" group-title="DEPORTES",FOX Sports Premium HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/692
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN FHD (L)" tvg-logo="http://coresys.dvrdns.org:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.jpg" group-title="DEPORTES",ESPN FHD (L)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/697
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Fox Sports 3 SD Latino" tvg-logo="http://legacyplay.myq-see.com/covid/FOXPSORS3.jpg" group-title="DEPORTES",Fox Sports 3 SD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/701
+#EXTINF:-1 tvg-id="EPG123.16292.schedulesdirect.org" tvg-name="TVC DEPORTES (r)" tvg-logo="http://coresys.dvrdns.org:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" group-title="DEPORTES",TVC DEPORTES (r)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/710
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Fox Sports 2 SD Latino" tvg-logo="http://legacyplay.myq-see.com/covid/FOXSPOER2.jpg" group-title="DEPORTES",Fox Sports 2 SD Latino
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/700
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 FHD" tvg-logo="http://51.15.181.146/iconos/F1.jpg" group-title="DEPORTES",Movistar F1 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7772
+#EXTINF:-1 tvg-id="I217.60316.schedulesdirect.org" tvg-name="Tennis Channel" tvg-logo="http://legacyplay.myq-see.com/covid/tennis.png" group-title="DEPORTES",Tennis Channel
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7866
+#EXTINF:-1 tvg-id="tvg.us" tvg-name="TVG Network East HD" tvg-logo="http://coresys.dvrdns.org:8080/images/37160dfa126bef38d08d283001623854.jpg" group-title="DEPORTES",TVG Network East HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14179
+#EXTINF:-1 tvg-id="" tvg-name=" Spectrum Sportsnet LA" tvg-logo="http://topmv.myq-see.com/agosto/SpectrumSportsnet.png" group-title="DEPORTES", Spectrum Sportsnet LA
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14185
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://topmv.myq-see.com/agosto/eurosports2.jpg" group-title="DEPORTES",EUROSPORT 2 HD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14178
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 1 FHD" tvg-logo="http://coresys.dvrdns.org:8080/images/bd8a154608b3199c00bfc09efc95d2d1.jpg" group-title="DEPORTES",Euro Sports 1 FHD
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/14177
+#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/c63f6d68127314884b151707359d36b3.png" group-title="DEPORTES",World Fishing Network (R)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/12597
+#EXTINF:-1 tvg-id="" tvg-name="arenasport1 (Stadium)" tvg-logo="http://legacyplay.myq-see.com/covid/local/arena.png" group-title="DEPORTES",arenasport1 (Stadium)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/7508
+
+#EXTINF:-1 tvg-id="fight.network.usa.us" tvg-name="4K | Fight  Network US (ENCODER ) (HEVC H.265 / 50 FPS)" tvg-logo="http://148.72.158.127/fight.png" group-title="DEPORTES",4K | Fight  Network US (ENCODER ) (HEVC H.265 / 50 FPS)
+http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/28876
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein premium 1 
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
 
