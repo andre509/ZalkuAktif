@@ -3874,19 +3874,6 @@ https://d127008t0c0m28.cloudfront.net/out/v1/fb3de4f5183d48018454f6ac3a9307a6/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Bein Sport 1
-http://50.7.161.82:8278/streams/d/Beinhd1/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Bein Sport 2
-http://50.7.161.82:8278/streams/d/Beinhd2/playlist.m3u8
-http://185.180.221.194:8278/streams/d/Bein2hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Bein Sport 1
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Bein Sport 2
-https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Bein Sport canada
-http://gooserace.xyz:2052/live/ricky1/ricky1/2473637.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASTRO ARENA
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 http://starshare.live:8080/live/120120/120120/5479.ts
@@ -3902,21 +3889,27 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",ASSP 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Super Sport 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Super Sport 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Super Sport 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF: 0 tvg-id="HD1" group-title="SPORTS WAK" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg",Bein Sports 1 HD
+http://2.alhawalouh.xyz/live/918454578/index.m3u8
+#http://cobraa.in:8000/live/966591212489/360791/3115.m3u8
+#EXTINF: 0 tvg-id="HD2" group-title="SPORTS WAK" tvg-logo=""https://i.postimg.cc/FR9p3BMB/OEX.jpg",Bein Sports 2 HD
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
+#http://cobraa.in:8000/live/966591212489/360791/3116.m3u8
+#EXTINF: 0 tvg-id="HD3" group-title="SPORTS WAK" tvg-logo=""https://i.postimg.cc/FR9p3BMB/OEX.jpg",Bein Sports 3 HD
+http://3.alhawalouh.xyz/live/6151278887/index.m3u8
+#http://cobraa.in:8000/live/966591212489/360791/3117.m3u8
+#EXTINF:-1 group-title="SPORTS WAK" tvg-logo=""https://i.postimg.cc/FR9p3BMB/OEX.jpg",ADU AYAM 
+https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8 
+#EXTINF:-1 group-title="SPORTS WAK" tvg-logo=""https://i.postimg.cc/FR9p3BMB/OEX.jpg",ADU AYAM 2 
+https://z0gdu8jmgu.rtmp-now.com/hls/new.m3u8
 #EXTINF:-1 group-title="SPORTS WAK",MOTV
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Sony Ten 1 HD
-http://103.157.237.18:9000/play/612/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Sony Ten 2 HD
-http://103.157.237.18:9000/play/614/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Sony Ten 3 HD
-http://103.157.237.18:9000/play/616/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Star Sports 1 ba
-http://103.157.237.18:9000/play/601/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Star Sports First
-http://103.157.237.18:9000/play/628/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Star Sports 3
-http://103.157.237.18:9000/play/605/index.m3u8
-
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",FITE
 http://balancer1.ottmex.com:8081/tecno/DiscoverySci.TecnoByte/chunks.m3u8
 #EXTINF:-1 group-title="SPORTS WAK",NFL Network
@@ -3959,12 +3952,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"group-title="SPORTS WAK",Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sony Six
-http://103.157.249.122:5005/play/a058/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sony Ten 1
-http://103.157.249.122:5005/play/a057/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sony Ten 2
-http://72.255.34.227:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK" ,REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Skynetsport HD 
@@ -4018,21 +4005,6 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF:-1 tvg-id="SK2.AU" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-
-#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BeIN Sports N" tvg-logo="http://51.15.181.146/iconos/nuevo/BEINES.jpg" group-title="SPORTS WIN",BeIN Sports N
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/47
-#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BeIN Sports EN EspaNol OP2" tvg-logo="http://51.15.181.146/iconos/nuevo/bein.png" group-title="SPORTS WIN",BeIN Sports EN EspaNol OP2
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/48
-#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="BeIN Sports la Liga (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/2ee3eb26f20299659477421a0ae68939.png" group-title="SPORTS WIN",BeIN Sports la Liga (R)
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/49
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="EN | beIN Sports Laliga HD US" tvg-logo="http://51.15.181.146/iconos/nuevo/BEINES.jpg" group-title="SPORTS WIN",EN | beIN Sports Laliga HD US
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/2401
-#EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BeIN Sports N  4K (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/ceb096384dad6d9e03407fb8f239e0ed.jpg" group-title="SPORTS WIN",BeIN Sports N  4K (R)
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/13949
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA HD (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" group-title="SPORTS WIN",BEIN SPORTS XTRA HD (R)
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25091
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA HD (R)" tvg-logo="http://coresys.dvrdns.org:8080/images/49a7498aecd58c7d7b6d004ffa347430.png" group-title="SPORTS WIN",BEIN SPORTS LA LIGA HD (R)
-http://coresys.dvrdns.org:8080/stalkerportal/UvrHfGiEXE/25092
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS Premium" ,bein premium 1 
