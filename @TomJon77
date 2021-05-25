@@ -1757,6 +1757,634 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
 #EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="LIVE | MEDIA PRIMA",RTB MALAYSIA
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7188
 
+#EXTINF:-1 tvg-id="" tvg-name="|AS| AFN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| AFN HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223434
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ANIMAL PLANET HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223435
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ANIMAX
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223436
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ANIPLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ANIPLUS HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223437
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ARENA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ARENA HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223438
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ASSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ASSP HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223439
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ASSP2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ASSP2 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223440
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ASSP3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ASSP3 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223441
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ASSP4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ASSP4 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223442
+#EXTINF:-1 tvg-id="" tvg-name="|AS| AWANI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| AWANI
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223443
+#EXTINF:-1 tvg-id="" tvg-name="|AS| AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| AXN HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223444
+#EXTINF:-1 tvg-id="" tvg-name="|AS| bEIN MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| bEIN MAX
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223445
+#EXTINF:-1 tvg-id="" tvg-name="|AS| beIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| beIN SPORTS
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223446
+#EXTINF:-1 tvg-id="" tvg-name="|AS| BNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| BNC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223447
+#EXTINF:-1 tvg-id="" tvg-name="|AS| CARTOON NTWK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| CARTOON NTWK HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223448
+#EXTINF:-1 tvg-id="" tvg-name="|AS| CCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| CCM
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223449
+#EXTINF:-1 tvg-id="" tvg-name="|AS| CCTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| CCTV4 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223450
+#EXTINF:-1 tvg-id="" tvg-name="|AS| CERIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| CERIA HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223451
+#EXTINF:-1 tvg-id="" tvg-name="|AS| CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| CGTN
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223452
+#EXTINF:-1 tvg-id="" tvg-name="|AS| CI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| CI HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223453
+#EXTINF:-1 tvg-id="" tvg-name="|AS| CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| CINEMAX HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223454
+#EXTINF:-1 tvg-id="" tvg-name="|AS| COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| COLORS HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223455
+#EXTINF:-1 tvg-id="" tvg-name="|AS| COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| COMEDY CENTRAL
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223456
+#EXTINF:-1 tvg-id="" tvg-name="|AS| DISC SCI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| DISC SCI HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223457
+#EXTINF:-1 tvg-id="" tvg-name="|AS| DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| DISCOVERY HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223458
+#EXTINF:-1 tvg-id="" tvg-name="|AS| DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| DISNEY CHANNEL HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223459
+#EXTINF:-1 tvg-id="" tvg-name="|AS| DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| DISNEY JUNIOR
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223460
+#EXTINF:-1 tvg-id="" tvg-name="|AS| DISNEY XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| DISNEY XD HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223461
+#EXTINF:-1 tvg-id="" tvg-name="|AS| DMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| DMAX HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223462
+#EXTINF:-1 tvg-id="" tvg-name="|AS| DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| DW HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223463
+#EXTINF:-1 tvg-id="" tvg-name="|AS| eGG Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| eGG Network
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223464
+#EXTINF:-1 tvg-id="" tvg-name="|AS| EUROSPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| EUROSPORT HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223465
+#EXTINF:-1 tvg-id="" tvg-name="|AS| FOOD NTWK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| FOOD NTWK HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223466
+#EXTINF:-1 tvg-id="" tvg-name="|AS| FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| FOX SPORTS 2 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223467
+#EXTINF:-1 tvg-id="" tvg-name="|AS| FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| FOX SPORTS 3 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223468
+#EXTINF:-1 tvg-id="" tvg-name="|AS| FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| FOX SPORTS HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223469
+#EXTINF:-1 tvg-id="" tvg-name="|AS| FRANCE24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| FRANCE24 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223470
+#EXTINF:-1 tvg-id="" tvg-name="|AS| GO SHOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| GO SHOP
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223471
+#EXTINF:-1 tvg-id="" tvg-name="|AS| GO SHOP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| GO SHOP 2
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223472
+#EXTINF:-1 tvg-id="" tvg-name="|AS| HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| HBO HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223473
+#EXTINF:-1 tvg-id="" tvg-name="|AS| HELLO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| HELLO
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223474
+#EXTINF:-1 tvg-id="" tvg-name="|AS| HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| HGTV HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223475
+#EXTINF:-1 tvg-id="" tvg-name="|AS| HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| HISTORY HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223476
+#EXTINF:-1 tvg-id="" tvg-name="|AS| HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| HITS HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223477
+#EXTINF:-1 tvg-id="" tvg-name="|AS| HITS MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| HITS MOVIES HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223478
+#EXTINF:-1 tvg-id="" tvg-name="|AS| iQIYI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| iQIYI HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223479
+#EXTINF:-1 tvg-id="" tvg-name="|AS| KBSW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| KBSW HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223480
+#EXTINF:-1 tvg-id="" tvg-name="|AS| KIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| KIX HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223481
+#EXTINF:-1 tvg-id="" tvg-name="|AS| KPLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| KPLUS HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223482
+#EXTINF:-1 tvg-id="" tvg-name="|AS| MAKKAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| MAKKAL TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223483
+#EXTINF:-1 tvg-id="" tvg-name="|AS| MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| MTV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223484
+#EXTINF:-1 tvg-id="" tvg-name="|AS| NAT GEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| NAT GEO HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223485
+#EXTINF:-1 tvg-id="" tvg-name="|AS| NAT GEO PEOPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| NAT GEO PEOPLE
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223486
+#EXTINF:-1 tvg-id="" tvg-name="|AS| NGW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| NGW HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223487
+#EXTINF:-1 tvg-id="" tvg-name="|AS| NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| NICK JR
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223488
+#EXTINF:-1 tvg-id="" tvg-name="|AS| NICKELODEON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| NICKELODEON HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223489
+#EXTINF:-1 tvg-id="" tvg-name="|AS| OASIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| OASIS HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223490
+#EXTINF:-1 tvg-id="" tvg-name="|AS| Oh!K HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| Oh!K HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223491
+#EXTINF:-1 tvg-id="" tvg-name="|AS| ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| ONE HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223492
+#EXTINF:-1 tvg-id="" tvg-name="|AS| PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| PRIMA HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223493
+#EXTINF:-1 tvg-id="" tvg-name="|AS| QUAN JIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| QUAN JIA HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223494
+#EXTINF:-1 tvg-id="" tvg-name="|AS| RIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| RIA HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223495
+#EXTINF:-1 tvg-id="" tvg-name="|AS| SuperSport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| SuperSport 1
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223496
+#EXTINF:-1 tvg-id="" tvg-name="|AS| SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| SuperSport 2
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223497
+#EXTINF:-1 tvg-id="" tvg-name="|AS| SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| SuperSport 3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223498
+#EXTINF:-1 tvg-id="" tvg-name="|AS| SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| SuperSport 4
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223499
+#EXTINF:-1 tvg-id="" tvg-name="|AS| TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| TLC HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223500
+#EXTINF:-1 tvg-id="" tvg-name="|AS| TUTOR TV PT3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| TUTOR TV PT3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223501
+#EXTINF:-1 tvg-id="" tvg-name="|AS| TUTOR TV SPM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| TUTOR TV SPM
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223502
+#EXTINF:-1 tvg-id="" tvg-name="|AS| TUTOR TV UPSR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| TUTOR TV UPSR
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223503
+#EXTINF:-1 tvg-id="" tvg-name="|AS| TV ALHIJRAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| TV ALHIJRAH
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223504
+#EXTINF:-1 tvg-id="" tvg-name="|AS| TVB CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| TVB CLASSIC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223505
+#EXTINF:-1 tvg-id="" tvg-name="|AS| TVIQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| TVIQ
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223506
+#EXTINF:-1 tvg-id="" tvg-name="|AS| tvN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| tvN HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223507
+#EXTINF:-1 tvg-id="" tvg-name="|AS| tvN Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| tvN Movies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223508
+#EXTINF:-1 tvg-id="" tvg-name="|AS| VAANAVIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| VAANAVIL HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223509
+#EXTINF:-1 tvg-id="" tvg-name="|AS| VINMEEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| VINMEEN HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223510
+#EXTINF:-1 tvg-id="" tvg-name="|AS| WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| WARNA HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223511
+#EXTINF:-1 tvg-id="" tvg-name="|AS| WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| WARNER TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223512
+#EXTINF:-1 tvg-id="" tvg-name="|AS| XIAO TAI YANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_logo_-_Magenta_-_Copy.png" group-title="ASIA",|AS| XIAO TAI YANG HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223513
+#EXTINF:-1 tvg-id="" tvg-name="MY 8TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY 8TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223526
+#EXTINF:-1 tvg-id="" tvg-name="MY ABC_AUSTRALIA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ABC_AUSTRALIA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223527
+#EXTINF:-1 tvg-id="" tvg-name="MY ABC_Australia" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ABC_Australia
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223528
+#EXTINF:-1 tvg-id="" tvg-name="MY ABO Movies Tayangan Hebat HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ABO Movies Tayangan Hebat HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223529
+#EXTINF:-1 tvg-id="" tvg-name="MY ABO Movies Thangathirai HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ABO Movies Thangathirai HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223530
+#EXTINF:-1 tvg-id="" tvg-name="MY ADITHYA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ADITHYA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223531
+#EXTINF:-1 tvg-id="" tvg-name="MY AEC_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AEC_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223532
+#EXTINF:-1 tvg-id="" tvg-name="MY AFC" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AFC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223533
+#EXTINF:-1 tvg-id="" tvg-name="MY Aljazeera_Asia" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Aljazeera_Asia
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223534
+#EXTINF:-1 tvg-id="" tvg-name="MY ANIMAL_PLANET_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ANIMAL_PLANET_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223535
+#EXTINF:-1 tvg-id="" tvg-name="MY ANIMAX" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ANIMAX
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223536
+#EXTINF:-1 tvg-id="" tvg-name="MY Animax" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Animax
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223537
+#EXTINF:-1 tvg-id="" tvg-name="MY ANIPLUS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ANIPLUS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223538
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD_351" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AOD_351
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223539
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD_352" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AOD_352
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223540
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD_353" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AOD_353
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223541
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD_362" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AOD_362
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223542
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD_HD 363" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AOD_HD 363
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223543
+#EXTINF:-1 tvg-id="" tvg-name="MY Arabic Radio & TV Variety" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Arabic Radio & TV Variety
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223544
+#EXTINF:-1 tvg-id="" tvg-name="MY ARENA_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ARENA_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223545
+#EXTINF:-1 tvg-id="" tvg-name="MY ARENA_HD_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ARENA_HD_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223546
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Citra HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Citra HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223547
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223548
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport 2" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport 2
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223549
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport 2_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport 2_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223550
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport 3" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport 3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223551
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport 3_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport 3_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223552
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport 4" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport 4
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223553
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport 4_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport 4_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223554
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Supersport_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Supersport_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223555
+#EXTINF:-1 tvg-id="" tvg-name="MY AS Vellithirai" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AS Vellithirai
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223556
+#EXTINF:-1 tvg-id="" tvg-name="MY ASTRO_AURA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ASTRO_AURA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223557
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro_Ceria" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Astro_Ceria
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223558
+#EXTINF:-1 tvg-id="" tvg-name="MY ASTRO_CRICKET" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ASTRO_CRICKET
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223559
+#EXTINF:-1 tvg-id="" tvg-name="MY ASTRO_CRICKET_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ASTRO_CRICKET_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223560
+#EXTINF:-1 tvg-id="" tvg-name="MY ASTRO_RANIA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ASTRO_RANIA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223561
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro_Xiao_Tai_Yang" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Astro_Xiao_Tai_Yang
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223562
+#EXTINF:-1 tvg-id="" tvg-name="MY AWANI" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AWANI
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223563
+#EXTINF:-1 tvg-id="" tvg-name="MY AXN_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY AXN_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223564
+#EXTINF:-1 tvg-id="" tvg-name="MY Baby TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Baby TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223565
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC_Cbeebies" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BBC_Cbeebies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223566
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC_Earth" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BBC_Earth
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223567
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC_Lifestyle" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BBC_Lifestyle
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223568
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC_WORLD_NEWS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BBC_WORLD_NEWS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223569
+#EXTINF:-1 tvg-id="" tvg-name="MY bEIN_MAX" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY bEIN_MAX
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223570
+#EXTINF:-1 tvg-id="" tvg-name="MY bEIN_MAX_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY bEIN_MAX_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223571
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN_SPORTS" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY beIN_SPORTS
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223572
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN_SPORTS_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY beIN_SPORTS_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223573
+#EXTINF:-1 tvg-id="" tvg-name="MY Berita RTM HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Berita RTM HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223574
+#EXTINF:-1 tvg-id="" tvg-name="MY BLOOMBERG_TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BLOOMBERG_TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223575
+#EXTINF:-1 tvg-id="" tvg-name="MY Blue_ant_Entertainment" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Blue_ant_Entertainment
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223576
+#EXTINF:-1 tvg-id="" tvg-name="MY Blue_ant_Extreme" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Blue_ant_Extreme
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223577
+#EXTINF:-1 tvg-id="" tvg-name="MY BNC" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BNC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223578
+#EXTINF:-1 tvg-id="" tvg-name="MY BOLLYONE_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BOLLYONE_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223579
+#EXTINF:-1 tvg-id="" tvg-name="MY BOLLYONE_HD_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BOLLYONE_HD_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223580
+#EXTINF:-1 tvg-id="" tvg-name="MY BOO HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BOO HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223581
+#EXTINF:-1 tvg-id="" tvg-name="MY BOOMERANG" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY BOOMERANG
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223582
+#EXTINF:-1 tvg-id="" tvg-name="MY Boomerang" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Boomerang
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223583
+#EXTINF:-1 tvg-id="" tvg-name="MY CARTOON_NTWK" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CARTOON_NTWK
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223584
+#EXTINF:-1 tvg-id="" tvg-name="MY CCM" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CCM
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223585
+#EXTINF:-1 tvg-id="" tvg-name="MY CCTV4" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CCTV4
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223586
+#EXTINF:-1 tvg-id="" tvg-name="MY CELESTIAL_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CELESTIAL_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223587
+#EXTINF:-1 tvg-id="" tvg-name="MY CGTN" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CGTN
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223588
+#EXTINF:-1 tvg-id="" tvg-name="MY Channel_News_Asia" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Channel_News_Asia
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223589
+#EXTINF:-1 tvg-id="" tvg-name="MY Choice" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Choice
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223590
+#EXTINF:-1 tvg-id="" tvg-name="MY CHUTTI_TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CHUTTI_TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223591
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMAX_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CINEMAX_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223592
+#EXTINF:-1 tvg-id="" tvg-name="MY Cinema_World" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Cinema_World
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223593
+#EXTINF:-1 tvg-id="" tvg-name="MY CNA_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CNA_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223594
+#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CNBC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223595
+#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CNBC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223596
+#EXTINF:-1 tvg-id="" tvg-name="MY CNN_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CNN_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223597
+#EXTINF:-1 tvg-id="" tvg-name="MY COLORS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY COLORS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223598
+#EXTINF:-1 tvg-id="" tvg-name="MY COLORS_TAMIL" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY COLORS_TAMIL
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223599
+#EXTINF:-1 tvg-id="" tvg-name="MY Colors_Tamil" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Colors_Tamil
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223600
+#EXTINF:-1 tvg-id="" tvg-name="MY Comedy_Central" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Comedy_Central
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223601
+#EXTINF:-1 tvg-id="" tvg-name="MY Crime Investigation_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Crime Investigation_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223602
+#EXTINF:-1 tvg-id="" tvg-name="MY CTI_ASIA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY CTI_ASIA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223603
+#EXTINF:-1 tvg-id="" tvg-name="MY DISCOVERY_ASIA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY DISCOVERY_ASIA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223604
+#EXTINF:-1 tvg-id="" tvg-name="MY DISCOVERY_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY DISCOVERY_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223605
+#EXTINF:-1 tvg-id="" tvg-name="MY DISC_SCI_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY DISC_SCI_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223606
+#EXTINF:-1 tvg-id="" tvg-name="MY DISNEY_JUNIOR" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY DISNEY_JUNIOR
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223607
+#EXTINF:-1 tvg-id="" tvg-name="MY DMAX_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY DMAX_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223608
+#EXTINF:-1 tvg-id="" tvg-name="MY Dreamworks" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Dreamworks
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223609
+#EXTINF:-1 tvg-id="" tvg-name="MY Dunia_Sinema" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Dunia_Sinema
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223610
+#EXTINF:-1 tvg-id="" tvg-name="MY DW" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY DW
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223611
+#EXTINF:-1 tvg-id="" tvg-name="MY DW_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY DW_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223612
+#EXTINF:-1 tvg-id="" tvg-name="MY EGG Plus HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY EGG Plus HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223613
+#EXTINF:-1 tvg-id="" tvg-name="MY eGG_Network" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY eGG_Network
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223614
+#EXTINF:-1 tvg-id="" tvg-name="MY Euronews" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Euronews
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223615
+#EXTINF:-1 tvg-id="" tvg-name="MY EUROSPORT_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY EUROSPORT_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223616
+#EXTINF:-1 tvg-id="" tvg-name="MY FOOD_NTWK_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOOD_NTWK_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223617
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223618
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox_Action_Movies" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Fox_Action_Movies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223619
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox_Family_Movies" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Fox_Family_Movies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223620
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox_Life" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Fox_Life
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223621
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox_Movies" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Fox_Movies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223622
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_Sports1" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_Sports1
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223623
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_Sports2" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_Sports2
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223624
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_Sports3" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_Sports3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223625
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_SPORTS_2_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_SPORTS_2_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223626
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_SPORTS_2_HD_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_SPORTS_2_HD_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223627
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_SPORTS_3_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_SPORTS_3_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223628
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_SPORTS_3_HD_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_SPORTS_3_HD_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223629
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_SPORTS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_SPORTS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223630
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX_SPORTS_HD_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FOX_SPORTS_HD_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223631
+#EXTINF:-1 tvg-id="" tvg-name="MY France24" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY France24
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223632
+#EXTINF:-1 tvg-id="" tvg-name="MY FRANCE24_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FRANCE24_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223633
+#EXTINF:-1 tvg-id="" tvg-name="MY FX_Cinema" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY FX_Cinema
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223634
+#EXTINF:-1 tvg-id="" tvg-name="MY GO Shop 4" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY GO Shop 4
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223635
+#EXTINF:-1 tvg-id="" tvg-name="MY GOLF_CHANNEL_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY GOLF_CHANNEL_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223636
+#EXTINF:-1 tvg-id="" tvg-name="MY GOLF_CHANNEL_HD_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY GOLF_CHANNEL_HD_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223637
+#EXTINF:-1 tvg-id="" tvg-name="MY GO_SHOP" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY GO_SHOP
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223638
+#EXTINF:-1 tvg-id="" tvg-name="MY GO_SHOP_2" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY GO_SHOP_2
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223639
+#EXTINF:-1 tvg-id="" tvg-name="MY GO_SHOP_3" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY GO_SHOP_3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223640
+#EXTINF:-1 tvg-id="" tvg-name="MY Harapan_100" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Harapan_100
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223641
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HBO
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223642
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HBO_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223643
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO_RED" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HBO_RED
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223644
+#EXTINF:-1 tvg-id="" tvg-name="MY HELLO" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HELLO
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223645
+#EXTINF:-1 tvg-id="" tvg-name="MY HGTV_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HGTV_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223646
+#EXTINF:-1 tvg-id="" tvg-name="MY HISTORY_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HISTORY_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223647
+#EXTINF:-1 tvg-id="" tvg-name="MY Hits Movies" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Hits Movies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223648
+#EXTINF:-1 tvg-id="" tvg-name="MY HITS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HITS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223649
+#EXTINF:-1 tvg-id="" tvg-name="MY HUA_HEE_DAI_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY HUA_HEE_DAI_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223650
+#EXTINF:-1 tvg-id="" tvg-name="MY Hypp_Flicks_Plus" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Hypp_Flicks_Plus
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223651
+#EXTINF:-1 tvg-id="" tvg-name="MY Hypp_Inspirasi" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Hypp_Inspirasi
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223652
+#EXTINF:-1 tvg-id="" tvg-name="MY Hypp_Sensasi" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Hypp_Sensasi
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223653
+#EXTINF:-1 tvg-id="" tvg-name="MY iQIYI_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY iQIYI_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223654
+#EXTINF:-1 tvg-id="" tvg-name="MY Jaya_Max" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Jaya_Max
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223655
+#EXTINF:-1 tvg-id="" tvg-name="MY KBSW_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY KBSW_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223656
+#EXTINF:-1 tvg-id="" tvg-name="MY KCON TACT 3" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY KCON TACT 3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223657
+#EXTINF:-1 tvg-id="" tvg-name="MY KIX_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY KIX_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223658
+#EXTINF:-1 tvg-id="" tvg-name="MY KPLUS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY KPLUS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223659
+#EXTINF:-1 tvg-id="" tvg-name="MY Laku_Mall" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Laku_Mall
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223660
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_1_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY LIVE_Astro_SuperSport_Events_1_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223661
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_2_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY LIVE_Astro_SuperSport_Events_2_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223662
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_3_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY LIVE_Astro_SuperSport_Events_3_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223663
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_4_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY LIVE_Astro_SuperSport_Events_4_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223664
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_5_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY LIVE_Astro_SuperSport_Events_5_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223665
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_6_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY LIVE_Astro_SuperSport_Events_6_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223666
+#EXTINF:-1 tvg-id="" tvg-name="MY Love Nature" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Love Nature
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223667
+#EXTINF:-1 tvg-id="" tvg-name="MY LuxeTV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY LuxeTV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223668
+#EXTINF:-1 tvg-id="" tvg-name="MY MAKKAL_TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY MAKKAL_TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223669
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY MTV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223670
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV_Asia" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY MTV_Asia
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223671
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat_Geo" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Nat_Geo
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223672
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat_Geo_Asia" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Nat_Geo_Asia
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223673
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat_Geo_People" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Nat_Geo_People
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223674
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat_Geo_People" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Nat_Geo_People
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223675
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat_Geo_Wild" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Nat_Geo_Wild
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223676
+#EXTINF:-1 tvg-id="" tvg-name="MY NAURA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY NAURA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223677
+#EXTINF:-1 tvg-id="" tvg-name="MY NGW_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY NGW_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223678
+#EXTINF:-1 tvg-id="" tvg-name="MY NHK_World_Japan" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY NHK_World_Japan
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223679
+#EXTINF:-1 tvg-id="" tvg-name="MY Nick JR" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Nick JR
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223680
+#EXTINF:-1 tvg-id="" tvg-name="MY NICKELODEON" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY NICKELODEON
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223681
+#EXTINF:-1 tvg-id="" tvg-name="MY NickJR_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY NickJR_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223682
+#EXTINF:-1 tvg-id="" tvg-name="MY Now_Chinesa_Drama" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Now_Chinesa_Drama
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223683
+#EXTINF:-1 tvg-id="" tvg-name="MY Now_Jelli" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Now_Jelli
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223684
+#EXTINF:-1 tvg-id="" tvg-name="MY NTV7" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY NTV7
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223685
+#EXTINF:-1 tvg-id="" tvg-name="MY NTV7" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY NTV7
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223686
+#EXTINF:-1 tvg-id="" tvg-name="MY OASIS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY OASIS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223687
+#EXTINF:-1 tvg-id="" tvg-name="MY Oh!K_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Oh!K_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223688
+#EXTINF:-1 tvg-id="" tvg-name="MY Okey HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Okey HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223689
+#EXTINF:-1 tvg-id="" tvg-name="MY ONE_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ONE_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223690
+#EXTINF:-1 tvg-id="" tvg-name="MY Paramaunt_Channel" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Paramaunt_Channel
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223691
+#EXTINF:-1 tvg-id="" tvg-name="MY Parlimen RTM Dewan Rakyat 2 HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Parlimen RTM Dewan Rakyat 2 HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223692
+#EXTINF:-1 tvg-id="" tvg-name="MY Parlimen RTM Dewan Rakyat HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Parlimen RTM Dewan Rakyat HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223693
+#EXTINF:-1 tvg-id="" tvg-name="MY Pesona" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Pesona
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223694
+#EXTINF:-1 tvg-id="" tvg-name="MY Phoenix_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Phoenix_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223695
+#EXTINF:-1 tvg-id="" tvg-name="MY Phoenix_News_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Phoenix_News_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223696
+#EXTINF:-1 tvg-id="" tvg-name="MY Polimer_News" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Polimer_News
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223697
+#EXTINF:-1 tvg-id="" tvg-name="MY PRIMA_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY PRIMA_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223698
+#EXTINF:-1 tvg-id="" tvg-name="MY QUAN_JIA_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY QUAN_JIA_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223699
+#EXTINF:-1 tvg-id="" tvg-name="MY RIA_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY RIA_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223700
+#EXTINF:-1 tvg-id="" tvg-name="MY RUGBY_PASS" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY RUGBY_PASS
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223701
+#EXTINF:-1 tvg-id="" tvg-name="MY RUGBY_PASS_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY RUGBY_PASS_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223702
+#EXTINF:-1 tvg-id="" tvg-name="MY Salam" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Salam
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223703
+#EXTINF:-1 tvg-id="" tvg-name="MY SCM" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY SCM
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223704
+#EXTINF:-1 tvg-id="" tvg-name="MY SCM_Legend" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY SCM_Legend
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223705
+#EXTINF:-1 tvg-id="" tvg-name="MY SETI" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY SETI
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223706
+#EXTINF:-1 tvg-id="" tvg-name="MY SHUANG_XING_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY SHUANG_XING_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223707
+#EXTINF:-1 tvg-id="" tvg-name="MY Sky_News" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Sky_News
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223708
+#EXTINF:-1 tvg-id="" tvg-name="MY SKY_NEWS_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY SKY_NEWS_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223709
+#EXTINF:-1 tvg-id="" tvg-name="MY Sony_Max" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Sony_Max
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223710
+#EXTINF:-1 tvg-id="" tvg-name="MY Sony_Sab" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Sony_Sab
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223711
+#EXTINF:-1 tvg-id="" tvg-name="MY Sony_Set" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Sony_Set
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223712
+#EXTINF:-1 tvg-id="" tvg-name="MY Star_Chinese_Channel" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Star_Chinese_Channel
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223713
+#EXTINF:-1 tvg-id="" tvg-name="MY STAR_VIJAY_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY STAR_VIJAY_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223714
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN_MUSIC" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY SUN_MUSIC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223715
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN_TV_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY SUN_TV_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223716
+#EXTINF:-1 tvg-id="" tvg-name="MY TA-DAA!" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TA-DAA!
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223717
+#EXTINF:-1 tvg-id="" tvg-name="MY TLC_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TLC_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223718
+#EXTINF:-1 tvg-id="" tvg-name="MY Travel_Channel" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Travel_Channel
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223719
+#EXTINF:-1 tvg-id="" tvg-name="MY TUTOR_TV_PT3" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TUTOR_TV_PT3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223720
+#EXTINF:-1 tvg-id="" tvg-name="MY TUTOR_TV_SPM" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TUTOR_TV_SPM
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223721
+#EXTINF:-1 tvg-id="" tvg-name="MY TUTOR_TV_UPSR" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TUTOR_TV_UPSR
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223722
+#EXTINF:-1 tvg-id="" tvg-name="MY TV Alhijrah" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV Alhijrah
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223723
+#EXTINF:-1 tvg-id="" tvg-name="MY TV OKEY" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV OKEY
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223724
+#EXTINF:-1 tvg-id="" tvg-name="MY TV Sukan HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV Sukan HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223725
+#EXTINF:-1 tvg-id="" tvg-name="MY TV1" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV1
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223726
+#EXTINF:-1 tvg-id="" tvg-name="MY TV1 HD (Backup)" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV1 HD (Backup)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223727
+#EXTINF:-1 tvg-id="" tvg-name="MY TV2" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV2
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223728
+#EXTINF:-1 tvg-id="" tvg-name="MY TV2 HD (Backup)" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV2 HD (Backup)
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223729
+#EXTINF:-1 tvg-id="" tvg-name="MY TV3" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223730
+#EXTINF:-1 tvg-id="" tvg-name="MY TV3" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV3
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223731
+#EXTINF:-1 tvg-id="" tvg-name="MY TV8" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV8
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223732
+#EXTINF:-1 tvg-id="" tvg-name="MY TV9" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV9
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223733
+#EXTINF:-1 tvg-id="" tvg-name="MY TV9" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV9
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223734
+#EXTINF:-1 tvg-id="" tvg-name="MY TVBS_ASIA" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVBS_ASIA
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223735
+#EXTINF:-1 tvg-id="" tvg-name="MY TVBS_News" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVBS_News
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223736
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB_CLASSIC" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVB_CLASSIC
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223737
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB_E-NEWS" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVB_E-NEWS
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223738
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB_JADE" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVB_JADE
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223739
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB_News" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVB_News
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223740
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB_XING_HE" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVB_XING_HE
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223741
+#EXTINF:-1 tvg-id="" tvg-name="MY TVIQ" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVIQ
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223742
+#EXTINF:-1 tvg-id="" tvg-name="MY TVN" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVN
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223743
+#EXTINF:-1 tvg-id="" tvg-name="MY tvN_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY tvN_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223744
+#EXTINF:-1 tvg-id="" tvg-name="MY tvN_Movies" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY tvN_Movies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223745
+#EXTINF:-1 tvg-id="" tvg-name="MY TVN_Movies" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVN_Movies
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223746
+#EXTINF:-1 tvg-id="" tvg-name="MY TVS" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TVS
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223747
+#EXTINF:-1 tvg-id="" tvg-name="MY TV_ALHIJRAH" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY TV_ALHIJRAH
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223748
+#EXTINF:-1 tvg-id="" tvg-name="MY VAANAVIL" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY VAANAVIL
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223749
+#EXTINF:-1 tvg-id="" tvg-name="MY VINMEEN_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY VINMEEN_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223750
+#EXTINF:-1 tvg-id="" tvg-name="MY WARNA_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY WARNA_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223751
+#EXTINF:-1 tvg-id="" tvg-name="MY WARNERTV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY WARNERTV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223752
+#EXTINF:-1 tvg-id="" tvg-name="MY WARNER_TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY WARNER_TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223753
+#EXTINF:-1 tvg-id="" tvg-name="MY WWE_NETWORK" tvg-logo="https://theovertimer.com/wp-content/uploads/2019/12/WWENetwork-750x430.jpg" group-title="ASIA",MY WWE_NETWORK
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223754
+#EXTINF:-1 tvg-id="" tvg-name="MY WWE_NETWORK_50fps" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY WWE_NETWORK_50fps
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223755
+#EXTINF:-1 tvg-id="" tvg-name="MY Yupp_Thirai_hd" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Yupp_Thirai_hd
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223756
+#EXTINF:-1 tvg-id="" tvg-name="MY Zee TV" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Zee TV
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223757
+#EXTINF:-1 tvg-id="" tvg-name="MY Zee_Cinema" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY Zee_Cinema
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223758
+#EXTINF:-1 tvg-id="" tvg-name="MY ZEE_TAMIL_HD" tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Malaysia-icon.png" group-title="ASIA",MY ZEE_TAMIL_HD
+http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/223759
 
 
 
