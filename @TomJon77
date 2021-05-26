@@ -3,16 +3,16 @@
 #EXTINF:-1 tvg-id="NULL" tvg-name="|RU| COVID-19 INFORMATION" tvg-logo="http://tv.iptvboss.net/ch_logo/covid.png" group-title="INFO COVID",COVID-19 INFORMATION
 http://geostream.me:8080/Ibrahim/Ibrahim/38446
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CCTV",HLS Stream 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CTV",HLS Stream 1
 https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CCTV",HLS Stream 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CTV",HLS Stream 2
 https://foxedge-lh.akamaihd.net/i/EDGE2_1@320289/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CCTV",HLS Stream 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CTV",HLS Stream 3
 https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CCTV",HLS Stream 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CTV",HLS Stream 4
 https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8
 
 
@@ -2107,6 +2107,53 @@ http://supersonictv.live:25461/daniela/daniela/21810
 http://supersonictv.live:25461/daniela/daniela/21811
 #EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Universal Kids
 http://supersonictv.live:25461/daniela/daniela/21812
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",SONY PIX HD
+http://geostream.me:8080/Ibrahim/Ibrahim/15570
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",SONY PIX HD-1
+http://geostream.me:8080/Ibrahim/Ibrahim/34470
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",ZEE BIOSKOP
+http://geostream.me:8080/Ibrahim/Ibrahim/34217
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",Sony Max HD
+http://supersonictv.live:25461/daniela/daniela/72035
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",Sony Max HD
+http://supersonictv.live:25461/daniela/daniela/72104
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",Sony Pix HD
+http://supersonictv.live:25461/daniela/daniela/72126
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",Movies Now HD
+http://supersonictv.live:25461/daniela/daniela/72133
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",Star World Premier HD
+http://supersonictv.live:25461/daniela/daniela/72187
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",ZEE CINEMA USA
+http://geostream.me:8080/Ibrahim/Ibrahim/34508
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",HBO Asia HD
+http://geostream.me:8080/Ibrahim/Ibrahim/10909
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",HBO Family
+http://geostream.me:8080/Ibrahim/Ibrahim/10898
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",HBO Hits
+http://geostream.me:8080/Ibrahim/Ibrahim/10895
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",HBO Signature
+http://geostream.me:8080/Ibrahim/Ibrahim/10894
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",HBO thai
+http://geostream.me:8080/Ibrahim/Ibrahim/10893
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",True Film 1 HD
+http://geostream.me:8080/Ibrahim/Ibrahim/42643
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",True Film 2 HD
+http://geostream.me:8080/Ibrahim/Ibrahim/42644
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",TLC
+http://geostream.me:8080/Ibrahim/Ibrahim/34472
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",TLC ENG
+http://geostream.me:8080/Ibrahim/Ibrahim/34216
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",TLC WORLD HD
+http://geostream.me:8080/Ibrahim/Ibrahim/16084
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",TLC WORLD HD ENG
+http://geostream.me:8080/Ibrahim/Ibrahim/34473
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE STREAM",TRAVEL XP ENG HD
+http://geostream.me:8080/Ibrahim/Ibrahim/34501
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name=" Zee Cinema 4k" tvg-logo="https://static.epg.best/in/ZeeCinema.in.png" group-title="INDIAN", Zee Cinema 4k
