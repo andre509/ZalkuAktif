@@ -83,6 +83,42 @@ https://delivery.serveraku-rasyid.xyz/stream/id_tvri/playlist.m3u8?token=k2zf0&v
 https://delivery.serveraku-rasyid.xyz/stream/jowo/playlist.m3u8?token=k2zf0&v=20200807
 
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",METRO TV
+http://103.88.170.102:8000/play/metrotv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",KOMPAS TV
+http://103.88.170.102:8000/play/kompastv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",TV ONE
+http://103.88.170.102:8000/play/tvone/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",NET
+http://103.88.170.102:8000/play/net/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",SCTV
+http://103.88.170.102:8000/play/sctv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",INDOSIAR
+http://103.88.170.102:8000/play/indosiar/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",TRANS 7
+http://103.88.170.102:8000/play/trans7/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",TRANS TV
+http://103.88.170.102:8000/play/transtv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",AXN
+http://103.88.170.102:8000/play/axn/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",GTV
+http://103.88.170.102:8000/play/gtv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",ZEE BIOSKOP
+http://103.88.170.102:8000/play/zeebioskop/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",RCTI
+http://103.88.170.102:8000/play/rcti/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",MNC TV
+http://103.88.170.102:8000/play/mnctv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",ANTV
+http://103.88.170.102:8000/play/antv/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",TVRI
+http://103.88.170.102:8000/play/tvri/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",TVN
+http://103.88.170.102:8000/play/tvn/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CH LOKAL",ALL SPORT
+http://103.88.170.102:8000/play/tlc/index.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", RCTI
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Indonesia 1", SCTV
