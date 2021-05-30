@@ -1030,6 +1030,297 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASSP4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: 8TV" tvg-logo="" group-title="MALAYSIA",MY: 8TV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100048
+#EXTINF:-1 tvg-id="" tvg-name="MY: [BRUNEI] RTB Sukmaindera" tvg-logo="" group-title="MALAYSIA",MY: [BRUNEI] RTB Sukmaindera
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135482
+#EXTINF:-1 tvg-id="" tvg-name="MY: ABC AUSTRALIA" tvg-logo="" group-title="MALAYSIA",MY: ABC AUSTRALIA
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100023
+#EXTINF:-1 tvg-id="" tvg-name="MY: ABO Movie Thangathirai" tvg-logo="" group-title="MALAYSIA",MY: ABO Movie Thangathirai
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100078
+#EXTINF:-1 tvg-id="" tvg-name="MY: ABO Tayangan Hebat" tvg-logo="" group-title="MALAYSIA",MY: ABO Tayangan Hebat
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100079
+#EXTINF:-1 tvg-id="" tvg-name="MY: Adithya" tvg-logo="" group-title="MALAYSIA",MY: Adithya
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135463
+#EXTINF:-1 tvg-id="" tvg-name="MY: AFN HD" tvg-logo="" group-title="MALAYSIA",MY: AFN HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100039
+#EXTINF:-1 tvg-id="" tvg-name="MY: AL JAZEERA HD" tvg-logo="" group-title="MALAYSIA",MY: AL JAZEERA HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100018
+#EXTINF:-1 tvg-id="" tvg-name="MY: ANIMAX HD" tvg-logo="" group-title="MALAYSIA",MY: ANIMAX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/136471
+#EXTINF:-1 tvg-id="" tvg-name="MY: AOD 351 HD" tvg-logo="" group-title="MALAYSIA",MY: AOD 351 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100012
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Aura" tvg-logo="" group-title="MALAYSIA",MY: ASTRO Aura
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135468
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Awani" tvg-logo="" group-title="MALAYSIA",MY: ASTRO Awani
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135469
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Ceria" tvg-logo="" group-title="MALAYSIA",MY: ASTRO Ceria
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135470
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Hello" tvg-logo="" group-title="MALAYSIA",MY: ASTRO Hello
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61561
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Rania" tvg-logo="" group-title="MALAYSIA",MY: ASTRO Rania
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61564
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO VAANAVIL HD" tvg-logo="" group-title="MALAYSIA",MY: ASTRO VAANAVIL HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/136473
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO Vinmeen HD" tvg-logo="" group-title="MALAYSIA",MY: ASTRO Vinmeen HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135473
+#EXTINF:-1 tvg-id="" tvg-name="MY: Baby TV" tvg-logo="" group-title="MALAYSIA",MY: Baby TV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100051
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC Earth HD" tvg-logo="" group-title="MALAYSIA",MY: BBC Earth HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100052
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC Lifestyle" tvg-logo="" group-title="MALAYSIA",MY: BBC Lifestyle
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100053
+#EXTINF:-1 tvg-id="" tvg-name="MY: BBC News HD" tvg-logo="" group-title="MALAYSIA",MY: BBC News HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100017
+#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="" group-title="MALAYSIA",MY: beIN Sports
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135474
+#EXTINF:-1 tvg-id="" tvg-name="MY: Bernama News" tvg-logo="" group-title="MALAYSIA",MY: Bernama News
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135475
+#EXTINF:-1 tvg-id="" tvg-name="MY: BOLLYONE HD" tvg-logo="" group-title="MALAYSIA",MY: BOLLYONE HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100009
+#EXTINF:-1 tvg-id="" tvg-name="MY: Boomerang HD" tvg-logo="" group-title="MALAYSIA",MY: Boomerang HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100054
+#EXTINF:-1 tvg-id="" tvg-name="MY: C&I HD" tvg-logo="" group-title="MALAYSIA",MY: C&I HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100040
+#EXTINF:-1 tvg-id="" tvg-name="MY: CCTV4 HD" tvg-logo="" group-title="MALAYSIA",MY: CCTV4 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100013
+#EXTINF:-1 tvg-id="" tvg-name="MY: Celestial Movies HD" tvg-logo="" group-title="MALAYSIA",MY: Celestial Movies HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135476
+#EXTINF:-1 tvg-id="" tvg-name="MY: CGTN" tvg-logo="" group-title="MALAYSIA",MY: CGTN
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100015
+#EXTINF:-1 tvg-id="" tvg-name="MY: CHUTTI TV" tvg-logo="" group-title="MALAYSIA",MY: CHUTTI TV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100005
+#EXTINF:-1 tvg-id="" tvg-name="MY: CNA HD" tvg-logo="" group-title="MALAYSIA",MY: CNA HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100020
+#EXTINF:-1 tvg-id="" tvg-name="MY: CNBC" tvg-logo="" group-title="MALAYSIA",MY: CNBC
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100021
+#EXTINF:-1 tvg-id="" tvg-name="MY: CNN HD" tvg-logo="" group-title="MALAYSIA",MY: CNN HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100016
+#EXTINF:-1 tvg-id="" tvg-name="MY: Colors Cineplex" tvg-logo="" group-title="MALAYSIA",MY: Colors Cineplex
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100056
+#EXTINF:-1 tvg-id="" tvg-name="MY: Colors Tamil" tvg-logo="" group-title="MALAYSIA",MY: Colors Tamil
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135471
+#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Science HD" tvg-logo="" group-title="MALAYSIA",MY: Discovery Science HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135477
+#EXTINF:-1 tvg-id="" tvg-name="MY: DISNEY CHANNEL HD" tvg-logo="" group-title="MALAYSIA",MY: DISNEY CHANNEL HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100031
+#EXTINF:-1 tvg-id="" tvg-name="MY: DISNEY JUNIOR" tvg-logo="" group-title="MALAYSIA",MY: DISNEY JUNIOR
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100030
+#EXTINF:-1 tvg-id="" tvg-name="MY: DISNEY XD HD" tvg-logo="" group-title="MALAYSIA",MY: DISNEY XD HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100029
+#EXTINF:-1 tvg-id="" tvg-name="MY: Drama Sangat" tvg-logo="" group-title="MALAYSIA",MY: Drama Sangat
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100050
+#EXTINF:-1 tvg-id="" tvg-name="MY: Dreamworks HD" tvg-logo="" group-title="MALAYSIA",MY: Dreamworks HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100057
+#EXTINF:-1 tvg-id="" tvg-name="MY: DUNIA SINEMA HD" tvg-logo="" group-title="MALAYSIA",MY: DUNIA SINEMA HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/136472
+#EXTINF:-1 tvg-id="" tvg-name="MY: DW HD" tvg-logo="" group-title="MALAYSIA",MY: DW HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100043
+#EXTINF:-1 tvg-id="" tvg-name="MY: Fox family movies" tvg-logo="" group-title="MALAYSIA",MY: Fox family movies
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/75958
+#EXTINF:-1 tvg-id="" tvg-name="MY: Fox Movies Action HD" tvg-logo="" group-title="MALAYSIA",MY: Fox Movies Action HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/136477
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX Movies HD" tvg-logo="" group-title="MALAYSIA",MY: FOX Movies HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100060
+#EXTINF:-1 tvg-id="" tvg-name="MY: France 24 HD" tvg-logo="" group-title="MALAYSIA",MY: France 24 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135478
+#EXTINF:-1 tvg-id="" tvg-name="MY: FX Cinema HD" tvg-logo="" group-title="MALAYSIA",MY: FX Cinema HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100061
+#EXTINF:-1 tvg-id="" tvg-name="MY: GO SHOP 2" tvg-logo="" group-title="MALAYSIA",MY: GO SHOP 2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100011
+#EXTINF:-1 tvg-id="" tvg-name="MY: HGTV HD" tvg-logo="" group-title="MALAYSIA",MY: HGTV HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100041
+#EXTINF:-1 tvg-id="" tvg-name="MY: iQIYI HD" tvg-logo="" group-title="MALAYSIA",MY: iQIYI HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100010
+#EXTINF:-1 tvg-id="" tvg-name="MY: Jaya Max" tvg-logo="" group-title="MALAYSIA",MY: Jaya Max
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135479
+#EXTINF:-1 tvg-id="" tvg-name="MY: KPLUS HD" tvg-logo="" group-title="MALAYSIA",MY: KPLUS HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100042
+#EXTINF:-1 tvg-id="" tvg-name="MY: MTV Asia" tvg-logo="" group-title="MALAYSIA",MY: MTV Asia
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100062
+#EXTINF:-1 tvg-id="" tvg-name="MY: MTV NOW" tvg-logo="" group-title="MALAYSIA",MY: MTV NOW
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/136476
+#EXTINF:-1 tvg-id="" tvg-name="MY: NatGeo Asia HD" tvg-logo="" group-title="MALAYSIA",MY: NatGeo Asia HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100063
+#EXTINF:-1 tvg-id="" tvg-name="MY: NatGeo HD" tvg-logo="" group-title="MALAYSIA",MY: NatGeo HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135480
+#EXTINF:-1 tvg-id="" tvg-name="MY: Now Jelli" tvg-logo="" group-title="MALAYSIA",MY: Now Jelli
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100065
+#EXTINF:-1 tvg-id="" tvg-name="MY: NTV7" tvg-logo="" group-title="MALAYSIA",MY: NTV7
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61680
+#EXTINF:-1 tvg-id="" tvg-name="MY: Paramount Channel" tvg-logo="" group-title="MALAYSIA",MY: Paramount Channel
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100066
+#EXTINF:-1 tvg-id="" tvg-name="MY: Pesona HD" tvg-logo="" group-title="MALAYSIA",MY: Pesona HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100067
+#EXTINF:-1 tvg-id="" tvg-name="MY: RTM Sports" tvg-logo="" group-title="MALAYSIA",MY: RTM Sports
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100064
+#EXTINF:-1 tvg-id="" tvg-name="MY: Salaam HD" tvg-logo="" group-title="MALAYSIA",MY: Salaam HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100068
+#EXTINF:-1 tvg-id="" tvg-name="MY: SCM Legend" tvg-logo="" group-title="MALAYSIA",MY: SCM Legend
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100069
+#EXTINF:-1 tvg-id="" tvg-name="MY: SETi Chinese" tvg-logo="" group-title="MALAYSIA",MY: SETi Chinese
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100071
+#EXTINF:-1 tvg-id="" tvg-name="MY: SKY NEWS HD" tvg-logo="" group-title="MALAYSIA",MY: SKY NEWS HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100019
+#EXTINF:-1 tvg-id="" tvg-name="MY: Sony SAB" tvg-logo="" group-title="MALAYSIA",MY: Sony SAB
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100072
+#EXTINF:-1 tvg-id="" tvg-name="MY: Sony SetMAX" tvg-logo="" group-title="MALAYSIA",MY: Sony SetMAX
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100073
+#EXTINF:-1 tvg-id="" tvg-name="MY: Sony TV" tvg-logo="" group-title="MALAYSIA",MY: Sony TV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100074
+#EXTINF:-1 tvg-id="" tvg-name="MY: Star Chinese Channel HD" tvg-logo="" group-title="MALAYSIA",MY: Star Chinese Channel HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100075
+#EXTINF:-1 tvg-id="" tvg-name="MY: Star Vijay HD" tvg-logo="" group-title="MALAYSIA",MY: Star Vijay HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135472
+#EXTINF:-1 tvg-id="" tvg-name="MY: SUN TV HD" tvg-logo="" group-title="MALAYSIA",MY: SUN TV HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100008
+#EXTINF:-1 tvg-id="" tvg-name="MY: TLC HD" tvg-logo="" group-title="MALAYSIA",MY: TLC HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100037
+#EXTINF:-1 tvg-id="" tvg-name="MY: Travel Channel HD" tvg-logo="" group-title="MALAYSIA",MY: Travel Channel HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100076
+#EXTINF:-1 tvg-id="" tvg-name="MY: TUTOR TV PT3" tvg-logo="" group-title="MALAYSIA",MY: TUTOR TV PT3
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100026
+#EXTINF:-1 tvg-id="" tvg-name="MY: TUTOR TV SPM" tvg-logo="" group-title="MALAYSIA",MY: TUTOR TV SPM
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100027
+#EXTINF:-1 tvg-id="" tvg-name="MY: TUTOR TV UPSR" tvg-logo="" group-title="MALAYSIA",MY: TUTOR TV UPSR
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100025
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV1" tvg-logo="" group-title="MALAYSIA",MY: TV1
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61677
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV2" tvg-logo="" group-title="MALAYSIA",MY: TV2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61678
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV3" tvg-logo="" group-title="MALAYSIA",MY: TV3
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61679
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV8" tvg-logo="" group-title="MALAYSIA",MY: TV8
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/136478
+#EXTINF:-1 tvg-id="" tvg-name="MY: TV9" tvg-logo="" group-title="MALAYSIA",MY: TV9
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100049
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB E news" tvg-logo="" group-title="MALAYSIA",MY: TVB E news
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/75835
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB Jade" tvg-logo="" group-title="MALAYSIA",MY: TVB Jade
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/135481
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVBS Asia" tvg-logo="" group-title="MALAYSIA",MY: TVBS Asia
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/75836
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVIQ" tvg-logo="" group-title="MALAYSIA",MY: TVIQ
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100028
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVn" tvg-logo="" group-title="MALAYSIA",MY: TVn
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/75837
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVS" tvg-logo="" group-title="MALAYSIA",MY: TVS
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/100081
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HITS MOVIES HD" tvg-logo="" group-title="MALAYSIA",MY: HITS MOVIES HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46641
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO HD" tvg-logo="" group-title="MALAYSIA",MY: HBO HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46642
+#EXTINF:-1 tvg-id="" tvg-name="MY: CINEMAX HD" tvg-logo="" group-title="MALAYSIA",MY: CINEMAX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46643
+#EXTINF:-1 tvg-id="" tvg-name="MY: tvN Movies" tvg-logo="" group-title="MALAYSIA",MY: tvN Movies
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46644
+#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Channel" tvg-logo="" group-title="MALAYSIA",MY: Discovery Channel
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46647
+#EXTINF:-1 tvg-id="" tvg-name="MY: DISCOVERY ASIA" tvg-logo="" group-title="MALAYSIA",MY: DISCOVERY ASIA
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46648
+#EXTINF:-1 tvg-id="" tvg-name="MY: HISTORY HD" tvg-logo="" group-title="MALAYSIA",MY: HISTORY HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46650
+#EXTINF:-1 tvg-id="" tvg-name="MY: ANIMAL PLANET HD" tvg-logo="" group-title="MALAYSIA",MY: ANIMAL PLANET HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46651
+#EXTINF:-1 tvg-id="" tvg-name="MY: DMAX HD" tvg-logo="" group-title="MALAYSIA",MY: DMAX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46652
+#EXTINF:-1 tvg-id="" tvg-name="MY: COMEDY CENTRAL" tvg-logo="" group-title="MALAYSIA",MY: COMEDY CENTRAL
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46653
+#EXTINF:-1 tvg-id="" tvg-name="MY: MTV" tvg-logo="" group-title="MALAYSIA",MY: MTV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46654
+#EXTINF:-1 tvg-id="" tvg-name="MY: eGG Network" tvg-logo="" group-title="MALAYSIA",MY: eGG Network
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46656
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ARENA HD" tvg-logo="" group-title="MALAYSIA",MY: ASTRO ARENA HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46657
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 1 HD" tvg-logo="" group-title="MALAYSIA",MY: ASTRO SUPERSPORT 1 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46658
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 2 HD" tvg-logo="" group-title="MALAYSIA",MY: ASTRO SUPERSPORT 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46659
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 3 HD" tvg-logo="" group-title="MALAYSIA",MY: ASTRO SUPERSPORT 3 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46660
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO SUPERSPORT 4 HD" tvg-logo="" group-title="MALAYSIA",MY: ASTRO SUPERSPORT 4 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46661
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 2 HD" tvg-logo="" group-title="MALAYSIA",MY: FOX SPORTS 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46663
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 3 HD" tvg-logo="" group-title="MALAYSIA",MY: FOX SPORTS 3 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46664
+#EXTINF:-1 tvg-id="" tvg-name="MY: bEIN SPORT MAX" tvg-logo="" group-title="MALAYSIA",MY: bEIN SPORT MAX
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46666
+#EXTINF:-1 tvg-id="" tvg-name="MY: WWE NETWORK" tvg-logo="" group-title="MALAYSIA",MY: WWE NETWORK
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46668
+#EXTINF:-1 tvg-id="" tvg-name="MY: GOLF CHANNEL HD" tvg-logo="" group-title="MALAYSIA",MY: GOLF CHANNEL HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46669
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO RUGBY PASS TV" tvg-logo="" group-title="MALAYSIA",MY: ASTRO RUGBY PASS TV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46670
+#EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO CRICKET" tvg-logo="" group-title="MALAYSIA",MY: ASTRO CRICKET
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46671
+#EXTINF:-1 tvg-id="" tvg-name="MY: ANIPLUS HD" tvg-logo="" group-title="MALAYSIA",MY: ANIPLUS HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46672
+#EXTINF:-1 tvg-id="" tvg-name="MY: AXN HD" tvg-logo="" group-title="MALAYSIA",MY: AXN HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46677
+#EXTINF:-1 tvg-id="" tvg-name="MY: HITS HD" tvg-logo="" group-title="MALAYSIA",MY: HITS HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46678
+#EXTINF:-1 tvg-id="" tvg-name="MY: KIX HD" tvg-logo="" group-title="MALAYSIA",MY: KIX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46679
+#EXTINF:-1 tvg-id="" tvg-name="MY: Cinema World HD" tvg-logo="" group-title="MALAYSIA",MY: Cinema World HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46680
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX HD" tvg-logo="" group-title="MALAYSIA",MY: FOX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46684
+#EXTINF:-1 tvg-id="" tvg-name="MY: Warner TV" tvg-logo="" group-title="MALAYSIA",MY: Warner TV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46687
+#EXTINF:-1 tvg-id="" tvg-name="MY: FOX Life HD" tvg-logo="" group-title="MALAYSIA",MY: FOX Life HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46690
+#EXTINF:-1 tvg-id="" tvg-name="MY: Blue Ant Entertainment" tvg-logo="" group-title="MALAYSIA",MY: Blue Ant Entertainment
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46696
+#EXTINF:-1 tvg-id="" tvg-name="MY: Blue Ant Extreme" tvg-logo="" group-title="MALAYSIA",MY: Blue Ant Extreme
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46697
+#EXTINF:-1 tvg-id="" tvg-name="MY: NatGeo People" tvg-logo="" group-title="MALAYSIA",MY: NatGeo People
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46701
+#EXTINF:-1 tvg-id="" tvg-name="MY: NatGeo Wild" tvg-logo="" group-title="MALAYSIA",MY: NatGeo Wild
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46702
+#EXTINF:-1 tvg-id="" tvg-name="MY: BLOOMBERG TV" tvg-logo="" group-title="MALAYSIA",MY: BLOOMBERG TV
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46711
+#EXTINF:-1 tvg-id="" tvg-name="MY: Cartoon Network" tvg-logo="" group-title="MALAYSIA",MY: Cartoon Network
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46712
+#EXTINF:-1 tvg-id="" tvg-name="MY: Food Network" tvg-logo="" group-title="MALAYSIA",MY: Food Network
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46713
+#EXTINF:-1 tvg-id="" tvg-name="MY: NICKELODEON HD" tvg-logo="" group-title="MALAYSIA",MY: NICKELODEON HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46719
+#EXTINF:-1 tvg-id="" tvg-name="MY: Nick Jr" tvg-logo="" group-title="MALAYSIA",MY: Nick Jr
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46720
+#EXTINF:-1 tvg-id="" tvg-name="MY: AOD 352 HD" tvg-logo="" group-title="MALAYSIA",MY: AOD 352 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48140
+#EXTINF:-1 tvg-id="" tvg-name="MY: AOD 353 HD" tvg-logo="" group-title="MALAYSIA",MY: AOD 353 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48141
+#EXTINF:-1 tvg-id="" tvg-name="MY: AOD 354 HD" tvg-logo="" group-title="MALAYSIA",MY: AOD 354 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48142
+#EXTINF:-1 tvg-id="" tvg-name="MY: AOD 355 HD" tvg-logo="" group-title="MALAYSIA",MY: AOD 355 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48143
+#EXTINF:-1 tvg-id="" tvg-name="MY: KBS World HD" tvg-logo="" group-title="MALAYSIA",MY: KBS World HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48144
+#EXTINF:-1 tvg-id="" tvg-name="MY: ONE HD" tvg-logo="" group-title="MALAYSIA",MY: ONE HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48145
+#EXTINF:-1 tvg-id="" tvg-name="MY: Oh!K HD" tvg-logo="" group-title="MALAYSIA",MY: Oh!K HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48146
+#EXTINF:-1 tvg-id="" tvg-name="MY: XIAO TAI YANG HD" tvg-logo="" group-title="MALAYSIA",MY: XIAO TAI YANG HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48147
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB CLASSIC" tvg-logo="" group-title="MALAYSIA",MY: TVB CLASSIC
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48148
+#EXTINF:-1 tvg-id="" tvg-name="MY: AEC HD" tvg-logo="" group-title="MALAYSIA",MY: AEC HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48149
+#EXTINF:-1 tvg-id="" tvg-name="MY: SHUANG XING HD" tvg-logo="" group-title="MALAYSIA",MY: SHUANG XING HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48150
+#EXTINF:-1 tvg-id="" tvg-name="MY: QUAN JIA HD" tvg-logo="" group-title="MALAYSIA",MY: QUAN JIA HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48151
+#EXTINF:-1 tvg-id="" tvg-name="MY: CTI ASIA" tvg-logo="" group-title="MALAYSIA",MY: CTI ASIA
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48155
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB XING HE HD" tvg-logo="" group-title="MALAYSIA",MY: TVB XING HE HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48157
+#EXTINF:-1 tvg-id="" tvg-name="MY: CCM" tvg-logo="" group-title="MALAYSIA",MY: CCM
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48159
+#EXTINF:-1 tvg-id="" tvg-name="MY: HUA HEE DAI HD" tvg-logo="" group-title="MALAYSIA",MY: HUA HEE DAI HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/48160
 
 
 #EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="https://i.postimg.cc/L8kDdr1g/images-9.png" group-title="LIVE | ASTRO",ASTRO Ria HD
@@ -1981,6 +2272,84 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1    group-title="CH" ,Animal Planet
 http://103.147.87.245:8001/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony HD" tvg-logo="" group-title="INDIA",IN: Sony HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14275
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Marathi" tvg-logo="" group-title="INDIA",IN: Sony Marathi
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/27089
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX 2 HD" tvg-logo="" group-title="INDIA",IN: SONY MAX 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14259
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD" tvg-logo="" group-title="INDIA",IN: Sony Max FHD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26590
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Mix HD" tvg-logo="" group-title="INDIA",IN: Sony Mix HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14260
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY PAL" tvg-logo="" group-title="INDIA",IN: SONY PAL
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/41325
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY PIX HD" tvg-logo="" group-title="INDIA",IN: SONY PIX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14182
+#EXTINF:-1 tvg-id="" tvg-name="IN: & FLIX HD" tvg-logo="" group-title="INDIA",IN: & FLIX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26541
+#EXTINF:-1 tvg-id="" tvg-name="IN: & PICTURES HD" tvg-logo="" group-title="INDIA",IN: & PICTURES HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14192
+#EXTINF:-1 tvg-id="" tvg-name="IN: & PRIVE HD" tvg-logo="" group-title="INDIA",IN: & PRIVE HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26543
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV FHD" tvg-logo="" group-title="INDIA",IN: & TV FHD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26544
+#EXTINF:-1 tvg-id="" tvg-name="IN: HBO HD" tvg-logo="" group-title="INDIA",IN: HBO HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14841
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB HD" tvg-logo="" group-title="INDIA",IN: SONY SAB HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14263
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB UK" tvg-logo="" group-title="INDIA",IN: Sony SAB UK
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/45423
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Set Max 2" tvg-logo="" group-title="INDIA",IN: Sony Set Max 2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61571
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Set Max FHD -VIP" tvg-logo="" group-title="INDIA",IN: Sony Set Max FHD -VIP
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/45424
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX HD" tvg-logo="" group-title="INDIA",IN: SONY SIX HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14268
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 1 HD" tvg-logo="" group-title="INDIA",IN: SONY Ten 1 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26600
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 2 HD" tvg-logo="" group-title="INDIA",IN: SONY Ten 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26601
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 3 HD" tvg-logo="" group-title="INDIA",IN: SONY Ten 3 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26688
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV Asia HD" tvg-logo="" group-title="INDIA",IN: Sony TV Asia HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46537
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TV UK" tvg-logo="" group-title="INDIA",IN: SONY TV UK
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46538
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Waha HD" tvg-logo="" group-title="INDIA",IN: Sony Waha HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/45425
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORT 3 HD" tvg-logo="" group-title="INDIA",IN: STAR SPORT 3 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/45427
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 HD" tvg-logo="" group-title="INDIA",IN: Star Sports 1 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/27151
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="" group-title="INDIA",IN: STAR SPORTS 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14289
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Hindi 1 HD" tvg-logo="" group-title="INDIA",IN: Star Sports Hindi 1 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/27153
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="INDIA",IN: STAR SPORTS SELECT 1 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14865
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="INDIA",IN: STAR SPORTS SELECT 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14866
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijay HD" tvg-logo="" group-title="INDIA",IN: Star Vijay HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14892
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR WORLD HD" tvg-logo="" group-title="INDIA",IN: STAR WORLD HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/137987
+#EXTINF:-1 tvg-id="" tvg-name="IN: Stars Ports 2 HD" tvg-logo="" group-title="INDIA",IN: Stars Ports 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46555
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 1 HD" tvg-logo="" group-title="INDIA",IN: TEN 1 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46566
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 2 HD" tvg-logo="" group-title="INDIA",IN: TEN 2 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46567
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 3 HD" tvg-logo="" group-title="INDIA",IN: TEN 3 HD
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/46568
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN Golf" tvg-logo="" group-title="INDIA",IN: TEN Golf
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/61567
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ten Sports" tvg-logo="" group-title="INDIA",IN: Ten Sports
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/45428
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd40a0c54e5a3acb0ffce128dc90de94.png" group-title="SPORTS GEN",AL: SuperSport 1 FHD
 http://iptvtree.net:8080/geniptv/4faed690fd/1316
@@ -3377,116 +3746,264 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/57409
 #EXTINF:-1 tvg-id="" tvg-name="JP: TV JAPAN " tvg-logo="" group-title="CHINESE -//- KOREAN",JP: TV JAPAN 
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397796
 
-#EXTINF:-1 tvg-id="" tvg-name="PH 24_France" tvg-logo="" group-title="PHILIPPINES",PH 24_France
-http://supersonictv.live:25461/daniela/daniela/7433
-#EXTINF:-1 tvg-id="" tvg-name="PH ABS_CBN" tvg-logo="" group-title="PHILIPPINES",PH ABS_CBN
-http://supersonictv.live:25461/daniela/daniela/7434
-#EXTINF:-1 tvg-id="" tvg-name="PH ABS_CBN_News_Channel" tvg-logo="" group-title="PHILIPPINES",PH ABS_CBN_News_Channel
-http://supersonictv.live:25461/daniela/daniela/7435
-#EXTINF:-1 tvg-id="" tvg-name="PH ABS_CBN_Sports_Action" tvg-logo="" group-title="PHILIPPINES",PH ABS_CBN_Sports_Action
-http://supersonictv.live:25461/daniela/daniela/7436
-#EXTINF:-1 tvg-id="" tvg-name="PH Al_Jazeera" tvg-logo="" group-title="PHILIPPINES",PH Al_Jazeera
-http://supersonictv.live:25461/daniela/daniela/7437
-#EXTINF:-1 tvg-id="" tvg-name="PH ANC" tvg-logo="" group-title="PHILIPPINES",PH ANC
-http://supersonictv.live:25461/daniela/daniela/7438
-#EXTINF:-1 tvg-id="" tvg-name="PH Animal_Planet" tvg-logo="" group-title="PHILIPPINES",PH Animal_Planet
-http://supersonictv.live:25461/daniela/daniela/7439
-#EXTINF:-1 tvg-id="" tvg-name="PH Animax" tvg-logo="" group-title="PHILIPPINES",PH Animax
-http://supersonictv.live:25461/daniela/daniela/7440
-#EXTINF:-1 tvg-id="" tvg-name="PH Arirang" tvg-logo="" group-title="PHILIPPINES",PH Arirang
-http://supersonictv.live:25461/daniela/daniela/7441
-#EXTINF:-1 tvg-id="" tvg-name="PH Asian_Food_Channel" tvg-logo="" group-title="PHILIPPINES",PH Asian_Food_Channel
-http://supersonictv.live:25461/daniela/daniela/7442
-#EXTINF:-1 tvg-id="" tvg-name="PH Asia_News" tvg-logo="" group-title="PHILIPPINES",PH Asia_News
-http://supersonictv.live:25461/daniela/daniela/7443
-#EXTINF:-1 tvg-id="" tvg-name="PH AXN" tvg-logo="" group-title="PHILIPPINES",PH AXN
-http://supersonictv.live:25461/daniela/daniela/7444
-#EXTINF:-1 tvg-id="" tvg-name="PH Baby_First" tvg-logo="" group-title="PHILIPPINES",PH Baby_First
-http://supersonictv.live:25461/daniela/daniela/7445
-#EXTINF:-1 tvg-id="" tvg-name="PH beIN_Sports1" tvg-logo="" group-title="PHILIPPINES",PH beIN_Sports1
-http://supersonictv.live:25461/daniela/daniela/7446
-#EXTINF:-1 tvg-id="" tvg-name="PH beIN_Sports2" tvg-logo="" group-title="PHILIPPINES",PH beIN_Sports2
-http://supersonictv.live:25461/daniela/daniela/7447
-#EXTINF:-1 tvg-id="" tvg-name="PH Bloomberg" tvg-logo="" group-title="PHILIPPINES",PH Bloomberg
-http://supersonictv.live:25461/daniela/daniela/7448
-#EXTINF:-1 tvg-id="" tvg-name="PH Blue_Ant_Entertainment" tvg-logo="" group-title="PHILIPPINES",PH Blue_Ant_Entertainment
-http://supersonictv.live:25461/daniela/daniela/7449
-#EXTINF:-1 tvg-id="" tvg-name="PH Blue_Ant_Extreme" tvg-logo="" group-title="PHILIPPINES",PH Blue_Ant_Extreme
-http://supersonictv.live:25461/daniela/daniela/7450
-#EXTINF:-1 tvg-id="" tvg-name="PH Cartoon_Network" tvg-logo="" group-title="PHILIPPINES",PH Cartoon_Network
-http://supersonictv.live:25461/daniela/daniela/7451
-#EXTINF:-1 tvg-id="" tvg-name="PH Celestial_Classic_Movies" tvg-logo="" group-title="PHILIPPINES",PH Celestial_Classic_Movies
-http://supersonictv.live:25461/daniela/daniela/7452
-#EXTINF:-1 tvg-id="" tvg-name="PH CNN" tvg-logo="" group-title="PHILIPPINES",PH CNN
-http://supersonictv.live:25461/daniela/daniela/7453
-#EXTINF:-1 tvg-id="" tvg-name="PH Comedy_Central" tvg-logo="" group-title="PHILIPPINES",PH Comedy_Central
-http://supersonictv.live:25461/daniela/daniela/7454
-#EXTINF:-1 tvg-id="" tvg-name="PH Discovery_Asia_World" tvg-logo="" group-title="PHILIPPINES",PH Discovery_Asia_World
-http://supersonictv.live:25461/daniela/daniela/7455
-#EXTINF:-1 tvg-id="" tvg-name="PH Discovery_Channel" tvg-logo="" group-title="PHILIPPINES",PH Discovery_Channel
-http://supersonictv.live:25461/daniela/daniela/7456
-#EXTINF:-1 tvg-id="" tvg-name="PH Disney_Channel" tvg-logo="" group-title="PHILIPPINES",PH Disney_Channel
-http://supersonictv.live:25461/daniela/daniela/7457
-#EXTINF:-1 tvg-id="" tvg-name="PH Disney_Junior" tvg-logo="" group-title="PHILIPPINES",PH Disney_Junior
-http://supersonictv.live:25461/daniela/daniela/7458
-#EXTINF:-1 tvg-id="" tvg-name="PH DZMM_Teleradyo" tvg-logo="" group-title="PHILIPPINES",PH DZMM_Teleradyo
-http://supersonictv.live:25461/daniela/daniela/7459
-#EXTINF:-1 tvg-id="" tvg-name="PH Euronews" tvg-logo="" group-title="PHILIPPINES",PH Euronews
-http://supersonictv.live:25461/daniela/daniela/7460
-#EXTINF:-1 tvg-id="" tvg-name="PH Eurosport" tvg-logo="" group-title="PHILIPPINES",PH Eurosport
-http://supersonictv.live:25461/daniela/daniela/7461
-#EXTINF:-1 tvg-id="" tvg-name="PH Food_Network" tvg-logo="" group-title="PHILIPPINES",PH Food_Network
-http://supersonictv.live:25461/daniela/daniela/7462
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA_Lfe" tvg-logo="" group-title="PHILIPPINES",PH GMA_Lfe
-http://supersonictv.live:25461/daniela/daniela/7463
-#EXTINF:-1 tvg-id="" tvg-name="PH GMA_News_TV" tvg-logo="" group-title="PHILIPPINES",PH GMA_News_TV
-http://supersonictv.live:25461/daniela/daniela/7464
-#EXTINF:-1 tvg-id="" tvg-name="PH HGTV" tvg-logo="" group-title="PHILIPPINES",PH HGTV
-http://supersonictv.live:25461/daniela/daniela/7466
-#EXTINF:-1 tvg-id="" tvg-name="PH History" tvg-logo="" group-title="PHILIPPINES",PH History
-http://supersonictv.live:25461/daniela/daniela/7467
-#EXTINF:-1 tvg-id="" tvg-name="PH History2" tvg-logo="" group-title="PHILIPPINES",PH History2
-http://supersonictv.live:25461/daniela/daniela/7468
-#EXTINF:-1 tvg-id="" tvg-name="PH Hits" tvg-logo="" group-title="PHILIPPINES",PH Hits
-http://supersonictv.live:25461/daniela/daniela/7469
-#EXTINF:-1 tvg-id="" tvg-name="PH Kix" tvg-logo="" group-title="PHILIPPINES",PH Kix
-http://supersonictv.live:25461/daniela/daniela/7470
-#EXTINF:-1 tvg-id="" tvg-name="PH Lifetime_Channel" tvg-logo="" group-title="PHILIPPINES",PH Lifetime_Channel
-http://supersonictv.live:25461/daniela/daniela/7471
-#EXTINF:-1 tvg-id="" tvg-name="PH Living_Asia" tvg-logo="" group-title="PHILIPPINES",PH Living_Asia
-http://supersonictv.live:25461/daniela/daniela/7472
-#EXTINF:-1 tvg-id="" tvg-name="PH Miao_Mi" tvg-logo="" group-title="PHILIPPINES",PH Miao_Mi
-http://supersonictv.live:25461/daniela/daniela/7473
-#EXTINF:-1 tvg-id="" tvg-name="PH MTV_Asia" tvg-logo="" group-title="PHILIPPINES",PH MTV_Asia
-http://supersonictv.live:25461/daniela/daniela/7474
-#EXTINF:-1 tvg-id="" tvg-name="PH MTV_Live" tvg-logo="" group-title="PHILIPPINES",PH MTV_Live
-http://supersonictv.live:25461/daniela/daniela/7475
-#EXTINF:-1 tvg-id="" tvg-name="PH Nat_Geo" tvg-logo="" group-title="PHILIPPINES",PH Nat_Geo
-http://supersonictv.live:25461/daniela/daniela/7476
-#EXTINF:-1 tvg-id="" tvg-name="PH Nickelodeon" tvg-logo="" group-title="PHILIPPINES",PH Nickelodeon
-http://supersonictv.live:25461/daniela/daniela/7477
-#EXTINF:-1 tvg-id="" tvg-name="PH Nick_Jr" tvg-logo="" group-title="PHILIPPINES",PH Nick_Jr
-http://supersonictv.live:25461/daniela/daniela/7478
-#EXTINF:-1 tvg-id="" tvg-name="PH Oshopping" tvg-logo="" group-title="PHILIPPINES",PH Oshopping
-http://supersonictv.live:25461/daniela/daniela/7479
-#EXTINF:-1 tvg-id="" tvg-name="PH SolarSports" tvg-logo="" group-title="PHILIPPINES",PH SolarSports
-http://supersonictv.live:25461/daniela/daniela/7480
-#EXTINF:-1 tvg-id="" tvg-name="PH StingrayClassica" tvg-logo="" group-title="PHILIPPINES",PH StingrayClassica
-http://supersonictv.live:25461/daniela/daniela/7481
-#EXTINF:-1 tvg-id="" tvg-name="PH Telenovela" tvg-logo="" group-title="PHILIPPINES",PH Telenovela
-http://supersonictv.live:25461/daniela/daniela/7482
-#EXTINF:-1 tvg-id="" tvg-name="PH TFC" tvg-logo="" group-title="PHILIPPINES",PH TFC
-http://supersonictv.live:25461/daniela/daniela/7483
-#EXTINF:-1 tvg-id="" tvg-name="PH Thrill" tvg-logo="" group-title="PHILIPPINES",PH Thrill
-http://supersonictv.live:25461/daniela/daniela/7484
-#EXTINF:-1 tvg-id="" tvg-name="PH TLC" tvg-logo="" group-title="PHILIPPINES",PH TLC
-http://supersonictv.live:25461/daniela/daniela/7485
-#EXTINF:-1 tvg-id="" tvg-name="PH Travel" tvg-logo="" group-title="PHILIPPINES",PH Travel
-http://supersonictv.live:25461/daniela/daniela/7486
-#EXTINF:-1 tvg-id="" tvg-name="PH TV5_Monde" tvg-logo="" group-title="PHILIPPINES",PH TV5_Monde
-http://supersonictv.live:25461/daniela/daniela/7487
-#EXTINF:-1 tvg-id="" tvg-name="PH TVN" tvg-logo="" group-title="PHILIPPINES",PH TVN
-http://supersonictv.live:25461/daniela/daniela/7488
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD General" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD General
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169854
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Quran" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Quran
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169853
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Hadith" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Hadith
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169852
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Documentary" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Documentary
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169851
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Scientific" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Scientific
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169850
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Natural" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Natural
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169849
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Taghareed" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Taghareed
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169848
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Rawda" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Rawda
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169847
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Basma" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Basma
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169846
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Kids" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Kids
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169845
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Al MAJD Masa" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Al MAJD Masa
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169844
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Jean-Claude van Damme ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Jean-Claude van Damme ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169843
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Sylvester Stallone ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Sylvester Stallone ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169842
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Will Smith ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Will Smith ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169841
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Jason Statham ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Jason Statham ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169840
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Arnold Schwarzenegger ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Arnold Schwarzenegger ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169839
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: India Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: India Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169838
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: India Kids ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: India Kids ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169837
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Pakistan Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Pakistan Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169836
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Pakistan Kids ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Pakistan Kids ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169835
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Indonesia Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Indonesia Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169834
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Filipino Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Filipino Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169833
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Korea Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Korea Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169832
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: China Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: China Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169831
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Disney Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Disney Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169830
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Latin Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Latin Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169829
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Mexican Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Mexican Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169828
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Russia Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Russia Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169827
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Turkish Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Turkish Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169826
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Kung Fu Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Kung Fu Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169825
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Germany Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Germany Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169824
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: France Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: France Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169823
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Spain Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Spain Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169822
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Italia Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Italia Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169821
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: England Movies ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: England Movies ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169820
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Germany Live ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Germany Live ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169819
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: FALCON Horror ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: FALCON Horror ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169818
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Vin Disel ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Vin Disel ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169817
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Just For Laughs Gags ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Just For Laughs Gags ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169816
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Home Craft ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Home Craft ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169815
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Exclusive Action 2020 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Exclusive Action 2020 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169814
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Exclusive Horror 2020 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Exclusive Horror 2020 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169813
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Exclusive Drama 2020 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Exclusive Drama 2020 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169812
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Exclusive Family and Kids 2020 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Exclusive Family and Kids 2020 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169811
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Exclusive Documentary 2020 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Exclusive Documentary 2020 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169810
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Exclusive Comedy 2020 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Exclusive Comedy 2020 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169809
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: FALCON Alma Kids ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: FALCON Alma Kids ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169808
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: UFC FALCON VIP ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: UFC FALCON VIP ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169807
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: UFC FALCON EUROPE VIP ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: UFC FALCON EUROPE VIP ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169806
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: UFC FALCON WOMEN VIP ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: UFC FALCON WOMEN VIP ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169805
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: HOLLYOOD CLASSIC VIP ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: HOLLYOOD CLASSIC VIP ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169804
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Diego Maradona ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Diego Maradona ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169803
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Tom Cruise ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Tom Cruise ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169802
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Keanu Reeves ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Keanu Reeves ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169801
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Actions Movies 2021 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Actions Movies 2021 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169800
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Drama Movies 2021 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Drama Movies 2021 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169799
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Horror Movies 2021 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Horror Movies 2021 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169798
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Comedy Movies 2021 ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Comedy Movies 2021 ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169797
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Action" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Action
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169796
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Comedy" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Comedy
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169795
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Horror" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Horror
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169794
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Drama" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Drama
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169793
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Marvel" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Marvel
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169792
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Sci -Fi" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Sci -Fi
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169791
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Disney" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Disney
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169790
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Kids" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Kids
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169789
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Arabic" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Arabic
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169788
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Masrah" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Masrah
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169787
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom WWE" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom WWE
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169786
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Comedy 2" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Comedy 2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169785
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom UFC" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom UFC
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169784
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Action 2" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Action 2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169783
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Adeel Emam" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Adeel Emam
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169782
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Telecom Box Office" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Telecom Box Office
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169781
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Chocolate Street ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Chocolate Street ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169780
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Korea Street Food ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Korea Street Food ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169779
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: ICE Cream Rolls ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: ICE Cream Rolls ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169778
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Pizza Street ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Pizza Street ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169777
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Chef Burak ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Chef Burak ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169776
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Fruit Street ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Fruit Street ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169775
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Chinese Street Food ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Chinese Street Food ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169774
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Cake Sweet Street ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Cake Sweet Street ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169773
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Panorama Food EG ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Panorama Food EG ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169772
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: LIVING FOODS IN ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: LIVING FOODS IN ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169771
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: FOOD NETWORK CA ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: FOOD NETWORK CA ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169770
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Asian Food Channel PH ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Asian Food Channel PH ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169769
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Food Network PH ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Food Network PH ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169768
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Food Network HD RO ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Food Network HD RO ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169767
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Food Network UK↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Food Network UK↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169766
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Good Food UK↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Good Food UK↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169765
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: FOOD FOOD IN TV↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: FOOD FOOD IN TV↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169764
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature in Switzerland 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature in Switzerland 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169763
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature in Austria 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature in Austria 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169762
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature in Greece 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature in Greece 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169761
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature in Maldives 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature in Maldives 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169760
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature in Norway 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature in Norway 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169759
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature Relaxation 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature Relaxation 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169758
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature Japan 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature Japan 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169757
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: Nature Sleep Music 4K ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: Nature Sleep Music 4K ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169756
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: GULF FALCON ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: GULF FALCON ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169755
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: SHOWTIME CINEMA 1" tvg-logo="" group-title="Dr VIP Channels",DR VIP: SHOWTIME CINEMA 1
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169754
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: SHOWTIME CINEMA 2" tvg-logo="" group-title="Dr VIP Channels",DR VIP: SHOWTIME CINEMA 2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169753
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: SHOWTIME CINEMA 3" tvg-logo="" group-title="Dr VIP Channels",DR VIP: SHOWTIME CINEMA 3
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169752
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: SHOWTIME CINEMA 4" tvg-logo="" group-title="Dr VIP Channels",DR VIP: SHOWTIME CINEMA 4
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169751
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: SHOWTIME CINEMA 5" tvg-logo="" group-title="Dr VIP Channels",DR VIP: SHOWTIME CINEMA 5
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169750
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: SHOWTIME CINEMA 6" tvg-logo="" group-title="Dr VIP Channels",DR VIP: SHOWTIME CINEMA 6
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169749
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: SHOWTIME MUSIC EN" tvg-logo="" group-title="Dr VIP Channels",DR VIP: SHOWTIME MUSIC EN
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169748
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: NOVA CINEMA 1" tvg-logo="" group-title="Dr VIP Channels",DR VIP: NOVA CINEMA 1
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169747
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: NOVA CINEMA 2" tvg-logo="" group-title="Dr VIP Channels",DR VIP: NOVA CINEMA 2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169746
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: NOVA CINEMA 3" tvg-logo="" group-title="Dr VIP Channels",DR VIP: NOVA CINEMA 3
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169745
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: NOVA CINEMA 4" tvg-logo="" group-title="Dr VIP Channels",DR VIP: NOVA CINEMA 4
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169744
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: HBO 2 HITS ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: HBO 2 HITS ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169743
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: HBO 1 HITS ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: HBO 1 HITS ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169742
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSCARS HITS ↴" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSCARS HITS ↴
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169741
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 1" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 1
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169740
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 2" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 2
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169739
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 3" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 3
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169738
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 4" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 4
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169737
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 5" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 5
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169736
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 7" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 7
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169735
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 8" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 8
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169734
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 9" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 9
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169733
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 10" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 10
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169732
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 11" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 11
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169731
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 12" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 12
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169730
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 13" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 13
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169729
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 14" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 14
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169728
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 15" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 15
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169727
+#EXTINF:-1 tvg-id="" tvg-name="DR VIP: OSN PLAY 16" tvg-logo="" group-title="Dr VIP Channels",DR VIP: OSN PLAY 16
+http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/169726
 
 #EXTINF:-1 tvg-id="canal.fr" tvg-name="|FR| Canal+ 4K+" tvg-logo="http://picon.worldip.nl/satlogo/France-Sorcier/canal-plus-international-fr.png" group-title="FR : Cinema",|FR| Canal+ 4K+
 http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/752
