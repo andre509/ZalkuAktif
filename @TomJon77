@@ -2056,46 +2056,49 @@ http://iptvtree.net:8080/geniptv/4faed690fd/264
 #EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK Sky Sports Golf HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Golf HD
 http://iptvtree.net:8080/geniptv/4faed690fd/37179
 
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Milan Channel HD+" tvg-logo="" group-title="IT : Sport",|IT| Milan Channel HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14654
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Inter Channel HD+" tvg-logo="" group-title="IT : Sport",|IT| Inter Channel HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14655
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport UNO HD+" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport UNO HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14656
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport 24 HD+" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport 24 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14657
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport F1 HD+" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport F1 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14658
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport Football" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport Football
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14659
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport Serie A" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport Serie A
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14660
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport NBA" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport NBA
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14661
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport Arena" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport Arena
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14662
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Sport MotoGP HD+" tvg-logo="" group-title="IT : Sport",|IT| Sky Sport MotoGP HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14663
+#EXTINF:-1 tvg-id="" tvg-name="|IT| DAZN 1 HD+" tvg-logo="" group-title="IT : Sport",|IT| DAZN 1 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14664
+#EXTINF:-1 tvg-id="" tvg-name="|IT| DAZN 2 HD+" tvg-logo="" group-title="IT : Sport",|IT| DAZN 2 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14665
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Calcio 1 4K+" tvg-logo="" group-title="IT : Sport",|IT| Sky Calcio 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14666
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sky Calcio 2 4K+" tvg-logo="" group-title="IT : Sport",|IT| Sky Calcio 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14667
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Rai Sport 1 HD+" tvg-logo="" group-title="IT : Sport",|IT| Rai Sport 1 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14668
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Eurosport 1 HD+" tvg-logo="" group-title="IT : Sport",|IT| Eurosport 1 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14669
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Eurosport 2 HD+" tvg-logo="" group-title="IT : Sport",|IT| Eurosport 2 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14670
+#EXTINF:-1 tvg-id="" tvg-name="|IT| SuperTennis HD+" tvg-logo="" group-title="IT : Sport",|IT| SuperTennis HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14672
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Juventus TV" tvg-logo="" group-title="IT : Sport",|IT| Juventus TV
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14673
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Sport Italia" tvg-logo="" group-title="IT : Sport",|IT| Sport Italia
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14674
+#EXTINF:-1 tvg-id="" tvg-name="|IT| Motor Trend 4K+" tvg-logo="" group-title="IT : Sport",|IT| Motor Trend 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14675
 
-
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 1 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142774
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 EN 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 1 EN 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142781
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 French 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 1 French 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142784
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 1 Premium 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 1 Premium 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142771
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 2 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142775
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 EN 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 2 EN 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142782
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 French 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 2 French 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142785
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 2 Premium  4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 2 Premium  4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142772
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 3 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142776
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 EN 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 3 EN 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142783
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3 French 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 3 French 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142786
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 3Premium  4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 3Premium  4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142773
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 4 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 4 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142777
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 5 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 5 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142778
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 6 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 6 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142779
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS 7 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS 7 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142780
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports News 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN Sports News 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142770
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS XTRA 1 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS XTRA 1 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142787
-#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORTS XTRA 2 4K" tvg-logo="" group-title="BeIN Sports 4K ",BeIN SPORTS XTRA 2 4K
-http://linux-app.tv:8080/pk-moh-vods/wh4h3h3e3/142788
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA HD
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/540
@@ -2848,144 +2851,175 @@ http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18415
 http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18416
 
 
+#EXTINF:-1 tvg-id="" tvg-name="|US| Bein Sports 4K+" tvg-logo="" group-title="US : Sport",|US| Bein Sports 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15919
+#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN News 4K+" tvg-logo="" group-title="US : Sport",|US| ESPN News 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15920
+#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN 2 4K+" tvg-logo="" group-title="US : Sport",|US| ESPN 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15921
+#EXTINF:-1 tvg-id="" tvg-name="|US| Fox Sport 1 4K+" tvg-logo="" group-title="US : Sport",|US| Fox Sport 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15922
+#EXTINF:-1 tvg-id="" tvg-name="|US| Fox Sport 2 4K+" tvg-logo="" group-title="US : Sport",|US| Fox Sport 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15923
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBA 4K+" tvg-logo="" group-title="US : Sport",|US| NBA 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15924
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBC Golf 4K+" tvg-logo="" group-title="US : Sport",|US| NBC Golf 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15925
+#EXTINF:-1 tvg-id="" tvg-name="|US| Fight Network 4K+" tvg-logo="" group-title="US : Sport",|US| Fight Network 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15928
+#EXTINF:-1 tvg-id="" tvg-name="|US| SportsNet One 4K+" tvg-logo="" group-title="US : Sport",|US| SportsNet One 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15931
+#EXTINF:-1 tvg-id="" tvg-name="|US| AFN Sport" tvg-logo="" group-title="US : Sport",|US| AFN Sport
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15933
+#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 1 4K+" tvg-logo="" group-title="US : Sport",|US| TSN 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15939
+#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 2 4K+" tvg-logo="" group-title="US : Sport",|US| TSN 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15942
+#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 3 4K+" tvg-logo="" group-title="US : Sport",|US| TSN 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15945
+#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 4 4K+" tvg-logo="" group-title="US : Sport",|US| TSN 4 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15948
+#EXTINF:-1 tvg-id="" tvg-name="|US| TSN 5 4K+" tvg-logo="" group-title="US : Sport",|US| TSN 5 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15952
+#EXTINF:-1 tvg-id="" tvg-name="|US| World Fishing Network" tvg-logo="" group-title="US : Sport",|US| World Fishing Network
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15960
+#EXTINF:-1 tvg-id="" tvg-name="|US| NBCSN 4K+" tvg-logo="" group-title="US : Sport",|US| NBCSN 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15962
+#EXTINF:-1 tvg-id="" tvg-name="|US| Fox Soccer Plus 4K+" tvg-logo="" group-title="US : Sport",|US| Fox Soccer Plus 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15964
+#EXTINF:-1 tvg-id="" tvg-name="|US| Willow Cricket 4K+" tvg-logo="" group-title="US : Sport",|US| Willow Cricket 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15966
+#EXTINF:-1 tvg-id="" tvg-name="|US| MLB Network 4K+" tvg-logo="" group-title="US : Sport",|US| MLB Network 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15970
+#EXTINF:-1 tvg-id="" tvg-name="|US| BET 4K+" tvg-logo="" group-title="US : Sport",|US| BET 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15973
+#EXTINF:-1 tvg-id="" tvg-name="|US| WWE" tvg-logo="" group-title="US : Sport",|US| WWE
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/15976
+#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN" tvg-logo="" group-title="US : Sport",|US| ESPN
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/22427
+#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN3" tvg-logo="" group-title="US : Sport",|US| ESPN3
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/22428
+#EXTINF:-1 tvg-id="" tvg-name="|US| ESPN+" tvg-logo="" group-title="US : Sport",|US| ESPN+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/22429
+#EXTINF:-1 tvg-id="" tvg-name="|US| NFL Network" tvg-logo="" group-title="US : Sport",|US| NFL Network
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/22430
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA NBC Sports Washington Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="FOX & NBC SPORTS",USA NBC Sports Washington Plus
-http://supersonictv.live:25461/daniela/daniela/78975
-#EXTINF:-1 tvg-id="SP: NBCSN WASHINGTON" tvg-name="USA NBC Sports Washington" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="FOX & NBC SPORTS",USA NBC Sports Washington
-http://supersonictv.live:25461/daniela/daniela/78974
-#EXTINF:-1 tvg-id="SP: NBCSN PHILADELPHIA PLUS" tvg-name="USA NBC Sports Philadelphia Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBC_2013_fixed_logo.svg/1200px-NBC_2013_fixed_logo.svg.png" group-title="FOX & NBC SPORTS",USA NBC Sports Philadelphia Plus
-http://supersonictv.live:25461/daniela/daniela/78973
-#EXTINF:-1 tvg-id="SP: NBCSN PHILADELPHIA" tvg-name="USA NBC Sports Philadelphia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/NBC_Sports_Philadelphia.png" group-title="FOX & NBC SPORTS",USA NBC Sports Philadelphia
-http://supersonictv.live:25461/daniela/daniela/78972
-#EXTINF:-1 tvg-id="SP: NBCSN NORTH WEST" tvg-name="USA NBC Sports NorthWest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBC_2013_fixed_logo.svg/1200px-NBC_2013_fixed_logo.svg.png" group-title="FOX & NBC SPORTS",USA NBC Sports NorthWest
-http://supersonictv.live:25461/daniela/daniela/78971
-#EXTINF:-1 tvg-id="SP: NBCSN" tvg-name="USA NBC Sports Network UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" group-title="FOX & NBC SPORTS",USA NBC Sports Network UHD
-http://supersonictv.live:25461/daniela/daniela/78970
-#EXTINF:-1 tvg-id="SP: NBCSN CHICAGO PLUS" tvg-name="USA NBC Sports Chicago Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBC_2013_fixed_logo.svg/1200px-NBC_2013_fixed_logo.svg.png" group-title="FOX & NBC SPORTS",USA NBC Sports Chicago Plus
-http://supersonictv.live:25461/daniela/daniela/78969
-#EXTINF:-1 tvg-id="SP: NBCSN CHICAGO" tvg-name="USA NBC Sports Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/1200px-NBC_Sports_Chicago_Logo.svg.png" group-title="FOX & NBC SPORTS",USA NBC Sports Chicago
-http://supersonictv.live:25461/daniela/daniela/78968
-#EXTINF:-1 tvg-id="" tvg-name="USA NBC Sports California Plus" tvg-logo="https://www.kindpng.com/picc/m/129-1297955_nbc-sports-california-nbc-sports-california-logo-hd.png" group-title="FOX & NBC SPORTS",USA NBC Sports California Plus
-http://supersonictv.live:25461/daniela/daniela/78967
-#EXTINF:-1 tvg-id="SP: NBCSN CALIFORNIA" tvg-name="USA NBC Sports California" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/NBC_Sports_California.png" group-title="FOX & NBC SPORTS",USA NBC Sports California
-http://supersonictv.live:25461/daniela/daniela/78966
-#EXTINF:-1 tvg-id="SP: NBCSN BOSTON" tvg-name="USA NBC Sports Boston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/NBC_2013_fixed_logo.svg/1200px-NBC_2013_fixed_logo.svg.png" group-title="FOX & NBC SPORTS",USA NBC Sports Boston
-http://supersonictv.live:25461/daniela/daniela/78965
-#EXTINF:-1 tvg-id="" tvg-name="USA NBC Sports Bay Area Plus" tvg-logo="https://www.kindpng.com/picc/m/469-4690554_nbc-sports-bay-area-nbc-sports-bay-area.png" group-title="FOX & NBC SPORTS",USA NBC Sports Bay Area Plus
-http://supersonictv.live:25461/daniela/daniela/78964
-#EXTINF:-1 tvg-id="SP: NBCSN BAY AREA" tvg-name="USA NBC Sports Bay Area" tvg-logo="https://www.kindpng.com/picc/m/469-4690554_nbc-sports-bay-area-nbc-sports-bay-area.png" group-title="FOX & NBC SPORTS",USA NBC Sports Bay Area
-http://supersonictv.live:25461/daniela/daniela/78963
-#EXTINF:-1 tvg-id="SP: FOX SPORTS 1" tvg-name="USA Fox Sports 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="FOX & NBC SPORTS",USA Fox Sports 1 UHD
-http://supersonictv.live:25461/daniela/daniela/78936
-#EXTINF:-1 tvg-id="SP: FOX SPORTS WISCONSIN" tvg-name="USA Fox Sports Wisconsin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Fox_Sports_Wisconsin_2012_Logo.png/400px-Fox_Sports_Wisconsin_2012_Logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports Wisconsin
-http://supersonictv.live:25461/daniela/daniela/78962
-#EXTINF:-1 tvg-id="SP: FOX SPORTS TENNESSEE" tvg-name="USA FOX Sports Tennessee" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Fox_Sports_Tennessee_2012_logo.png" group-title="FOX & NBC SPORTS",USA FOX Sports Tennessee
-http://supersonictv.live:25461/daniela/daniela/78960
-#EXTINF:-1 tvg-id="SP: FOX SPORTS WEST" tvg-name="USA Fox Sports West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="FOX & NBC SPORTS",USA Fox Sports West
-http://supersonictv.live:25461/daniela/daniela/78961
-#EXTINF:-1 tvg-id="SP: FOX SPORTS SUN" tvg-name="USA Fox Sports Sun" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/Sun_Sports_logo_2012.png" group-title="FOX & NBC SPORTS",USA Fox Sports Sun
-http://supersonictv.live:25461/daniela/daniela/78959
-#EXTINF:-1 tvg-id="" tvg-name="USA FOx SportTime Ohio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Fox_Sports_Ohio_2012_logo.png/200px-Fox_Sports_Ohio_2012_logo.png" group-title="FOX & NBC SPORTS",USA FOx SportTime Ohio
-http://supersonictv.live:25461/daniela/daniela/78958
-#EXTINF:-1 tvg-id="SP: FOX SPORTS SOUTHWEST" tvg-name="USA FOX Sports Southwest" tvg-logo="https://www.soda.com/wp-content/uploads/2017/04/FOX_Sports_Southwest_live_stream-600x361.png" group-title="FOX & NBC SPORTS",USA FOX Sports Southwest
-http://supersonictv.live:25461/daniela/daniela/78957
-#EXTINF:-1 tvg-id="SP: FOX SPORTS SOUTHEAST" tvg-name="USA FOX Sports Southeast" tvg-logo="https://www.soda.com/wp-content/uploads/2017/04/FOX_Sports_Southwest_live_stream-600x361.png" group-title="FOX & NBC SPORTS",USA FOX Sports Southeast
-http://supersonictv.live:25461/daniela/daniela/78956
-#EXTINF:-1 tvg-id="SP: FOX SPORTS SAN DIEGO" tvg-name="USA Fox Sports San Diego" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Fox_Sports_San_Diego_2012_logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports San Diego
-http://supersonictv.live:25461/daniela/daniela/78953
-#EXTINF:-1 tvg-id="SP: FOX SPORTS SOUTH" tvg-name="USA Fox Sports South" tvg-logo="https://www.logancitytavern.com.au/wp-content/uploads/2017/01/fox-sports-logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports South
-http://supersonictv.live:25461/daniela/daniela/78954
-#EXTINF:-1 tvg-id="" tvg-name="USA Fox Sports South East (North Carolina)" tvg-logo="" group-title="FOX & NBC SPORTS",USA Fox Sports South East (North Carolina)
-http://supersonictv.live:25461/daniela/daniela/78955
-#EXTINF:-1 tvg-id="" tvg-name="USA FOX Sports Indiana Plus KDVR" tvg-logo="https://x.tribtv.com/slates/wxin.png" group-title="FOX & NBC SPORTS",USA FOX Sports Indiana Plus KDVR
-http://supersonictv.live:25461/daniela/daniela/78945
-#EXTINF:-1 tvg-id="SP: FOX SPORTS MIDWEST" tvg-name="USA FOX Sports Midwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Fox_Sports_Midwest_2012_logo.png" group-title="FOX & NBC SPORTS",USA FOX Sports Midwest
-http://supersonictv.live:25461/daniela/daniela/78946
-#EXTINF:-1 tvg-id="" tvg-name="USA Fox Sports Netbase" tvg-logo="https://sportstalkflorida.com/wp-content/uploads/2014/07/Fox_Sports_Logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports Netbase
-http://supersonictv.live:25461/daniela/daniela/78947
-#EXTINF:-1 tvg-id="SP: FOX SPORTS NEW ORLEANS" tvg-name="USA Fox Sports New Orleans" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Fox_Sports_Southwest_2012_Logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports New Orleans
-http://supersonictv.live:25461/daniela/daniela/78948
-#EXTINF:-1 tvg-id="SP: FOX SPORTS NORTH" tvg-name="USA Fox Sports North" tvg-logo="https://seeklogo.com/images/F/fox-sports-north-logo-4143443F7A-seeklogo.com.png" group-title="FOX & NBC SPORTS",USA Fox Sports North
-http://supersonictv.live:25461/daniela/daniela/78949
-#EXTINF:-1 tvg-id="ABC ABILENE TX KTXS" tvg-name="USA Fox Sports Ohio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Fox_Sports_Ohio_2012_logo.png/200px-Fox_Sports_Ohio_2012_logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports Ohio
-http://supersonictv.live:25461/daniela/daniela/78950
-#EXTINF:-1 tvg-id="" tvg-name="USA Fox Sports Oklahoma" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Fox_Sports_Oklahoma_Logo_2012.png" group-title="FOX & NBC SPORTS",USA Fox Sports Oklahoma
-http://supersonictv.live:25461/daniela/daniela/78951
-#EXTINF:-1 tvg-id="SP: FOX SPORTS PRIME TICKET" tvg-name="USA FOX Sports Prime Ticket" tvg-logo="https://www.pngkit.com/png/detail/52-523543_fox-sports-prime-ticket-live-stream-fox-sports.png" group-title="FOX & NBC SPORTS",USA FOX Sports Prime Ticket
-http://supersonictv.live:25461/daniela/daniela/78952
-#EXTINF:-1 tvg-id="SP: FOX SPORTS CINCINNATI" tvg-name="USA Fox Sports Cincinnati" tvg-logo="https://planetdish.com/wp-content/uploads/2017/07/DISH-Network-Multi-Sport-FOX-Sports-Cincinnati.png" group-title="FOX & NBC SPORTS",USA Fox Sports Cincinnati
-http://supersonictv.live:25461/daniela/daniela/78940
-#EXTINF:-1 tvg-id="" tvg-name="USA Fox Sports College Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Fox_Sports_College.png" group-title="FOX & NBC SPORTS",USA Fox Sports College Atlantic
-http://supersonictv.live:25461/daniela/daniela/78941
-#EXTINF:-1 tvg-id="SP: FOX SPORTS DETROIT" tvg-name="USA Fox Sports Detroit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Fox_sports_detroit.png" group-title="FOX & NBC SPORTS",USA Fox Sports Detroit
-http://supersonictv.live:25461/daniela/daniela/78942
-#EXTINF:-1 tvg-id="" tvg-name="USA Fox Sports Florida" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Fox_Sports_Florida_2012_logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports Florida
-http://supersonictv.live:25461/daniela/daniela/78943
-#EXTINF:-1 tvg-id="SP: FOX SPORTS INDIANA" tvg-name="USA Fox Sports Indiana" tvg-logo="https://e7.pngegg.com/pngimages/289/389/png-clipart-indiana-pacers-fox-sports-networks-fox-sports-indiana-logo-venom-television-blue.png" group-title="FOX & NBC SPORTS",USA Fox Sports Indiana
-http://supersonictv.live:25461/daniela/daniela/78944
-#EXTINF:-1 tvg-id="SP: FOX SPORTS CAROLINAS" tvg-name="USA FOX SPORTS CAROLINA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/3/3b/20190119232446%21Fox_Sports_Carolinas_2012_logo.png" group-title="FOX & NBC SPORTS",USA FOX SPORTS CAROLINA
-http://supersonictv.live:25461/daniela/daniela/78939
-#EXTINF:-1 tvg-id="SP: FOX SPORTS ARIZONA" tvg-name="USA Fox Sports Arizona" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Fox_Sports_Arizona_2012_logo.png" group-title="FOX & NBC SPORTS",USA Fox Sports Arizona
-http://supersonictv.live:25461/daniela/daniela/78938
-#EXTINF:-1 tvg-id="SP: FOX SPORTS 2" tvg-name="USA Fox Sports 2 UHD" tvg-logo="https://www.pngitem.com/pimgs/m/394-3949767_fox-sports-fox-sport-2-logo-png-transparent.png" group-title="FOX & NBC SPORTS",USA Fox Sports 2 UHD
-http://supersonictv.live:25461/daniela/daniela/78937
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 1 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/tivibu_tr_spor.png" group-title="TR : Spor",|TR| Tivibu Spor 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/197
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/tivibu_tr_spor_2.png" group-title="TR : Spor",|TR| Tivibu Spor 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/198
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tivibu Spor 3 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/tivibu_tr_spor_3.png" group-title="TR : Spor",|TR| Tivibu Spor 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/199
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="|TR| Smart Spor 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/smart_spor.png" group-title="TR : Spor",|TR| Smart Spor 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/200
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="|TR| A Spor 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/a_spor_tr.png" group-title="TR : Spor",|TR| A Spor 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/201
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="|TR| TRT Spor 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/trt_spor_tr.png" group-title="TR : Spor",|TR| TRT Spor 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/202
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="|TR| TRT Spor 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/trt_spor_tr.png" group-title="TR : Spor",|TR| TRT Spor 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/203
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tay TV 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/d_tay_tv.png" group-title="TR : Spor",|TR| Tay TV 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/205
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="|TR| Smart Spor HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/smart_spor_hd.png" group-title="TR : Spor",|TR| Smart Spor HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/206
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="|TR| A Spor HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/a_spor_tr.png" group-title="TR : Spor",|TR| A Spor HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/207
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="|TR| S Sport HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/s_sport_tr.png" group-title="TR : Spor",|TR| S Sport HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/208
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="|TR| S Sport 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/turkey2/s_sport_tr.png" group-title="TR : Spor",|TR| S Sport 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/209
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="|TR| S Sport HD+ Yedek" tvg-logo="http://picon.worldip.nl/satlogo/turkey/s_sport_tr.png" group-title="TR : Spor",|TR| S Sport HD+ Yedek
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/210
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="|TR| TRT Spor HD+" tvg-logo="http://picon.worldip.nl/satlogo/turkey/trt_spor_tr.png" group-title="TR : Spor",|TR| TRT Spor HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/211
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="|TR| EuroSport 1 HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eurosport_fr_1.png" group-title="TR : Spor",|TR| EuroSport 1 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/212
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="|TR| EuroSport 2 HD+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eurosport_fr_2.png" group-title="TR : Spor",|TR| EuroSport 2 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/213
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="|TR| Sports TV" tvg-logo="http://picon.worldip.nl/satlogo/turkey/sports_tv_tr.png" group-title="TR : Spor",|TR| Sports TV
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/214
+#EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV" tvg-logo="http://picon.worldip.nl/lyngsat/tv/gg/gstv_in.png" group-title="TR : Spor",|TR| GS TV
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/215
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FB TV" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ff/fbtv_fenerbahce.png" group-title="TR : Spor",|TR| FB TV
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/216
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TJK HD+" tvg-logo="https://www.kavuntv.com/uploads/kanal/24914tjk-tv.png" group-title="TR : Spor",|TR| TJK HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/217
+
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="|DE| Sky Sport News 4K+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_de_sport_news_hd.png" group-title="DE : Sky Sports",|DE| Sky Sport News 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/653
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport Austria 4K+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_de_sport_austria.png" group-title="DE : Sky Sports",|DE| Sky Sport Austria 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/658
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky Sport F1 4K+" tvg-logo="http://picon.worldip.nl/satlogo/uk/sky_uk_sports_f1.png" group-title="DE : Sky Sports",|DE| Sky Sport F1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/46288
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="|DE| Sky Sport 1 4K+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_1.png" group-title="DE : Sky Sports",|DE| Sky Sport 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/655
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="|DE| Sky Sport 1 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_1.png" group-title="DE : Sky Sports",|DE| Sky Sport 1 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/660
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="|DE| Sky Sport 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_2.png" group-title="DE : Sky Sports",|DE| Sky Sport 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/657
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="|DE| Sky Sport 2 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_2.png" group-title="DE : Sky Sports",|DE| Sky Sport 2 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/661
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="|DE| Sky Sport 3 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport-hd_3.png" group-title="DE : Sky Sports",|DE| Sky Sport 3 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/666
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="|DE| Sky Sport 4 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_4.png" group-title="DE : Sky Sports",|DE| Sky Sport 4 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/668
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="|DE| Sky Sport 5 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_5.png" group-title="DE : Sky Sports",|DE| Sky Sport 5 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/669
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="|DE| Sky Sport 6 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_6.png" group-title="DE : Sky Sports",|DE| Sky Sport 6 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/670
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="|DE| Sky Sport 7 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_7.png" group-title="DE : Sky Sports",|DE| Sky Sport 7 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/672
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="|DE| Sky Sport 8 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_8.png" group-title="DE : Sky Sports",|DE| Sky Sport 8 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/673
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="|DE| Sky Sport 9 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_9.png" group-title="DE : Sky Sports",|DE| Sky Sport 9 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/674
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="|DE| Sky Sport 10 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_10.png" group-title="DE : Sky Sports",|DE| Sky Sport 10 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/675
+#EXTINF:-1 tvg-id="skysport11.de" tvg-name="|DE| Sky Sport 11 HD+" tvg-logo="http://picon.worldip.nl/satlogo/germany/sky_sport_hd_11.png" group-title="DE : Sky Sports",|DE| Sky Sport 11 HD+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/676
 
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Bein Sports UHD
-http://supersonictv.live:25461/daniela/daniela/22187
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 2
-http://supersonictv.live:25461/daniela/daniela/22189
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 4
-http://supersonictv.live:25461/daniela/daniela/22190
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 5
-http://supersonictv.live:25461/daniela/daniela/22191
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 6
-http://supersonictv.live:25461/daniela/daniela/22192
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports 7
-http://supersonictv.live:25461/daniela/daniela/22193
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Bein Sports N Espanol UHD
-http://supersonictv.live:25461/daniela/daniela/22195
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA BeIN Sports LaLiga
-http://supersonictv.live:25461/daniela/daniela/22196
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Latin BEIN Sports Latin
-http://supersonictv.live:25461/daniela/daniela/22197
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA ESPN UHD
-http://supersonictv.live:25461/daniela/daniela/22198
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA ESPN 2 UHD
-http://supersonictv.live:25461/daniela/daniela/22199
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA ESPNU UHD
-http://supersonictv.live:25461/daniela/daniela/22202
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports 1 UHD
-http://supersonictv.live:25461/daniela/daniela/78936
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports Wisconsin
-http://supersonictv.live:25461/daniela/daniela/78962
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Tennessee
-http://supersonictv.live:25461/daniela/daniela/78960
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports West
-http://supersonictv.live:25461/daniela/daniela/78961
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports Sun
-http://supersonictv.live:25461/daniela/daniela/78959
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOx SportTime Ohio
-http://supersonictv.live:25461/daniela/daniela/78958
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Southwest
-http://supersonictv.live:25461/daniela/daniela/78957
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Southeast
-http://supersonictv.live:25461/daniela/daniela/78956
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports San Diego
-http://supersonictv.live:25461/daniela/daniela/78953
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports South
-http://supersonictv.live:25461/daniela/daniela/78954
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports South East (North Carolina)
-http://supersonictv.live:25461/daniela/daniela/78955
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Indiana Plus KDVR
-http://supersonictv.live:25461/daniela/daniela/78945
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA FOX Sports Midwest
-http://supersonictv.live:25461/daniela/daniela/78946
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Sports",USA Fox Sports Netbase
-http://supersonictv.live:25461/daniela/daniela/78947
-
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ss/sport_tv_pt_1.png" group-title="PT : Sport",|PT| Sport TV 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14550
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 2 4K+" tvg-logo="http://picon.worldip.nl/satlogo/portugal/sport_tv_pt.png" group-title="PT : Sport",|PT| Sport TV 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14551
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 3 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ss/sport_tv_pt_3.png" group-title="PT : Sport",|PT| Sport TV 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14552
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 4 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ss/sport_tv_pt_4.png" group-title="PT : Sport",|PT| Sport TV 4 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14553
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 5 4K+" tvg-logo="http://picon.worldip.nl/satlogo/portugal/sport_tv_pt.png" group-title="PT : Sport",|PT| Sport TV 5 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14554
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="PT : Sport",|PT| Eleven Sports 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14548
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 2 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="PT : Sport",|PT| Eleven Sports 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14544
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 3 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="PT : Sport",|PT| Eleven Sports 3 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14537
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 4 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eleven-sports-4-portugal-uk-pt.png" group-title="PT : Sport",|PT| Eleven Sports 4 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14535
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 5 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eleven_sports_network.png" group-title="PT : Sport",|PT| Eleven Sports 5 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14532
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eleven Sports 6 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eleven_sports_network.png" group-title="PT : Sport",|PT| Eleven Sports 6 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14530
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eurosport 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eurosport_fr_1.png" group-title="PT : Sport",|PT| Eurosport 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14555
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Eurosport 2 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ee/eurosport_fr_2.png" group-title="PT : Sport",|PT| Eurosport 2 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14556
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Canal 11 HD" tvg-logo="http://picon.worldip.nl/lyngsat/tv/cc/canal-11-pt.png" group-title="PT : Sport",|PT| Canal 11 HD
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14513
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV NBA" tvg-logo="http://picon.worldip.nl/lyngsat/tv/nn/nba_tv_us.png" group-title="PT : Sport",|PT| Sport TV NBA
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14524
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Benfica 1 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/bb/benfica_tv_pt.png" group-title="PT : Sport",|PT| Benfica 1 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14557
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Sporting TV 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/ss/sporting_tv_pt.png" group-title="PT : Sport",|PT| Sporting TV 4K+
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14558
+#EXTINF:-1 tvg-id="" tvg-name="|PT| PFC" tvg-logo="http://picon.worldip.nl/lyngsat/tv/pp/porto_canal.png" group-title="PT : Sport",|PT| PFC
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14559
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Kombat Sport" tvg-logo="http://picon.worldip.nl/lyngsat/tv/kk/kombat_sport.png" group-title="PT : Sport",|PT| Kombat Sport
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14525
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Motorvision" tvg-logo="http://picon.worldip.nl/lyngsat/tv/mm/motorvision-tv-de.png" group-title="PT : Sport",|PT| Motorvision
+http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14523
 
 
 
