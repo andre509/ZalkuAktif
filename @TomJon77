@@ -2116,7 +2116,8 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY MAX HD
 http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY PIX
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634779
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY PIX HD
 http://iptvtree.net:8080/resplice/534db280/49539
 http://185.246.209.207/HINDI_SONY_PIX_HD_INDIA/tracks-v1a1/mono.m3u8
@@ -2125,20 +2126,28 @@ http://72.255.34.227:8000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies SELECT HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies HD
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634777
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Sony MAX HD
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634759
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Sony Max
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634758
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",& FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",& PRIVE
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HBO id
+
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634789
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HBO I
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634776
 http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO
 https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
@@ -2272,6 +2281,37 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1    group-title="CH" ,Animal Planet
 http://103.147.87.245:8001/play/a005/index.m3u8
+
+
+
+#EXTINF: -1 tvg-name="Discovery Channel" tvg-logo="https://cdn.imgbin.com/1/25/0/imgbin-discovery-channel-television-channel-logo-television-show-others-70vvFwtvRkZzwZ4UcPyqSpWTN.jpg" group-title="Documentary", Discovery Channel
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634790
+#EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="History 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png" group-title="Documentary", History 18
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634791
+#EXTINF: -1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary", Discovery Science
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634792
+#EXTINF: -1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634793
+#EXTINF: -1 tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="Documentary", Nat Geo Wild
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634794
+#EXTINF: -1 tvg-name="National Geographic (dual language)" tvg-logo="https://mms.businesswire.com/media/20200117005517/en/551357/23/NGC_Logo.jpg" group-title="Documentary", National Geographic (dual language)
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634795
+#EXTINF: -1 tvg-id="nationalgeographicchannel.in" tvg-name="Nat Geo IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="Documentary", Nat Geo IN
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634796
+#EXTINF: -1 tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary", ID
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634797
+#EXTINF: -1 tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Documentary", BBC Earth
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634798
+#EXTINF: -1 tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/dBmaKIP.png" group-title="Documentary", Outdoor Channel
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634799
+#EXTINF: -1 tvg-name="TLC" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary", TLC
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634800
+#EXTINF: -1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary", Travel TV
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634801
+#EXTINF: -1 tvg-name="NatGeo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Documentary", NatGeo People
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634802
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony HD" tvg-logo="" group-title="INDIA",IN: Sony HD
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14275
