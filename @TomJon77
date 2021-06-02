@@ -1862,61 +1862,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 
 
 
-
-
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Baby First LHD
-http://supersonictv.live:25461/daniela/daniela/21789
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Baby TV
-http://supersonictv.live:25461/daniela/daniela/21790
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Boomerang UHD
-http://supersonictv.live:25461/daniela/daniela/21791
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Cartoon Network UHD
-http://supersonictv.live:25461/daniela/daniela/21792
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Cartoon Network West
-http://supersonictv.live:25461/daniela/daniela/21793
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Cartoon Network Pacific
-http://supersonictv.live:25461/daniela/daniela/21794
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Channel East UHD
-http://supersonictv.live:25461/daniela/daniela/21795
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Channel West LHD
-http://supersonictv.live:25461/daniela/daniela/21796
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Channel Paficic
-http://supersonictv.live:25461/daniela/daniela/21797
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Junior UHD
-http://supersonictv.live:25461/daniela/daniela/21798
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Junior West LHD
-http://supersonictv.live:25461/daniela/daniela/21799
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney Junior Pacific
-http://supersonictv.live:25461/daniela/daniela/21800
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney XD UHD
-http://supersonictv.live:25461/daniela/daniela/21801
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney XD West LHD
-http://supersonictv.live:25461/daniela/daniela/21802
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Disney XD Pacific
-http://supersonictv.live:25461/daniela/daniela/21803
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Freeform UHD
-http://supersonictv.live:25461/daniela/daniela/21804
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Freeform West LHD
-http://supersonictv.live:25461/daniela/daniela/21805
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA NICK JR
-http://supersonictv.live:25461/daniela/daniela/21806
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Nickelodeon UHD
-http://supersonictv.live:25461/daniela/daniela/21808
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA NickToons UHD
-http://supersonictv.live:25461/daniela/daniela/21809
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA PBS Kids
-http://supersonictv.live:25461/daniela/daniela/21810
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA TEEN NICK
-http://supersonictv.live:25461/daniela/daniela/21811
-#EXTINF:-1 tvglogo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="USA Kids",USA Universal Kids
-http://supersonictv.live:25461/daniela/daniela/21812
-
-
-
-
-
-
-
 #EXTINF:-1    group-title="CINEMA" ,Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1  group-title="CINEMA", Fox
@@ -2123,7 +2068,8 @@ http://iptvtree.net:8080/resplice/534db280/49539
 http://185.246.209.207/HINDI_SONY_PIX_HD_INDIA/tracks-v1a1/mono.m3u8
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/9
 http://72.255.34.227:8000/play/a01t/index.m3u8
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",AXN
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634789
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies SELECT HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies HD
@@ -2143,24 +2089,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",& PRIVE
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634789
-
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",HBO I
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634776
 http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO
 https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO Hits
-http://fdtvapps.xyz/channel/hbohits.m3u8
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Hbo Family 1
-http://fdtvapps.xyz/channel/hbofam.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", Cinemax
-http://fdtvapps.xyz/channel/cinemax.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO 1
-http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", HBO 
 https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
@@ -2175,8 +2108,6 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",RedByHbo 1
-http://fdtvapps.xyz/channel/red.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/11673?token=TRcKBRBcRAkVAlULWFQBVwcGBlZbDgVXBABYBlBSW1dQA1NUWgFeVgNBSRpKFxFXU1hvDVwUDgcCUFYFSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDgRRUwZXURQRRlwGRlkWUwsDW0cUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJUCg1BTxBRWkUKTERNFAlEKHJGTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUBwYDRE0UCQxWWkJaEDsTXQIRDUFXCglQVxBP
@@ -2234,7 +2165,6 @@ http://45.126.83.51/uq2663/h/h19/index.m3u8
 http://45.126.83.51/uq2663/h/h143/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW", ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",AXN
 http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 
@@ -2255,22 +2185,16 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1  group-title="CH", HBO signature(Thai)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/sighd/playlist.m3u8
-
 #EXTINF:-1  group-title="CH", HBO Family(Thai)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/famhd/playlist.m3u8
-
 #EXTINF:-1  group-title="CH", REDbyHBO(Thai)
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/red/playlist.m3u8
-
 #EXTINF:-1  group-title="CH", CINEMAX
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/maxhd/playlist.m3u8
-
 #EXTINF:-1  group-title="CH", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/chunks.m3u8
-
 #EXTINF:-1  group-title="CH", FOX MOVIES
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/chunks.m3u8
-
 #EXTINF:-1  group-title="CH", FOX FAMILY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1    group-title="CH" ,KBS World
@@ -2545,92 +2469,6 @@ http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14674
 http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14675
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/540
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA / La Liga TV Bar HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/541
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/519
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 2
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/523
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar Deportes  HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/562
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar Futbol HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/561
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar Golf HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/560
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Dazn Formula 1 HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/559
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- EUROSPORT 1 HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/571
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- EUROSPORT 2
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/572
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Barça TV
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/548
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- GOL TV
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/558
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Dazn 1
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/10458
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Dazn 2
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2544
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar DEPORTE 1 (SOLO EVENTOS)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/563
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar DEPORTE 2 (SOLO EVENTOS)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/564
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar DEPORTE 3 (SOLO EVENTOS)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/565
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar DEPORTE 4 (SOLO EVENTOS)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/566
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar DEPORTE 5 (SOLO EVENTOS)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/567
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar DEPORTE 6 (SOLO EVENTOS)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/568
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Movistar DEPORTE 7 (SOLO EVENTOS)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/569
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 1 FHD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2558
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 1
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2557
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 2 FHD (1080P)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2560
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 3
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2561
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA DE CAMPEONES 4
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2562
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 5
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2563
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 6
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2564
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 7
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2565
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LIGA CAMPEONES 8
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2566
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 1 FHD (1080P)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2546
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 1
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2545
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 2 FHD (1080P)
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2548
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 2
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2547
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 3
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2549
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 4
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2550
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 5
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2551
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 6
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2552
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 7
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2553
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 8
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2554
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 9
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2555
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- MOVISTAR LA LIGA 10
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/2556
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Sport Spain",Spain- Canal 33 Madrid HD
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/10440
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/23de07828ba332e769ee3349d500fdee.png" group-title="Sports Astro 1",ASTRO ARENA HD
@@ -2783,6 +2621,45 @@ http://foxx-tv.com:9600/GhsKWsBsnwnCWZB/kZ84c1GXN4G944N/56648
 #EXTINF:0 tvg-logo="http://crystalle.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-italia/SKY%20SPORT%20COLLECTION.png" group-title="IT| SPORTS",IT|  SKY SPORT COLLECTION HEVC
 http://foxx-tv.com:9600/GhsKWsBsnwnCWZB/kZ84c1GXN4G944N/136687
 
+#EXTINF: -1 tvg-name="Star Sports 1" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports", Star Sports 1
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634807
+#EXTINF: -1 tvg-name="Star Sports 1 HD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports", Star Sports 1 HD
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634808
+#EXTINF: -1 tvg-name="Star Sports 2" tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="Sports", Star Sports 2
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634809
+#EXTINF: -1 tvg-name="Star Sports Select 1" tvg-logo="https://www.satlogo.com/hires/ss/star_sports_hk_select_hd_2.png" group-title="Sports", Star Sports Select 1
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634810
+#EXTINF: -1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://www.satlogo.com/hires/ss/star_sports_hk_select_hd_2.png" group-title="Sports", Star Sports Select 1 HD
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634811
+#EXTINF: -1 tvg-name="Star Sports Select 2" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="Sports", Star Sports Select 2
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634812
+#EXTINF: -1 tvg-name="Sony Ten 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="Sports", Sony Ten 1
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634813
+#EXTINF: -1 tvg-name="Sony Ten 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="Sports", Sony Ten 2
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634814
+#EXTINF: -1 tvg-name="Sony Ten 3" tvg-logo="https://i.pinimg.com/236x/82/ac/a4/82aca43f83fc8ac14304ac2520c63bd4.jpg" group-title="Sports", Sony Ten 3
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634815
+#EXTINF: -1 tvg-name="Sony Six HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports", Sony Six HD
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634816
+#EXTINF: -1 tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports", Sony Six
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634817
+#EXTINF: -1 tvg-name="T sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T sports
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634818
+#EXTINF: -1 tvg-name="T sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T sports HD
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634819
+#EXTINF: -1 tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports", Ptv Sports
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634820
+#EXTINF: -1 tvg-name="Sky Sports Cricket" tvg-logo="https://static.epg.best/gb/SkySportsCricket.uk.png" group-title="Sports", Sky Sports Cricket
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634821
+#EXTINF: -1 tvg-name="Sky Football" tvg-logo="https://s.cafebazaar.ir/1/icons/com.bskyb.fbscore_512x512.png" group-title="Sports", Sky Football
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634822
+#EXTINF: -1 tvg-name="Ten Sports" tvg-logo="https://seeklogo.com/images/T/ten-sports-logo-9544E367EB-seeklogo.com.gif" group-title="Sports", Ten Sports
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634823
+#EXTINF: -1 tvg-name="Willow Sports" tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports", Willow Sports
+https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634824
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ZQ Sport
 http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" tvg-id="RIYAN.f94e4345da4a5c37ca4b98ceac2907fa.SHINTA" tvg-name"[CODAY] Champions TV 1 _VIDIO" group-title="SPORTS WAK",Champions TV 1 _VIDIO
@@ -2806,11 +2683,6 @@ http://gumisasak.site/USEETV/master.m3u8?id=foxsport3
 http://gumisasak.site/USEETV/master.m3u8?id=bein1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 2
 http://gumisasak.site/USEETV/master.m3u8?id=bein2
-#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",WWE HD
-http://209.145.58.109:25461/0SmzsfBiue/bD5ry59Og9/8
-http://linux-app.tv:8080/Iptvtree/He73ghh/70287
-#EXTINF:-1 tvg-id="" tvg-name="WWE Raw HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",WWE Raw HD
-http://linux-app.tv:8080/Iptvtree/He73ghh/35621
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 2
@@ -3226,74 +3098,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports 1 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports 1 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59881
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports 1 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports 1 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59882
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports 2 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports 2 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59883
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports 2 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports 2 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59884
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  3 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  3 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59885
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  3 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  3 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59886
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  4 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  4 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59887
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  4 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  4 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59888
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  5 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  5 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59889
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  5 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  5 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59890
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  6 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  6 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59891
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  6 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  6 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59892
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  7 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  7 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59893
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  7 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  7 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59894
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  8 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  8 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59895
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  8 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  8 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59896
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  9 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  9 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59897
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  9 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  9 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59898
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  10 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  10 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59899
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  10 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  10 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59900
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  11 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  11 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59901
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  11 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  11 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59902
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  12 FHD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  12 FHD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59903
-#EXTINF:-1 tvg-id="" tvg-name="BeinVIP : beIN Sports  12 HD" tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BeinVIP",beIN Sports  12 HD
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/59904
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports10" tvg-logo="http://silvertv.net:1997/images/BEIN/10.png" group-title="BeinVIP",BeinSports10
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18407
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports9" tvg-logo="http://silvertv.net:1997/images/BEIN/9.png" group-title="BeinVIP",BeinSports9
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18408
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports8" tvg-logo="http://silvertv.net:1997/images/BEIN/8.png" group-title="BeinVIP",BeinSports8
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18409
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports7" tvg-logo="http://silvertv.net:1997/images/BEIN/BEOUTQ7.png" group-title="BeinVIP",BeinSports7
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18410
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports6" tvg-logo="http://silvertv.net:1997/images/BEIN/BEOUTQ6.png" group-title="BeinVIP",BeinSports6
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18411
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports5" tvg-logo="http://silvertv.net:1997/images/BEIN/BEOUTQ5.png" group-title="BeinVIP",BeinSports5
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18412
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports4" tvg-logo="http://silvertv.net:1997/images/BEIN/BEOUTQ4.png" group-title="BeinVIP",BeinSports4
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18413
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports3" tvg-logo="http://silvertv.net:1997/images/BEIN/BEOUTQ3.png" group-title="BeinVIP",BeinSports3
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18414
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports2" tvg-logo="http://silvertv.net:1997/images/BEIN/beoutq2.png" group-title="BeinVIP",BeinSports2
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18415
-#EXTINF:-1 tvg-id="" tvg-name="BeinSports1" tvg-logo="http://silvertv.net:1997/images/BEIN/beoutq1.png" group-title="BeinVIP",BeinSports1
-http://s1.showplustv.com:1997/79956amigoIAHDAC/IUIAD56scoYaks/18416
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|US| Bein Sports 4K+" tvg-logo="" group-title="US : Sport",|US| Bein Sports 4K+
