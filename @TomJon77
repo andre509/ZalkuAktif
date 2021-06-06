@@ -2428,6 +2428,122 @@ https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6533_480p/index.
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="Kids OEX",Tvo kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 tvg-id="TrueAsianSeries.th" tvg-name="True Sport 7 TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 7 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/19146
+#EXTINF:-1 tvg-id="" tvg-name="FOX Thai TH" tvg-logo="https://picon-13398.kxcdn.com/fox.jpg" group-title="Live: Thailand",FOX Thai TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16960
+#EXTINF:-1 tvg-id="" tvg-name="Thai TV 5 HD1 TH" tvg-logo="https://picon-13398.kxcdn.com/thaitv5hd1th.jpg" group-title="Live: Thailand",Thai TV 5 HD1 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16961
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 HD 33 TH" tvg-logo="https://picon-13398.kxcdn.com/tv3hd33th.jpg" group-title="Live: Thailand",TV 3 HD 33 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16963
+#EXTINF:-1 tvg-id="TrueAsianSeries.th" tvg-name="Thai PBS TH" tvg-logo="https://picon-13398.kxcdn.com/thaipbsth.jpg" group-title="Live: Thailand",Thai PBS TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16964
+#EXTINF:-1 tvg-id="" tvg-name="Workpoint 23 TH" tvg-logo="https://picon-13398.kxcdn.com/workpoint23th.jpg" group-title="Live: Thailand",Workpoint 23 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16965
+#EXTINF:-1 tvg-id="TrueAsianSeries.th" tvg-name="PPTV HD 36 TH" tvg-logo="https://picon-13398.kxcdn.com/pptvhd36th.jpg" group-title="Live: Thailand",PPTV HD 36 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16967
+#EXTINF:-1 tvg-id="" tvg-name="SMM TV TH" tvg-logo="https://picon-13398.kxcdn.com/smmtvth.jpg" group-title="Live: Thailand",SMM TV TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17057
+#EXTINF:-1 tvg-id="TrueAsianSeries.th" tvg-name="MVM HD TH" tvg-logo="https://picon-13398.kxcdn.com/mvmth.jpg" group-title="Live: Thailand",MVM HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17058
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies FHD TH" tvg-logo="https://picon-13398.kxcdn.com/foxmovies.jpg" group-title="Live: Thailand",Fox Movies FHD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17059
+#EXTINF:-1 tvg-id="" tvg-name="Channel K TH" tvg-logo="https://picon-13398.kxcdn.com/channelkth.jpg" group-title="Live: Thailand",Channel K TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17061
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 SD 28 TH" tvg-logo="https://picon-13398.kxcdn.com/tv3sd28th.jpg" group-title="Live: Thailand",TV 3 SD 28 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17062
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 Family 13 TH" tvg-logo="https://picon-13398.kxcdn.com/tv3familyth.jpg" group-title="Live: Thailand",TV 3 Family 13 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17063
+#EXTINF:-1 tvg-id="" tvg-name="Happy TV 65 TH" tvg-logo="https://picon-13398.kxcdn.com/happytv65th.jpg" group-title="Live: Thailand",Happy TV 65 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17064
+#EXTINF:-1 tvg-id="" tvg-name="Channel NewsAsia TH" tvg-logo="https://picon-13398.kxcdn.com/channelnewasiath.jpg" group-title="Live: Thailand",Channel NewsAsia TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17065
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment TH" tvg-logo="https://picon-13398.kxcdn.com/blueantentth.jpg" group-title="Live: Thailand",Blue Ant Entertainment TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17067
+#EXTINF:-1 tvg-id="" tvg-name="Thaiban 83 TH" tvg-logo="https://picon-13398.kxcdn.com/thaiban83th.jpg" group-title="Live: Thailand",Thaiban 83 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17068
+#EXTINF:-1 tvg-id="" tvg-name="Major Channel Mix TH" tvg-logo="https://picon-13398.kxcdn.com/majorchannelmixth.jpg" group-title="Live: Thailand",Major Channel Mix TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17071
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD TH" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Live: Thailand",HBO HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17074
+#EXTINF:-1 tvg-id="TrueExploreLife.th" tvg-name="Five Channel TH" tvg-logo="https://picon-13398.kxcdn.com/fivechannelth.jpg" group-title="Live: Thailand",Five Channel TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17075
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action Movies HD TH" tvg-logo="https://picon-13398.kxcdn.com/foxactionmovieshdth.jpg" group-title="Live: Thailand",FOX Action Movies HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17076
+#EXTINF:-1 tvg-id="" tvg-name="One HD 31 TH" tvg-logo="https://picon-13398.kxcdn.com/onehd31th.jpg" group-title="Live: Thailand",One HD 31 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17080
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies TH" tvg-logo="https://picon-13398.kxcdn.com/foxfamilymoviesus.jpg" group-title="Live: Thailand",Fox Family Movies TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17081
+#EXTINF:-1 tvg-id="" tvg-name="History HD TH" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Thailand",History HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17082
+#EXTINF:-1 tvg-id="" tvg-name="MCOT Family TH" tvg-logo="https://picon-13398.kxcdn.com/mcotfamilyth.jpg" group-title="Live: Thailand",MCOT Family TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17085
+#EXTINF:-1 tvg-id="" tvg-name="MCOT HD TH" tvg-logo="https://picon-13398.kxcdn.com/mcothdth.jpg" group-title="Live: Thailand",MCOT HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17086
+#EXTINF:-1 tvg-id="" tvg-name="Thai Channel 8 TH" tvg-logo="https://picon-13398.kxcdn.com/thaichannel8th.jpg" group-title="Live: Thailand",Thai Channel 8 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17088
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD TH" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Thailand",National Geographic HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17089
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD TH" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Thailand",National Geographic Wild HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17090
+#EXTINF:-1 tvg-id="TrueAsianSeries.th" tvg-name="Nation TV TH" tvg-logo="https://picon-13398.kxcdn.com/nationtvth.jpg" group-title="Live: Thailand",Nation TV TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17091
+#EXTINF:-1 tvg-id="" tvg-name="New TV 18 TH" tvg-logo="https://picon-13398.kxcdn.com/new18th.jpg" group-title="Live: Thailand",New TV 18 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17092
+#EXTINF:-1 tvg-id="" tvg-name="Mono Plus TH" tvg-logo="https://picon-13398.kxcdn.com/monoplusth.jpg" group-title="Live: Thailand",Mono Plus TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17093
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD TH" tvg-logo="https://picon-13398.kxcdn.com/nflnetworkus.jpg" group-title="Live: Thailand",NFL Network HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17095
+#EXTINF:-1 tvg-id="" tvg-name="Hmong Star TH" tvg-logo="https://picon-13398.kxcdn.com/hmongstarth.jpg" group-title="Live: Thailand",Hmong Star TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17096
+#EXTINF:-1 tvg-id="" tvg-name="Thairath TV 32 TH" tvg-logo="https://picon-13398.kxcdn.com/thairatht32th.jpg" group-title="Live: Thailand",Thairath TV 32 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17097
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD TH" tvg-logo="https://picon-13398.kxcdn.com/hbosignaturelam.jpg" group-title="Live: Thailand",HBO Signature HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17098
+#EXTINF:-1 tvg-id="" tvg-name="TNN 24 TH" tvg-logo="https://picon-13398.kxcdn.com/tnn24th.jpg" group-title="Live: Thailand",TNN 24 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17099
+#EXTINF:-1 tvg-id="true4U.th" tvg-name="TVB Drama Thai TH" tvg-logo="https://picon-13398.kxcdn.com/dramathaith.jpg" group-title="Live: Thailand",TVB Drama Thai TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17100
+#EXTINF:-1 tvg-id="" tvg-name="TVN Asia TH" tvg-logo="https://picon-13398.kxcdn.com/tvnth.jpg" group-title="Live: Thailand",TVN Asia TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17101
+#EXTINF:-1 tvg-id="" tvg-name="Mono 29 TH" tvg-logo="https://picon-13398.kxcdn.com/mono29th.jpg" group-title="Live: Thailand",Mono 29 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17102
+#EXTINF:-1 tvg-id="" tvg-name="KBS World TH" tvg-logo="https://picon-13398.kxcdn.com/kbsworldth.jpg" group-title="Live: Thailand",KBS World TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17104
+#EXTINF:-1 tvg-id="" tvg-name="Food Network TH" tvg-logo="https://picon-13398.kxcdn.com/foodnetwork.jpg" group-title="Live: Thailand",Food Network TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17105
+#EXTINF:-1 tvg-id="" tvg-name="Amarin 34 HD TH" tvg-logo="https://picon-13398.kxcdn.com/amarin34hdth.jpg" group-title="Live: Thailand",Amarin 34 HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17106
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports HD TH" tvg-logo="https://picon-13398.kxcdn.com/foxsportshd.jpg" group-title="Live: Thailand",FOX Sports HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17107
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD TH" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="Live: Thailand",FOX Sports 2 HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17108
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 1 SD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 1 SD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17110
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="True Sport 2 HD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 2 HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17111
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="True Sport 3 HD TH" tvg-logo="https://picon-13398.kxcdn.com/truesporthdth.jpg" group-title="Live: Thailand",True Sport 3 HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17112
+#EXTINF:-1 tvg-id="" tvg-name="Esan TV HD TH" tvg-logo="https://picon-13398.kxcdn.com/esantvth.jpg" group-title="Live: Thailand",Esan TV HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17114
+#EXTINF:-1 tvg-id="" tvg-name="NBT 2 TH" tvg-logo="https://picon-13398.kxcdn.com/nbt2th.jpg" group-title="Live: Thailand",NBT 2 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17115
+#EXTINF:-1 tvg-id="" tvg-name="BBTV Channel 7 TH" tvg-logo="https://picon-13398.kxcdn.com/bbtvth.jpg" group-title="Live: Thailand",BBTV Channel 7 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23435
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Club TH" tvg-logo="https://picon-13398.kxcdn.com/cartoonclubth.jpg" group-title="Live: Thailand",Cartoon Club TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/27407
+#EXTINF:-1 tvg-id="" tvg-name="Now jelli TH" tvg-logo="https://picon-13398.kxcdn.com/nowjellith.jpg" group-title="Live: Thailand",Now jelli TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/27393
+#EXTINF:-1 tvg-id="" tvg-name="GMM 25 TH" tvg-logo="https://picon-13398.kxcdn.com/gmm25th.jpg" group-title="Live: Thailand",GMM 25 TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/28531
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD TH" tvg-logo="https://picon-13398.kxcdn.com/hbofamily.jpg" group-title="Live: Thailand",HBO Family HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17094
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 HD TH" tvg-logo="https://picon-13398.kxcdn.com/foxsports3.jpg" group-title="Live: Thailand",FOX Sports 3 HD TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/17109
+#EXTINF:-1 tvg-id="" tvg-name="True4U TH" tvg-logo="https://picon-13398.kxcdn.com/true4uth.jpg" group-title="Live: Thailand",True4U TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/29516
+#EXTINF:-1 tvg-id="" tvg-name="Thai TV Global Network TH" tvg-logo="https://picon-13398.kxcdn.com/tgnth.jpg" group-title="Live: Thailand",Thai TV Global Network TH
+http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/73266
 
 
 #EXTINF:-1    group-title="CINEMA" ,Love Nature HD
