@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="NULL" tvg-name="|RU| COVID-19 INFORMATION" tvg-logo="http://tv.iptvboss.net/ch_logo/covid.png" group-title="INFO COVID",COVID-19 INFORMATION
 http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/26443
 http://geostream.me:8080/Ibrahim/Ibrahim/38446
+#EXTINF:-1 tvg-id="NULL" tvg-name="|RU| COVID-19 INFORMATION" tvg-logo="http://tv.iptvboss.net/ch_logo/covid.png" group-title="INFO COVID",Covid-19
+http://portal.alliptv.tv:8080/530354021348/397532457292/5497
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJ0sSrM/harry-potter.png" group-title="CTV",HLS Stream 1
 https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8
