@@ -914,6 +914,82 @@ http://live.netcoffee.id:25461/.wahyu./clubtv149/6650
 #EXTINF:-1 tvg-id="" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/3JqDxFGv/unifidunia.png" group-title="Astro - Malaysia",Dunia Sinema
 http://live.netcoffee.id:25461/.wahyu./clubtv149/6651
 
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Dunia Lain
+http://gumisasak.site/USEETV/chunklist.m3u8?id=dunialain&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Citra Drama
+http://gumisasak.site/USEETV/chunklist.m3u8?id=cdrama&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Usee Entertainment",Warner    
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=warner&bandwidth=default&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Blue ant entertainmet
+http://gumisasak.site/USEETV/chunklist.m3u8?id=blueant&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Blue ant extreme
+http://gumisasak.site/USEETV/chunklist.m3u8?id=blueantextreme&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="AXN.bg" group-title="Usee Entertainment",AXN
+http://gumisasak.site/USEETV/chunklist.m3u8?id=axn&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Chinese Drama
+http://gumisasak.site/USEETV/chunklist.m3u8?id=chinesedrama&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="Kix.uk" group-title="Usee Entertainment",Kix
+http://gumisasak.site/USEETV/chunklist.m3u8?id=kix&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Waku Waku Japan
+http://gumisasak.site/USEETV/chunklist.m3u8?id=wakuwaku&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",K+
+http://gumisasak.site/USEETV/chunklist.m3u8?id=kplus&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Sony GEM TV
+http://gumisasak.site/USEETV/chunklist.m3u8?id=sgem&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Sony One
+http://gumisasak.site/USEETV/chunklist.m3u8?id=sone&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="outdoor" group-title="Usee Entertainment",Outdoor CHANNEL
+http://gumisasak.site/USEETV/chunklist.m3u8?id=outdoor&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Aniplus
+http://gumisasak.site/USEETV/chunklist.m3u8?id=aniplus&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="Animax.de" group-title="Usee Entertainment",Animax
+http://gumisasak.site/USEETV/chunklist.m3u8?id=animax&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="KBSWorld.us" group-title="Usee Entertainment",KBS World
+http://gumisasak.site/USEETV/chunklist.m3u8?id=kbsworld&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",ABC Australia
+http://gumisasak.site/USEETV/chunklist.m3u8?id=abcaustralia&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Usee Entertainment",Lifetime
+http://gumisasak.site/USEETV/chunklist.m3u8?id=lifetime&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",Ctiasia
+http://gumisasak.site/USEETV/chunklist.m3u8?id=ctiasia&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",CCTV4
+http://gumisasak.site/USEETV/chunklist.m3u8?id=cctv4&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Entertainment",NHK World Japan
+http://gumisasak.site/USEETV/chunklist.m3u8?id=nhkworld&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="arirang-en" group-title="Usee Entertainment",Arirang
+http://gumisasak.site/USEETV/chunklist.m3u8?id=arirang&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="tv5monde" group-title="Usee Entertainment",TV5Monde
+http://gumisasak.site/USEETV/chunklist.m3u8?id=tv5monde&bandwidth=b684100&sync=0
+
+
+
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",Bioskop Indonesia
+http://gumisasak.site/USEETV/chunklist.m3u8?id=bioskopindonesia&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies", Chinese Drama
+http://gumisasak.site/USEETV/chunklist.m3u8?id=chinesedrama&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",ZBioskop
+http://gumisasak.site/USEETV/chunklist.m3u8?id=zbioskop&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="TVN.pl" group-title="Usee Movies",TVN
+http://gumisasak.site/USEETV/chunklist.m3u8?id=tvn&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",TVN MOVIES
+http://gumisasak.site/USEETV/chunklist.m3u8?id=tvnmovies&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",Thrill
+http://gumisasak.site/USEETV/chunklist.m3u8?id=thrill&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",Celestial Movie
+http://gumisasak.site/USEETV/chunklist.m3u8?id=celestialmovie&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",Cinema World
+http://gumisasak.site/USEETV/chunklist.m3u8?id=cinemaworld&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",Flik
+http://gumisasak.site/USEETV/chunklist.m3u8?id=flik&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="galaxy" group-title="Usee Movies",Galaxy
+http://gumisasak.site/USEETV/chunklist.m3u8?id=galaxy&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",Galaxy Premium
+http://gumisasak.site/USEETV/chunklist.m3u8?id=galaxypremium&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies",IMC
+http://gumisasak.site/USEETV/chunklist.m3u8?id=imc&bandwidth=b684100&sync=0
+#EXTINF:0 tvg-id="oex" group-title="Usee Movies", Dunia Lain
+http://gumisasak.site/USEETV/chunklist.m3u8?id=dunialain&bandwidth=b684100&sync=0
+
 
 
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",TV1
