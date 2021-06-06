@@ -3579,7 +3579,424 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",ATGV 1 SPORT
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 Premium HD-EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports 1 Premium HD-EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32119
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 Premium HD-EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports 2 Premium HD-EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32118
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 Premium HD-EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports 3 Premium HD-EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32117
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD1 EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports- HD1 EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32116
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD2 EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports- HD2 EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32115
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD3 EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports- HD3 EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32114
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD4 EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports- HD4 EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32113
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD6 EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports- HD6 EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32112
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD5 EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports- HD5 EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32111
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports- HD7 EN" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Bein Sports- HD7 EN
+http://portal.alliptv.tv:8080/530354021348/397532457292/32110
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/WWE-Logo.jpg" group-title="INTERNATIONAL SPORTS ",WWE
+http://portal.alliptv.tv:8080/530354021348/397532457292/32812
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network HD" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/Fight-Network-Logo.jpg" group-title="INTERNATIONAL SPORTS ",Fight Network HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31129
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box HD" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/Fight-Box-Logo.jpg" group-title="INTERNATIONAL SPORTS ",Fight Box HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31127
+#EXTINF:-1 tvg-id="" tvg-name="NBA US" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/NBA-TV.jpg" group-title="INTERNATIONAL SPORTS ",NBA US
+http://portal.alliptv.tv:8080/530354021348/397532457292/16841
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/Euro-Sport-1-.jpg" group-title="INTERNATIONAL SPORTS ",Eurosport 1 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32813
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport-2 HD" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/Euro-Sport-2.jpg" group-title="INTERNATIONAL SPORTS ",Eurosport-2 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32814
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",BT Sport 1 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/34042
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",BT Sport 2 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/34044
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",BT Sport 3 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/34045
+#EXTINF:-1 tvg-id="" tvg-name="ESPN News" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/espn-logo.jpg" group-title="INTERNATIONAL SPORTS ",ESPN News
+http://portal.alliptv.tv:8080/530354021348/397532457292/16838
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/espn-logo.jpg" group-title="INTERNATIONAL SPORTS ",ESPN 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/16840
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/espn-logo.jpg" group-title="INTERNATIONAL SPORTS ",ESPN 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/16839
+#EXTINF:-1 tvg-id="foxsportsnews.au" tvg-name="Australia Fox Sports News" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports News
+http://portal.alliptv.tv:8080/530354021348/397532457292/8354
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="Australia Fox Sports 501" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 501
+http://portal.alliptv.tv:8080/530354021348/397532457292/8353
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="Australia Fox Sports 502 FHD" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 502 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/8352
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="Australia Fox Sports 502 Backup 1" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 502 Backup 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/32548
+#EXTINF:-1 tvg-id="foxsports502hd.au" tvg-name="Australia Fox Sports 502 Backup 2" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 502 Backup 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/32109
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="Australia Fox Sports 503" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 503
+http://portal.alliptv.tv:8080/530354021348/397532457292/8351
+#EXTINF:-1 tvg-id="foxsports504hd.au" tvg-name="Australia Fox Sports 504" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 504
+http://portal.alliptv.tv:8080/530354021348/397532457292/8350
+#EXTINF:-1 tvg-id="foxsports505hd.au" tvg-name="Australia Fox Sports 505" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 505
+http://portal.alliptv.tv:8080/530354021348/397532457292/8349
+#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="Australia Fox Sports 506" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 506
+http://portal.alliptv.tv:8080/530354021348/397532457292/8348
+#EXTINF:-1 tvg-id="" tvg-name="Australia Fox Sports 507" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",Australia Fox Sports 507
+http://portal.alliptv.tv:8080/530354021348/397532457292/8347
+#EXTINF:-1 tvg-id="" tvg-name="Australia Racing" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Racing-AU.jpg" group-title="INTERNATIONAL SPORTS ",Australia Racing
+http://portal.alliptv.tv:8080/530354021348/397532457292/8344
+#EXTINF:-1 tvg-id="" tvg-name="AUS: FOX CRICKET" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Fox-Sports-TV.jpg" group-title="INTERNATIONAL SPORTS ",AUS: FOX CRICKET
+http://portal.alliptv.tv:8080/530354021348/397532457292/32108
+#EXTINF:-1 tvg-id="beinsports1hd.au" tvg-name="Australia Bien Sports 1" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Australia Bien Sports 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/32107
+#EXTINF:-1 tvg-id="beinsports2hd.au" tvg-name="Australia Bien Sports 2" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Australia Bien Sports 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/32106
+#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="Australia Bien Sports 3" tvg-logo="https://static.wixstatic.com/media/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png/v1/fill/w_165,h_123,al_c,lg_1/b1a397_a68b1848349149aea66111a97b0f5e36~mv2.png" group-title="INTERNATIONAL SPORTS ",Australia Bien Sports 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/32105
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 1" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/32104
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 2" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/32103
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 3" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/32102
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 4" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/32101
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 5" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 5
+http://portal.alliptv.tv:8080/530354021348/397532457292/32100
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 6" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 6
+http://portal.alliptv.tv:8080/530354021348/397532457292/32099
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 7" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 7
+http://portal.alliptv.tv:8080/530354021348/397532457292/32098
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 8" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 8
+http://portal.alliptv.tv:8080/530354021348/397532457292/32097
+#EXTINF:-1 tvg-id="" tvg-name="NRL LIVE 9" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/NRL-logo.jpg" group-title="INTERNATIONAL SPORTS ",NRL LIVE 9
+http://portal.alliptv.tv:8080/530354021348/397532457292/32096
+#EXTINF:-1 tvg-id="" tvg-name="AFL 1" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/32811
+#EXTINF:-1 tvg-id="" tvg-name="AFL 2" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/32810
+#EXTINF:-1 tvg-id="" tvg-name="AFL 3" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/32809
+#EXTINF:-1 tvg-id="" tvg-name="AFL 4" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/32808
+#EXTINF:-1 tvg-id="" tvg-name="AFL 5" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 5
+http://portal.alliptv.tv:8080/530354021348/397532457292/32807
+#EXTINF:-1 tvg-id="" tvg-name="AFL 6" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 6
+http://portal.alliptv.tv:8080/530354021348/397532457292/32806
+#EXTINF:-1 tvg-id="" tvg-name="AFL 7" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 7
+http://portal.alliptv.tv:8080/530354021348/397532457292/32805
+#EXTINF:-1 tvg-id="" tvg-name="AFL 8" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 8
+http://portal.alliptv.tv:8080/530354021348/397532457292/32804
+#EXTINF:-1 tvg-id="" tvg-name="AFL 9" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 9
+http://portal.alliptv.tv:8080/530354021348/397532457292/32803
+#EXTINF:-1 tvg-id="" tvg-name="AFL 10" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/04/AFL-Logo.jpg" group-title="INTERNATIONAL SPORTS ",AFL 10
+http://portal.alliptv.tv:8080/530354021348/397532457292/32802
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport Select FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport Select FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32699
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 1 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 1 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32700
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 2 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 2 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32701
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 3 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 3 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32702
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 4 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 4 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32703
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 5 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 5 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32704
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 6 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 6 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32705
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 9 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 9 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32708
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 7 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 7 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32706
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: Sky Sport 8 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: Sky Sport 8 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32707
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: ESPN HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: ESPN HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32710
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sport: ESPN 2 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",NZ Sport: ESPN 2 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32711
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 HD (new zealand)" tvg-logo="" group-title="INTERNATIONAL SPORTS ",FOX SPORTS 1 HD (new zealand)
+http://portal.alliptv.tv:8080/530354021348/397532457292/32088
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD (newzealand)" tvg-logo="" group-title="INTERNATIONAL SPORTS ",FOX SPORTS 2 HD (newzealand)
+http://portal.alliptv.tv:8080/530354021348/397532457292/32087
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD (new zealand)" tvg-logo="" group-title="INTERNATIONAL SPORTS ",FOX SPORTS 3 HD (new zealand)
+http://portal.alliptv.tv:8080/530354021348/397532457292/32086
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 4 FHD (new zealand)" tvg-logo="" group-title="INTERNATIONAL SPORTS ",FOX SPORTS 4 FHD (new zealand)
+http://portal.alliptv.tv:8080/530354021348/397532457292/32085
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 5 FHD (new zealand)" tvg-logo="" group-title="INTERNATIONAL SPORTS ",FOX SPORTS 5 FHD (new zealand)
+http://portal.alliptv.tv:8080/530354021348/397532457292/32084
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 6 HD (new zealand)" tvg-logo="" group-title="INTERNATIONAL SPORTS ",FOX SPORTS 6 HD (new zealand)
+http://portal.alliptv.tv:8080/530354021348/397532457292/32083
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 FHD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Arena Sport 1 FHD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32030
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 FHD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Arena Sport 2 FHD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32029
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 FHD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Arena Sport 3 FHD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32028
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 FHD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Arena Sport 4 FHD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32027
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 FHD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Arena Sport 5 FHD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32026
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 FHD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Arena Sport 6 FHD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32025
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Astro SuperSport 1 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32006
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Astro SuperSport 2 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32007
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Astro SuperSport 3 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32008
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Astro SuperSport 4 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32009
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 01:cliftonville-v-glenavon-saturday-13th-mar-2021-3-00pm" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 01:cliftonville-v-glenavon-saturday-13th-mar-2021-3-00pm
+http://portal.alliptv.tv:8080/530354021348/397532457292/32069
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 02:dungannon-swifts-v-larne-saturday-13th-mar-2021-3-00pm" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 02:dungannon-swifts-v-larne-saturday-13th-mar-2021-3-00pm
+http://portal.alliptv.tv:8080/530354021348/397532457292/32068
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 03:linfield-v-carrick-rangers-saturday-13th-mar-2021-3-00pm" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 03:linfield-v-carrick-rangers-saturday-13th-mar-2021-3-00pm
+http://portal.alliptv.tv:8080/530354021348/397532457292/32067
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 04:" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 04:
+http://portal.alliptv.tv:8080/530354021348/397532457292/32066
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 05:" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 05:
+http://portal.alliptv.tv:8080/530354021348/397532457292/32065
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 06:" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 06:
+http://portal.alliptv.tv:8080/530354021348/397532457292/32064
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 07:" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 07:
+http://portal.alliptv.tv:8080/530354021348/397532457292/32063
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 08:" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 08:
+http://portal.alliptv.tv:8080/530354021348/397532457292/32062
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 09:" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 09:
+http://portal.alliptv.tv:8080/530354021348/397532457292/32061
+#EXTINF:-1 tvg-id="" tvg-name="Irish Premiership 10:" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Irish Premiership 10:
+http://portal.alliptv.tv:8080/530354021348/397532457292/32060
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="https://alliptvplayer.com/wp-content/uploads/2020/12/Barca-TV.jpg" group-title="INTERNATIONAL SPORTS ",Barca TV
+http://portal.alliptv.tv:8080/530354021348/397532457292/8343
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub GOLF HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub GOLF HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32041
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 1 HD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32040
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 2 HD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32039
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 3 HD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32038
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 4 HD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32037
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 HD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 5 HD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32036
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 6 HD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32035
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7 HD HR [Live During Events Only]" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 7 HD HR [Live During Events Only]
+http://portal.alliptv.tv:8080/530354021348/397532457292/32034
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8 HD HR [Live During Events Only]" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 8 HD HR [Live During Events Only]
+http://portal.alliptv.tv:8080/530354021348/397532457292/32033
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub Golf
+http://portal.alliptv.tv:8080/530354021348/397532457292/32032
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10 HD HR" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Sport Klub 10 HD HR
+http://portal.alliptv.tv:8080/530354021348/397532457292/32031
+#EXTINF:-1 tvg-id="" tvg-name="SPFL06: Dundee United v Celtic Sun 12.00" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPFL06: Dundee United v Celtic Sun 12.00
+http://portal.alliptv.tv:8080/530354021348/397532457292/32024
+#EXTINF:-1 tvg-id="" tvg-name="SPFL05: St Johnston Vs Hibs 15:00" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPFL05: St Johnston Vs Hibs 15:00
+http://portal.alliptv.tv:8080/530354021348/397532457292/32023
+#EXTINF:-1 tvg-id="" tvg-name="SPFL04: Ross County Vs Kilmarnock 15:00" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPFL04: Ross County Vs Kilmarnock 15:00
+http://portal.alliptv.tv:8080/530354021348/397532457292/32022
+#EXTINF:-1 tvg-id="" tvg-name="SPFL03: Rangers Vs St Mirren 15:00" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPFL03: Rangers Vs St Mirren 15:00
+http://portal.alliptv.tv:8080/530354021348/397532457292/32021
+#EXTINF:-1 tvg-id="" tvg-name="SPFL02: Livingston v Hamilton Sat 15.00" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPFL02: Livingston v Hamilton Sat 15.00
+http://portal.alliptv.tv:8080/530354021348/397532457292/32020
+#EXTINF:-1 tvg-id="" tvg-name="SPFL01: Ross County v Hibernian Sat 15.00" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPFL01: Ross County v Hibernian Sat 15.00
+http://portal.alliptv.tv:8080/530354021348/397532457292/32019
+#EXTINF:-1 tvg-id="" tvg-name="Live Events 25 :  Blackburn Rovers v Doncaster Rovers 15:00" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Live Events 25 :  Blackburn Rovers v Doncaster Rovers 15:00
+http://portal.alliptv.tv:8080/530354021348/397532457292/32018
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 8" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 8
+http://portal.alliptv.tv:8080/530354021348/397532457292/32017
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 7" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 7
+http://portal.alliptv.tv:8080/530354021348/397532457292/32016
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 6" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 6
+http://portal.alliptv.tv:8080/530354021348/397532457292/32015
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 5" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 5
+http://portal.alliptv.tv:8080/530354021348/397532457292/32014
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 4" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/32013
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 3" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/32012
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 2" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/32011
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 1" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Now HK Premier Sports 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/32010
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 5
+http://portal.alliptv.tv:8080/530354021348/397532457292/32005
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/32004
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/32003
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 3 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 3 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32002
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/32001
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 2 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 2 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32000
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 1" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/31999
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 1 HD (720P)" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 1 HD (720P)
+http://portal.alliptv.tv:8080/530354021348/397532457292/31998
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 1 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Portugal- Sport TV 1 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31997
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Barça TV" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Barça TV
+http://portal.alliptv.tv:8080/530354021348/397532457292/31996
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Movistar Golf HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Movistar Golf HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31962
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Movistar Futbol HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Movistar Futbol HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31961
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Movistar Deportes  HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Movistar Deportes  HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31960
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Dazn 4" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Dazn 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/31959
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Dazn 3" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Dazn 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/31958
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Dazn 2" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Dazn 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/31957
+#EXTINF:-1 tvg-id="" tvg-name="Spain- Dazn 1" tvg-logo="" group-title="INTERNATIONAL SPORTS ",Spain- Dazn 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/31956
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 1 HD DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 1 HD DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31955
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 2 HD DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 2 HD DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31954
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 3 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 3 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31953
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 4 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 4 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31952
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 5 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 5 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31951
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 6 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 6 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31950
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 7 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 7 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31949
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 8 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 8 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31948
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 9 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 9 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31947
+#EXTINF:-1 tvg-id="" tvg-name="Germany- Sky Sport Bundesliga 10 DE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_bundesliga_08.jpg" group-title="INTERNATIONAL SPORTS ",Germany- Sky Sport Bundesliga 10 DE
+http://portal.alliptv.tv:8080/530354021348/397532457292/31946
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  8" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  8
+http://portal.alliptv.tv:8080/530354021348/397532457292/31945
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  7" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  7
+http://portal.alliptv.tv:8080/530354021348/397532457292/31944
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  6" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  6
+http://portal.alliptv.tv:8080/530354021348/397532457292/31943
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  5" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  5
+http://portal.alliptv.tv:8080/530354021348/397532457292/31942
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  4" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  4
+http://portal.alliptv.tv:8080/530354021348/397532457292/31941
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  3" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  3
+http://portal.alliptv.tv:8080/530354021348/397532457292/31940
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  2" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  2
+http://portal.alliptv.tv:8080/530354021348/397532457292/31939
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT  1" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT  1
+http://portal.alliptv.tv:8080/530354021348/397532457292/31938
+#EXTINF:-1 tvg-id="" tvg-name="FR- TELEFOOT" tvg-logo="http://iptvportugal.best/wp-content/uploads/2020/08/telefoot-1024x432.png" group-title="INTERNATIONAL SPORTS ",FR- TELEFOOT
+http://portal.alliptv.tv:8080/530354021348/397532457292/31937
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: SuperSport MáXimo" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPORTS: SuperSport MáXimo
+http://portal.alliptv.tv:8080/530354021348/397532457292/31936
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: SuperSport Motorsport" tvg-logo="" group-title="INTERNATIONAL SPORTS ",SPORTS: SuperSport Motorsport
+http://portal.alliptv.tv:8080/530354021348/397532457292/31935
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Grandstand FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  Grandstand FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31934
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  PSL FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  PSL FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31933
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Premier League FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  Premier League FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31932
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  La liga FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  La liga FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31931
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Football  FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  Football  FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31930
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Variety 1 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  Variety 1 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31929
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Variety 2 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  Variety 2 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31928
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Blitz FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  Blitz FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31927
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT  Variety 4 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT  Variety 4 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31926
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT Variety 3 FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT Variety 3 FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31925
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT Cricket FHD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT Cricket FHD
+http://portal.alliptv.tv:8080/530354021348/397532457292/31924
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT Action" tvg-logo="" group-title="INTERNATIONAL SPORTS ",ZA: SUPERSPORT Action
+http://portal.alliptv.tv:8080/530354021348/397532457292/31923
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 1 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 1 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32082
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 2 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 2 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32081
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 3 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 3 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32080
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 4 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 4 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32079
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 5 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 5 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32078
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 6 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 6 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32077
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 7 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 7 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32076
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 8 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 8 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32075
+#EXTINF:-1 tvg-id="" tvg-name="CA: DAZN CA 9 HD" tvg-logo="" group-title="INTERNATIONAL SPORTS ",CA: DAZN CA 9 HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/32074
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Zamalek Sport Egypt" tvg-logo="https://alliptv.tv/wp-content/uploads/2020/12/Zamalek_TV.png" group-title="ARABIC SPORTS",Zamalek Sport Egypt
+http://portal.alliptv.tv:8080/530354021348/397532457292/155
+#EXTINF:-1 tvg-id="" tvg-name="Al Ahly Sport Egypt" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_ahly_tv_cairo_eg.png" group-title="ARABIC SPORTS",Al Ahly Sport Egypt
+http://portal.alliptv.tv:8080/530354021348/397532457292/157
+#EXTINF:-1 tvg-id="onsport1.sa" tvg-name="On Time Sport 1 Egypt" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_oo_on_tv_eg_sport.png" group-title="ARABIC SPORTS",On Time Sport 1 Egypt
+http://portal.alliptv.tv:8080/530354021348/397532457292/158
+#EXTINF:-1 tvg-id="onsport2.sa" tvg-name="On Time Sport 2 Egypt" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_oo_on_tv_eg_sport.png" group-title="ARABIC SPORTS",On Time Sport 2 Egypt
+http://portal.alliptv.tv:8080/530354021348/397532457292/8317
+#EXTINF:-1 tvg-id="nilesport.eg" tvg-name="Nile Sport Egypt" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_nile_sport_eg.png" group-title="ARABIC SPORTS",Nile Sport Egypt
+http://portal.alliptv.tv:8080/530354021348/397532457292/159
+#EXTINF:-1 tvg-id="" tvg-name="Al Iraqia Sport HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al-iraqiya-sport-iq.png" group-title="ARABIC SPORTS",Al Iraqia Sport HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/4565
+#EXTINF:-1 tvg-id="" tvg-name="Nileen Sport" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_nn_neelain_tv_sd.png" group-title="ARABIC SPORTS",Nileen Sport
+http://portal.alliptv.tv:8080/530354021348/397532457292/187
+#EXTINF:-1 tvg-id="" tvg-name="Libya Sport 1" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_ll_libya-sport-1-ly.png" group-title="ARABIC SPORTS",Libya Sport 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/34028
+#EXTINF:-1 tvg-id="" tvg-name="Libya Sport 2" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_ll_libya-sport-1-ly.png" group-title="ARABIC SPORTS",Libya Sport 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/34030
+#EXTINF:-1 tvg-id="dubaisports1.ae" tvg-name="Dubai Sport 1" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_dd_dubai_ae_sports.png" group-title="ARABIC SPORTS",Dubai Sport 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/144
+#EXTINF:-1 tvg-id="dubaisports2.ae" tvg-name="Dubai Sport 2" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_dd_dubai_ae_sports.png" group-title="ARABIC SPORTS",Dubai Sport 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/145
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 3" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_dd_dubai_ae_sports.png" group-title="ARABIC SPORTS",Dubai Sport 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/146
+#EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-name="Abu Dhabi Sports 1" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_abu_dhabi_sports_ae_1.png" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/147
+#EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-name="Abu Dhabi Sports 2" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_abu_dhabi_sports_ae_2.png" group-title="ARABIC SPORTS",Abu Dhabi Sports 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/148
+#EXTINF:-1 tvg-id="abudhabisports3.ae" tvg-name="Abu Dhabi Sports 3" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_abu_dhabi_sports_ae_3.png" group-title="ARABIC SPORTS",Abu Dhabi Sports 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/149
+#EXTINF:-1 tvg-id="abudhabisports4.ae" tvg-name="Abu Dhabi Sports 4" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_abu_dhabi_sports_ae_4.png" group-title="ARABIC SPORTS",Abu Dhabi Sports 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/150
+#EXTINF:-1 tvg-id="" tvg-name="YAS Sport TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_yy_yas_sports_ae.png" group-title="ARABIC SPORTS",YAS Sport TV
+http://portal.alliptv.tv:8080/530354021348/397532457292/34052
+#EXTINF:-1 tvg-id="" tvg-name="KSA 24 Sport HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_ss_sa_24_sport.png" group-title="ARABIC SPORTS",KSA 24 Sport HD
+http://portal.alliptv.tv:8080/530354021348/397532457292/7785
+#EXTINF:-1 tvg-id="saudisport1.sa" tvg-name="Saudi Sport 1" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_kk_ksa-sports-sa.png" group-title="ARABIC SPORTS",Saudi Sport 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/151
+#EXTINF:-1 tvg-id="saudisport2.sa" tvg-name="Saudi Sport 2" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_kk_ksa-sports-sa.png" group-title="ARABIC SPORTS",Saudi Sport 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/152
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sport 3" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_kk_ksa-sports-sa.png" group-title="ARABIC SPORTS",Saudi Sport 3
+http://portal.alliptv.tv:8080/530354021348/397532457292/153
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sport 4" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_kk_ksa-sports-sa.png" group-title="ARABIC SPORTS",Saudi Sport 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/154
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Online" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_kass_qa.png" group-title="ARABIC SPORTS",Al Kass Online
+http://portal.alliptv.tv:8080/530354021348/397532457292/160
+#EXTINF:-1 tvg-id="alkassone.qa" tvg-name="Al Kass 1" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_kass_qa.png" group-title="ARABIC SPORTS",Al Kass 1
+http://portal.alliptv.tv:8080/530354021348/397532457292/161
+#EXTINF:-1 tvg-id="alkasstwo.qa" tvg-name="Al Kass 2" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_kass_qa.png" group-title="ARABIC SPORTS",Al Kass 2
+http://portal.alliptv.tv:8080/530354021348/397532457292/162
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass 4" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_kass_qa.png" group-title="ARABIC SPORTS",Al Kass 4
+http://portal.alliptv.tv:8080/530354021348/397532457292/163
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass 5" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_kass_qa.png" group-title="ARABIC SPORTS",Al Kass 5
+http://portal.alliptv.tv:8080/530354021348/397532457292/164
 
 
 #EXTINF:-1 tvg-id="" tvg-name="|US| Bein Sports 4K+" tvg-logo="" group-title="US : Sport",|US| Bein Sports 4K+
