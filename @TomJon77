@@ -4883,6 +4883,14 @@ http://203.162.123.178:8080/vtvcab2/index.m3u8
 http://203.162.123.178:8080/vtvcab3/index.m3u8
 #EXTINF:-1 group-title="VIETNAME" tvg-id="vtvcab5hd" tvg-logo="https://static.megavie.live/media/vtvcab5hd.jpg", VTVCab5 - E Channel
 http://203.162.123.178:8080/vtvcab5/index.m3u8
+#EXTINF:0 tvg-id="vtv7hd"group-title="VIETNAME" tvg-logo="https://i.ibb.co/27xvxDJ/VTV7-HD-BEARTV.png",VTV7 HD
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#EXTINF:0 tvg-id="vtv8hd"group-title="VIETNAME" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png",VTV8 HD
+https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+#EXTINF:0 tvg-id="vtv9hd"group-title="VIETNAME" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",VTV9 HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAME" tvg-id="vtvcab10hd" tvg-logo="https://static.megavie.live/media/vie-dramas.jpg", VTVcab 10 HD
 http://203.162.123.178:8080/vtvcab7/index.m3u8
 #EXTINF:-1 group-title="VIETNAME" tvg-id="vtvcab16hd" tvg-logo="https://static.megavie.live/media/vtvcab16hd.jpg", VTVcab16 HD - Bóng Đá TV 
