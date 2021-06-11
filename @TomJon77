@@ -20,70 +20,7 @@ https://foxedge-lh.akamaihd.net/i/EDGE3_1@576167/master.m3u8
 https://foxedge-lh.akamaihd.net/i/EDGE4_1@576168/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",NET.
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_nettv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",INDOSIAR
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_indosiar/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",SCTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_sctv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",RCTI
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/rcti/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",GTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/gtv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",MNCTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/mnctv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",iNews TV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/inewstv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",TRANS 7
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_trans7/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",TRANS TV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_transtv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",Citra Dangdut
-#EXTGRP:Lokal Premium
-https://delivery.serveraku-rasyid.xyz/stream/citra_dangdut/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",Citra Drama
-#EXTGRP:Lokal Premium
-https://delivery.serveraku-rasyid.xyz/stream/citra_drama/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",Dunia Lain
-#EXTGRP:Lokal Premium
-https://delivery.serveraku-rasyid.xyz/stream/dunialain/playlist.m3u8?token=k2zf0&v=20200807
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",RTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_rajawalitv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",ANTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_antv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",DAAI TV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_daai/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",ATV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/atv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",JTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_jtv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",JAKTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_jaktv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",BaliTV
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/balitv/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",TVRI Nasional
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/id_tvri/playlist.m3u8?token=k2zf0&v=20200807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LOKAL MACAN",Jowo Channel
-#EXTGRP:Lokal FTA
-https://delivery.serveraku-rasyid.xyz/stream/jowo/playlist.m3u8?token=k2zf0&v=20200807
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="CH VIDIO",Rcti
@@ -1346,6 +1283,110 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://webo.asia/logos/ptvhome.jpg" group-title="ASTRO MALAYSIA 1",ASSP4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TV1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TV2
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",NTV7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",Drama sangat
+http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO CITRA
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO RIA
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO PRIMA
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO AWANI
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO BERNAMA
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO QUAN JIA
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",ASTRO SHUANG XING
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TVB
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",AL HIJRIAH
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",NAURA
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",HELLO
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",SONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",TVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",NAT GEO WILD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2", CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",CELESTIAL MOVIE
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",KIX
+http://50.7.161.82:8278/streams/d/KiX/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",HBO Hits
+http://50.7.161.82:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",GO SHOP
+http://50.7.161.82:8278/streams/d/Goshop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",GO SHOP 2
+http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2",RTM SPORTS
+http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 3",TV1
@@ -1452,358 +1493,7 @@ http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="Malaysia Mue03",MY001:TV 1
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1734
-#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="Malaysia Mue03",MY002:TV 2
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1733
-#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="Malaysia Mue03",MY003:TV 3
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1732
-#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="Malaysia Mue03",MY004:NTV 7
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1731
-#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="Malaysia Mue03",MY005:TV 8
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1730
-#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="Malaysia Mue03",MY006:TV 9
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1729
-#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="Malaysia Mue03",MY007:QUAN JIA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1728
-#EXTINF:-1 tvg-id="" tvg-name="MY008:SHUANG XING" tvg-logo="" group-title="Malaysia Mue03",MY008:SHUANG XING
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1727
-#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="Malaysia Mue03",MY009:Wah Lai Toi
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1726
-#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="Malaysia Mue03",MY010:HUA HEE DAI
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1725
-#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="Malaysia Mue03",MY011:AOD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1724
-#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="" group-title="Malaysia Mue03",MY012:AEC
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1723
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia Mue03",MY013:Super Sport 1
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1722
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia Mue03",MY014:Super Sport 2
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1721
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia Mue03",MY015:Super Sport 3
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1720
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia Mue03",MY016:Super Sport 4
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1719
-#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="Malaysia Mue03",MY017:CELESTIAL
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1718
-#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="Malaysia Mue03",MY018:BERNAMA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1717
-#EXTINF:-1 tvg-id="" tvg-name="MY019:Kix HD" tvg-logo="" group-title="Malaysia Mue03",MY019:Kix HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1716
-#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="Malaysia Mue03",MY020:Star Chinese Channel
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1715
-#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="" group-title="Malaysia Mue03",MY021:XIAO TAI YANG
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1714
-#EXTINF:-1 tvg-id="" tvg-name="MY022:SCM Legend" tvg-logo="" group-title="Malaysia Mue03",MY022:SCM Legend
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1713
-#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="Malaysia Mue03",MY023:TVB CLASSIC
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1712
-#EXTINF:-1 tvg-id="" tvg-name="MY024:HBO" tvg-logo="" group-title="Malaysia Mue03",MY024:HBO
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1711
-#EXTINF:-1 tvg-id="" tvg-name="MY025:foxsports" tvg-logo="" group-title="Malaysia Mue03",MY025:foxsports
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1710
-#EXTINF:-1 tvg-id="FOXSports2.my" tvg-name="MY026:foxsports2" tvg-logo="" group-title="Malaysia Mue03",MY026:foxsports2
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1709
-#EXTINF:-1 tvg-id="" tvg-name="MY027:maya" tvg-logo="" group-title="Malaysia Mue03",MY027:maya
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1708
-#EXTINF:-1 tvg-id="" tvg-name="MY028:Sony One" tvg-logo="" group-title="Malaysia Mue03",MY028:Sony One
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1707
-#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="" group-title="Malaysia Mue03",MY029:WARNA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1706
-#EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="" group-title="Malaysia Mue03",MY030:RIA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1705
-#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="Malaysia Mue03",MY031:AWANI
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1704
-#EXTINF:-1 tvg-id="" tvg-name="MY032:ARENA" tvg-logo="" group-title="Malaysia Mue03",MY032:ARENA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1703
-#EXTINF:-1 tvg-id="" tvg-name="MY033:PRIMA" tvg-logo="" group-title="Malaysia Mue03",MY033:PRIMA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1702
-#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="Malaysia Mue03",MY034:OASIS
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1701
-#EXTINF:-1 tvg-id="" tvg-name="MY035:Suria" tvg-logo="" group-title="Malaysia Mue03",MY035:Suria
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1700
-#EXTINF:-1 tvg-id="" tvg-name="MY036:OKTO" tvg-logo="" group-title="Malaysia Mue03",MY036:OKTO
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1699
-#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="Malaysia Mue03",MY037:WWE
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1698
-#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="Malaysia Mue03",MY038:BOO
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1697
-#EXTINF:-1 tvg-id="" tvg-name="MY039:喜悦" tvg-logo="" group-title="Malaysia Mue03",MY039:喜悦
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1696
-#EXTINF:-1 tvg-id="" tvg-name="SG002:Channel 8" tvg-logo="" group-title="Malaysia Mue03",SG002:Channel 8
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1694
-#EXTINF:-1 tvg-id="" tvg-name="SG003:Channel U" tvg-logo="" group-title="Malaysia Mue03",SG003:Channel U
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/1693
-#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia Mue03",MY040:ASTRO ASSP4 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/59217
-#EXTINF:-1 tvg-id="" tvg-name="MY039:ASTRO ASSP3 HD" tvg-logo="" group-title="Malaysia Mue03",MY039:ASTRO ASSP3 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/59218
-#EXTINF:-1 tvg-id="" tvg-name="MY037:ASTRO ASSP HD" tvg-logo="" group-title="Malaysia Mue03",MY037:ASTRO ASSP HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/59220
-#EXTINF:-1 tvg-id="" tvg-name="MY038:ASTRO ASSP2 HD" tvg-logo="" group-title="Malaysia Mue03",MY038:ASTRO ASSP2 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/59219
-#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO RIA+C19+C1:C264" tvg-logo="" group-title="Malaysia Mue03",MY041:ASTRO RIA+C19+C1:C264
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71019
-#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO PRIMA HD" tvg-logo="" group-title="Malaysia Mue03",MY042:ASTRO PRIMA HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71020
-#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO OASIS HD" tvg-logo="" group-title="Malaysia Mue03",MY043:ASTRO OASIS HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71021
-#EXTINF:-1 tvg-id="" tvg-name="MY044:ASTRO WARNA HD" tvg-logo="" group-title="Malaysia Mue03",MY044:ASTRO WARNA HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71022
-#EXTINF:-1 tvg-id="" tvg-name="MY045:ASTRO NAURA" tvg-logo="" group-title="Malaysia Mue03",MY045:ASTRO NAURA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71023
-#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="Malaysia Mue03",MY046:TV ALHIJRAH
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71024
-#EXTINF:-1 tvg-id="" tvg-name="MY047:GO SHOP RUUMA" tvg-logo="" group-title="Malaysia Mue03",MY047:GO SHOP RUUMA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71025
-#EXTINF:-1 tvg-id="" tvg-name="MY048:GO SHOP GAAYA" tvg-logo="" group-title="Malaysia Mue03",MY048:GO SHOP GAAYA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71026
-#EXTINF:-1 tvg-id="" tvg-name="MY049:VAANAVIL" tvg-logo="" group-title="Malaysia Mue03",MY049:VAANAVIL
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71027
-#EXTINF:-1 tvg-id="" tvg-name="MY050:MAKKAL TV" tvg-logo="" group-title="Malaysia Mue03",MY050:MAKKAL TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71028
-#EXTINF:-1 tvg-id="" tvg-name="MY051:SUN MUSIC" tvg-logo="" group-title="Malaysia Mue03",MY051:SUN MUSIC
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71029
-#EXTINF:-1 tvg-id="" tvg-name="MY052:CHUTTI TV" tvg-logo="" group-title="Malaysia Mue03",MY052:CHUTTI TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71030
-#EXTINF:-1 tvg-id="" tvg-name="MY053:ADITHYA" tvg-logo="" group-title="Malaysia Mue03",MY053:ADITHYA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71031
-#EXTINF:-1 tvg-id="" tvg-name="MY054:ZEE Tamil HD" tvg-logo="" group-title="Malaysia Mue03",MY054:ZEE Tamil HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71032
-#EXTINF:-1 tvg-id="" tvg-name="MY055:VINMEEN HD" tvg-logo="" group-title="Malaysia Mue03",MY055:VINMEEN HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71033
-#EXTINF:-1 tvg-id="" tvg-name="MY056:STAR VIJAY HD" tvg-logo="" group-title="Malaysia Mue03",MY056:STAR VIJAY HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71034
-#EXTINF:-1 tvg-id="" tvg-name="MY057:COLORS TAMIL" tvg-logo="" group-title="Malaysia Mue03",MY057:COLORS TAMIL
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71035
-#EXTINF:-1 tvg-id="" tvg-name="MY058:SUN TV HD" tvg-logo="" group-title="Malaysia Mue03",MY058:SUN TV HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71036
-#EXTINF:-1 tvg-id="" tvg-name="MY059:BOLLYONE HD" tvg-logo="" group-title="Malaysia Mue03",MY059:BOLLYONE HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71037
-#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="" group-title="Malaysia Mue03",MY060:iQIYI HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71038
-#EXTINF:-1 tvg-id="" tvg-name="MY061:GO SHOP 2" tvg-logo="" group-title="Malaysia Mue03",MY061:GO SHOP 2
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71039
-#EXTINF:-1 tvg-id="" tvg-name="MY067:WLT | JADE" tvg-logo="" group-title="Malaysia Mue03",MY067:WLT | JADE
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71040
-#EXTINF:-1 tvg-id="" tvg-name="MY068:AOD 351 HD" tvg-logo="" group-title="Malaysia Mue03",MY068:AOD 351 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71041
-#EXTINF:-1 tvg-id="" tvg-name="MY069:CTI ASIA" tvg-logo="" group-title="Malaysia Mue03",MY069:CTI ASIA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71042
-#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="Malaysia Mue03",MY070:TVB E-NEWS
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71043
-#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="Malaysia Mue03",MY071:TVB XING HE HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71044
-#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="Malaysia Mue03",MY072:TVBS ASIA HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71045
-#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="Malaysia Mue03",MY073:CCM
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71046
-#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="Malaysia Mue03",MY075:CCTV4 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71047
-#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="Malaysia Mue03",MY076:AOD 352 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71048
-#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="Malaysia Mue03",MY077:AOD 353 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71049
-#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="Malaysia Mue03",MY078:AOD 354 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71050
-#EXTINF:-1 tvg-id="" tvg-name="MY079:AOD 355 HD" tvg-logo="" group-title="Malaysia Mue03",MY079:AOD 355 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71051
-#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="Malaysia Mue03",MY080:KBS World HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71052
-#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="Malaysia Mue03",MY081:ONE HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71053
-#EXTINF:-1 tvg-id="" tvg-name="MY082:Oh!K HD" tvg-logo="" group-title="Malaysia Mue03",MY082:Oh!K HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71054
-#EXTINF:-1 tvg-id="" tvg-name="MY083:tvN HD" tvg-logo="" group-title="Malaysia Mue03",MY083:tvN HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71055
-#EXTINF:-1 tvg-id="" tvg-name="MY084:HITS MOVIES HD" tvg-logo="" group-title="Malaysia Mue03",MY084:HITS MOVIES HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71056
-#EXTINF:-1 tvg-id="" tvg-name="MY085:HBO HD" tvg-logo="" group-title="Malaysia Mue03",MY085:HBO HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71057
-#EXTINF:-1 tvg-id="" tvg-name="MY086:CINEMAX HD" tvg-logo="" group-title="Malaysia Mue03",MY086:CINEMAX HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71058
-#EXTINF:-1 tvg-id="" tvg-name="MY087:tvN Movies" tvg-logo="" group-title="Malaysia Mue03",MY087:tvN Movies
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71059
-#EXTINF:-1 tvg-id="" tvg-name="MY088:ASTRO AWANI" tvg-logo="" group-title="Malaysia Mue03",MY088:ASTRO AWANI
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71060
-#EXTINF:-1 tvg-id="" tvg-name="MY089:BNC" tvg-logo="" group-title="Malaysia Mue03",MY089:BNC
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71061
-#EXTINF:-1 tvg-id="" tvg-name="MY090:BBC News HD" tvg-logo="" group-title="Malaysia Mue03",MY090:BBC News HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71062
-#EXTINF:-1 tvg-id="" tvg-name="MY091:AL JAZEERA HD" tvg-logo="" group-title="Malaysia Mue03",MY091:AL JAZEERA HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71063
-#EXTINF:-1 tvg-id="" tvg-name="MY092:SKY NEWS HD" tvg-logo="" group-title="Malaysia Mue03",MY092:SKY NEWS HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71064
-#EXTINF:-1 tvg-id="" tvg-name="MY093:CNA HD" tvg-logo="" group-title="Malaysia Mue03",MY093:CNA HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71065
-#EXTINF:-1 tvg-id="" tvg-name="MY094:CNBC" tvg-logo="" group-title="Malaysia Mue03",MY094:CNBC
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71066
-#EXTINF:-1 tvg-id="" tvg-name="MY095:BLOOMBERG TV" tvg-logo="" group-title="Malaysia Mue03",MY095:BLOOMBERG TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71067
-#EXTINF:-1 tvg-id="" tvg-name="MY096:ABC AUSTRALIA" tvg-logo="" group-title="Malaysia Mue03",MY096:ABC AUSTRALIA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71068
-#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="Malaysia Mue03",MY097:8TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71069
-#EXTINF:-1 tvg-id="" tvg-name="MY098:NAT GEO HD" tvg-logo="" group-title="Malaysia Mue03",MY098:NAT GEO HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71070
-#EXTINF:-1 tvg-id="" tvg-name="MY099:DISCOVERY HD" tvg-logo="" group-title="Malaysia Mue03",MY099:DISCOVERY HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71071
-#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="Malaysia Mue03",MY100:DISCOVERY ASIA
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71072
-#EXTINF:-1 tvg-id="" tvg-name="MY101:DISC SCI HD" tvg-logo="" group-title="Malaysia Mue03",MY101:DISC SCI HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71073
-#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="Malaysia Mue03",MY102:HISTORY HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71074
-#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="Malaysia Mue03",MY103:ANIMAL PLANET HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71075
-#EXTINF:-1 tvg-id="" tvg-name="MY104:TUTOR TV UPSR" tvg-logo="" group-title="Malaysia Mue03",MY104:TUTOR TV UPSR
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71076
-#EXTINF:-1 tvg-id="" tvg-name="MY105:TUTOR TV PT3" tvg-logo="" group-title="Malaysia Mue03",MY105:TUTOR TV PT3
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71077
-#EXTINF:-1 tvg-id="" tvg-name="MY106:TUTOR TV SPM" tvg-logo="" group-title="Malaysia Mue03",MY106:TUTOR TV SPM
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71078
-#EXTINF:-1 tvg-id="" tvg-name="MY107:TVIQ" tvg-logo="" group-title="Malaysia Mue03",MY107:TVIQ
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71079
-#EXTINF:-1 tvg-id="" tvg-name="MY108:ASTRO CERIA HD" tvg-logo="" group-title="Malaysia Mue03",MY108:ASTRO CERIA HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71080
-#EXTINF:-1 tvg-id="" tvg-name="MY109:DISNEY XD HD" tvg-logo="" group-title="Malaysia Mue03",MY109:DISNEY XD HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71081
-#EXTINF:-1 tvg-id="" tvg-name="MY110:DISNEY JUNIOR" tvg-logo="" group-title="Malaysia Mue03",MY110:DISNEY JUNIOR
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71082
-#EXTINF:-1 tvg-id="" tvg-name="MY111:DISNEY CHANNEL HD" tvg-logo="" group-title="Malaysia Mue03",MY111:DISNEY CHANNEL HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71083
-#EXTINF:-1 tvg-id="" tvg-name="MY112:CARTOON NTWK HD" tvg-logo="" group-title="Malaysia Mue03",MY112:CARTOON NTWK HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71084
-#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="Malaysia Mue03",MY113:NICKELODEON HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71085
-#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="Malaysia Mue03",MY114:NICK JR
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71086
-#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="Malaysia Mue03",MY115:AXN HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71087
-#EXTINF:-1 tvg-id="" tvg-name="MY116:ASTRO HELLO" tvg-logo="" group-title="Malaysia Mue03",MY116:ASTRO HELLO
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71088
-#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="Malaysia Mue03",MY117:HITS HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71089
-#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="Malaysia Mue03",MY118:TLC HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71090
-#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="Malaysia Mue03",MY119:FOOD NTWK HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71091
-#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="Malaysia Mue03",MY120:AFN HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71092
-#EXTINF:-1 tvg-id="" tvg-name="MY121:NATGEO PEOPLE" tvg-logo="" group-title="Malaysia Mue03",MY121:NATGEO PEOPLE
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71093
-#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="Malaysia Mue03",MY122:WARNER TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71094
-#EXTINF:-1 tvg-id="" tvg-name="MY123:C&I HD" tvg-logo="" group-title="Malaysia Mue03",MY123:C&I HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71095
-#EXTINF:-1 tvg-id="" tvg-name="MY124:HGTV HD" tvg-logo="" group-title="Malaysia Mue03",MY124:HGTV HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71096
-#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="Malaysia Mue03",MY125:DMAX HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71097
-#EXTINF:-1 tvg-id="" tvg-name="MY126:COMEDY CENTRAL" tvg-logo="" group-title="Malaysia Mue03",MY126:COMEDY CENTRAL
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71098
-#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="Malaysia Mue03",MY127:MTV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71099
-#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="Malaysia Mue03",MY128:ANIMAX
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71100
-#EXTINF:-1 tvg-id="" tvg-name="MY129:eGG Network" tvg-logo="" group-title="Malaysia Mue03",MY129:eGG Network
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71101
-#EXTINF:-1 tvg-id="" tvg-name="MY130:ASTRO ARENA HD" tvg-logo="" group-title="Malaysia Mue03",MY130:ASTRO ARENA HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71102
-#EXTINF:-1 tvg-id="" tvg-name="MY131:FOX SPORTS 3 HD" tvg-logo="" group-title="Malaysia Mue03",MY131:FOX SPORTS 3 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71103
-#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="Malaysia Mue03",MY132:beIN SPORTS
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71104
-#EXTINF:-1 tvg-id="" tvg-name="MY133:bEIN MAX" tvg-logo="" group-title="Malaysia Mue03",MY133:bEIN MAX
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71105
-#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="Malaysia Mue03",MY134:EUROSPORT HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71106
-#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="" group-title="Malaysia Mue03",MY135:GOLF CHANNEL HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71107
-#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO RUGBY PASS TV" tvg-logo="" group-title="Malaysia Mue03",MY136:ASTRO RUGBY PASS TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71108
-#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO CRICKET" tvg-logo="" group-title="Malaysia Mue03",MY137:ASTRO CRICKET
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71109
-#EXTINF:-1 tvg-id="" tvg-name="MY138:ANIPLUS HD" tvg-logo="" group-title="Malaysia Mue03",MY138:ANIPLUS HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71110
-#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="Malaysia Mue03",MY139:KPLUS HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71111
-#EXTINF:-1 tvg-id="" tvg-name="MY140:DW HD" tvg-logo="" group-title="Malaysia Mue03",MY140:DW HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71112
-#EXTINF:-1 tvg-id="" tvg-name="MY141:FRANCE24 HD" tvg-logo="" group-title="Malaysia Mue03",MY141:FRANCE24 HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71113
-#EXTINF:-1 tvg-id="" tvg-name="MY142:FOX Action Movies" tvg-logo="" group-title="Malaysia Mue03",MY142:FOX Action Movies
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71114
-#EXTINF:-1 tvg-id="" tvg-name="MY143:FOX HD" tvg-logo="" group-title="Malaysia Mue03",MY143:FOX HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71115
-#EXTINF:-1 tvg-id="" tvg-name="MY144:FOX Family Movies" tvg-logo="" group-title="Malaysia Mue03",MY144:FOX Family Movies
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71116
-#EXTINF:-1 tvg-id="" tvg-name="MY145:Drama Sangat" tvg-logo="" group-title="Malaysia Mue03",MY145:Drama Sangat
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71117
-#EXTINF:-1 tvg-id="" tvg-name="MY146:Baby TV" tvg-logo="" group-title="Malaysia Mue03",MY146:Baby TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71118
-#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="Malaysia Mue03",MY147:BBC Earth HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71119
-#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="Malaysia Mue03",MY148:BBC Lifestyle
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71120
-#EXTINF:-1 tvg-id="" tvg-name="MY149:Blue Ant Entertainment" tvg-logo="" group-title="Malaysia Mue03",MY149:Blue Ant Entertainment
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71121
-#EXTINF:-1 tvg-id="" tvg-name="MY150:Blue Ant Extreme" tvg-logo="" group-title="Malaysia Mue03",MY150:Blue Ant Extreme
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71122
-#EXTINF:-1 tvg-id="" tvg-name="MY151:Boomerang HD" tvg-logo="" group-title="Malaysia Mue03",MY151:Boomerang HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71123
-#EXTINF:-1 tvg-id="" tvg-name="MY152:Cinema World HD" tvg-logo="" group-title="Malaysia Mue03",MY152:Cinema World HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71124
-#EXTINF:-1 tvg-id="" tvg-name="MY153:Colors Cineplex" tvg-logo="" group-title="Malaysia Mue03",MY153:Colors Cineplex
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71125
-#EXTINF:-1 tvg-id="" tvg-name="MY154:Dreamworks HD" tvg-logo="" group-title="Malaysia Mue03",MY154:Dreamworks HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71126
-#EXTINF:-1 tvg-id="" tvg-name="MY155:Dunia Sinema" tvg-logo="" group-title="Malaysia Mue03",MY155:Dunia Sinema
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71127
-#EXTINF:-1 tvg-id="" tvg-name="MY156:FOX Life HD" tvg-logo="" group-title="Malaysia Mue03",MY156:FOX Life HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71128
-#EXTINF:-1 tvg-id="" tvg-name="MY157:FOX Movies HD" tvg-logo="" group-title="Malaysia Mue03",MY157:FOX Movies HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71129
-#EXTINF:-1 tvg-id="" tvg-name="MY158:FX Cinema HD" tvg-logo="" group-title="Malaysia Mue03",MY158:FX Cinema HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71130
-#EXTINF:-1 tvg-id="" tvg-name="MY159:Jaya Max" tvg-logo="" group-title="Malaysia Mue03",MY159:Jaya Max
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71131
-#EXTINF:-1 tvg-id="" tvg-name="MY161:NatGeo Asia HD" tvg-logo="" group-title="Malaysia Mue03",MY161:NatGeo Asia HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71132
-#EXTINF:-1 tvg-id="" tvg-name="MY162:RTM Sports" tvg-logo="" group-title="Malaysia Mue03",MY162:RTM Sports
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71133
-#EXTINF:-1 tvg-id="" tvg-name="MY163:Now Jelli" tvg-logo="" group-title="Malaysia Mue03",MY163:Now Jelli
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71134
-#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="Malaysia Mue03",MY164:Paramount Channel
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71135
-#EXTINF:-1 tvg-id="" tvg-name="MY165:Pesona HD" tvg-logo="" group-title="Malaysia Mue03",MY165:Pesona HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71136
-#EXTINF:-1 tvg-id="" tvg-name="MY166:Salaam HD" tvg-logo="" group-title="Malaysia Mue03",MY166:Salaam HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71137
-#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="Malaysia Mue03",MY168:SCM
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71138
-#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="Malaysia Mue03",MY169:SETi Chinese
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71139
-#EXTINF:-1 tvg-id="" tvg-name="MY170:Sony SAB" tvg-logo="" group-title="Malaysia Mue03",MY170:Sony SAB
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71140
-#EXTINF:-1 tvg-id="" tvg-name="MY171:Sony SetMAX" tvg-logo="" group-title="Malaysia Mue03",MY171:Sony SetMAX
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71141
-#EXTINF:-1 tvg-id="" tvg-name="MY172:Sony TV" tvg-logo="" group-title="Malaysia Mue03",MY172:Sony TV
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71142
-#EXTINF:-1 tvg-id="" tvg-name="MY174:Travel Channel HD" tvg-logo="" group-title="Malaysia Mue03",MY174:Travel Channel HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71143
-#EXTINF:-1 tvg-id="" tvg-name="MY175:Astro Rania HD" tvg-logo="" group-title="Malaysia Mue03",MY175:Astro Rania HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71144
-#EXTINF:-1 tvg-id="" tvg-name="MY176:Astro Aura HD" tvg-logo="" group-title="Malaysia Mue03",MY176:Astro Aura HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71145
-#EXTINF:-1 tvg-id="" tvg-name="MY177:ASTRO Citra HD" tvg-logo="" group-title="Malaysia Mue03",MY177:ASTRO Citra HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71146
-#EXTINF:-1 tvg-id="" tvg-name="MY178:ABO Tayangan Hebat" tvg-logo="" group-title="Malaysia Mue03",MY178:ABO Tayangan Hebat
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71147
-#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="Malaysia Mue03",MY179:TVS
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71148
-#EXTINF:-1 tvg-id="" tvg-name="MY180:ASTRO ASSP Plus HD" tvg-logo="" group-title="Malaysia Mue03",MY180:ASTRO ASSP Plus HD
-http://mue03.wanicelife.com:8880/SWFAF122311/3DYZQW37/71149
+
 
 
 
