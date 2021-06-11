@@ -2447,27 +2447,7 @@ http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/73266
 
 #EXTINF:-1    group-title="CINEMA" ,Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1  group-title="CINEMA", Fox
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165080
-#EXTINF:-1  group-title="CINEMA", Fox Action Movies
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197971
-#EXTINF:-1  group-title="CINEMA", Fox Crime
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165076
-#EXTINF:-1  group-title="CINEMA", Fox Family Movies
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157595
-#EXTINF:-1  group-title="CINEMA", Fox Life
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165083
-#EXTINF:-1  group-title="CINEMA", Fox Movies
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165078
-#EXTINF:-1  group-title="CINEMA", Fox Movies Action
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157608
-#EXTINF:-1  group-title="CINEMA", Fox Movies Premium
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197970
 
-#EXTINF:-1  group-title="CINEMA", Star Chinese Movies
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264800
-#EXTINF:-1  group-title="CINEMA", Star Chinese Movies Legend
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264802
 #EXTINF:-1  group-title="CINEMA", Celestial Movie
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="CINEMA",HBO ? Multilingual subtitles
@@ -2645,27 +2625,18 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY MAX HD
 http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY PIX
+http://cdn.ihub.live:8080/SonyPix/tracks-v1a1/mono.m3u8
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634779
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",SONY PIX HD
-http://iptvtree.net:8080/resplice/534db280/49539
-http://185.246.209.207/HINDI_SONY_PIX_HD_INDIA/tracks-v1a1/mono.m3u8
 http://51.79.164.123:25461/v1tvn0tforsale/aslkdjsdgsu8908903820489204902sjkjksnf098098324msdfs0f89123u1uhid98ads/9
 http://72.255.34.227:8000/play/a01t/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="PREMIUM KW",AXN
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634789
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies SELECT HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Star Movies HD
+http://103.81.104.118/hls/stream3.m3u8
 https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634777
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Sony MAX HD
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634759
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",Sony Max
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634758
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png"group-title="PREMIUM KW",& FLIX HD
@@ -2790,64 +2761,6 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://103.147.87.245:8001/play/a005/index.m3u8
 
 
-
-#EXTINF: -1 tvg-name="Discovery Channel" tvg-logo="https://cdn.imgbin.com/1/25/0/imgbin-discovery-channel-television-channel-logo-television-show-others-70vvFwtvRkZzwZ4UcPyqSpWTN.jpg" group-title="Documentary", Discovery Channel
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634790
-#EXTINF: -1 tvg-id="historytv18hd.in" tvg-name="History 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png" group-title="Documentary", History 18
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634791
-#EXTINF: -1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Documentary", Discovery Science
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634792
-#EXTINF: -1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary", Animal Planet
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634793
-#EXTINF: -1 tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="Documentary", Nat Geo Wild
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634794
-#EXTINF: -1 tvg-name="National Geographic (dual language)" tvg-logo="https://mms.businesswire.com/media/20200117005517/en/551357/23/NGC_Logo.jpg" group-title="Documentary", National Geographic (dual language)
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634795
-#EXTINF: -1 tvg-id="nationalgeographicchannel.in" tvg-name="Nat Geo IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="Documentary", Nat Geo IN
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634796
-#EXTINF: -1 tvg-name="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary", ID
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634797
-#EXTINF: -1 tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="Documentary", BBC Earth
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634798
-#EXTINF: -1 tvg-name="Outdoor Channel" tvg-logo="https://i.imgur.com/dBmaKIP.png" group-title="Documentary", Outdoor Channel
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634799
-#EXTINF: -1 tvg-name="TLC" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary", TLC
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634800
-#EXTINF: -1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary", Travel TV
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634801
-#EXTINF: -1 tvg-name="NatGeo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Documentary", NatGeo People
-https://m3u-editor.com/serve/442781d0-c2d2-11eb-9c60-457653f41644/307634802
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS1
-https://1tvhd.gscdn.kbs.co.kr/1tv-02/1tv-02_hd.m3u8?Expires=1623214967&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAyLzF0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIzMjE0OTY3fX19XX0_&Signature=lyXldfoseYbm9-ixV1bzF010qlO-kQmRBrRyAoP8hrUh~tIa1wmc0T50bfiGeTAbC8KRDc5ePHS2UX3BsKlGXmZKpVgzFZzGf2NnoBtBdAzAdhVlus-XQFKEQ0RiNVKmQn0yUeqobcerVpggYiZGsCP3hK0zZimAuqe8OEJ~v5dZ5HSCBWrezjDFfKe0ZfIRyMf8CgUGivfuBNo09bCh10u~8odludhWEugruVr722GYI3ys~zmuiwc0xxBFAMv~cw5nYy43FKe~Xv9LHXYDdiHuTy5Lz7Doxhb7Kn3jIZDeRQtA-IJCeTCS4wmT7aYOETskSR5tRoS~xI8baSqnhA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS2
-https://2tvhd.gscdn.kbs.co.kr/2tv-02/2tv-02_hd.m3u8?Expires=1623215030&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHZoZC5nc2Nkbi5rYnMuY28ua3IvMnR2LTAyLzJ0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIzMjE1MDMwfX19XX0_&Signature=n5Ov39OuTS9Fe5U~SSmVlQDaz39yBG8f4OrXgjZrMcE-PP-p5GHLNDmkw43QdJXwUbSvjhZmGABoeyy6MSMFyP8yg1onYQQEmfyNeP8-gxfQ-im7Te7uSdyZIkAQjAc2Kclx0-UIyo1NJCXvUdOENRCDBdhMkLsuiaOZ0wSbZhFwnyWu4-SMto5GAM0LiyrJJrxLpRX7yKiFgZtZfTXDhBbB66-6fFxih~kkujdz1qs4Ingn-sMLI1MOPmmNJNZkoZUcRcykjccASpJdwDvAUg~AQ8DsgyAbfuhaUU6DlutIHrOtMAswvKcEysnE6S5r4dsmLYvGpz-HBXjhE4CoQA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS24
-https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Expires=1623222047&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS9uZXdzMjQtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIyMjA0N319fV19&Signature=gT3ilQ4J8tgPfIRRGsQyMOi7rUpqB~HSnuKnds0mD5gD~jwqNOcHMathpzJgBK6s524KvOMPgTHGbj7qPfrJdlZt5CETpIjOpnrmowqTT2HKo1AeD8TzTClcOHQjLitG7mHb1OjduQyDpTOVeZ-9HyYlYqWyWiH30-BfIhnkPziyTwcg5DXr6F-urF9is8ihcv2oVyPV4uoElVNlQXsgwPp0iEBcNitE8pmyUMztPyXlDw2rHTeRdXZZYqC7KQnFkvdn7AaU525Acy5i2awXmcBTvmrRUrWplxw4y2ZxY-xF2qmi7tJmy0yBR-iGrGBV39nDLL1wQsg0rZrPnknT2g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBSDRAMA
-https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1623222080&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIyMjA4MH19fV19&Signature=W~OxQT6qapMYqSl3g37k3M3WvxC06mlnIlCRBunVoYWlIp4jjQ1J5uuOZxHkRBrfwsHgY1cnVCxtAlo5pL4Db0h5zoPB51jGGwCvRmXn6Yqvfjoix~Mkk2JFirvRWkvCaoDQCW93NtxqYUqzi2X-Tc6OmobPLurWVjhTm8U64jxv-O2k~aewn478MMFArMwsA2YUxVW3nljoOyaL6~UuW4X9uXLzXMlxFbicqyLpezVfotVJzgYdSKdSrpYSUiOqTuHK3~OJVIZog8FVj3lyH66PLSStQImUYaPupi8b7h5~xkIZC1gkxKlFaQXFZ~kOgvAU~~5LpltlQHKoV21QSg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS JOY
-https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1623222129&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIyMjEyOX19fV19&Signature=hXuU~nXPgEiDbzoNteFdGCYzCWCfYqGibHL7CN-qMUmgK~~T~g4wjRXuGKfvK-XnxZBEOFUi~2GSXo9AAMpp7UKNr4ez-9c9jQwiM3NlqbdpLvYVyZTeeiYYkWXajdQCuf8Duh6ez83ZhLQ2XZ~HAz23y0LFudXhsnV53o9RkKw8w4Sved~U25dGv4s5YvBOXzeTmUj2SClHu42pZBpKGkel5~8Roqte5Xfug2VQ1MKkMKBwBRLJpDt5dGq4ljcjypWJDi746eQNJ0LOI6Uk0GL3V3KCRUoBGBYdhG9qNkQE5pY0lTBmpNLt~n6J9KPzgRUAHWcG8KR1Ny-t6bmAIQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS NEWS
-https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1623222116&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIyMjExNn19fV19&Signature=Ddwsn4gaDLVNqOg1IcS16Ewc3okxL3CLTSOvmS5zww~xWPl91Y7PoPSXJJ9u3gwMGbjZ65DiIwAR7EvKQVh1~~gCm-50hnOqIuazf3LipfZmsBO-FkjMCkykAAOUGZwmFOOwuUDnO02WOzJO6l1fJPIm6iaKarRw-0lQUOWBvORaKDrC336LCslUc0~LwZwsdasrlavazYF06DtELyl0xWW2Jb4EWRgRuRnsMyKN40cdCXu1dwbNRWSPRH9rT6aFP1oRyT5ovJqN0xuie9oV0I-qsMy8Y2U9UdlNAtKYOc8mD9zW8xmljfeVsqK5ckgyvP3yoT~oGqInKEDboDYU3g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS LIVE
-https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Expires=1623222091&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEva2JzbmxpZmUtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIyMjA5MX19fV19&Signature=md92xDhxRLxGJpB~d9WSgAb072Pry3Z0Zo6uARAnKrawcxoe41k1gZQlsy3DYeAKv7pUwSSkxOdQC15sWYq0pW6eutY3F0Ujq1CYLBruLuiLhRkplYc11AOn~lj2AT7LUUIkFDebVyh6-Bo2gH7ErvrNp74dw8BL3PvBQ6~pngP93NAPL7KzpHjKaBglcf0MPu3Yu5vpm1sPlc6oZ4k16gvnffgikPY~Ek1Cst0RZVxvnFYKJNHv9OulfW11u4-29QncLR20D2Hnt~Jl3Z8HvhsBnVo89UZPyBM-9cDmJ-Yyitlfw5pDwdykrf1g8S10OWr5NzoDJs~Nv3Tc1hXPSQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS KIDS
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1623222193&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIyMjE5M319fV19&Signature=LxL8w5YW2aP3RlCTFSDnPcs058lErPZq31A8S8ZoEFcvgafzmGYvqToWDit115J0V87eZ3bsBPH1lHIItAfoxDFlXhBmejDAhi0hJHnPfyS5MA3EM8rhRB1Fz9JUWzRJrjBaWYj7kVKHVMJzXV95e5Gexx5Zv8wAnbTpg381ldlrnIbPauwLV-xadXCAd~HdBC0InbpfdDHrFHXyxV5TQE4Ijbp2KGbh4M3iJFXhoDilpmFp--2TyYSsa~Gb~deB2r58UvpnpG2a3Pj9gwnQBH6kXv0kHgXcOfNcGgbmp7oVbtqVLDLcazVMnT6fxiUda5PB37-qk~MJOavI67mJJA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",KBS WORLD
-https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1623222219&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvd29ybGQtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIyMjIxOX19fV19&Signature=S2zSGitDdfT9fg~FkFz58bi3K2Jhile1b0lZeYnLEm1hZ4kyw2ZzJG0HvkxwlQuv2uoumWN9JfBitZ5Tq~EAF5ZM~MMONdf7Lgb2fxPhDmV6ikbLkf3lUvRD0uKJcnmGWwvphobCvC-hna82t-~XwWgD~bCN~41JqwtVU4DE1mZPkW4E4jJHVUL9laD1Pjqr2wc6BToa98Mt847OB5sWRH7MNmQLtX4hdZMizoWO921C0NlZ~~1Y9I6pxKnvAacBO5RcT8FsbKAZHK1dzCqXP6DpSSuufH6pYMgFdoACpDs2ypEXnESUZTAGoc3xm5ClceZwe4X11cLUD0lL6dE~KA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",SBS INTL
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOREA",SBS INTL PLUS
@@ -2968,261 +2881,8 @@ http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/26544
 http://driptvs.com:8080/amgextree2021/JqTFNPRqGw9e5JeG/14841
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS" tvg-logo="" group-title="BEIN SPORTS EL",BEIN NEWS
-http://194.163.135.159:25461/elcotch/tvsr/177
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN 4K
-http://194.163.135.159:25461/elcotch/tvsr/181
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 1 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 1 4K
-http://194.163.135.159:25461/elcotch/tvsr/29
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 2 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 2 4K
-http://194.163.135.159:25461/elcotch/tvsr/30
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 3 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 3 4K
-http://194.163.135.159:25461/elcotch/tvsr/31
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 1 4K
-http://194.163.135.159:25461/elcotch/tvsr/32
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 2 4K
-http://194.163.135.159:25461/elcotch/tvsr/33
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 3 4K
-http://194.163.135.159:25461/elcotch/tvsr/34
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 4 4K
-http://194.163.135.159:25461/elcotch/tvsr/35
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 5 4K
-http://194.163.135.159:25461/elcotch/tvsr/36
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 6 4K
-http://194.163.135.159:25461/elcotch/tvsr/37
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 7 4K
-http://194.163.135.159:25461/elcotch/tvsr/38
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 1 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 1 HD
-http://194.163.135.159:25461/elcotch/tvsr/39
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 2 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 2 HD
-http://194.163.135.159:25461/elcotch/tvsr/40
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 3 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 3 HD
-http://194.163.135.159:25461/elcotch/tvsr/41
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 1 HD
-http://194.163.135.159:25461/elcotch/tvsr/42
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 2 HD
-http://194.163.135.159:25461/elcotch/tvsr/43
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 3 HD
-http://194.163.135.159:25461/elcotch/tvsr/44
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 4 HD
-http://194.163.135.159:25461/elcotch/tvsr/45
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 5 HD
-http://194.163.135.159:25461/elcotch/tvsr/46
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 6 HD
-http://194.163.135.159:25461/elcotch/tvsr/47
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 7 HD
-http://194.163.135.159:25461/elcotch/tvsr/48
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 1 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 1 SD
-http://194.163.135.159:25461/elcotch/tvsr/59
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 2 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 2 SD
-http://194.163.135.159:25461/elcotch/tvsr/60
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 3 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 3 SD
-http://194.163.135.159:25461/elcotch/tvsr/61
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 1 SD
-http://194.163.135.159:25461/elcotch/tvsr/62
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 2 SD
-http://194.163.135.159:25461/elcotch/tvsr/63
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 3 SD
-http://194.163.135.159:25461/elcotch/tvsr/64
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 4 SD
-http://194.163.135.159:25461/elcotch/tvsr/65
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 5 SD
-http://194.163.135.159:25461/elcotch/tvsr/66
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 6 SD
-http://194.163.135.159:25461/elcotch/tvsr/67
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 7 SD
-http://194.163.135.159:25461/elcotch/tvsr/68
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 1 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 1 LOW
-http://194.163.135.159:25461/elcotch/tvsr/79
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 2 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 2 LOW
-http://194.163.135.159:25461/elcotch/tvsr/80
-#EXTINF:-1 tvg-id="" tvg-name="BEIN PREMUIM 3 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN PREMUIM 3 LOW
-http://194.163.135.159:25461/elcotch/tvsr/81
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 1 LOW
-http://194.163.135.159:25461/elcotch/tvsr/82
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 2 LOW
-http://194.163.135.159:25461/elcotch/tvsr/83
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 3 LOW
-http://194.163.135.159:25461/elcotch/tvsr/84
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 4 LOW
-http://194.163.135.159:25461/elcotch/tvsr/85
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 5 LOW
-http://194.163.135.159:25461/elcotch/tvsr/86
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 6 LOW
-http://194.163.135.159:25461/elcotch/tvsr/87
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 LOW" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 7 LOW
-http://194.163.135.159:25461/elcotch/tvsr/88
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 1 SD
-http://194.163.135.159:25461/elcotch/tvsr/105
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 1 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 1 4K
-http://194.163.135.159:25461/elcotch/tvsr/106
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 2 SD
-http://194.163.135.159:25461/elcotch/tvsr/107
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 2 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 2 4K
-http://194.163.135.159:25461/elcotch/tvsr/108
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 3 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 3 SD
-http://194.163.135.159:25461/elcotch/tvsr/109
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 3 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 3 4K
-http://194.163.135.159:25461/elcotch/tvsr/110
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 4 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 4 SD
-http://194.163.135.159:25461/elcotch/tvsr/111
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 4 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 4 4K
-http://194.163.135.159:25461/elcotch/tvsr/112
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 5 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 5 SD
-http://194.163.135.159:25461/elcotch/tvsr/182
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 5 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 5 4K
-http://194.163.135.159:25461/elcotch/tvsr/183
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 6 SD" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 6 SD
-http://194.163.135.159:25461/elcotch/tvsr/184
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MAX 6 4K" tvg-logo="" group-title="BEIN SPORTS EL",BEIN MAX 6 4K
-http://194.163.135.159:25461/elcotch/tvsr/185
-#EXTINF:-1 tvg-id="" tvg-name="BEIN XTRA " tvg-logo="" group-title="BEIN SPORTS EL",BEIN XTRA 
-http://194.163.135.159:25461/elcotch/tvsr/148
-#EXTINF:-1 tvg-id="" tvg-name="BEIN NBA" tvg-logo="" group-title="BEIN SPORTS EL",BEIN NBA
-http://194.163.135.159:25461/elcotch/tvsr/178
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME 1" tvg-logo="" group-title="BEIN SPORTS EL",ON TIME 1
-http://194.163.135.159:25461/elcotch/tvsr/119
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME 2" tvg-logo="" group-title="BEIN SPORTS EL",ON TIME 2
-http://194.163.135.159:25461/elcotch/tvsr/120
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME 3" tvg-logo="" group-title="BEIN SPORTS EL",ON TIME 3
-http://194.163.135.159:25461/elcotch/tvsr/121
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 1" tvg-logo="" group-title="BEIN SPORTS EL",KSA SPORTS 1
-http://194.163.135.159:25461/elcotch/tvsr/122
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 2" tvg-logo="" group-title="BEIN SPORTS EL",KSA SPORTS 2
-http://194.163.135.159:25461/elcotch/tvsr/123
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 3" tvg-logo="" group-title="BEIN SPORTS EL",KSA SPORTS 3
-http://194.163.135.159:25461/elcotch/tvsr/124
-#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 4" tvg-logo="" group-title="BEIN SPORTS EL",KSA SPORTS 4
-http://194.163.135.159:25461/elcotch/tvsr/125
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS 1" tvg-logo="" group-title="BEIN SPORTS EL",ALKASS 1
-http://194.163.135.159:25461/elcotch/tvsr/128
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS 2" tvg-logo="" group-title="BEIN SPORTS EL",ALKASS 2
-http://194.163.135.159:25461/elcotch/tvsr/129
-#EXTINF:-1 tvg-id="" tvg-name="ZAMALEK TV" tvg-logo="" group-title="BEIN SPORTS EL",ZAMALEK TV
-http://194.163.135.159:25461/elcotch/tvsr/126
-#EXTINF:-1 tvg-id="" tvg-name="ALAHLY CLUB" tvg-logo="" group-title="BEIN SPORTS EL",ALAHLY CLUB
-http://194.163.135.159:25461/elcotch/tvsr/127
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 EN" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 1 EN
-http://194.163.135.159:25461/elcotch/tvsr/1
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 EN" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 2 EN
-http://194.163.135.159:25461/elcotch/tvsr/2
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 FR" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 1 FR
-http://194.163.135.159:25461/elcotch/tvsr/3
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FR" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 2 FR
-http://194.163.135.159:25461/elcotch/tvsr/4
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FR" tvg-logo="" group-title="BEIN SPORTS EL",BEIN SPORTS 3 FR
-http://194.163.135.159:25461/elcotch/tvsr/5
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd40a0c54e5a3acb0ffce128dc90de94.png" group-title="SPORTS GEN",AL: SuperSport 1 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/1316
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="SPORTS GEN",AL: SuperSport 2 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/1312
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="SPORTS GEN",AL: SuperSport 3 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/1319
-
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="SPORTS GEN",AL: Super Sport 4 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/1318
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/6aa451c7c6a38430edde9104eacef07c.png" group-title="SPORTS GEN",AL: Super Sport 5 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/1860
-#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/46e80658244482c2382d517fe71207e0.png" group-title="SPORTS GEN",AL: Super Sport 6 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/3638
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: WWE HD
-http://iptvtree.net:8080/geniptv/4faed690fd/11484
-#EXTINF:-1 tvg-id="" tvg-name="UK: WWE PPV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: WWE PPV
-http://iptvtree.net:8080/geniptv/4faed690fd/192859
-#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK: YESTERDAY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: YESTERDAY
-http://iptvtree.net:8080/geniptv/4faed690fd/1065
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport 1 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/270
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK BT Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport 1 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/28340
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport 2 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/273
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK BT Sport 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport 2 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/28344
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport 3 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/271
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK BT Sport 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport 3 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/28348
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport ESPN FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/1124
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK BT Sport ESPN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport ESPN HD
-http://iptvtree.net:8080/geniptv/4faed690fd/28349
-#EXTINF:-1 tvg-id="btsportx1.uk" tvg-name="UK: BT Sport EXtra 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport EXtra 1 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/7435
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport EXtra 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport EXtra 1 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/274016
-#EXTINF:-1 tvg-id="btsportx3.uk" tvg-name="UK: BT Sport Extra 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport Extra 3 FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/7436
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport Extra 3 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/274017
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport europe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport europe HD
-http://iptvtree.net:8080/geniptv/4faed690fd/32220
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport europe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport europe HD
-http://iptvtree.net:8080/geniptv/4faed690fd/274022
-#EXTINF:-1 tvg-id="btsportx2.uk" tvg-name="UK: BT Sport EXtra 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport EXtra 2 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/48713
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport EXtra 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport EXtra 2 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/274024
-#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="UK: BT Sport EXtra 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport EXtra 4 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/47961
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport EXtra 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport EXtra 4 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/274023
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport EXtra 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: BT Sport EXtra 5 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/7438
-#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport EXtra 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK BT Sport EXtra 5 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/274018
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports Action FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/268
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Action FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Action FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/273426
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports ACTIVE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports ACTIVE FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/264933
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports ACTIVE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports ACTIVE FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/273442
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports Arena FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/267
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Arena FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Arena FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/273425
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports Cricket FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/269
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Cricket HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Cricket HD
-http://iptvtree.net:8080/geniptv/4faed690fd/273427
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports FOOTBALL FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports FOOTBALL FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/266
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK Sky Sports Football HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Football HD
-http://iptvtree.net:8080/geniptv/4faed690fd/37178
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports Main Event FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/698
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK Sky Sports Main Event HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Main Event HD
-http://iptvtree.net:8080/geniptv/4faed690fd/37180
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports Mix FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/261
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Mix HD
-http://iptvtree.net:8080/geniptv/4faed690fd/37181
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports News FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/260
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports News HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports News HD
-http://iptvtree.net:8080/geniptv/4faed690fd/273423
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports NFL FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports NFL FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/158510
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="SPORTS GEN",UK: Sky Sports Premier League FHD
-http://iptvtree.net:8080/geniptv/4faed690fd/263
-#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Premier Langue HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Premier Langue HD
-http://iptvtree.net:8080/geniptv/4faed690fd/273424
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports F1 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/265
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports F1 HD
-http://iptvtree.net:8080/geniptv/4faed690fd/37177
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports GBI RACING" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports GBI RACING
-http://iptvtree.net:8080/geniptv/4faed690fd/163132
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK: Sky Sports Golf
-http://iptvtree.net:8080/geniptv/4faed690fd/264
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK Sky Sports Golf HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORTS GEN",UK Sky Sports Golf HD
-http://iptvtree.net:8080/geniptv/4faed690fd/37179
 
 #EXTINF:-1 tvg-id="" tvg-name="|IT| Milan Channel HD+" tvg-logo="" group-title="IT : Sport",|IT| Milan Channel HD+
 http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14654
@@ -3269,40 +2929,7 @@ http://in.lionboxiptv.nl:80/2021extree/kEfSvYRYS4QtcX3Y/14675
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/23de07828ba332e769ee3349d500fdee.png" group-title="Sports Astro 1",ASTRO ARENA HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157485
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c4a3de785816d77f68c207cf5e8709e6.png" group-title="Sports Astro 1",ASTRO ASSP HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247415
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0f47dd99757c57640fa8d59006d3406.png" group-title="Sports Astro 1",ASTRO ASSP2 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247417
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/321eab4888e02c863a7b8b2ba30f60e8.png" group-title="Sports Astro 1",ASTRO ASSP3 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO ASSP4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/50e02a8627aa307538fa24480bc9d061.png" group-title="Sports Astro 1",ASTRO ASSP4 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247419
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sports Astro 1",Astro SuperSport 1 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146068
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Sports Astro 1",Astro SuperSport 2 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157556
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Sports Astro 1",Astro SuperSport 3 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157557
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sports Astro 1",Astro SuperSport 4 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157558
-#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 1
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264787
-#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 2
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264788
-#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 3
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264789
-#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 4
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264790
-#EXTINF:-1 tvg-id="" tvg-name="Unifi Sport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",Unifi Sport 5
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/264791
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",FOX SPORTS 1 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162517
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",FOX SPORTS 2 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162516
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Sports Astro 1",FOX SPORTS 3 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/165088
+
 
 #EXTINF:0 tvg-logo="http://foxx.ddns.me/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-italia/SKY%20SPORT%2024%20FULL%20HD.png" group-title="IT| SPORTS",IT| SKY SPORT 24 FULL HD
 http://foxx-tv.com:9600/GhsKWsBsnwnCWZB/kZ84c1GXN4G944N/56592
@@ -3432,20 +3059,6 @@ https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6686_720p/index.m3u8
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6786_720p/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",WWE
 https://cutt.ly/IncaFOZ
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 1
-http://gumisasak.site/USEETV/master.m3u8?id=useesports1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Usee Sport 2
-http://gumisasak.site/USEETV/master.m3u8?id=useesports2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 1
-http://gumisasak.site/USEETV/master.m3u8?id=foxsport
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 2
-http://gumisasak.site/USEETV/master.m3u8?id=foxsport2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Fox sport 3
-http://gumisasak.site/USEETV/master.m3u8?id=foxsport3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 1
-http://gumisasak.site/USEETV/master.m3u8?id=bein1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein Sport 2
-http://gumisasak.site/USEETV/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 1
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK",EPL 2
@@ -3873,54 +3486,6 @@ http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16958
 http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16959
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football HD 5 TH" tvg-logo="https://picon-13398.kxcdn.com/truepremierefootball5th.jpg" group-title="Live: Premier League & EFL",True Premier Football HD 5 TH
 http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/27936
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 1 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 1 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23925
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 10 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 10 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23916
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 11 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 11 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23915
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 12 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 12 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23914
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 13 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 13 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23913
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 14 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 14 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23912
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 15 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 15 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23911
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 16 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 16 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23910
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 17 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 17 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23909
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 18 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 18 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23908
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 19 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 19 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23907
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 2 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 2 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23924
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 20 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 20 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23906
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 3 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 3 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23923
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 4 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 4 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23922
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 5 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 5 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23921
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 6 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 6 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23920
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 7 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 7 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23919
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 8 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 8 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23918
-#EXTINF:-1 tvg-id="" tvg-name="iFollow 9 UK" tvg-logo="https://picon-13398.kxcdn.com/ifollowuk.jpg" group-title="Live: Premier League & EFL",iFollow 9 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/23917
-#EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="Paramount Network UK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannel.jpg" group-title="Live: United Kingdom",Paramount Network UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/25558
-#EXTINF:-1 tvg-id="" tvg-name="RT Documentary UK" tvg-logo="https://picon-13398.kxcdn.com/rtdocumentary.jpg" group-title="Live: United Kingdom",RT Documentary UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/14966
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2 UK" tvg-logo="https://picon-13398.kxcdn.com/premiersports2uk.jpg" group-title="Live: United Kingdom",Premier Sports 2 UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/26594
-#EXTINF:-1 tvg-id="4Music.uk" tvg-name="Love Nature FHD UK" tvg-logo="https://picon-13398.kxcdn.com/lovenatureuk.jpg" group-title="Live: United Kingdom",Love Nature FHD UK
-http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/26838
 #EXTINF:-1 tvg-id="" tvg-name="EPL 1" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 1
 http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/19032
 #EXTINF:-1 tvg-id="" tvg-name="EPL 2" tvg-logo="https://picon-13398.kxcdn.com/epluk.jpg" group-title="Live: Premier League & EFL",EPL 2
