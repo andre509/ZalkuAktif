@@ -3484,6 +3484,199 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",ATGV 1 SPORT
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Футбол 1 HD
+https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Футбол 1
+http://146.158.30.190:8000/futbol1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Футбол 2
+https://95-213-224-183.livesports24.online/fooootball2.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Футбол 2 HD
+http://146.158.30.190:8000/futbol2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Футбол 3
+http://146.158.30.190:8000/futbol3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Футбол 3 HD
+https://95-213-224-183.livesports24.online/football3ua.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Шахтар ТВ
+http://ukrsport-hls4.cosmonova.net.ua/hls/ukrsport_ua_hi/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",XSport
+http://streamer.enchart.one/42/0f699fc14ece8ac674e09c704a3156e2eb9ba429/301/stream.m3u8
+http://xsport-hls2.cosmonova.net.ua/hls/xsport_ua_mid/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-logo="http://epg.it999.ru/img/2149.png"group-title="SPORTS RU",MostVideo.TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:0 tvg-id="ufc" tvg-logo="https://iptvx.one/icn/ufc.png" group-title="SPORTS RU",UFC ТВ FHD
+http://cloudcdn.tk:80/AGfZKzSwSefl944/Opwcmh951/64022
+#EXTINF:0 tvg-id="ufc" tvg-logo="https://iptvx.one/icn/ufc.png" group-title="SPORTS RU",UFC ТВ
+http://118.47.168.157:8080/play/a0211/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",FightBox
+http://ott-cdn.ucom.am/s86/04.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports Ukraine HD
+https://185-198-56-67.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports Ukraine HD [R]
+https://95-213-224-183.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports + Ukraine HD
+https://95-213-224-183.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports + Ukraine HD
+https://185-198-56-67.livesports24.online/setantaplusukr.m3u8
+https://77-247-178-24.livesports24.online/setantaplusukr.m3u8
+http://46.174.189.51/setanta1/video.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports 1
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports 1 HD
+https://95-213-224-183.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports 2 HD
+https://95-213-224-183.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports 2 HD [R]
+http://118.47.168.157:8080/play/setanta2/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Sports 2
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Setanta Qazaqstan HD
+http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/2399/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Eurosport 1 HD
+http://82.151.200.63:8000/play/a04k
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Eurosport 1
+https://95-213-224-187.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Eurosport 2 HD
+http://82.151.200.63:8000/play/a04l
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Eurosport 2
+https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
+http://51.68.140.190:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-id="eurosport-4k" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="SPORTS RU",Eurosport 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Лучшие моменты ЛЧ HD
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Лучшие моменты ЛЧ 2 HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",КХЛ FHD
+http://80.89.192.109/239.201.90.203/stream.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",КХЛ HD
+https://95-213-224-183.livesports24.online/khlhdru.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",КХЛ
+https://95-213-224-183.livesports24.online/rukhl.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",КХЛ [R]
+http://89.106.234.4:80/khl_hd_34_35.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Extreme Sport
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Матч! Боец 
+https://95-213-224-183.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Точка Отрыва
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Sport 1+1 HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-id="3317"tvg-logo="http://epg.it999.ru/img/3317.png"group-title="SPORTS RU",Спорт-1 UA
+https://95-213-224-183.livesports24.online/sport1ua.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-id="3318"tvg-logo="http://epg.it999.ru/img/3318.png"group-title="SPORTS RU",Спорт-2 UA
+http://194.35.48.10:80/sport2ua/tracks-v3a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Футбол 1
+https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Футбол 1 HD
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Футбол 1 FHD
+http://persik.by/stream/6696/480248/10266.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Футбол 2 HD
+https://s4.idata.uz/football2/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Футбол 2 
+https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Футбол 3
+https://95-213-224-183.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Футбол 3 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Игра HD
+https://s4.idata.uz/igra/tracks-v1a1/mono.m3u8
+https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Игра
+https://95-213-224-183.livesports24.online/migra.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Арена
+https://95-213-224-183.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Арена HD
+https://s4.idata.uz/arena/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Страна
+https://95-213-224-183.livesports24.online/mnashsport.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Планета
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Планета [Резерв]
+https://95-213-224-183.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ!
+https://95-213-224-183.livesports24.online/ooomatch.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! HD
+http://cloudcdn.tk:80/AGfZKzSwSefl944/Opwcmh951/15334
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! FHD
+http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Премьер HD
+http://persik.by/stream/6696/480248/10294.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Премьер FHD
+http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",МАТЧ! Премьер
+https://95-213-224-183.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Футбол
+https://95-213-224-183.livesports24.online/footballrus.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",M-1 Global
+http://37.17.14.149:8906/play/a00l/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Беларусь 5
+https://95-213-224-183.livesports24.online/belarusss5.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Беларусь 5 International
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b1460000_sleng.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Бокс ТВ
+http://persik.by/stream/6696/480248/10948.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Canal+ Sport HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Qazsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",О2 TV Sport
+http://84.42.140.148:8880/hdmi
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Viasat Sport
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-logo="http://127.0.0.1/" group-title="SPORTS RU",Arena Sport 1 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-logo="http://127.0.0.1/" group-title="SPORTS RU",Arena Sport 2 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-logo="http://127.0.0.1/" group-title="SPORTS RU",Arena Sport 3 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-logo="http://127.0.0.1/" group-title="SPORTS RU",Arena Sport 4 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Varzesh TV
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Tennis
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Tennis 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",BTV Sport 2 HD
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Smash Sport HD
+http://s3.smashmalta.com:82/live/smash/smash/17.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Sport 1 TV HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Sport TV 2 HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Sport TV 3 HD
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Sport TV 4 HD
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Sport TV 5 HD
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",FightBOX
+http://92.43.140.200/s86/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Premiere 2 HD
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU", EPT SPORTS HD
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Bein Sport 1 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Bein Sport 2 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",Bein Sport 5 HD
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  group-title="SPORTS RU",MySports 1 HD
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"  tvg-logo="https://dl.dropbox.com/s/4auhwhjfcgn732s" group-title="SPORTS RU",Pro Wrestling Network
+https://autopilot.catcast.tv/content/39650/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Premier League & EFL ▬" tvg-logo="https://picon-13398.kxcdn.com/premierleagueefl.jpg" group-title="Live: Premier League & EFL",▬ Premier League & EFL ▬
 http://tv.hero.iptv.uno:80/TFongue2/ILiiZ35854/16510
