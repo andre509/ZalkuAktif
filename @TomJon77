@@ -8,17 +8,17 @@ http://portal.alliptv.tv:8080/530354021348/397532457292/5497
 
 
 
-#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2,EURO HD1 
+#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2",EURO HD1 
 https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist_w1891545725.m3u8 
-#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2,EURO 2 
+#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2",EURO 2 
 https://thainews.prd.go.th:443/lv/live/ch1_L_L.sdp/chunklist_w1079637506.m3u8 
-#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2,EURO 3 
+#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2",EURO 3 
 http://gma2.blab.email/fs2.m3u8 
-#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2,EURO 4 
+#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2",EURO 4 
 http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8 
-#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2,EURO 5 
+#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2",EURO 5 
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8 
-#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2,EURO 6 
+#EXTINF:-1 group-title="EURO2020"tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2",EURO 6 
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
 
