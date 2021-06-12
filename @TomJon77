@@ -26,6 +26,7 @@ http://188.40.186.158:8080/hls/star/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="EURO",LIVE 2
 https://d26aoqcz6hruef.cloudfront.net/out/v1/695705fed126486f8fe2dc9e07403de3/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="EURO",LIVE 3
+http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
 http://zana@2.amarteyyy.xyz/live/6262622222/index.m3u8 (http://zana@2.amarteyyy.xyz/live/6262622222/index.m3u8)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="EURO",LIVE 4
 http://zana@9.anbdaouras.xyz/live/6262622222/index.m3u8 (http://zana@9.anbdaouras.xyz/live/6262622222/index.m3u8)
