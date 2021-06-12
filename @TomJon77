@@ -3081,30 +3081,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="@MKCsport@PAKAIjak", Useesports 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesports2&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein1_small1.png?v=2.0.0.13" group-title="@MKCsport@PAKAIjak 1",beIN Sport 1
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=bein1&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_bein2_small1.png?v=2.0.0.13" group-title="@MKCsport@PAKAIjak 1",beIN Sport 2
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=bein2&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_nba_small1.png?v=2.0.0.13" group-title="@MKCsport@PAKAIjak 1",NBA
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=nba&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ1_small.png" group-title="@MKCsport@PAKAIjak 1",ChampionTV 1
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=champion1&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_champ2_small.png" group-title="@MKCsport@PAKAIjak 1",Champion TV 2
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=champion2&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports1_small.png?v=2.0.0.13" group-title="@MKCsport@PAKAIjak 1",Fox Sport 1
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=foxsport1&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports2_small.png?v=2.0.0.13" group-title="@MKCsport@PAKAIjak 1",Fox Sport 2
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=foxsport2&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_foxsports3_small.png?v=2.0.0.13" group-title="@MKCsport@PAKAIjak 1",Fox Sport 3
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=foxsport3&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_golf_small1.png?v=2.0.0.14" group-title="@MKCsport@PAKAIjak 1",Golf+
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=golfplus&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesport_small.png?v=2.0.0.13" group-title="@MKCsport@PAKAIjak 1",Useesports 1
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=useesport&bandwidth=b894100&sync=0 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_useesports2_small.png" group-title="@MKCsport@PAKAIjak 1", Useesports 2
-https://mkctvbro.my.id/jarwo/cucok.m3u8?id=useesports2&bandwidth=b894100&sync=0
-
-
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",ZQ Sport
 http://iptv.zqstream.com:80/zqsport-gen/tracks-v1a1/mono.m3u8?token=vQqPVtl-k0
