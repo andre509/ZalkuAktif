@@ -3187,7 +3187,70 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
 
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein NBA
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/481
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein Max 1 4k
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/485
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Kw Sports
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/472
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Kw Sports +
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/473
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein max sd
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/488
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport 2 sd
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/491
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport max 3 sd
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/494
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport 4 MAX SD
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/497
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein Sports PRE 2
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/340
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein Sports PRE 3
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/341
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports HD 1
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/443
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports HD 2
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/444
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports HD 3
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/445
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport 4 hd
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/446
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports HD 5
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/447
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports HD 6
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/448
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports Premium HD 1
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/450
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports Premium HD 2
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/451
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports Premium HD 3
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/452
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN SPORTS MAX 1 HD
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/487
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport max 2 hd
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/490
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN SPORTS MAX 3 HD FR
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/493
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sprt max  4 hd
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/496
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",E
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/334
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein Sports PRE 1
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/339
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN Sports HD 7
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/449
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport max 1 4k
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/486
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport max 2 4k
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/489
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Bein sport 3 4k FR
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/492
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",beIN SPORTS MAX 4 4K FR
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/495
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Sport HD
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/343
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS BINAR",Kurdistan Sports 
+http://188.40.159.100:25461/Binartvku/Bzbdkjdjs77/344
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"   group-title="SPORTS M3U" ,Skynetsport HD
@@ -3431,10 +3494,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",FOX SPORT 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",FOX SPORTS VN 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",FOX SPORTS VN 2 (MOTO GP)
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",FOX SPORTS VN 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOOTBALL",Mytgon
