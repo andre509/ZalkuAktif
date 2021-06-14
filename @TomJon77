@@ -7,18 +7,19 @@ http://geostream.me:8080/Ibrahim/Ibrahim/38446
 http://portal.alliptv.tv:8080/530354021348/397532457292/5497
 
 
-#EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",SPORT 5 
-https://95-213-224-183.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",ESPN
 http://gma2.blab.email/fs2.m3u8 
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",BEIN SPORTS
+https://d10ylgxd6yxl4u.cloudfront.net/out/v1/c26c56690b844cd6ad0d071a812ba538/index.m3u8
 https://d3x3had4hq7d0.cloudfront.net/out/v1/70c56c88eb774a33b15bbe74243ee8cb/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",MATCH 1 HD
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",MATCH 2 HD
+http://62.210.92.52:25461/hlsr/GRpcVkdeQANDAVxSWwFRCwILUAcHBlpUCwJSX1EGCVNTAQ0GUQYEDlJGFRNLTUVXBVQ9X1JBWVcOVlJQSRRERQdKa15QFFgbU1IIBAwKFR5GTQtbU0FZURVDFQ8BFAsUUQkAAg0UThsEHE1USldWXjtdB0BfAAZDAw8QCgkaE1kMZ1BSWVcMXUNeGwEaFRVbF0lADFgWDw0VQwcPEURQQgcaDhUFAFcBQ0gbUldMWUYWQEAMFConQxVDAB4RU19FC1daFQ4UDwoUXBsdGlBEbRZcEUJEBgIMXBNHXEcGExpAVVVPa1UNVw8BWkVRVllBRgNABxRPQQxWDwwSCkRuRgtcFg0WBVQPU1UbTA==/00:1A:79:16:FC:8A/ziajdjjfdifjd64646/67776/9cf5d4707863fc328ebf9166a84ae2eb/67776_4712.ts
 http://146.158.30.190:8000/futbol2
-
+#EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",SPORT 5 
+https://95-213-224-183.livesports24.online/belarusss5.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",MATCH 3 HD
 https://95-213-224-183.livesports24.online/football3ua.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",TVP SPORT HD
@@ -30,19 +31,6 @@ https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="EURO2020",PPTV HD
 http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
-
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="EURO",LIVE 1
-http://188.40.186.158:8080/hls/star/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="EURO",LIVE 2
-https://d26aoqcz6hruef.cloudfront.net/out/v1/695705fed126486f8fe2dc9e07403de3/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="EURO",LIVE 3
-http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
-http://zana@2.amarteyyy.xyz/live/6262622222/index.m3u8 (http://zana@2.amarteyyy.xyz/live/6262622222/index.m3u8)
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="EURO",LIVE 4
-http://zana@9.anbdaouras.xyz/live/6262622222/index.m3u8 (http://zana@9.anbdaouras.xyz/live/6262622222/index.m3u8)
 
 
 
