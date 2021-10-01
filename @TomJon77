@@ -3752,6 +3752,73 @@ https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="SPORT R2",TrueSport4
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
 
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg",BEIN PREMIUM 1
+http://xcwsnl28.mrnova.online:80/live/60060_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg",BEIN PREMIUM 2
+http://xcwsnl28.mrnova.online:80/live/60061_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg",BEIN PREMIUM 3
+http://dud.mawanroud.xyz/live/6151278887/index.m3u8
+#EXTINF:-1 group-title="SPORTS YEK",BeinPremium 1HD
+http://xcwsnl28.mrnova.online:80/live/60080_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",SuperSport EPL
+http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110698.m3u8
+#EXTINF:-1 group-title="SPORTS YEK",Bein Sport1
+http://xcwsnl28.mrnova.online:80/live/60073_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein Sport2
+http://xcwsnl28.mrnova.online:80/live/60074_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein Sport3
+http://xcwsnl28.mrnova.online:80/live/60075_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein Sport4
+http://xcwsnl28.mrnova.online:80/live/60076_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein Sport5
+http://xcwsnl28.mrnova.online:80/live/60077_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein Sport6
+http://xcwsnl28.mrnova.online:80/live/60078_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein Sport7
+http://xcwsnl28.mrnova.online:80/live/60079_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein SportExtera1
+http://xcwsnl28.mrnova.online:80/live/60459_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK",Bein SportExtera2
+http://xcwsnl28.mrnova.online:80/live/60460_.m3u8?token=2d803afe97b6429383dfddcdba5de9cd
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/06/tsn-the-sports-network-vector-logo.png",TSN 1
+http://31.220.41.88:8081/live/tsn1.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/06/tsn-the-sports-network-vector-logo.png",TSN 2
+http://31.220.41.88:8081/live/tsn2.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2020/06/tsn-the-sports-network-vector-logo.png",TSN 3
+http://31.220.41.88:8081/live/tsn3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",SPORT KLUB 2
+http://31.220.41.86:8081/live/klub2.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/1200px-Sportklub_Logo.svg.png",SPORT KLUB 3
+http://31.220.41.86:8081/live/klub3.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg",RMC 1
+http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg",RMC 2
+http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://img.freepik.com/free-vector/sport-equipment-concept_1284-13034.jpg",RMC 3
+http://31.220.41.88:8081/live/fr-sfr3.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS YEK",FOX Sport1
+https://vips-livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPORTS YEK",FOX Sport2
+https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPORTS YEK",FOX Sport3
+https://vips-livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png",SONY ESPN HD
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS YEK",ESPN US
+http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORTS YEK",ESPN
+http://stream2.grandma.fit/fs2.m3u8?Token=Xemtvco
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",ESPN 2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31140?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31034?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",ESPN BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31143?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",ESPN HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORTS YEK" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31150?checkedby:iptvcat.com
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="BeinSport HD",Bein Premium-1
