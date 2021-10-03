@@ -506,6 +506,22 @@ https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6853
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",U channel
 https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6898
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Indosiar
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=indosiar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",my Family
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=myfamily
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",SCTV
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=sctv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Insert
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=insert
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",CNN INDONESIA
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cnnindonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",my cinema
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=mycinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Hits
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=hits
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Hits Movie
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=hitsmovie
 
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="USEE 111", tvnmovies Use
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=tvnmovies
@@ -513,6 +529,16 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=thrill
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Waku Waku Japan Use
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=wakuwaku
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",rock Entertainmet
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=blueant
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",rock Extreme
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=blueantextreme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Eat Go
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=eatgo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",National Geographic
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=natgeo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Nat Geo Wild
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=natgeowild
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",WarnerTV Use
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=warner
@@ -544,16 +570,55 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=sgem
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",flik
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=flik
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13" group-title="USEE 111", History 
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=history
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="USEE 111", Animax
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=animax
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="USEE 111", Aniplus
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=aniplus
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="USEE 111", My Kidz
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=mykids
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="USEE 111", Baby First
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=babyfirst
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title=" USEE 111",Horee
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=horee
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="USEE 111", Boomerang
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=boomerang
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="USEE 111", Cartoon Network
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cartoonnetwork
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="USEE 111", Dunia Anak
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=duniaanak
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="USEE 111", Nick Junior
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=nickjr
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="USEE 111", Nickelodeon
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=nickelodeon
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="USEE 111", Da Vinci Learning
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=davinci
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="USEE 111", Dreamworks
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=dreamworks
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111", BEIN 1
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bein1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111", BEIN2
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=bein2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Foxsport1
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=foxsport1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",foxsport2
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=foxsport2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",foxsport3
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=foxsport3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",horizon sports
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=horizonsport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Usee Sports 1
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Usee Sports 2
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports2
+
 
 
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="CH USUS", tvnmovies Use
