@@ -98,6 +98,22 @@ https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 3
 https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-id="SkyNetSports1.mm" tvg-name="SPORTS THAI" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports1.png" group-title="SPORTS THAI", SPORTS THAI
+https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF: -1 tvg-id="SkyNetSports2.mm" tvg-name="Sky Net Sports 2" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports2.png" group-title="SPORTS THAI", Sky Net Sports 2
+https://smart-tv.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF: -1 tvg-id="SkyNetSports3.mm" tvg-name="Sky Net Sports 3" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports3.png" group-title="SPORTS THAI", Sky Net Sports 3
+https://smart-tv.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF: -1 tvg-id="SkyNetSports4.mm" tvg-name="Sky Net Sports 4" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports4.png" group-title="SPORTS THAI", Sky Net Sports 4
+https://smart-tv.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF: -1 tvg-id="SkyNetSports5.mm" tvg-name="Sky Net Sports 5" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports5.png" group-title="SPORTS THAI", Sky Net Sports 5
+https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-id="SkyNetSports6.mm" tvg-name="Sky Net Sports 6" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports6.png" group-title="SPORTS THAI", Sky Net Sports 6
+https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-id="SkyNetSportsHD.mm" tvg-name="Sky Net Sports HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="SPORTS THAI", Sky Net Sports HD
+https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS",1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
