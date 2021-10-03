@@ -112,7 +112,8 @@ https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-id="SkyNetSportsHD.mm" tvg-name="Sky Net Sports HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="SPORTS THAI", Sky Net Sports HD
 https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI",Skynetsports tes
+https://smart-tv.livedoomovie.com/aslive/skynetsports1/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS",1
