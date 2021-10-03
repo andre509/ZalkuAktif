@@ -66,7 +66,38 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745753
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 15
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745751
 
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 1
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 2
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD1
+https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD2
+https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD3
+https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD4
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD5
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd1
+https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd2
+https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd3
+https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport5
+https://smart-tv.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport6
+https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport7
+https://smart-tv.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 1
+https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 2
+https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 3
+https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS",1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
