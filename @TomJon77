@@ -506,6 +506,10 @@ https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6853
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",U channel
 https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6898
 
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Transtv
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=transtv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Indosiar
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=indosiar
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",my Family
@@ -585,7 +589,7 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="USEE 111", Baby First
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=babyfirst
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title=" USEE 111",Horee
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="USEE 111",Horee
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=horee
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="USEE 111", Boomerang
@@ -615,7 +619,7 @@ https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?chann
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",horizon sports
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=horizonsport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Usee Sports 1
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports1
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="USEE 111",Usee Sports 2
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports2
 
