@@ -1,7 +1,4 @@
 #EXTM3U 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="KOTA", ZALKU
-https://api.mbed.cc/yt.php?id=pFnJ97g-wSs
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Ch ADU",ADU KERBAU
 https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
@@ -29,6 +26,22 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LIVE CH",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua1
+https://output3.ponpapua.my.id/edge2/smil:Channel1_source.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua2
+https://output1.ponpapua.my.id/edge1/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua3
+https://output1.ponpapua.my.id/edge1/smil:Channel3.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua4
+https://output1.ponpapua.my.id/edge1/smil:Channel4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua5
+https://output1.ponpapua.my.id/edge1/smil:Channel5.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua6
+https://output1.ponpapua.my.id/edge1/smil:Channel6.smil/playlist.m3u8
+
+
 
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 1
@@ -421,140 +434,89 @@ http://194.233.66.151:25461/rumah/home/287
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Champion1
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6685
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Rcti
+https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Champion2
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6686
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Champion3
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6786
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Gtv
+https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Rcti
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-665
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Kompastv
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",SCTV
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-204
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Trans7
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Gtv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-778
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",TransTV
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Kompastv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-874
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Rtv
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Trans7
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-734
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Daitv
+https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",TransTV
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-733
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",ntv
+https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Rtv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-1561
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Jaktv
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Daitv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6482
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Mytv
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",ntv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-7432
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Indosiar
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Jaktv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-5415
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Mytv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6711
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",TVRI
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Indosiar
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-205
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Ajwa tv
+https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",O channel
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-206
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Alquran Kareem
+https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",TVRI
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6441
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Metro tv
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Ajwa tv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-7464
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",MNC tv
+https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Alquran Kareem
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6852
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Jak tv
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Metro tv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-777
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Net
+https://iptv.mwafa.net/vidio/875/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",MNC tv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-870
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",I news
+https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Jak tv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-5415
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",O shop
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Net
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-875
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",DW
+https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",I news
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-5409
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Tv edukasi
+https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",O shop
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6166
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Rtv
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Video entertainment
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-7352
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Berita satu
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",DW
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-5075
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",Reformed21
+https://iptv.mwafa.net/vidio/6853/index.m3u8?token=1999
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Tv edukasi
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6838
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Rtv
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-1561
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Berita satu
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6165
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Citra bioskop
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6684
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Citra entertainmend
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6402
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Citra drama
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6401
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Citra dangdut
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6587
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Smithsonian
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6550
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Love nature
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6635
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Hip-hop Horee
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-7052
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Zoomoo
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6533
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Davinci
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6549
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Al-Jazeera
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6410
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Euro news
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6412
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",ABC Australia
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-7150
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Citra muslim
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6678
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",Reformed21
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6853
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="CH VIDIO",U channel
-https://home-tv.web.id/RHS/esto.m3u8?channel=vidio-6898
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@token_Lokal-VIDIO",U Channel
+https://iptv.mwafa.net/vidio/6898/index.m3u8?token=1999
 
 
 
