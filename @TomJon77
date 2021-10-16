@@ -26,36 +26,108 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LIVE CH",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua1
-https://output3.ponpapua.my.id/edge2/smil:Channel1_source.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua2
-https://output1.ponpapua.my.id/edge1/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua3
-https://output1.ponpapua.my.id/edge1/smil:Channel3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua4
-https://output1.ponpapua.my.id/edge1/smil:Channel4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua5
-https://output1.ponpapua.my.id/edge1/smil:Channel5.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZcgDvtF/Share-Ext-Pon-Papua.jpg"group-title="SHAREEXT@PON_PAPUA",PON_Papua6
-https://output1.ponpapua.my.id/edge1/smil:Channel6.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl1.png",PremierHD1
-https://www.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl2.png",PremierHD2
-https://www.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl3.png",PremierHD3
-https://www.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl4.png",PremierHD4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", SPOTV 1
+https://www.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", SPOTV
+https://www.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", SPOTV 2
+https://www.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Bein Sport 1
 https://www.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img05.xyz/assets/img/ch_logo/doomovie-epl5.png",PremierHD5
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", Bein Sport 2
 https://www.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT 1
-https://www.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="CUP"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT 2
-https://www.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremierHD1
+https://www.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremierHD2
+https://www.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremierHD3
+https://www.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremierHD4
+https://www.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", PremierHD5
+https://www.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", True sporthd1
+https://www.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", True sporthd2
+https://www.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", True sporthd3
+https://www.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", True sport5
+https://www.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", True sport6
+https://www.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI", True sport7
+https://www.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", SPOTV 1
+https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", SPOTV
+https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", SPOTV 2
+https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", Bein Sport 1
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", Bein Sport 2
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", PremierHD1
+https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", PremierHD2
+https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", PremierHD3
+https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", PremierHD4
+https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", PremierHD5
+https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", True sporthd1
+https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", True sporthd2
+https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", True sporthd3
+https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", True sport5
+https://smart-tv.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", True sport6
+https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SMART", True sport7
+https://smart-tv.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", SPOTV 1
+https://sport.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", SPOTV
+https://sport.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", SPOTV 2
+https://sport.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", Bein Sport 1
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", Bein Sport 2
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", PremierHD1
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", PremierHD2
+https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", PremierHD3
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", PremierHD4
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", PremierHD5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", True sporthd1
+https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", True sporthd2
+https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", True sporthd3
+https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", True sport5
+https://sport.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", True sport6
+https://sport.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORT THAI SPORT", True sport7
+https://sport.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 1
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch01/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 2
@@ -132,54 +204,6 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745753
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="STANDBY SPORT",OEX 15
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745751
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 1
-https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Bein Sport 2
-https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD1
-https://smart-tv.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD2
-https://smart-tv.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD3
-https://smart-tv.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD4
-https://smart-tv.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", PremierHD5
-https://smart-tv.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd1
-https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd2
-https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sporthd3
-https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport5
-https://smart-tv.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport6
-https://smart-tv.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", True sport7
-https://smart-tv.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 1
-https://smart-tv.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 2
-https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI", Fox Sports 3
-https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-id="SkyNetSports1.mm" tvg-name="SPORTS THAI" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports1.png" group-title="SPORTS THAI", SPORTS THAI
-https://smart-tv.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF: -1 tvg-id="SkyNetSports2.mm" tvg-name="Sky Net Sports 2" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports2.png" group-title="SPORTS THAI", Sky Net Sports 2
-https://smart-tv.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF: -1 tvg-id="SkyNetSports3.mm" tvg-name="Sky Net Sports 3" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports3.png" group-title="SPORTS THAI", Sky Net Sports 3
-https://smart-tv.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF: -1 tvg-id="SkyNetSports4.mm" tvg-name="Sky Net Sports 4" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports4.png" group-title="SPORTS THAI", Sky Net Sports 4
-https://smart-tv.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF: -1 tvg-id="SkyNetSports5.mm" tvg-name="Sky Net Sports 5" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports5.png" group-title="SPORTS THAI", Sky Net Sports 5
-https://smart-tv.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-id="SkyNetSports6.mm" tvg-name="Sky Net Sports 6" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports6.png" group-title="SPORTS THAI", Sky Net Sports 6
-https://smart-tv.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-id="SkyNetSportsHD.mm" tvg-name="Sky Net Sports HD" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="SPORTS THAI", Sky Net Sports HD
-https://smart-tv.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS THAI",Skynetsports tes
-https://smart-tv.livedoomovie.com/aslive/skynetsports1/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS",1
@@ -3565,20 +3589,7 @@ http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110700.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/28/CpDaIR.jpg",SuperSport Laliga 
 http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110699.m3u8
 
-#EXTINF:-1  tvg-id="True Sport HD" group-title="WorldSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD
-https://smart-tv.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="True Sport HD2" group-title="WorldSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD2
-https://smart-tv.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="True Sport HD3" group-title="WorldSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport HD3
-https://smart-tv.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="True Sport HD4" group-title="WorldSports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD4
-https://smart-tv.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="WorldSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",FOX WorldSports
-https://smart-tv.livedoomovie.com/02_FoxSport1_TH_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="WorldSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",FOX WorldSports 2
-https://smart-tv.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="WorldSports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",FOX WorldSports 3
-https://smart-tv.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",TR SPORTS 1 HD
 http://37.221.122.86:8383/trspor.ts
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",beIN FUTBOL 1 HD
