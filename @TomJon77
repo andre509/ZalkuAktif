@@ -186,12 +186,6 @@ https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch10/playlist.m3u8
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch11/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 12
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch12/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",TEN1
-http://173.199.120.51/hls/chst1.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",TEN2
-http://173.199.120.51/hls/chst2.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",TEN3
-http://173.199.120.51/hls/chst3.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",StarSports select 1
 http://93.152.174.144:4000/play/ss1in/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",StarSports select 2
@@ -262,34 +256,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 1
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7329/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 2
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7330/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 3
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7331/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 4
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7332/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 5
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7333/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 6
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7334/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 7
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7335/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 8
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7336/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 9
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7337/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 10
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7338/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 11
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7339/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 12
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7340/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 13
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7341/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="LIVE SPORTS",LIVE 14
-http://ac60e104.ottclub.xyz/iptv/B6ZB6GAQD739EC/7348/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE FTP" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 1
@@ -2357,48 +2323,26 @@ http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", MADANI TV
 https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", MGI TV
-https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/05.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", NABAWI TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv_360p/chunklist_w403146672.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", NU Channel
-http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/chunklist_w2102112964.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", SalingSapa TV
-https://5d63d49f772ce.streamlock.net/salingsapa/rtmp.stream_360p/chunklist_w1765334579.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", Tawaf TV
 http://stream1.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/chunklist_w727091128.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", MGI TV
-https://tv.rodja.live/tasik/mgitv/chunklist_w791927921.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", Muadz TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_123.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", Wesal tv
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", PULDAPI TV
-http://103.77.106.227:8080/hls/web.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", AL IMAN TV
-http://tv.aliman.id:1935/aliman/HD/chunklist_w1604743112.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", RIFQAN TV
-http://119.82.232.89:1935/rifqan/bismillah/chunklist_w980315644.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", NIAGA TV
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", Salam TV
-http://wowza60.indostreamserver.com:1935/salamtv/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", RODJA TV
 http://vids.rodja.tv:1935/live/rodja/01.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", SURAU TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", AL-IMAN TV
-http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", AL SAUDI QURAN
 http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
-#EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", AL SAUDI SUNNAH
-http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", WHITE CH
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://b1g.me:80/images/0544eccf5cfb218c1b12854983ba3c31.jpg" group-title="RELIGI", TV 4
@@ -2408,27 +2352,7 @@ https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="104" tvg-name="Astro Ria HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a" group-title="MYTV",Astro Ria HD (CH104)
-http://50.7.17.176:61980/myplay/c_58040/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="MYTV",Astro Prima HD (CH105)
-http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MYTV",Astro Oasis HD (CH106)
-http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="107" tvg-name="Astro Warna HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="MYTV",Astro Warna HD (CH107)
-http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
-#EXTINF:-1 tvg-id="108" tvg-name="Astro Citra HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="MYTV",ASTRO Citra HD (CH108)
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="Naura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" group-title="MYTV",Naura HD (CH109)
-http://50.7.161.82:8277/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="Astro Rania HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="MYTV",Astro Rania HD (CH112)#
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065897
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
-#EXTINF:-1 tvg-id="113" tvg-name="Astro Aura HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="MYTV",Astro Aura HD (CH113)#
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71145
-#EXTINF:-1 tvg-id="125" tvg-name="Astro Prima" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="MYTV",Astro Prima (CH125)
-http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="Astro Oasis" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MYTV",Astro Oasis (CH126)
-http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-LnRjmkv_uwg/XtQtCiloVbI/AAAAAAAACBU/DNdn1y-IrQcvvImVL6m4XatzdskzySitACLcBGAsYHQ/s200/Batman%2BLa%2Bserie%2Banimada.png" group-title="ASTRO MALAYSIA 2", TV1
@@ -2643,8 +2567,7 @@ https://mediasv.online/tvchannel_x1/truesparkjump/playlist.m3u8?wmsAuthSign=c2Vy
 https://mediasv.online/tvchannel_x2/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6NDA6MDQgQU0maGFzaF92YWx1ZT1LeU4wNUVmSkhSM0EwWXEwVFluSnFBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzE3Njc2
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="INDIA SERVER",Star movies
-https://bit.ly/3C6KMQd
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="INDIA SERVER",KBS WORLD HD
 #EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/s73XpKBMaR/master.m3u8
@@ -2657,9 +2580,6 @@ https://feed.play.mv/live/10005200/tK5q6sJXFy/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="INDIA SERVER",HGTV HD
 #EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="INDIA SERVER",TIMES NOW
-#EXTVLCOPT:program=1
-https://feed.play.mv/live/1009/4z9ybhTVhq/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="INDIA SERVER",LIFE TIME
 #EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/q1QsHkGgzx/master.m3u8
@@ -2802,37 +2722,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
 
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/us/HBO.us.png", HBO FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/us/HBO.us.png", HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/us/HBOSignature.us.png", HBO Signature FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/us/HBOSignature.us.png", HBO Signature HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/id/HBOHits.id.png", HBO Hits FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/id/HBOHits.id.png", HBO Hits HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/us/HBOFamily.us.png", HBO Family FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/us/HBOFamily.us.png", HBO Family HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png", CINEMAX FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8 
-#EXTINF:-1 group-title="HBO GO UA" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png", CINEMAX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Cinemax by HBO" tvg-id="bioskopindonesia" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="CINEMA",CINEMAX HD
@@ -2850,9 +2739,7 @@ https://www.dropbox.com/s/dl/i77lg3livx7qhzj/carawaktv-hbosig.m3u8
 #EXTINF:-1 tvg-id="RED by HBO" tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="CINEMA",RED by HBO
 https://www.dropbox.com/s/dl/ds2ux7bmbz5k7f3/carawaktv_redbyhbo.m3u8
 
-#EXTINF:-1 tvg-id="axnhd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/AyyX0IP.png",AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.ibb.co/tKy129y/Animax.png",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
@@ -2862,24 +2749,15 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="asian_food_channel" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.ibb.co/VqRXFMV/asian-food.png",Asian Food Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="abc_australia" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/PKOlWpr.png",BOMMERANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/oD53jAs.png",BBC CBEEBIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbc_lifestyle" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg",BBC Lifestyle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="blue_ant_entertainment" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.ibb.co/wzhZgHR/Blue-ant-entertainment.png",Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
@@ -2889,36 +2767,6 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="VIETNAM ENTERTAIMENT" tvg-id="max_by_hbo" tvg-logo="https://i.imgur.com/F0N0TmU.jpg",Cinemax HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png",Cinema World HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png",Cinema World SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/dpGiaH5.png",Cartoon Network HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="foxhd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX | 1080P
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxhd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX | 720P
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_family_movies" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/rrihkhj.png",FOX FAMILY MOVIES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://livecdn.fptplay.net/hda/foxfamilymovies_vhls.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies | 1080p
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies | 720P
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/1bV8abI.png",FOX LIFE SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="da_vinci_kids" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/ZkEEeM9.png",Da Vinci HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
@@ -2931,18 +2779,9 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="national_geographic" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/m7Cl2M9.png",National Geographic HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/3jBRVrj.png",Nat Geo WILD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="kix_hd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kbs_world" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -2955,22 +2794,9 @@ http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="fashion_tv" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/9ohiQeN.png",TLC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="VIETNAM ENTERTAIMENT" tvg-logo="https://i.imgur.com/b2eCn4J.png",Warner TV SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-
 
 
 
@@ -3050,40 +2876,13 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/chunklist_w1201165770.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Indo Ch
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="PREMIUM KW", Oh!k
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="PREMIUM KW", TvN Malaysia
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", S gem
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-http://210.210.155.35/uq2663/h/h19/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", S one
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Kix
-http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", CinemaWorld
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Thrill
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Cinema World
-http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Zee Bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", & FLIX HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", & PRIVE
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", HBO
@@ -3098,28 +2897,11 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Cinemax
 https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", Red By HBO
-https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", MY CINEMA
-http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", CINEMA WORLD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", CELESTIAL MOVIE
-http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", BLUE ANT EXTREME
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", BLUE ANT ENTERTAINMENT
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", K DRAMA
-http://210.210.155.35/qwr9ew/s/s42/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", KBS WORLD
-http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", HITS
-http://210.210.155.35:80/uq2663/h/h37/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", THRILL
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8?
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", K +
 http://210.210.155.35/uq2663/h/h08/index.m3u8?
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/0y615HBX/estrenos-2019.png" group-title="PREMIUM KW", SONY GEM
@@ -3132,9 +2914,6 @@ http://rr2.dens.tv/s/s32/index.m3u8
 http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
 
 
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",Sony Pix FHD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",Star Movies HD (2)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
@@ -3156,24 +2935,6 @@ https://feed.play.mv/live/1009/4z9ybhTVhq/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES",LIFE TIME
 #EXTVLCOPT:program=1
 https://feed.play.mv/live/10005200/q1QsHkGgzx/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY142:FOX Action Movies" tvg-logo="" group-title="MOVIE TES",FOX Action Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
-http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/71114
-#EXTINF:-1 tvg-id="" tvg-name="MY143:FOX HD" tvg-logo="" group-title="MOVIE TES",FOX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/71115
-#EXTINF:-1 tvg-id="" tvg-name="MY144:FOX Family Movies" tvg-logo="" group-title="MOVIE TES",FOX Family Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/71116
-#EXTINF:-1 tvg-id="" tvg-name="MY156:FOX Life HD" tvg-logo="" group-title="MOVIE TES",FOX Life HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/71128
-#EXTINF:-1 tvg-id="" tvg-name="MY157:FOX Movies HD" tvg-logo="" group-title="MOVIE TES",FOX Movies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/71129
-#EXTINF:-1 tvg-id="" tvg-name="MY158:FX Cinema HD" tvg-logo="" group-title="MOVIE TES",FX Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; Trident/5.0)
-http://mue03.wanicelife.com:8880/SFL142209/CDL2842N7/71130
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES", HBO Multilingual subtitles
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES", HBO Family Multilingual subtitles
@@ -3185,44 +2946,21 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MOVIE TES", CINEMAX Multilingual subtitles
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTD6Iq.jpg",Cartoon Network HD EN
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTD6Iq.jpg",Cartoon Network HD th
-https://mediasv.online/tvchannel_x1/cartoonnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjEgNDo0ODoxMCBQTSZoYXNoX3ZhbHVlPUFzRStZYUczVlZlMElNWHRyU0haT0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjcmaWQ9Y2hfNjY4MzU=
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTDGSI.jpg",Disney Channel
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+
 #EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTAUO0.jpg",Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 #EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTA6zV.jpg",Nickelodeon
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTAJaD.jpg",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTP3Pe.jpg",Universal Kids
-http://flussonicusa.bdcabletv.com:80/SPR/mono.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTsTgb.jpg",Ketchup TV Kid
-https://vod365-ketchuptv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CT2aee.jpg",Supertoons
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CT2e4E.jpg",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTCkZb.jpg",Baby TV
 http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTCOvk.jpg",CONTV Anime
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTuA58.jpg",Aniplus
-https://mediasv.online/tvchannel_x2/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6NDA6MDQgQU0maGFzaF92YWx1ZT1LeU4wNUVmSkhSM0EwWXEwVFluSnFBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzE3Njc2
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CT64MJ.jpg",True Spark Jump
-https://mediasv.online/tvchannel_x1/truesparkjump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgMzozMDoyMyBQTSZoYXNoX3ZhbHVlPVRwd2hibko3SlZ3blFsSlBwNmNUR3c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjYmaWQ9Y2hfNzEwNzI=
 #EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTvJpJ.png",FWTOON
 https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTG32k.jpg",Toonee
-http://61.19.242.134/feed/202105171329/LC23/index.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/05/C1YE8q.jpg",Boomerang US
-http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTGElD.jpg",Boomerang th
-http://61.19.242.134/feed/202105171329/chboomberang/index.m3u8
-#EXTINF:-1 group-title="Cartoon Thai"tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTJ5ue.jpg",Cartoon Club
-https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
 
 
 
@@ -3297,127 +3035,42 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",FS2
-http://stream2.grandma.fit/fs2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",TVP SPORT
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWQaPYC.jpg" group-title="SPORTS WAK", MNC SPORTS
 https://cdn-livetv-studio.metube.id/mncsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",TVRI-SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",NBCSN SPORT
-http://31.220.41.87:8081/live/nbcsn.stream/playlist.m3u8?Tomjon
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",SPORT 5 
 https://95-213-224-183.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",SETANTA SPORTS 1
-http://92.43.140.200/s81/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",SETANTA SPORTS 2
-http://92.43.140.200/s82/04.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K Sport 1
 #https://bf.moonmagic.cn/live/sd-1-3565130.m3u8
 http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K Sport 2
 http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="foxsportshd" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORT HD
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="foxsports2hd" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png", FOX SPORT 2 HD
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="foxsports3hd" group-title="SPORTS WAK" tvg-logo="https://i.ibb.co/DDvdY9W/foxsport3-BEARTV.png", FOX SPORT 3 HD
-#EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein1
-https://mediasv.online/premium/bein1/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgNzo1NTozOSBQTSZoYXNoX3ZhbHVlPXQxZjdWUU5OTFNlSFJWdTJwc05peVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTMmaWQ9Y2hfNTkyOTY=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Bein2
-https://mediasv.online/premium/bein2/chunks_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjEgODowNDoxOCBQTSZoYXNoX3ZhbHVlPWNUUXVuU3Fqd2RMc3VwR0ZOT3VETmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MTMmaWQ9Y2hfNDQwNTU=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",FoxSport1 mly
-http://50.7.161.82:8278/streams/d/foxsports_pye/playlist.m3u8
-#https://mediasv.online/tvchannel_x1/foxsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgODo0MTozOSBQTSZoYXNoX3ZhbHVlPVdNQ3cvOHVyOFU1cVFyYW0wVUsydHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNTkwOTY=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",FoxSport2mly
-http://50.7.161.82:8278/streams/d/foxsports2_pye/playlist.m3u8
-#https://mediasv.online/tvchannel_x1/foxsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgODo0MzozMSBQTSZoYXNoX3ZhbHVlPWZvZndITTVreHFKbVFVQktuMjhUY0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNjMzMzg=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Foxsport3 true
-https://mediasv.online/tvchannel_x1/foxsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgODo0NDo1NSBQTSZoYXNoX3ZhbHVlPU1uOEZiYWw2S0pnVkN1QmV5QmFoT2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MjImaWQ9Y2hfNjE1Njg=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Ten1
-http://103.213.238.194:8080/SonyTen1/index.m3u8?zz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Ten2
-http://103.213.238.194:8080/SonyTen2/index.m3u8?zz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Ten3
-http://103.213.238.194:8080/SonyTen3/index.m3u8?zz
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",Sonysix
-http://103.213.238.194:8080/SonySix/index.m3u8?zz
-
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",BBC 2
 http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",BBC 1
 http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK",NBC Sports Network 
-http://77.83.117.60:8888/02_ChelseaTV_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 1
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 2
-http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", GOL TV
 http://91.126.138.141:1935/live/gol/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", BARCA TV
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.88:8081/live/es-barca.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", ESPN2
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Supersport3
-http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist_w1094703972.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Premier
-http://my.streamerstv.com:25461/live/Bob123/Bob123/275.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 1
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 1 HD
-https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8 EUROSPORT 🇬🇧
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 2
-http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", NBC
-http://my.streamerstv.com:25461/live/Bob123/Bob123/821.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", NBCSN
-http://my.streamerstv.com:25461/live/Bob123/Bob123/263.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", CNBC
-http://my.streamerstv.com:25461/live/Bob123/Bob123/39.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 1
-http://salexlive.dnsup.net:23000/live/1Xe2XiuHZE/h40XSqp5IB/38713.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 1
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Eurosport 2
-http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Z Select
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/nl-ziggoselect.stream/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Super Sport 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Super Sport 2
 http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Super Sport 3
 http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", ADU AYAM
 https://z0gdu9jmgu.rtmp-now.com/hls/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", ADU AYAM 2
-https://z0gdu8jmgu.rtmp-now.com/hls/new.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", MOTV
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="SPORTS WAK", Australia Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sony ESPN HD
-https://gma2.blab.email/espnu.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Fox Cricket HD
-https://gma2.blab.email/fs2.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", TVRI SPORT
@@ -3430,44 +3083,10 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 http://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Skynetsport HD
-https://sport.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Skynetsport 1
-https://sport.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Skynetsport 2
-https://sport.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Skynetsport 3
-https://sport.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Skynetsport 4
-https://sport.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Skynetsport 5
-https://sport.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Skynetsport 6
-https://sport.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Elevensport 1
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Elevensport 2
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sport TV 1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sport TV 3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sport TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sport TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", BT Sport1
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", BT Sport2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", EUROSPORT 1HD
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", EUROSPORT 2HD
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", GOLPERU
-http://200.54.19.131:8500/play/a0k9
 #EXTINF: -1 tvg-id="SK1.AU" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sky 1 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF: -1 tvg-id="SK2.AU" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sky 2 Racing
@@ -3543,22 +3162,6 @@ http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110699.m3u8
 
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",TR SPORTS 1 HD
 http://37.221.122.86:8383/trspor.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",beIN FUTBOL 1 HD
-http://37.221.122.86:8383/trspor.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 1
-http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 2
-http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 3
-http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 4
-http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 5
-http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",ESPN 6
-http://31.220.41.88:8081/live/nl-foxsports6.stream/chunks.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",BEINSPORT EXTRA*
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WorldSports",football 1
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WorldSports",football 2
@@ -3579,11 +3182,6 @@ https://95-213-224-179.livesports24.online/rumatcharena.m3u8
 https://95-213-224-179.livesports24.online/migra.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 7
 https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
-#EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="WorldSports",TSN1
-http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cheerball.com/assets/a1942747/images/logo_mobile/Euro.webp?p=2"group-title="WorldSports",LIVE 1
-http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-
 
 
 
@@ -3664,50 +3262,6 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-name="Peace TV Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="SONU IPTV Indian ",Peace TV Bangla HD
 http://173.199.116.220/hls/peacetv.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Digi Bangla HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/digibangla24update.jpg" group-title="SONU IPTV Indian ",Digi Bangla HD
-http://103.205.133.44:1935/extban/chdigihd/playlist.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="TEN-SPORTS" group-title="SONU IPTV Indian ",TEN-SPORTS
-http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Star Jalsha HD JP" group-title="SONU IPTV Indian ",Star Jalsha HD JP
-http://jupiter.bdcabletv.com/star_jalsha-sp/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Sony Pix HD JP" group-title="SONU IPTV Indian ",Sony Pix HD JP
-http://jupiter.bdcabletv.com/sony_pix-sim/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Star Sports 1 HD Hindi JP" group-title="SONU IPTV Indian ",Star Sports 1 HD Hindi JP
-http://jupiter.bdcabletv.com/Star-Sports_1HD_ENC/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Nat GEO Wild HD JP" group-title="SONU IPTV Indian ",Nat GEO Wild HD JP
-http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Colors HD JP" group-title="SONU IPTV Indian ",Colors HD JP
-http://jupiter.bdcabletv.com/colorhd-sim/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Star Jalsha Movies HD JP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="SONU IPTV Indian ",Star Jalsha Movies HD JP
-http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Zee Bangla HD JP" group-title="SONU IPTV Indian ",Zee Bangla HD JP
-http://jupiter.bdcabletv.com/ZeeBanglaHD/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Sony SAB HD JP" group-title="SONU IPTV Indian ",Sony SAB HD JP
-http://jupiter.bdcabletv.com/sony_sab-sim/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Sony Ten 2 HD" group-title="SONU IPTV Indian ",Sony Ten 2 HD
-http://watchindia.net:8880/live/33253/72963/1757.ts?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Star Gold UK" group-title="SONU IPTV Indian ",Star Gold UK
-http://185.246.209.207/HINDI_STAR_GOLD_HD_UK/index.m3u8?token=test&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Zee TV HD" group-title="SONU IPTV Indian ",Zee TV HD
-http://iptv.starhd.pk:8880/AZEEMPK/rEac6QHVJj/26399?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Sun HD" group-title="SONU IPTV Indian ",Sun HD
-http://fr1.zecast.com:1935/star-live/suntv.stream/playlist.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Star Vijay HD" group-title="SONU IPTV Indian ",Star Vijay HD
-http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Love Nature" group-title="SONU IPTV Indian ",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Sony LIV" group-title="SONU IPTV Indian ",Sony LIV
-http://watchindia.net:8880/live/33253/72963/1758.ts?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Star Vijay 4K" group-title="SONU IPTV Indian ",Star Vijay 4K
-http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Zee Tamil 4K" group-title="SONU IPTV Indian ",Zee Tamil 4K
-http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="cOLORS cINEPLEX bOLLYWOOD" group-title="SONU IPTV Indian ",cOLORS cINEPLEX bOLLYWOOD
-http://tvflixvip01.ddns.net//HINDI_SONY_WAH/index.m3u8?token=test&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Sony Aath" group-title="SONU IPTV Indian ",Sony Aath
-http://tvflix2.ddns.net/bee-global/sonyaath/chunks.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 tvg-name="Colors Rishtey" group-title="SONU IPTV Indian ",Colors Rishtey
-http://portal.geniptv.com:8080/live/greenpoison8/GZprWONABH/2828.ts?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 
 
@@ -3753,510 +3307,6 @@ https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 group-title="CH THAI2"tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-pptv.png",PPTV HD
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR: 13eme Rue HD" tvg-logo="" group-title="FRANCE",FR: 13eme Rue HD
-http://gooserace.xyz:80/roman/roman123/1485738.ts
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6ter HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/6ter-fr.png" group-title="FRANCE",FR: 6ter HD
-http://gooserace.xyz:80/roman/roman123/1485739.ts
-#EXTINF:-1 tvg-id="A+InternationalFrance.fr" tvg-name="FR: A+ HD" tvg-logo="" group-title="FRANCE",FR: A+ HD
-http://gooserace.xyz:80/roman/roman123/1485740.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: A2i TV HD" tvg-logo="" group-title="FRANCE",FR: A2i TV HD
-http://gooserace.xyz:80/roman/roman123/1485741.ts
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB1 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/ab1-fr.png" group-title="FRANCE",FR: AB1 HD
-http://gooserace.xyz:80/roman/roman123/1485742.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="FRANCE",FR: AB3 HD
-http://gooserace.xyz:80/roman/roman123/1485743.ts
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: Action HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/action-fr.png" group-title="FRANCE",FR: Action HD
-http://gooserace.xyz:80/roman/roman123/1485744.ts
-#EXTINF:-1 tvg-id="Africa24.fr" tvg-name="FR: Africa 24 HD" tvg-logo="" group-title="FRANCE",FR: Africa 24 HD
-http://gooserace.xyz:80/roman/roman123/1485745.ts
-#EXTINF:-1 tvg-id="Alsace20.fr" tvg-name="FR: Alsace 20 HD" tvg-logo="" group-title="FRANCE",FR: Alsace 20 HD
-http://gooserace.xyz:80/roman/roman123/1485746.ts
-#EXTINF:-1 tvg-id="AlticeStudio.fr" tvg-name="FR: Altice Studio HD" tvg-logo="" group-title="FRANCE",FR: Altice Studio HD
-http://gooserace.xyz:80/roman/roman123/1485747.ts
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: Animaux HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/animaux-fr.png" group-title="FRANCE",FR: Animaux HD
-http://gooserace.xyz:80/roman/roman123/1485748.ts
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="FR: Arte HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/arte-fr.png" group-title="FRANCE",FR: Arte HD
-http://gooserace.xyz:80/roman/roman123/1485749.ts
-#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR: Automoto TV HD" tvg-logo="" group-title="FRANCE",FR: Automoto TV HD
-http://gooserace.xyz:80/roman/roman123/1485750.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Be Curious TV HD" tvg-logo="" group-title="FRANCE",FR: Be Curious TV HD
-http://gooserace.xyz:80/roman/roman123/1485751.ts
-#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR: Bet HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bet-us.png" group-title="FRANCE",FR: Bet HD
-http://gooserace.xyz:80/roman/roman123/1485762.ts
-#EXTINF:-1 tvg-id="BFMBusiness.frd" tvg-name="FR: BFM Business HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/bfm-business-fr.png" group-title="FRANCE",FR: BFM Business HD
-http://gooserace.xyz:80/roman/roman123/1485763.ts
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-name="FR: BFM Grand Littoral HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/bfm-grand-littoral-fr.png" group-title="FRANCE",FR: BFM Grand Littoral HD
-http://gooserace.xyz:80/roman/roman123/1485764.ts
-#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="FR: BFM Lyon HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/bfm-tv-fr.png" group-title="FRANCE",FR: BFM Lyon HD
-http://gooserace.xyz:80/roman/roman123/1485765.ts
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="FR: BFM Paris HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/bfm-paris-fr.png" group-title="FRANCE",FR: BFM Paris HD
-http://gooserace.xyz:80/roman/roman123/1485766.ts
-#EXTINF:-1 tvg-id="BFMTV.frd" tvg-name="FR: BFM TV HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/bfm-tv-fr.png" group-title="FRANCE",FR: BFM TV HD
-http://gooserace.xyz:80/roman/roman123/1485767.ts
-#EXTINF:-1 tvg-id="Boing.fr" tvg-name="FR: Boing HD" tvg-logo="" group-title="FRANCE",FR: Boing HD
-http://gooserace.xyz:80/roman/roman123/1485768.ts
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="FR: Boomerang HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/boomerang-us.png" group-title="FRANCE",FR: Boomerang HD
-http://gooserace.xyz:80/roman/roman123/1485769.ts
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C-8 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c8-fr.png" group-title="FRANCE",FR: C-8 HD
-http://gooserace.xyz:80/roman/roman123/1485770.ts
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C-News HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/c8-fr.png" group-title="FRANCE",FR: C-News HD
-http://gooserace.xyz:80/roman/roman123/1485771.ts
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR: C-Star HD" tvg-logo="" group-title="FRANCE",FR: C-Star HD
-http://gooserace.xyz:80/roman/roman123/1485772.ts
-#EXTINF:-1 tvg-id="CSTARHITS.fr" tvg-name="FR: C-STAR Hits HD" tvg-logo="" group-title="FRANCE",FR: C-STAR Hits HD
-http://gooserace.xyz:80/roman/roman123/1485773.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Alpha JU" tvg-logo="" group-title="FRANCE",FR: Canal Alpha JU
-http://gooserace.xyz:80/roman/roman123/1485775.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal J HD" tvg-logo="" group-title="FRANCE",FR: Canal J HD
-http://gooserace.xyz:80/roman/roman123/1485776.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 1 HD" tvg-logo="" group-title="FRANCE",FR: Canal Play 1 HD
-http://gooserace.xyz:80/roman/roman123/1485777.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 2 HD" tvg-logo="" group-title="FRANCE",FR: Canal Play 2 HD
-http://gooserace.xyz:80/roman/roman123/1485778.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 3 HD" tvg-logo="" group-title="FRANCE",FR: Canal Play 3 HD
-http://gooserace.xyz:80/roman/roman123/1485779.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 4 HD" tvg-logo="" group-title="FRANCE",FR: Canal Play 4 HD
-http://gooserace.xyz:80/roman/roman123/1485780.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 5 HD" tvg-logo="" group-title="FRANCE",FR: Canal Play 5 HD
-http://gooserace.xyz:80/roman/roman123/1485781.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Cinema HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ Cinema HD
-http://gooserace.xyz:80/roman/roman123/1485782.ts
-#EXTINF:-1 tvg-id="CANAL+DECALE.fr" tvg-name="FR: CANAL+ Decale HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ Decale HD
-http://gooserace.xyz:80/roman/roman123/1485783.ts
-#EXTINF:-1 tvg-id="CANAL+FAMILY.fr" tvg-name="FR: CANAL+ Family HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ Family HD
-http://gooserace.xyz:80/roman/roman123/1485784.ts
-#EXTINF:-1 tvg-id="CANAL+.fr" tvg-name="FR: CANAL+ HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ HD
-http://gooserace.xyz:80/roman/roman123/1485785.ts
-#EXTINF:-1 tvg-id="CANAL+SERIES.fr" tvg-name="FR: CANAL+ Series HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ Series HD
-http://gooserace.xyz:80/roman/roman123/1485786.ts
-#EXTINF:-1 tvg-id="CanalSport.pl" tvg-name="FR: CANAL+ Sport HD" tvg-logo="" group-title="FRANCE",FR: CANAL+ Sport HD
-http://gooserace.xyz:80/roman/roman123/1485787.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="FR: Cartoon Network HD (P)" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cartoon-network-us.png" group-title="FRANCE",FR: Cartoon Network HD (P)
-http://gooserace.xyz:80/roman/roman123/1485788.ts
-#EXTINF:-1 tvg-id="ChasseetPeche.fr" tvg-name="FR: Chasse et PÃche HD" tvg-logo="" group-title="FRANCE",FR: Chasse et PÃche HD
-http://gooserace.xyz:80/roman/roman123/1485789.ts
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR: Cherie 25 HD" tvg-logo="" group-title="FRANCE",FR: Cherie 25 HD
-http://gooserace.xyz:80/roman/roman123/1485790.ts
-#EXTINF:-1 tvg-id="Cine+Classic.fr" tvg-name="FR: Cine+ Classic HD" tvg-logo="" group-title="FRANCE",FR: Cine+ Classic HD
-http://gooserace.xyz:80/roman/roman123/1485791.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1024px-FX-logo.svg.png" group-title="FRANCE",FR: FX HD
-http://gooserace.xyz:80/roman/roman123/1485792.ts
-#EXTINF:-1 tvg-id="POLAR+.fr" tvg-name="FR: Cine Polar HD" tvg-logo="" group-title="FRANCE",FR: Cine Polar HD
-http://gooserace.xyz:80/roman/roman123/1485793.ts
-#EXTINF:-1 tvg-id="Cine+Classic.fr" tvg-name="FR: Cine+ Classic HD" tvg-logo="" group-title="FRANCE",FR: Cine+ Classic HD
-http://gooserace.xyz:80/roman/roman123/1485794.ts
-#EXTINF:-1 tvg-id="Cine+Club.fr" tvg-name="FR: Cine+ Club HD" tvg-logo="" group-title="FRANCE",FR: Cine+ Club HD
-http://gooserace.xyz:80/roman/roman123/1485795.ts
-#EXTINF:-1 tvg-id="Cine+Emotion.fr" tvg-name="FR: Cine Emotion HD" tvg-logo="" group-title="FRANCE",FR: Cine Emotion HD
-http://gooserace.xyz:80/roman/roman123/1485796.ts
-#EXTINF:-1 tvg-id="Cine+Famiz.fr" tvg-name="FR: Cine+ Famiz" tvg-logo="" group-title="FRANCE",FR: Cine+ Famiz
-http://gooserace.xyz:80/roman/roman123/1485798.ts
-#EXTINF:-1 tvg-id="Cine+Famiz.fr" tvg-name="FR: Cine+ Famiz HD" tvg-logo="" group-title="FRANCE",FR: Cine+ Famiz HD
-http://gooserace.xyz:80/roman/roman123/1485797.ts
-#EXTINF:-1 tvg-id="Cine+Premier.fr" tvg-name="FR: Cine+ Premier HD" tvg-logo="" group-title="FRANCE",FR: Cine+ Premier HD
-http://gooserace.xyz:80/roman/roman123/1485799.ts
-#EXTINF:-1 tvg-id="Cine+Frisson.fr" tvg-name="FR: Cine+ Isson HD" tvg-logo="" group-title="FRANCE",FR: Cine+ Isson HD
-http://gooserace.xyz:80/roman/roman123/1485800.ts
-#EXTINF:-1 tvg-id="CLIQUETV.fr" tvg-name="FR: Clique TV HD" tvg-logo="" group-title="FRANCE",FR: Clique TV HD
-http://gooserace.xyz:80/roman/roman123/1485801.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: CNews HD" tvg-logo="" group-title="FRANCE",FR: CNews HD
-http://gooserace.xyz:80/roman/roman123/1485802.ts
-#EXTINF:-1 tvg-id="COMEDIE+.fr" tvg-name="FR: Comadie+ HD" tvg-logo="" group-title="FRANCE",FR: Comadie+ HD
-http://gooserace.xyz:80/roman/roman123/1485803.ts
-#EXTINF:-1 tvg-id="CRIMEDISTRICT.fr" tvg-name="FR: Crime District HD" tvg-logo="" group-title="FRANCE",FR: Crime District HD
-http://gooserace.xyz:80/roman/roman123/1485804.ts
-#EXTINF:-1 tvg-id="DEMAIN.fr" tvg-name="FR: Demain ! IDF HD" tvg-logo="" group-title="FRANCE",FR: Demain ! IDF HD
-http://gooserace.xyz:80/roman/roman123/1485805.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="FR: Discovery Channel HD" tvg-logo="" group-title="FRANCE",FR: Discovery Channel HD
-http://gooserace.xyz:80/roman/roman123/1485806.ts
-#EXTINF:-1 tvg-id="DiscoveryFamily.fr" tvg-name="FR: Discovery Family HD" tvg-logo="" group-title="FRANCE",FR: Discovery Family HD
-http://gooserace.xyz:80/roman/roman123/1485807.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR: Discovery Science HD" tvg-logo="" group-title="FRANCE",FR: Discovery Science HD
-http://gooserace.xyz:80/roman/roman123/1485808.ts
-#EXTINF:-1 tvg-id="DISNEYCHANNEL+1.fr" tvg-name="FR: Disney Channel +1 HD" tvg-logo="" group-title="FRANCE",FR: Disney Channel +1 HD
-http://gooserace.xyz:80/roman/roman123/1485809.ts
-#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="FR: Disney Channel HD" tvg-logo="" group-title="FRANCE",FR: Disney Channel HD
-http://gooserace.xyz:80/roman/roman123/1485810.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinema HD" tvg-logo="" group-title="FRANCE",FR: Disney Cinema HD
-http://gooserace.xyz:80/roman/roman123/1485811.ts
-#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="FR: Disney Junior HD" tvg-logo="" group-title="FRANCE",FR: Disney Junior HD
-http://gooserace.xyz:80/roman/roman123/1485812.ts
-#EXTINF:-1 tvg-id="DISNEYXD.fr" tvg-name="FR: Disney XD HD" tvg-logo="" group-title="FRANCE",FR: Disney XD HD
-http://gooserace.xyz:80/roman/roman123/1485813.ts
-#EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="FR: Djazz TV HD" tvg-logo="" group-title="FRANCE",FR: Djazz TV HD
-http://gooserace.xyz:80/roman/roman123/1485814.ts
-#EXTINF:-1 tvg-id="E!.fr" tvg-name="FR: E! HD" tvg-logo="" group-title="FRANCE",FR: E! HD
-http://gooserace.xyz:80/roman/roman123/1485815.ts
-#EXTINF:-1 tvg-id="ElevenSport1.pl" tvg-name="FR: Eleven Sports 1" tvg-logo="" group-title="FRANCE",FR: Eleven Sports 1
-http://gooserace.xyz:80/roman/roman123/1485816.ts
-#EXTINF:-1 tvg-id="ElevenSport2.pl" tvg-name="FR: Eleven Sports 2" tvg-logo="" group-title="FRANCE",FR: Eleven Sports 2
-http://gooserace.xyz:80/roman/roman123/1485817.ts
-#EXTINF:-1 tvg-id="ElevenSport3.pl" tvg-name="FR: Eleven Sports 3" tvg-logo="" group-title="FRANCE",FR: Eleven Sports 3
-http://gooserace.xyz:80/roman/roman123/1485818.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Elle Girl HD" tvg-logo="" group-title="FRANCE",FR: Elle Girl HD
-http://gooserace.xyz:80/roman/roman123/1485819.ts
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="FR: Equidia HD" tvg-logo="" group-title="FRANCE",FR: Equidia HD
-http://gooserace.xyz:80/roman/roman123/1485820.ts
-#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="FR: Euronews HD" tvg-logo="" group-title="FRANCE",FR: Euronews HD
-http://gooserace.xyz:80/roman/roman123/1485821.ts
-#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="FR: Eurosport 1 HD" tvg-logo="" group-title="FRANCE",FR: Eurosport 1 HD
-http://gooserace.xyz:80/roman/roman123/1485822.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2 HD" tvg-logo="" group-title="FRANCE",FR: Eurosport 2 HD
-http://gooserace.xyz:80/roman/roman123/1485823.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Extrasme Sports HD" tvg-logo="" group-title="FRANCE",FR: Extrasme Sports HD
-http://gooserace.xyz:80/roman/roman123/1485824.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+ 24/24 HD" tvg-logo="" group-title="FRANCE",FR: Foot+ 24/24 HD
-http://gooserace.xyz:80/roman/roman123/1485825.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: FOX HD" tvg-logo="" group-title="FRANCE",FR: FOX HD
-http://gooserace.xyz:80/roman/roman123/1485774.ts
-#EXTINF:-1 tvg-id="France2.frd" tvg-name="FR: France 2 HD" tvg-logo="" group-title="FRANCE",FR: France 2 HD
-http://gooserace.xyz:80/roman/roman123/1485826.ts
-#EXTINF:-1 tvg-id="France24.frdd" tvg-name="FR: France 24 HD" tvg-logo="" group-title="FRANCE",FR: France 24 HD
-http://gooserace.xyz:80/roman/roman123/1485827.ts
-#EXTINF:-1 tvg-id="France3.frd" tvg-name="FR: France 3 HD" tvg-logo="" group-title="FRANCE",FR: France 3 HD
-http://gooserace.xyz:80/roman/roman123/1485828.ts
-#EXTINF:-1 tvg-id="France3.frd" tvg-name="FR: France 3 NOA HD" tvg-logo="" group-title="FRANCE",FR: France 3 NOA HD
-http://gooserace.xyz:80/roman/roman123/1485829.ts
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: France 4 HD" tvg-logo="" group-title="FRANCE",FR: France 4 HD
-http://gooserace.xyz:80/roman/roman123/1485830.ts
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: France 5 HD" tvg-logo="" group-title="FRANCE",FR: France 5 HD
-http://gooserace.xyz:80/roman/roman123/1485831.ts
-#EXTINF:-1 tvg-id="franceinfo:.fr" tvg-name="FR: France Info HD" tvg-logo="" group-title="FRANCE",FR: France Info HD
-http://gooserace.xyz:80/roman/roman123/1485832.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: France A HD" tvg-logo="" group-title="FRANCE",FR: France A HD
-http://gooserace.xyz:80/roman/roman123/1485833.ts
-#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR: Game One HD" tvg-logo="" group-title="FRANCE",FR: Game One HD
-http://gooserace.xyz:80/roman/roman123/1485834.ts
-#EXTINF:-1 tvg-id="GameOne+1.fr" tvg-name="FR: Game One+1 HD" tvg-logo="" group-title="FRANCE",FR: Game One+1 HD
-http://gooserace.xyz:80/roman/roman123/1485835.ts
-#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="FR: Golf Channel HD" tvg-logo="" group-title="FRANCE",FR: Golf Channel HD
-http://gooserace.xyz:80/roman/roman123/1485836.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Golf+ HD" tvg-logo="" group-title="FRANCE",FR: Golf+ HD
-http://gooserace.xyz:80/roman/roman123/1485837.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Gong HD" tvg-logo="" group-title="FRANCE",FR: Gong HD
-http://gooserace.xyz:80/roman/roman123/1485838.ts
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: Gulli HD" tvg-logo="" group-title="FRANCE",FR: Gulli HD
-http://gooserace.xyz:80/roman/roman123/1485839.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: HD1 HD" tvg-logo="" group-title="FRANCE",FR: HD1 HD
-http://gooserace.xyz:80/roman/roman123/1485840.ts
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="FR: Histoire HD" tvg-logo="" group-title="FRANCE",FR: Histoire HD
-http://gooserace.xyz:80/roman/roman123/1485841.ts
-#EXTINF:-1 tvg-id="i24news.fr" tvg-name="FR: i24 News HD" tvg-logo="" group-title="FRANCE",FR: i24 News HD
-http://gooserace.xyz:80/roman/roman123/1485842.ts
-#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="FR: IDF1 HD" tvg-logo="" group-title="FRANCE",FR: IDF1 HD
-http://gooserace.xyz:80/roman/roman123/1485843.ts
-#EXTINF:-1 tvg-id="INFOSPORT+.fr" tvg-name="FRZ: InfoSport+ HD" tvg-logo="" group-title="FRANCE",FRZ: InfoSport+ HD
-http://gooserace.xyz:80/roman/roman123/1485844.ts
-#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="FR: Investigation Discovery HD" tvg-logo="" group-title="FRANCE",FR: Investigation Discovery HD
-http://gooserace.xyz:80/roman/roman123/1485845.ts
-#EXTINF:-1 tvg-id="J-One.fr" tvg-name="FR: J-One" tvg-logo="" group-title="FRANCE",FR: J-One
-http://gooserace.xyz:80/roman/roman123/1485846.ts
-#EXTINF:-1 tvg-id="KTO.fr" tvg-name="FR: KTO HD" tvg-logo="" group-title="FRANCE",FR: KTO HD
-http://gooserace.xyz:80/roman/roman123/1485847.ts
-#EXTINF:-1 tvg-id="L'Equipe.fr" tvg-name="FR: L'Equipe 21 HD" tvg-logo="" group-title="FRANCE",FR: L'Equipe 21 HD
-http://gooserace.xyz:80/roman/roman123/1485848.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Chaine Meteo HD" tvg-logo="" group-title="FRANCE",FR: La Chaine Meteo HD
-http://gooserace.xyz:80/roman/roman123/1485849.ts
-#EXTINF:-1 tvg-id="Lachainenormande.fr" tvg-name="FR: La ChaÃ®ne Normande TV" tvg-logo="" group-title="FRANCE",FR: La ChaÃ®ne Normande TV
-http://gooserace.xyz:80/roman/roman123/1485850.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Channe Parlementaire HD" tvg-logo="" group-title="FRANCE",FR: La Channe Parlementaire HD
-http://gooserace.xyz:80/roman/roman123/1485851.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Une HD" tvg-logo="" group-title="FRANCE",FR: La Une HD
-http://gooserace.xyz:80/roman/roman123/1485852.ts
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI HD" tvg-logo="" group-title="FRANCE",FR: LCI HD
-http://gooserace.xyz:80/roman/roman123/1485853.ts
-#EXTINF:-1 tvg-id="LuckyJack.fr" tvg-name="FR: Lucky Jack TV HD" tvg-logo="" group-title="FRANCE",FR: Lucky Jack TV HD
-http://gooserace.xyz:80/roman/roman123/1485854.ts
-#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-name="FR: Luxe TV HD" tvg-logo="" group-title="FRANCE",FR: Luxe TV HD
-http://gooserace.xyz:80/roman/roman123/1485855.ts
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6 Boutique & Co HD" tvg-logo="" group-title="FRANCE",FR: M6 Boutique & Co HD
-http://gooserace.xyz:80/roman/roman123/1485856.ts
-#EXTINF:-1 tvg-id="M6.pt" tvg-name="FR: M6 HD" tvg-logo="" group-title="FRANCE",FR: M6 HD
-http://gooserace.xyz:80/roman/roman123/1485857.ts
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="FR: M6 Music" tvg-logo="" group-title="FRANCE",FR: M6 Music
-http://gooserace.xyz:80/roman/roman123/1485858.ts
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="FR: Mangas HD" tvg-logo="" group-title="FRANCE",FR: Mangas HD
-http://gooserace.xyz:80/roman/roman123/1485859.ts
-#EXTINF:-1 tvg-id="MCM.fr" tvg-name="FR: MCM HD" tvg-logo="" group-title="FRANCE",FR: MCM HD
-http://gooserace.xyz:80/roman/roman123/1485860.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM Top HD" tvg-logo="" group-title="FRANCE",FR: MCM Top HD
-http://gooserace.xyz:80/roman/roman123/1485861.ts
-#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="FR: Mezzo Live HD" tvg-logo="" group-title="FRANCE",FR: Mezzo Live HD
-http://gooserace.xyz:80/roman/roman123/1485862.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Motorsport.TV HD" tvg-logo="" group-title="FRANCE",FR: Motorsport.TV HD
-http://gooserace.xyz:80/roman/roman123/1485863.ts
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="FR: MTV Base HD" tvg-logo="" group-title="FRANCE",FR: MTV Base HD
-http://gooserace.xyz:80/roman/roman123/1485864.ts
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="FR: MTV HD" tvg-logo="" group-title="FRANCE",FR: MTV HD
-http://gooserace.xyz:80/roman/roman123/1485865.ts
-#EXTINF:-1 tvg-id="MTVHits.fr" tvg-name="FR: MTV Hits HD" tvg-logo="" group-title="FRANCE",FR: MTV Hits HD
-http://gooserace.xyz:80/roman/roman123/1485866.ts
-#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="FR: MTV Music HD" tvg-logo="" group-title="FRANCE",FR: MTV Music HD
-http://gooserace.xyz:80/roman/roman123/1485867.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Multisports 1 HD" tvg-logo="" group-title="FRANCE",FR: Multisports 1 HD
-http://gooserace.xyz:80/roman/roman123/1485868.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Multisports 2 HD" tvg-logo="" group-title="FRANCE",FR: Multisports 2 HD
-http://gooserace.xyz:80/roman/roman123/1485869.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Multisports 3 HD" tvg-logo="" group-title="FRANCE",FR: Multisports 3 HD
-http://gooserace.xyz:80/roman/roman123/1485870.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Multisports 4 HD" tvg-logo="" group-title="FRANCE",FR: Multisports 4 HD
-http://gooserace.xyz:80/roman/roman123/1485871.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Multisports 5 HD" tvg-logo="" group-title="FRANCE",FR: Multisports 5 HD
-http://gooserace.xyz:80/roman/roman123/1485872.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Multisports 6 HD" tvg-logo="" group-title="FRANCE",FR: Multisports 6 HD
-http://gooserace.xyz:80/roman/roman123/1485873.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: My Comedy TV HD" tvg-logo="" group-title="FRANCE",FR: My Comedy TV HD
-http://gooserace.xyz:80/roman/roman123/1485874.ts
-#EXTINF:-1 tvg-id="MyCuisine.fr" tvg-name="FR: My Cuisine HD" tvg-logo="" group-title="FRANCE",FR: My Cuisine HD
-http://gooserace.xyz:80/roman/roman123/1485875.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: My Sports 1 HD" tvg-logo="" group-title="FRANCE",FR: My Sports 1 HD
-http://gooserace.xyz:80/roman/roman123/1485876.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: My Sports HD" tvg-logo="" group-title="FRANCE",FR: My Sports HD
-http://gooserace.xyz:80/roman/roman123/1485877.ts
-#EXTINF:-1 tvg-id="MELODYTV.fr" tvg-name="FR: MÃ©lody HD" tvg-logo="" group-title="FRANCE",FR: MÃ©lody HD
-http://gooserace.xyz:80/roman/roman123/1485878.ts
-#EXTINF:-1 tvg-id="NationalGeographicWild.fr" tvg-name="FR: Nat Geo Wild HD" tvg-logo="" group-title="FRANCE",FR: Nat Geo Wild HD
-http://gooserace.xyz:80/roman/roman123/1485879.ts
-#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="FR: National Geographic HD" tvg-logo="" group-title="FRANCE",FR: National Geographic HD
-http://gooserace.xyz:80/roman/roman123/1485880.ts
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="FR: Nickelodeon +1 HD" tvg-logo="" group-title="FRANCE",FR: Nickelodeon +1 HD
-http://gooserace.xyz:80/roman/roman123/1485881.ts
-#EXTINF:-1 tvg-id="NickelodeonTeen.fr" tvg-name="FR: Nickelodeon 4 Teen HD" tvg-logo="" group-title="FRANCE",FR: Nickelodeon 4 Teen HD
-http://gooserace.xyz:80/roman/roman123/1485882.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Nickelodeon HD" tvg-logo="" group-title="FRANCE",FR: Nickelodeon HD
-http://gooserace.xyz:80/roman/roman123/1485883.ts
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="FR: Nickelodeon Junior HD" tvg-logo="" group-title="FRANCE",FR: Nickelodeon Junior HD
-http://gooserace.xyz:80/roman/roman123/1485884.ts
-#EXTINF:-1 tvg-id="NollywoodTV.fr" tvg-name="FR: Nollywood TV HD" tvg-logo="" group-title="FRANCE",FR: Nollywood TV HD
-http://gooserace.xyz:80/roman/roman123/1485885.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Non Stop People HD" tvg-logo="" group-title="FRANCE",FR: Non Stop People HD
-http://gooserace.xyz:80/roman/roman123/1485886.ts
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12 HD" tvg-logo="" group-title="FRANCE",FR: NRJ 12 HD
-http://gooserace.xyz:80/roman/roman123/1485887.ts
-#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="FR: NRJ Hits" tvg-logo="" group-title="FRANCE",FR: NRJ Hits
-http://gooserace.xyz:80/roman/roman123/1485889.ts
-#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="FR: NRJ Hits HD" tvg-logo="" group-title="FRANCE",FR: NRJ Hits HD
-http://gooserace.xyz:80/roman/roman123/1485888.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: NumÃ©ro 23" tvg-logo="" group-title="FRANCE",FR: NumÃ©ro 23
-http://gooserace.xyz:80/roman/roman123/1485890.ts
-#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="FR: OCS Choc HD" tvg-logo="" group-title="FRANCE",FR: OCS Choc HD
-http://gooserace.xyz:80/roman/roman123/1485891.ts
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="FR: OCS City HD" tvg-logo="" group-title="FRANCE",FR: OCS City HD
-http://gooserace.xyz:80/roman/roman123/1485892.ts
-#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="FR: OCS Geants HD" tvg-logo="" group-title="FRANCE",FR: OCS Geants HD
-http://gooserace.xyz:80/roman/roman123/1485893.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Go Cinema 1 HD" tvg-logo="" group-title="FRANCE",FR: OCS Go Cinema 1 HD
-http://gooserace.xyz:80/roman/roman123/1485894.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Go Cinema 2 HD" tvg-logo="" group-title="FRANCE",FR: OCS Go Cinema 2 HD
-http://gooserace.xyz:80/roman/roman123/1485895.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Go Cinema 4 HD" tvg-logo="" group-title="FRANCE",FR: OCS Go Cinema 4 HD
-http://gooserace.xyz:80/roman/roman123/1485896.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: OCS Go Cinema 5 HD" tvg-logo="" group-title="FRANCE",FR: OCS Go Cinema 5 HD
-http://gooserace.xyz:80/roman/roman123/1485897.ts
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="FR: OCS Max HD" tvg-logo="" group-title="FRANCE",FR: OCS Max HD
-http://gooserace.xyz:80/roman/roman123/1485898.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: OKLM HD" tvg-logo="" group-title="FRANCE",FR: OKLM HD
-http://gooserace.xyz:80/roman/roman123/1485899.ts
-#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="FR: OL TV HD" tvg-logo="" group-title="FRANCE",FR: OL TV HD
-http://gooserace.xyz:80/roman/roman123/1485900.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Olympia HD" tvg-logo="" group-title="FRANCE",FR: Olympia HD
-http://gooserace.xyz:80/roman/roman123/1485901.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: One TV HD" tvg-logo="" group-title="FRANCE",FR: One TV HD
-http://gooserace.xyz:80/roman/roman123/1485902.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 1 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 1 HD
-http://gooserace.xyz:80/roman/roman123/1485903.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 2 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 2 HD
-http://gooserace.xyz:80/roman/roman123/1485904.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 3 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 3 HD
-http://gooserace.xyz:80/roman/roman123/1485905.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 4 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 4 HD
-http://gooserace.xyz:80/roman/roman123/1485906.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema 5 HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema 5 HD
-http://gooserace.xyz:80/roman/roman123/1485907.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Action HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema Action HD
-http://gooserace.xyz:80/roman/roman123/1485908.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Aventure HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema Aventure HD
-http://gooserace.xyz:80/roman/roman123/1485909.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema HD
-http://gooserace.xyz:80/roman/roman123/1485910.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Cinema Horreur HD" tvg-logo="" group-title="FRANCE",FR: Orange Cinema Horreur HD
-http://gooserace.xyz:80/roman/roman123/1485911.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Comment C'Est Fait HD" tvg-logo="" group-title="FRANCE",FR: Orange Comment C'Est Fait HD
-http://gooserace.xyz:80/roman/roman123/1485912.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Orange Documentaire HD" tvg-logo="" group-title="FRANCE",FR: Orange Documentaire HD
-http://gooserace.xyz:80/roman/roman123/1485913.ts
-#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="FR: Paramount Channel DÃ©calÃ© HD" tvg-logo="" group-title="FRANCE",FR: Paramount Channel DÃ©calÃ© HD
-http://gooserace.xyz:80/roman/roman123/1485914.ts
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: Paramount Channel HD" tvg-logo="" group-title="FRANCE",FR: Paramount Channel HD
-http://gooserace.xyz:80/roman/roman123/1485916.ts
-#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: Paramount Channel HD" tvg-logo="" group-title="FRANCE",FR: Paramount Channel HD
-http://gooserace.xyz:80/roman/roman123/1485915.ts
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR: Paris Premiere HD" tvg-logo="" group-title="FRANCE",FR: Paris Premiere HD
-http://gooserace.xyz:80/roman/roman123/1485917.ts
-#EXTINF:-1 tvg-id="PIWI+.fr" tvg-name="FR: Piwi+ HD" tvg-logo="" group-title="FRANCE",FR: Piwi+ HD
-http://gooserace.xyz:80/roman/roman123/1485918.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: PlanÃ¨te+ Aventure ExpÃ©rience HD" tvg-logo="" group-title="FRANCE",FR: PlanÃ¨te+ Aventure ExpÃ©rience HD
-http://gooserace.xyz:80/roman/roman123/1485919.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: PlanÃ¨te+ Crime+Investigation HD" tvg-logo="" group-title="FRANCE",FR: PlanÃ¨te+ Crime+Investigation HD
-http://gooserace.xyz:80/roman/roman123/1485920.ts
-#EXTINF:-1 tvg-id="Planeteplus.fr" tvg-name="FR: PlanÃ¨te+ HD" tvg-logo="" group-title="FRANCE",FR: PlanÃ¨te+ HD
-http://gooserace.xyz:80/roman/roman123/1485921.ts
-#EXTINF:-1 tvg-id="RFMTV.fr" tvg-name="FR: RFM TV HD" tvg-logo="" group-title="FRANCE",FR: RFM TV HD
-http://gooserace.xyz:80/roman/roman123/1485922.ts
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-name="FR: RMC Decouverte HD" tvg-logo="" group-title="FRANCE",FR: RMC Decouverte HD
-http://gooserace.xyz:80/roman/roman123/1485923.ts
-#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="FR: RMC Sport 1 Access HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 1 Access HD
-http://gooserace.xyz:80/roman/roman123/1485924.ts
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR: RMC Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 1 HD
-http://gooserace.xyz:80/roman/roman123/1485927.ts
-#EXTINF:-1 tvg-id="RMCSportLive10.fr" tvg-name="FR: RMC Sport 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 10 HD
-http://gooserace.xyz:80/roman/roman123/1485936.ts
-#EXTINF:-1 tvg-id="RMCSportLive11.fr" tvg-name="FR: RMC Sport 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 11 HD
-http://gooserace.xyz:80/roman/roman123/1485937.ts
-#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="FR: RMC Sport 12 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 12 HD
-http://gooserace.xyz:80/roman/roman123/1485938.ts
-#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="FR: RMC Sport 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 13 HD
-http://gooserace.xyz:80/roman/roman123/1485939.ts
-#EXTINF:-1 tvg-id="RMCSportLive14.fr" tvg-name="FR: RMC Sport 14 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 14 HD
-http://gooserace.xyz:80/roman/roman123/1485940.ts
-#EXTINF:-1 tvg-id="RMCSportLive15.fr" tvg-name="FR: RMC Sport 15 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 15 HD
-http://gooserace.xyz:80/roman/roman123/1485941.ts
-#EXTINF:-1 tvg-id="RMCSportLive16.fr" tvg-name="FR: RMC Sport 16 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 16 HD
-http://gooserace.xyz:80/roman/roman123/1485942.ts
-#EXTINF:-1 tvg-id="RMCSportAccess2.fr" tvg-name="FR: RMC Sport 2 Access HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 2 Access HD
-http://gooserace.xyz:80/roman/roman123/1485925.ts
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 2 HD
-http://gooserace.xyz:80/roman/roman123/1485928.ts
-#EXTINF:-1 tvg-id="RMCSportAccess3.fr" tvg-name="FR: RMC Sport 3 Access HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 3 Access HD
-http://gooserace.xyz:80/roman/roman123/1485926.ts
-#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 3 HD
-http://gooserace.xyz:80/roman/roman123/1485929.ts
-#EXTINF:-1 tvg-id="RMCSport4.fr" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 4 HD
-http://gooserace.xyz:80/roman/roman123/1485930.ts
-#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="FR: RMC Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 5 HD
-http://gooserace.xyz:80/roman/roman123/1485931.ts
-#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="FR: RMC Sport 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 6 HD
-http://gooserace.xyz:80/roman/roman123/1485932.ts
-#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="FR: RMC Sport 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 7 HD
-http://gooserace.xyz:80/roman/roman123/1485933.ts
-#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="FR: RMC Sport 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 8 HD
-http://gooserace.xyz:80/roman/roman123/1485934.ts
-#EXTINF:-1 tvg-id="RMCSportLive9.fr" tvg-name="FR: RMC Sport 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport 9 HD
-http://gooserace.xyz:80/roman/roman123/1485935.ts
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR: RMC Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport HD
-http://gooserace.xyz:80/roman/roman123/1485944.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="FRANCE",FR: RMC Sport News HD
-http://gooserace.xyz:80/roman/roman123/1485943.ts
-#EXTINF:-1 tvg-id="RMCSTORY.fr" tvg-name="FR: RMC Story HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/rmc-story-fr.png" group-title="FRANCE",FR: RMC Story HD
-http://gooserace.xyz:80/roman/roman123/1485945.ts
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="FR: RTL 9 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/rtl9-fr.png" group-title="FRANCE",FR: RTL 9 HD
-http://gooserace.xyz:80/roman/roman123/1485946.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Deux HD" tvg-logo="" group-title="FRANCE",FR: RTS Deux HD
-http://gooserace.xyz:80/roman/roman123/1485947.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS Un HD" tvg-logo="" group-title="FRANCE",FR: RTS Un HD
-http://gooserace.xyz:80/roman/roman123/1485948.ts
-#EXTINF:-1 tvg-id="ScienceetVieTV.fr" tvg-name="FR: Science & Vie TV HD" tvg-logo="" group-title="FRANCE",FR: Science & Vie TV HD
-http://gooserace.xyz:80/roman/roman123/1485949.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Seasons HD" tvg-logo="" group-title="FRANCE",FR: Seasons HD
-http://gooserace.xyz:80/roman/roman123/1485950.ts
-#EXTINF:-1 tvg-id="SERIECLUB.fr" tvg-name="FR: SerieClub HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/serie-club-fr.png" group-title="FRANCE",FR: SerieClub HD
-http://gooserace.xyz:80/roman/roman123/1485951.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SL Cinema Action 1 HD" tvg-logo="" group-title="FRANCE",FR: SL Cinema Action 1 HD
-http://gooserace.xyz:80/roman/roman123/1485952.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SL Cinema Action 2 HD" tvg-logo="" group-title="FRANCE",FR: SL Cinema Action 2 HD
-http://gooserace.xyz:80/roman/roman123/1485953.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SL Cinema Comedy HD" tvg-logo="" group-title="FRANCE",FR: SL Cinema Comedy HD
-http://gooserace.xyz:80/roman/roman123/1485954.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SL Cinema Drama HD" tvg-logo="" group-title="FRANCE",FR: SL Cinema Drama HD
-http://gooserace.xyz:80/roman/roman123/1485955.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SL Cinema Gold HD" tvg-logo="" group-title="FRANCE",FR: SL Cinema Gold HD
-http://gooserace.xyz:80/roman/roman123/1485956.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: SL Cinema Premium HD" tvg-logo="" group-title="FRANCE",FR: SL Cinema Premium HD
-http://gooserace.xyz:80/roman/roman123/1485957.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Stingray Brava HD" tvg-logo="" group-title="FRANCE",FR: Stingray Brava HD
-http://gooserace.xyz:80/roman/roman123/1485958.ts
-#EXTINF:-1 tvg-id="STINGRAYCLASSICA.fr" tvg-name="FR: Stingray Classica HD" tvg-logo="" group-title="FRANCE",FR: Stingray Classica HD
-http://gooserace.xyz:80/roman/roman123/1485959.ts
-#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR: Syfy HD" tvg-logo="" group-title="FRANCE",FR: Syfy HD
-http://gooserace.xyz:80/roman/roman123/1485960.ts
-#EXTINF:-1 tvg-id="TCMcinema.fr" tvg-name="FR: TCM Cinema HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tcm-cinema-fr.png" group-title="FRANCE",FR: TCM Cinema HD
-http://gooserace.xyz:80/roman/roman123/1485961.ts
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tf1-fr.png" group-title="FRANCE",FR: TF1 HD
-http://gooserace.xyz:80/roman/roman123/1485962.ts
-#EXTINF:-1 tvg-id="TF1Series-Films.fr" tvg-name="FR: TF1 Series Films HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tf1-series-films-fr.png" group-title="FRANCE",FR: TF1 Series Films HD
-http://gooserace.xyz:80/roman/roman123/1485963.ts
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR: TFX HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tfx-fr.png" group-title="FRANCE",FR: TFX HD
-http://gooserace.xyz:80/roman/roman123/1485964.ts
-#EXTINF:-1 tvg-id="TIJI.fr" tvg-name="FR: Tiji HD" tvg-logo="" group-title="FRANCE",FR: Tiji HD
-http://gooserace.xyz:80/roman/roman123/1485965.ts
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR: TMC HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/tmc-fr.png" group-title="FRANCE",FR: TMC HD
-http://gooserace.xyz:80/roman/roman123/1485966.ts
-#EXTINF:-1 tvg-id="TOONAMI.fr" tvg-name="FR: Toonami HD" tvg-logo="" group-title="FRANCE",FR: Toonami HD
-http://gooserace.xyz:80/roman/roman123/1485967.ts
-#EXTINF:-1 tvg-id="ToutelHistoire.fr" tvg-name="FR: Toute l'Histoire" tvg-logo="" group-title="FRANCE",FR: Toute l'Histoire
-http://gooserace.xyz:80/roman/roman123/1485968.ts
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="FR: Trace Africa HD" tvg-logo="" group-title="FRANCE",FR: Trace Africa HD
-http://gooserace.xyz:80/roman/roman123/1485969.ts
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="FR: Trace Gospel" tvg-logo="" group-title="FRANCE",FR: Trace Gospel
-http://gooserace.xyz:80/roman/roman123/1485970.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Latina HD" tvg-logo="" group-title="FRANCE",FR: Trace Latina HD
-http://gooserace.xyz:80/roman/roman123/1485971.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Mziki HD" tvg-logo="" group-title="FRANCE",FR: Trace Mziki HD
-http://gooserace.xyz:80/roman/roman123/1485972.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Naija HD" tvg-logo="" group-title="FRANCE",FR: Trace Naija HD
-http://gooserace.xyz:80/roman/roman123/1485973.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Sport Stars HD" tvg-logo="" group-title="FRANCE",FR: Trace Sport Stars HD
-http://gooserace.xyz:80/roman/roman123/1485974.ts
-#EXTINF:-1 tvg-id="TraceToca.frd" tvg-name="FR: Trace Toca HD" tvg-logo="" group-title="FRANCE",FR: Trace Toca HD
-http://gooserace.xyz:80/roman/roman123/1485975.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trace Tropical HD" tvg-logo="" group-title="FRANCE",FR: Trace Tropical HD
-http://gooserace.xyz:80/roman/roman123/1485976.ts
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="FR: Trace Urban" tvg-logo="" group-title="FRANCE",FR: Trace Urban
-http://gooserace.xyz:80/roman/roman123/1485977.ts
-#EXTINF:-1 tvg-id="TREK.fr" tvg-name="FR: Trek HD" tvg-logo="" group-title="FRANCE",FR: Trek HD
-http://gooserace.xyz:80/roman/roman123/1485978.ts
-#EXTINF:-1 tvg-id="TV5Monde.frd" tvg-name="FR: TV5 Monde Europe" tvg-logo="" group-title="FRANCE",FR: TV5 Monde Europe
-http://gooserace.xyz:80/roman/roman123/1485979.ts
-#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR: TV5 Monde HD" tvg-logo="" group-title="FRANCE",FR: TV5 Monde HD
-http://gooserace.xyz:80/roman/roman123/1485980.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 Monde Info HD" tvg-logo="" group-title="FRANCE",FR: TV5 Monde Info HD
-http://gooserace.xyz:80/roman/roman123/1485981.ts
-#EXTINF:-1 tvg-id="8MontBlanc.fr" tvg-name="FR: TV8 Mont+Blanc HD" tvg-logo="" group-title="FRANCE",FR: TV8 Mont+Blanc HD
-http://gooserace.xyz:80/roman/roman123/1485982.ts
-#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="FR: TVBreizh HD" tvg-logo="" group-title="FRANCE",FR: TVBreizh HD
-http://gooserace.xyz:80/roman/roman123/1485983.ts
-#EXTINF:-1 tvg-id="teleTOONplus.fr" tvg-name="FR: Toonitoon+ HD" tvg-logo="" group-title="FRANCE",FR: Toonitoon+ HD
-http://gooserace.xyz:80/roman/roman123/1485984.ts
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR: tÃ©va HD" tvg-logo="" group-title="FRANCE",FR: tÃ©va HD
-http://gooserace.xyz:80/roman/roman123/1485985.ts
-#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="FR: Ushuaia TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/ushuaia-tv-fr.png" group-title="FRANCE",FR: Ushuaia TV
-http://gooserace.xyz:80/roman/roman123/1485986.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: VH1" tvg-logo="" group-title="FRANCE",FR: VH1
-http://gooserace.xyz:80/roman/roman123/1485988.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: VH1 Classic" tvg-logo="" group-title="FRANCE",FR: VH1 Classic
-http://gooserace.xyz:80/roman/roman123/1485987.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Viceland HD" tvg-logo="" group-title="FRANCE",FR: Viceland HD
-http://gooserace.xyz:80/roman/roman123/1485989.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Vosges Television HD" tvg-logo="" group-title="FRANCE",FR: Vosges Television HD
-http://gooserace.xyz:80/roman/roman123/1485990.ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Voyage" tvg-logo="" group-title="FRANCE",FR: Voyage
-http://gooserace.xyz:80/roman/roman123/1485991.ts
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/france/w9-fr.png" group-title="FRANCE",FR: W9 HD
-http://gooserace.xyz:80/roman/roman123/1485992.ts
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="FR: Weo HD" tvg-logo="" group-title="FRANCE",FR: Weo HD
-http://gooserace.xyz:80/roman/roman123/1485994.ts
-#EXTINF:-1 tvg-id="" tvg-name="US  BabyTV (French)" tvg-logo="http://bigsocks.xyz/Logos/babytv.png" group-title="FRANCE",US  BabyTV (French)
-http://gooserace.xyz:80/roman/roman123/1113442.ts
-#EXTINF:-1 tvg-id="TIVI5" tvg-name="US  TiVi5Monde (French)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/TiVi5MondeLogo.jpg/revision/latest?cb=20150812161906" group-title="FRANCE",US  TiVi5Monde (French)
-http://gooserace.xyz:80/roman/roman123/1113441.ts
-#EXTINF:-1 tvg-id="" tvg-name="US  TV5 Monde (French) (S)" tvg-logo="" group-title="FRANCE",US  TV5 Monde (French) (S)
-http://gooserace.xyz:80/roman/roman123/1113434.ts
-#EXTINF:-1 tvg-id="" tvg-name="US  TV5 Monde Info (French)" tvg-logo="" group-title="FRANCE",US  TV5 Monde Info (French)
-http://gooserace.xyz:80/roman/roman123/1113435.ts
-#EXTINF:-1 tvg-id="" tvg-name="US  TV5 Monde Style (French)" tvg-logo="" group-title="FRANCE",US  TV5 Monde Style (French)
-http://gooserace.xyz:80/roman/roman123/1113437.ts
 
 
 
@@ -4653,38 +3703,7 @@ http://www.zizoiptv.com:8000/live/arbcamd/122197/7150.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR:13Rue_HD" tvg-logo="http://www.zizoiptv.com:8000/logo/chn/2292.png" group-title="FRANCE EX",FR:13Rue_HD
 http://www.zizoiptv.com:8000/live/arbcamd/122197/2292.ts
 
-#EXTINF: -1 tvg-id="htv1" tvg-logo="https://static.megavie.live/media/htv1.jpg" group-title="VIETNAME", HTV1
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV1-SD-480p/playlist.m3u8
-#EXTINF: -1 tvg-id="htv2hd" tvg-logo="https://static.megavie.live/media/htv2hd.jpg" group-title="VIETNAME", HTV2 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htv3" tvg-logo="https://static.megavie.live/media/htv3.png" group-title="VIETNAME", HTV3
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvkey" tvg-logo="https://static.megavie.live/media/htvkey.jpg" group-title="VIETNAME", HTV Key
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV4-SD-480p/playlist.m3u8
-#EXTINF: -1 tvg-id="htv7hd" tvg-logo="https://static.megavie.live/media/htv7hd.jpg" group-title="VIETNAME", HTV7 HD
-https://livecdn.fptplay.net/hda1/htv7hd_2000.stream/playlist.m3u8
-#EXTINF: -1 tvg-id="htv9hd" tvg-logo="https://static.megavie.live/media/htv9hd.jpg" group-title="VIETNAME", HTV9 HD
-https://livecdn.fptplay.net/hda1/htv9hd_2000.stream/playlist.m3u8
-#EXTINF: -1 tvg-id="htvthethaohd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/07/16/200515-111250-HTVTT.png" group-title="VIETNAME", HTV Thể Thao HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png" group-title="VIETNAME", HTVC Thuần Việt HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcthuanviet" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/850471-ThuanViet.png" group-title="VIETNAME", HTVC Thuần Việt
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcgiadinhhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/566530-Gia-Dinh.png" group-title="VIETNAME", HTVC Gia Đình HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcphunuhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/941585-pn.png" group-title="VIETNAME", HTVC Phụ Nữ HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvccanhachd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/524810-canhacHD.png" group-title="VIETNAME", HTVC Ca Nhạc HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcphimhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/538562-pHIM.png" group-title="VIETNAME", HTVC Phim HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcplushd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/371943-htvplus.png" group-title="VIETNAME", HTVC Plus HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcdulichhd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/348852-dulich.png" group-title="VIETNAME", HTVC Du Lịch Và Cuộc Sống HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
-#EXTINF: -1 tvg-id="htvcfbnc" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/560965-FBNC.png" group-title="VIETNAME", FBNC
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+
 #EXTINF: -1 tvg-id="vtc1hd" tvg-logo="https://static.megavie.live/media/vtc1hd.jpg" group-title="VIETNAME", VTC1 HD
 https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_1080p/playlist.m3u8
 #EXTINF: -1 tvg-id="vtc2" tvg-logo="https://static.megavie.live/media/vtc2.jpg" group-title="VIETNAME", VTC2
@@ -4723,10 +3742,9 @@ https://livecdn.fptplay.net/hda2/vinhlong2_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong3_2000.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="vinhlong4hd" tvg-logo="https://static.megavie.live/media/vinhlong4hd.png" group-title="VIETNAME", THVL4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/playlist.m3u8
-#EXTINF: -1 tvg-id="3 HD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg" group-title="THAI.TV", CH3
-http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
-#EXTINF: -1 tvg-id="CH5 HD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg" group-title="THAI.TV", CH5
-https://cdn6.goprimetime.info//feed//ch5hd//tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF: -1 tvg-id="CH5 HD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-073856.jpg" group-title="THAI.TV", CH5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF: -1 tvg-id="CH7 HD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg" group-title="THAI.TV", CH7
