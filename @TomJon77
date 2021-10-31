@@ -9,34 +9,37 @@ http://golive.cf/vidio/live-champion2.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="LIVE TES",Live 1
 http://golive.cf/vidio/live-champion3.m3u8
 
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-1
+
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-1
 http://185.53.89.183/hls/ssla.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-2
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-2
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-3
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-3
 https://centurylink.br.cdn.booyah.live/hls/1500035/93314861.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-4
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-4
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MTVIN.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-5
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-5
 http://195.154.181.240:8090/live/123/123/38109.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-6
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-6
 https://cdnx00.koralast.com/UpFiles/2021/10/23/34/202624/720p.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-7
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-7
 https://bal.varcdn1.ru/lb/setanta1/index.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-8
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-8
 ]https://centurylink.br.cdn.booyah.live/hls/1500002/93994762.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-9
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-9
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-10
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-10
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-11
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-11
 http://cdn.boxter.live:8081/ssl/espn1sur_2545/playlist.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-12
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-12
 http://8fc2d8d9.edemist.com/iptv/RD4TKQYXCAWSGX/2560/index.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-13
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-13
 https://d2uihmhhd9lq2n.cloudfront.net/out/v1/5f2836fcb9324ebdac5dc4940c02bdb5/playlist_3.m3u8
-#EXTINF:-1tvg-logo="https://i.imgur.com/q7ySjzn.jpg"group-title="DreamTv-LiveFootball",Live-13
+#EXTINF:-1tvg-logo="https://imgur.com/Wp58yZF"group-title="DreamTv-LiveFootball",Live-13
 https://ppv.gcdn.co/epl20/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="FOX",Fox
