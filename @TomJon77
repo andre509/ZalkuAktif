@@ -2523,6 +2523,88 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TV1
+http://190.2.133.47:8278/streams/d/TV1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TV2
+http://190.2.133.47:8278/streams/d/TV2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TV3
+http://190.2.133.47:8278/streams/d/TV3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TV6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", NTV7
+http://190.2.133.47:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", 8TV
+http://190.2.133.47:8278/streams/d/TV8/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TV9
+http://190.2.133.47:8278/streams/d/TV9/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", Drama sangat
+http://190.2.133.47:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO BOO
+http://190.2.133.47:8278/streams/d/Boo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO CITRA
+http://190.2.133.47:8278/streams/d/Citra/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO CERIA
+http://190.2.133.47:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO RIA
+http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO WARNA
+http://190.2.133.47:8278/streams/d/Warna/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO PRIMA
+http://190.2.133.47:8278/streams/d/Prima/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO OASIS
+http://190.2.133.47:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO AWANI
+http://190.2.133.47:8278/streams/d/Awani/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO BERNAMA
+http://190.2.133.47:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO QUAN JIA
+http://190.2.133.47:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASTRO SHUANG XING
+http://190.2.133.47:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", OH!K
+http://190.2.133.47:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TVB
+http://190.2.133.47:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", AL HIJRIAH
+http://190.2.133.47:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", NAURA
+http://190.2.133.47:8278/streams/d/Naura/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", HELLO
+http://190.2.133.47:8278/streams/d/Hello/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", SONE
+http://190.2.133.47:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", TVN
+http://190.2.133.47:8278/streams/d/TVN/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", NAT GEO WILD
+http://190.2.133.47:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", CCM
+http://190.2.133.47:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", CELESTIAL MOVIE
+http://190.2.133.47:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", KIX
+http://190.2.133.47:8278/streams/d/KiX/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", HBO
+http://190.2.133.47:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", HBO Hits
+http://190.2.133.47:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", GO SHOP
+http://190.2.133.47:8278/streams/d/Goshop/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", GO SHOP 2
+http://190.2.133.47:8278/streams/d/Goshop2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", RTM SPORTS
+http://190.2.133.47:8278/streams/d/Rtmsport/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASSP1
+http://190.2.133.47:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASSP2
+http://190.2.133.47:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASSP3
+http://190.2.133.47:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA", ASSP4
+http://190.2.133.47:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="ASTRO MALAYSIA 1", TV1
