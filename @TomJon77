@@ -104,6 +104,51 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LIVE CH",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", SPOTV 1
+https://www.wopep.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", SPOTV
+https://www.wopep.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", SPOTV 2
+https://www.wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", Bein Sport 1
+https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", Bein Sport 2
+https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", PremierHD1
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", PremierHD2
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", PremierHD3
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", PremierHD4
+https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", PremierHD5
+https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", True sporthd1
+https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", True sporthd2
+https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", True sporthd3
+https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", True sport5
+https://www.wopep.com/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", True sport6
+https://www.wopep.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI WWW", True sport7
+https://www.wopep.com/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI WWW", Sport TV 1
+https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI WWW", Sport TV 2
+https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI WWW", Sport TV 3
+https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI WWW", Sport TV 4
+https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI WWW", Sport TV 5
+https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI ilike", SPOTV 1
 https://ilike.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI ilike", SPOTV
