@@ -104,6 +104,63 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="LIVE CH",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", SPOTV 1
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_foxsport_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", SPOTV
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_FoxSport2_TH_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", SPOTV 2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_FoxSport3_TH_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", Bein Sport 1
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_epl1_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", Bein Sport2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_epl2_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", Bein Sport 2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_sport6_480p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", Bt Sport 1
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_BTSPORTHD_1_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", Bt Sport 2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_BTSPORTHD_2_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2",NBA True
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_nbahd_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2",True Tennis
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_TennisHD_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2",Golf Channel Thailand True
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_golfhd_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS R2", Sport TV 1
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_SPORTTV_1_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS R2", Sport TV 2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_SPORTTV_2_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS R2", Sport TV 3
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_SPORTTV_3_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS R2", Sport TV 4
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_SPORTTV_4_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS R2", Sport TV 5
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_SPORTTV_5_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", PremierHD1
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_PremierHD1_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", PremierHD2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_PremierHD2_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", PremierHD3
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_PremierHD3_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", PremierHD4
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_PremierHD4_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", PremierHD5
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_PremierHD5_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", True sporthd1
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_2sporthd1_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", True sporthd2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_2sporthd2_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", True sporthd3
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_2sporthd3_720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", True sport5
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_sport5_480p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", True sport6
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_sport6_480p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", True sport7
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_sport7_480p/chunks.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI W", SPOTV 1
 https://www.wopep.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI W", SPOTV
