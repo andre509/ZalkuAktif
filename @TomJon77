@@ -3006,6 +3006,1198 @@ https://mediasv.online/tvchannel_x1/truesparkjump/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="Kids OEX", ANIPLUS
 https://mediasv.online/tvchannel_x2/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6NDA6MDQgQU0maGFzaF92YWx1ZT1LeU4wNUVmSkhSM0EwWXEwVFluSnFBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzE3Njc2
 
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVS" tvg-logo="http://ky-iptv.com:25461/images/51c844d9f80104e0c691c862744fb0fe.jpg" group-title="Under Maintenance",MY: TVS
+http://ky-tv.cc:25461/live/David59459/2354545444/1400749.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro ASTRO CRICKET" tvg-logo="" group-title="Malaysia",MY Astro ASTRO CRICKET
+http://ky-tv.cc:25461/live/David59459/2354545444/940585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: Channel News Asia" tvg-logo="http://ky-iptv.com:25461/images/6d5f1c9f110a23941b01aec62d258e10.png" group-title="Malaysia",MY: Channel News Asia
+http://ky-tv.cc:25461/live/David59459/2354545444/1019708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro AWANI" tvg-logo="http://ky-iptv.com:25461/images/b3a28821b06580c1fc373bc1ba748e79.png" group-title="Malaysia",MY Astro AWANI
+http://ky-tv.cc:25461/live/David59459/2354545444/1350407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro RIA HD" tvg-logo="http://ky-iptv.com:25461/images/242578d86b2904d4a8bfb788e71b77cf.png" group-title="Malaysia",MY Astro RIA HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1350409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro WARNA HD" tvg-logo="http://ky-iptv.com:25461/images/c782e77ca820b61e7492d512cf0f9350.png" group-title="Malaysia",MY Astro WARNA HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1350410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Oh!K HD" tvg-logo="http://ky-iptv.com:25461/images/3452a54809e37547767708f28b323a47.png" group-title="Malaysia",MY Astro Oh!K HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1350411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY 8TV" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY 8TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1400537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ABC Australia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ABC Australia
+http://ky-tv.cc:25461/live/David59459/2354545444/1400539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ABO Movies Thangathirai HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ABO Movies Thangathirai HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ADITHYA" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ADITHYA
+http://ky-tv.cc:25461/live/David59459/2354545444/1400542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY AFC" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY AFC
+http://ky-tv.cc:25461/live/David59459/2354545444/1400544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Aljazeera Asia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Aljazeera Asia
+http://ky-tv.cc:25461/live/David59459/2354545444/1400545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ANIMAL PLANET HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ANIMAL PLANET HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Animax" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Animax
+http://ky-tv.cc:25461/live/David59459/2354545444/1400548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ANIPLUS HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ANIPLUS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD 351" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY AOD 351
+http://ky-tv.cc:25461/live/David59459/2354545444/1400550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD 352" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY AOD 352
+http://ky-tv.cc:25461/live/David59459/2354545444/1400551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD 353" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY AOD 353
+http://ky-tv.cc:25461/live/David59459/2354545444/1400552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD 362" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY AOD 362
+http://ky-tv.cc:25461/live/David59459/2354545444/1400553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY AOD HD 363" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY AOD HD 363
+http://ky-tv.cc:25461/live/David59459/2354545444/1400554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ARENA HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ARENA HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 2" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Astro Supersport 2
+http://ky-tv.cc:25461/live/David59459/2354545444/1400559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 3" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Astro Supersport 3
+http://ky-tv.cc:25461/live/David59459/2354545444/1400561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport 4" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Astro Supersport 4
+http://ky-tv.cc:25461/live/David59459/2354545444/1400564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Supersport" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Astro Supersport
+http://ky-tv.cc:25461/live/David59459/2354545444/1400565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Vellithirai" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Astro Vellithirai
+http://ky-tv.cc:25461/live/David59459/2354545444/1400566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ASTRO AURA" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ASTRO AURA
+http://ky-tv.cc:25461/live/David59459/2354545444/1400567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Ceria" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Astro Ceria
+http://ky-tv.cc:25461/live/David59459/2354545444/1400568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ASTRO CRICKET" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ASTRO CRICKET
+http://ky-tv.cc:25461/live/David59459/2354545444/1400570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ASTRO RANIA" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ASTRO RANIA
+http://ky-tv.cc:25461/live/David59459/2354545444/1400571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY AXN HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY AXN HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC WORLD NEWS HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY BBC WORLD NEWS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY bEIN MAX" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY bEIN MAX
+http://ky-tv.cc:25461/live/David59459/2354545444/1400580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY beIN SPORTS" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY beIN SPORTS
+http://ky-tv.cc:25461/live/David59459/2354545444/1400582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY BLOOMBERG TV" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY BLOOMBERG TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1400584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY BNC" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY BNC
+http://ky-tv.cc:25461/live/David59459/2354545444/1400587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY BOLLYONE HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY BOLLYONE HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY BOO HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY BOO HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Boomerang" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Boomerang
+http://ky-tv.cc:25461/live/David59459/2354545444/1400592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CARTOON NTWK" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CARTOON NTWK
+http://ky-tv.cc:25461/live/David59459/2354545444/1400593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CCM" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CCM
+http://ky-tv.cc:25461/live/David59459/2354545444/1400594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CELESTIAL HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CELESTIAL HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CGTN" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CGTN
+http://ky-tv.cc:25461/live/David59459/2354545444/1400597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Channel News Asia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Channel News Asia
+http://ky-tv.cc:25461/live/David59459/2354545444/1400598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CHUTTI TV" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CHUTTI TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1400600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Cinema World" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Cinema World
+http://ky-tv.cc:25461/live/David59459/2354545444/1400601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CNA HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CNA HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CNBC" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CNBC
+http://ky-tv.cc:25461/live/David59459/2354545444/1400604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CNN HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CNN HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY COLORS HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY COLORS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Colors Tamil" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Colors Tamil
+http://ky-tv.cc:25461/live/David59459/2354545444/1400608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Crime Investigation HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Crime Investigation HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CTI ASIA" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CTI ASIA
+http://ky-tv.cc:25461/live/David59459/2354545444/1400611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY DISCOVERY HD" tvg-logo="" group-title="Malaysia",MY DISCOVERY HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY DISC SCI HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY DISC SCI HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY DISNEY JUNIOR" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY DISNEY JUNIOR
+http://ky-tv.cc:25461/live/David59459/2354545444/1400614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY DMAX HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY DMAX HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY DW HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY DW HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY eGG Network" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY eGG Network
+http://ky-tv.cc:25461/live/David59459/2354545444/1400621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY EUROSPORT HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY EUROSPORT HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY FOOD NTWK HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY FOOD NTWK HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Action Movies" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Fox Action Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/1400625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Family Movies" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Fox Family Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/1400626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Life" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Fox Life
+http://ky-tv.cc:25461/live/David59459/2354545444/1400627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Fox Movies" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Fox Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/1400628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 2 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY FOX SPORTS 2 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS 3 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY FOX SPORTS 3 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX SPORTS HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY FOX SPORTS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY FRANCE24 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY FRANCE24 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY GO Shop 4" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY GO Shop 4
+http://ky-tv.cc:25461/live/David59459/2354545444/1400641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY GO SHOP" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY GO SHOP
+http://ky-tv.cc:25461/live/David59459/2354545444/1400644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY GO SHOP 2" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY GO SHOP 2
+http://ky-tv.cc:25461/live/David59459/2354545444/1400645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY GO SHOP 3" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY GO SHOP 3
+http://ky-tv.cc:25461/live/David59459/2354545444/1400646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY HBO HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HELLO" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY HELLO
+http://ky-tv.cc:25461/live/David59459/2354545444/1400651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HGTV HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY HGTV HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Hits Movies" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Hits Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/1400653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HITS HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY HITS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HUA HEE DAI HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY HUA HEE DAI HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY iQIYI HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY iQIYI HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY KBSW HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY KBSW HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY KPLUS HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY KPLUS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE Astro SuperSport Events 1 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY LIVE Astro SuperSport Events 1 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE Astro SuperSport Events 2 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY LIVE Astro SuperSport Events 2 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE Astro SuperSport Events 4 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY LIVE Astro SuperSport Events 4 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE Astro SuperSport Events 5 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY LIVE Astro SuperSport Events 5 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE Astro SuperSport Events 6 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY LIVE Astro SuperSport Events 6 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY MAKKAL TV" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY MAKKAL TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1400673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY MTV
+http://ky-tv.cc:25461/live/David59459/2354545444/1400674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY MTV Asia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY MTV Asia
+http://ky-tv.cc:25461/live/David59459/2354545444/1400675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Nat Geo
+http://ky-tv.cc:25461/live/David59459/2354545444/1400676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo Asia" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Nat Geo Asia
+http://ky-tv.cc:25461/live/David59459/2354545444/1400677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Nat Geo People" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Nat Geo People
+http://ky-tv.cc:25461/live/David59459/2354545444/1400678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY NHK World Japan" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY NHK World Japan
+http://ky-tv.cc:25461/live/David59459/2354545444/1400683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY NICKELODEON" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY NICKELODEON
+http://ky-tv.cc:25461/live/David59459/2354545444/1400685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY NickJR HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY NickJR HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY NTV7" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY NTV7
+http://ky-tv.cc:25461/live/David59459/2354545444/1400690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY OASIS HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY OASIS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY ONE HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY ONE HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Phoenix HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Phoenix HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Phoenix News HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Phoenix News HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY PRIMA HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY PRIMA HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY QUAN JIA HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY QUAN JIA HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY RUGBY PASS" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY RUGBY PASS
+http://ky-tv.cc:25461/live/David59459/2354545444/1400704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY SCM Legend" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY SCM Legend
+http://ky-tv.cc:25461/live/David59459/2354545444/1400707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY SHUANG XING HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY SHUANG XING HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY STAR VIJAY HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY STAR VIJAY HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN MUSIC" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY SUN MUSIC
+http://ky-tv.cc:25461/live/David59459/2354545444/1400717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY SUN TV HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY SUN TV HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TA-DAA!" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TA-DAA!
+http://ky-tv.cc:25461/live/David59459/2354545444/1400719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TLC HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TLC HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TUTOR TV PT3" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TUTOR TV PT3
+http://ky-tv.cc:25461/live/David59459/2354545444/1400722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TUTOR TV SPM" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TUTOR TV SPM
+http://ky-tv.cc:25461/live/David59459/2354545444/1400723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TUTOR TV UPSR" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TUTOR TV UPSR
+http://ky-tv.cc:25461/live/David59459/2354545444/1400724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV OKEY" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TV OKEY
+http://ky-tv.cc:25461/live/David59459/2354545444/1400726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV3" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TV3
+http://ky-tv.cc:25461/live/David59459/2354545444/1400733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV8" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TV8
+http://ky-tv.cc:25461/live/David59459/2354545444/1400734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV9" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TV9
+http://ky-tv.cc:25461/live/David59459/2354545444/1400736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVBS ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="Malaysia",MY: TVBS ASIA
+http://ky-tv.cc:25461/live/David59459/2354545444/1400737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="Malaysia",MY: TVBS News
+http://ky-tv.cc:25461/live/David59459/2354545444/1400738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB CLASSIC" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TVB CLASSIC
+http://ky-tv.cc:25461/live/David59459/2354545444/1400739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB E-NEWS" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TVB E-NEWS
+http://ky-tv.cc:25461/live/David59459/2354545444/1400740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TVB JADE" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TVB JADE
+http://ky-tv.cc:25461/live/David59459/2354545444/1400741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVB XING HE" tvg-logo="http://ky-iptv.com:25461/images/d7455c477d0e13c29af1421fba69c39c.png" group-title="Malaysia",MY: TVB XING HE
+http://ky-tv.cc:25461/live/David59459/2354545444/1400743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVN Movies" tvg-logo="http://ky-iptv.com:25461/images/6d39afaf706a360e321839ab2a13392c.png" group-title="Malaysia",MY: TVN Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/1400748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVS" tvg-logo="http://ky-iptv.com:25461/images/51c844d9f80104e0c691c862744fb0fe.jpg" group-title="Under Maintenance",MY: TVS
+http://ky-tv.cc:25461/live/David59459/2354545444/1400749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: WWE NETWORK" tvg-logo="http://ky-iptv.com:25461/images/87fbe9e2b8a9b35f740f2a2701df3d70.png" group-title="Malaysia",MY: WWE NETWORK
+http://ky-tv.cc:25461/live/David59459/2354545444/1400755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: Zee Cinema" tvg-logo="http://ky-iptv.com:25461/images/874921b0c8fc9b2ea190d2ed5f3168af.png" group-title="Malaysia",MY: Zee Cinema
+http://ky-tv.cc:25461/live/David59459/2354545444/1400758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: TVN" tvg-logo="http://ky-iptv.com:25461/images/1f750c67a1b6865ad19d966f5453ff7f.png" group-title="Malaysia",MY: TVN
+http://ky-tv.cc:25461/live/David59459/2354545444/1019707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE Astro SuperSport Events 3 HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY LIVE Astro SuperSport Events 3 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Comedy Central" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY Comedy Central
+http://ky-tv.cc:25461/live/David59459/2354545444/1400609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC Cbeebies" tvg-logo="" group-title="Malaysia",MY BBC Cbeebies
+http://ky-tv.cc:25461/live/David59459/2354545444/1400575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY BBC Earth" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY BBC Earth
+http://ky-tv.cc:25461/live/David59459/2354545444/1400576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY CCTV4" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY CCTV4
+http://ky-tv.cc:25461/live/David59459/2354545444/1400595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY FOX" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY FOX
+http://ky-tv.cc:25461/live/David59459/2354545444/1400624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Citra HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest/scale-to-width-down/250?cb=20200917121250" group-title="Malaysia",MY Astro Citra HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1350408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY GOLF CHANNEL HD" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY GOLF CHANNEL HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1400643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY HBO RED" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY HBO RED
+http://ky-tv.cc:25461/live/David59459/2354545444/1400650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY SCM" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY SCM
+http://ky-tv.cc:25461/live/David59459/2354545444/1400706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: WARNER TV" tvg-logo="http://ky-iptv.com:25461/images/7701cfecfb2a25fd41a64d0a3f5978d5.png" group-title="Malaysia",MY: WARNER TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1400753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY: Zee TV" tvg-logo="http://ky-iptv.com:25461/images/630cbbaf9b40939db58e006679786bfe.png" group-title="Malaysia",MY: Zee TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1400757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV ALHIJRAH" tvg-logo="http://ky-iptv.com:25461/images/eef9299b423a3a4403d2a10036666301.png" group-title="Malaysia",MY TV ALHIJRAH
+http://ky-tv.cc:25461/live/David59459/2354545444/1400750.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: &FLIX HD" tvg-logo="https://kccl.tv/sites/default/files/%26%20flix.png" group-title="IN: Indian Entertainment",IN: &FLIX HD
+http://ky-tv.cc:25461/live/David59459/2354545444/769971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: &Prive HD" tvg-logo="" group-title="IN: Indian Entertainment",IN: &Prive HD
+http://ky-tv.cc:25461/live/David59459/2354545444/769972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: 1st India News" tvg-logo="http://ky-iptv.com:25461/images/7c352ee88ea1fcf841af1dba97efcbe2.png" group-title="IN: Indian Entertainment",IN: 1st India News
+http://ky-tv.cc:25461/live/David59459/2354545444/769980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: 92 News" tvg-logo="http://ky-iptv.com:25461/images/dcd8c6a366b665b0034e82b294db32d9.png" group-title="IN: Indian Entertainment",IN: 92 News
+http://ky-tv.cc:25461/live/David59459/2354545444/769985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak" tvg-logo="http://ky-iptv.com:25461/images/d718a7334b37c564ac28aeb6414cc0d6.png" group-title="IN: Indian Entertainment",IN: Aaj Tak
+http://ky-tv.cc:25461/live/David59459/2354545444/769991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ATN Bangla" tvg-logo="http://ky-iptv.com:25461/images/922975285ee452a7d74446f2de66f32f.png" group-title="IN: Indian South",IN: ATN Bangla
+http://ky-tv.cc:25461/live/David59459/2354545444/770026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: AVT KHYBER" tvg-logo="http://ky-iptv.com:25461/images/650461c3325471d12b68df4e43261bd9.png" group-title="IN: Indian South",IN: AVT KHYBER
+http://ky-tv.cc:25461/live/David59459/2354545444/770027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-logo="http://ky-iptv.com:25461/images/4cbd7b3f6d6b408f8341b69ffdac1646.png" group-title="IN: Indian Entertainment",IN: B4U Kadak
+http://ky-tv.cc:25461/live/David59459/2354545444/770031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U PLUS" tvg-logo="http://ky-iptv.com:25461/images/debf819dd5c0ddfd7f1022c2a6b3024a.png" group-title="IN: Indian Entertainment",IN: B4U PLUS
+http://ky-tv.cc:25461/live/David59459/2354545444/770035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Tamil HD" tvg-logo="http://ky-iptv.com:25461/images/106494c4f75803b7dd414e033bc5aa31.png" group-title="IN: Indian Tamil",IN: COLORS Tamil HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DAWN NEWS" tvg-logo="http://ky-iptv.com:25461/images/637c7da4595afbe34048c16ddcf58194.png" group-title="IN: Indian Entertainment",IN: DAWN NEWS
+http://ky-tv.cc:25461/live/David59459/2354545444/770082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Girnar" tvg-logo="http://ky-iptv.com:25461/images/a23bac7584dc418b3ac98dd56c3caef3.png" group-title="IN: Indian Gujarat",IN: DD Girnar
+http://ky-tv.cc:25461/live/David59459/2354545444/770085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Podhigai" tvg-logo="http://ky-iptv.com:25461/images/ef2c8bf9cedb6ed4f4da02341095eb28.png" group-title="IN: Indian Tamil",IN: DD Podhigai
+http://ky-tv.cc:25461/live/David59459/2354545444/770093.m3u8
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="IN: GEMINI Movies" tvg-logo="http://ky-iptv.com:25461/images/fc34319ee650ffbe4fbfe4042e78d0e9.png" group-title="IN: Indian Telugu",IN: GEMINI Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/770149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hum Masala" tvg-logo="http://ky-iptv.com:25461/images/bcdb28ac6c985c2517ce96a52657a73e.png" group-title="IN: India Urdu",IN: Hum Masala
+http://ky-tv.cc:25461/live/David59459/2354545444/770176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC Tamil" tvg-logo="http://ky-iptv.com:25461/images/3b29250b06201df0127fa0bd1bad412a.png" group-title="IN: Indian Tamil",IN: IBC Tamil
+http://ky-tv.cc:25461/live/David59459/2354545444/770185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: India Today" tvg-logo="http://ky-iptv.com:25461/images/804ee28e78a6b737f964f4391f37f7c4.png" group-title="IN: Indian South",IN: India Today
+http://ky-tv.cc:25461/live/David59459/2354545444/770190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: India TV" tvg-logo="http://ky-iptv.com:25461/images/7a59bec7f68beb9f7fbbb38961e7c049.png" group-title="IN: Indian South",IN: India TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: JANTA TV" tvg-logo="http://ky-iptv.com:25461/images/dae40a0d2e9334dbfb9943edad0ccf07.png" group-title="IN: Indian South",IN: JANTA TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya Movie" tvg-logo="http://ky-iptv.com:25461/images/56d1c2882ddfa91bbb9bf24562cc85ae.png" group-title="IN: Indian Tamil",IN: Jaya Movie
+http://ky-tv.cc:25461/live/David59459/2354545444/770206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jeevan TV" tvg-logo="http://ky-iptv.com:25461/images/ee793fa005864ac112cf98678e4f89c3.png" group-title="IN: Indian South",IN: Jeevan TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kaumudy TV" tvg-logo="http://ky-iptv.com:25461/images/6fc6f5100058852efd5f6c43ba9e6d6e.png" group-title="IN: Indian Malayalam",IN: Kaumudy TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: KTV HD" tvg-logo="http://ky-iptv.com:25461/images/b5e6d745342091e4a59d6c28a26ba190.png" group-title="IN: Indian Tamil",IN: KTV HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maha Movies" tvg-logo="http://ky-iptv.com:25461/images/924f70814c9d8c68647e8b81ded0a606.png" group-title="IN: Indian Telugu",IN: Maha Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/770238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV Profit" tvg-logo="http://ky-iptv.com:25461/images/fb4a8b393591a6c860f11ba5e06ef8b1.png" group-title="IN: Indian Entertainment",IN: NDTV Profit
+http://ky-tv.cc:25461/live/David59459/2354545444/770274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nick HD" tvg-logo="http://ky-iptv.com:25461/images/ca5571910a6535ae32de2d943035abd7.png" group-title="IN: Indian Entertainment",IN: Nick HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: PEACE TV URDU" tvg-logo="http://ky-iptv.com:25461/images/d2a540755c8692e2610d0010469bca70.png" group-title="IN: India Urdu",IN: PEACE TV URDU
+http://ky-tv.cc:25461/live/David59459/2354545444/770309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prajaa Kannada TV" tvg-logo="http://ky-iptv.com:25461/images/5b9248e1518719267613a346c89b9e29.png" group-title="IN: India Kannada",IN: Prajaa Kannada TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prime Canada TV" tvg-logo="http://ky-iptv.com:25461/images/33dc7df617aac806bc39df98efd50da0.png" group-title="IN: Indian Entertainment",IN: Prime Canada TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Puthiya Thalaimurai" tvg-logo="http://ky-iptv.com:25461/images/90164efa7f7579f4646d164b2ca626ce.png" group-title="IN: Indian Tamil",IN: Puthiya Thalaimurai
+http://ky-tv.cc:25461/live/David59459/2354545444/770338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Digital Plus" tvg-logo="http://ky-iptv.com:25461/images/cde3a96ad9d8a743a80a45d69c1ba789.png" group-title="IN: Indian Tamil",IN: Raj Digital Plus
+http://ky-tv.cc:25461/live/David59459/2354545444/770341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ROZE NEWS" tvg-logo="http://ky-iptv.com:25461/images/8d7e416dfe8983444c1ae8567f4993ce.png" group-title="IN: India Urdu",IN: ROZE NEWS
+http://ky-tv.cc:25461/live/David59459/2354545444/770362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Action" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1373.1569972372.png" group-title="IN: Indian Entertainment",IN: Sony Action
+http://ky-tv.cc:25461/live/David59459/2354545444/770401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal" tvg-logo="http://ky-iptv.com:25461/images/a9fde7ca8401d5d8c382edb3aeb30b82.png" group-title="IN: Indian Entertainment",IN: Sony Pal
+http://ky-tv.cc:25461/live/David59459/2354545444/770416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB HD" tvg-logo="http://ky-iptv.com:25461/images/7f02460d2ad12b96acd1384f0a821562.png" group-title="IN: Indian Entertainment",IN: Sony SAB HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB HD (UK)" tvg-logo="http://ky-iptv.com:25461/images/7f02460d2ad12b96acd1384f0a821562.png" group-title="IN: Indian Entertainment",IN: Sony SAB HD (UK)
+http://ky-tv.cc:25461/live/David59459/2354545444/770419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2 HD" tvg-logo="http://ky-iptv.com:25461/images/a15412ebfcb5b44c5735d05928f1fdee.png" group-title="IN: Indian Entertainment",IN: Sony Ten 2 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR BHARAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg" group-title="IN: Indian Entertainment",IN: STAR BHARAT HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR GOLD FHD" tvg-logo="http://ky-iptv.com:25461/images/265c2f598d8dbd651202c46ec0693d06.png" group-title="IN: Indian Entertainment",IN: STAR GOLD FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/770433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Subhavaartha TV" tvg-logo="http://ky-iptv.com:25461/images/30815198293a550d006cca0ea9659dff.png" group-title="IN: Indian Telugu",IN: Subhavaartha TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SURYA TV Malayam" tvg-logo="http://ky-iptv.com:25461/images/66a5ed86a1cfb89debc4ad02b46f2f31.png" group-title="IN: Indian Malayalam",IN: SURYA TV Malayam
+http://ky-tv.cc:25461/live/David59459/2354545444/770457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Vision" tvg-logo="http://ky-iptv.com:25461/images/28b4cb9432320ed764cc5e5e4421779e.png" group-title="IN: Indian Tamil",IN: Tamil Vision
+http://ky-tv.cc:25461/live/David59459/2354545444/770462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 1 HD" tvg-logo="http://ky-iptv.com:25461/images/a59b37b13c165bb25f5845a75b030d0a.png" group-title="IN: Indian Entertainment",IN: TEN 1 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 2 HD" tvg-logo="http://ky-iptv.com:25461/images/a15412ebfcb5b44c5735d05928f1fdee.png" group-title="IN: Indian Entertainment",IN: TEN 2 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 3 HD" tvg-logo="http://ky-iptv.com:25461/images/c0c31d29191b81b49f31a0020557cfa6.png" group-title="IN: Indian Entertainment",IN: TEN 3 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ten Sports" tvg-logo="http://ky-iptv.com:25461/images/f497c2fd314f475d5f95687688e9b992.png" group-title="IN: Indian Entertainment",IN: Ten Sports
+http://ky-tv.cc:25461/live/David59459/2354545444/770479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now HD" tvg-logo="http://ky-iptv.com:25461/images/79d8b988a2b282eb4c06480fe6138f2d.png" group-title="IN: Indian Entertainment",IN: Times Now HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS MARATHI" tvg-logo="http://ky-iptv.com:25461/images/a960ad5cc88aa70ceea8770dfbf1a10b.png" group-title="IN: Indian Marathi",IN: COLORS MARATHI
+http://ky-tv.cc:25461/live/David59459/2354545444/770495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vaanavil TV" tvg-logo="http://ky-iptv.com:25461/images/5e83f3c8491e86304bf40e98092e2d80.png" group-title="IN: Indian Tamil",IN: Vaanavil TV
+http://ky-tv.cc:25461/live/David59459/2354545444/770498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: VTV NEWS GUJARATI" tvg-logo="http://ky-iptv.com:25461/images/8a78486486e9d0f7c55681bd1502ec58.png" group-title="IN: Indian Gujarat",IN: VTV NEWS GUJARATI
+http://ky-tv.cc:25461/live/David59459/2354545444/770507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Action HD" tvg-logo="http://ky-iptv.com:25461/images/bad2ff81bbac05f94f8e95a6bc456b4f.png" group-title="IN: Indian Entertainment",IN: ZEE Action HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Anmol" tvg-logo="http://ky-iptv.com:25461/images/b2c25ec073e00dc06ce58adf04861e09.png" group-title="IN: Indian Entertainment",IN: ZEE Anmol
+http://ky-tv.cc:25461/live/David59459/2354545444/770519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE BOLLYWOOD HD" tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/zee-bollywood.png" group-title="IN: Indian Entertainment",IN: ZEE BOLLYWOOD HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-logo="http://ky-iptv.com:25461/images/4eed7843e6d5675d3d9d5e6480f2ed18.png" group-title="IN: Indian Telugu",IN: Zee Cinema FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/770528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony BBC Earth HD" tvg-logo="http://ky-iptv.com:25461/images/ae617f254265f58d10be40128637c13e.png" group-title="IN: Indian Entertainment",IN: Sony BBC Earth HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2" tvg-logo="http://ky-iptv.com:25461/images/186cbc75e189dca3453b0bd0b335613e.png" group-title="IN: Indian Entertainment",IN: Sony Max 2
+http://ky-tv.cc:25461/live/David59459/2354545444/1122223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV" tvg-logo="http://ky-iptv.com:25461/images/41fea0080931896dbb1c002c01c5b73f.png" group-title="IN: Indian Entertainment",IN: Sony TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha" tvg-logo="http://ky-iptv.com:25461/images/d0135e943575229369ed768691734ea8.png" group-title="IN: Indian Entertainment",IN: Star Jalsha
+http://ky-tv.cc:25461/live/David59459/2354545444/1122244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 HD" tvg-logo="http://ky-iptv.com:25461/images/24746f007cd4433f7687535eef3b4d36.png" group-title="IN: Indian Entertainment",IN: Star Sports Select 1 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World Premier HD" tvg-logo="http://ky-iptv.com:25461/images/5a9278113c07106b21d744f6d436de74.png" group-title="IN: Indian Entertainment",IN: Star World Premier HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun TV" tvg-logo="http://ky-iptv.com:25461/images/b0544857c8b5cb8006d1524dbca1dec5.png" group-title="IN: Indian Entertainment",IN: Sun TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV HD" tvg-logo="http://ky-iptv.com:25461/images/d36c5e98f1b244a8b9524d352edbda84.png" group-title="IN: Indian Entertainment",IN: TV HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122277.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee News" tvg-logo="http://ky-iptv.com:25461/images/3a0a264a7761a01408ad357463dc5d09.png" group-title="IN: Indian Entertainment",IN: Zee News
+http://ky-tv.cc:25461/live/David59459/2354545444/770540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Salam" tvg-logo="http://ky-iptv.com:25461/images/931305725208afbba8f9a8cf929ca650.png" group-title="IN: India Urdu",IN: Zee Salam
+http://ky-tv.cc:25461/live/David59459/2354545444/770549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Tamil HD" tvg-logo="http://ky-iptv.com:25461/images/315294848c2294b09816dae5dd86c3cb.png" group-title="IN: Indian Tamil",IN: Zee Tamil HD
+http://ky-tv.cc:25461/live/David59459/2354545444/770553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Telugu" tvg-logo="http://ky-iptv.com:25461/images/abac8df9926a4f6c385e82e53ef50efc.png" group-title="IN: Indian Telugu",IN: Zee Telugu
+http://ky-tv.cc:25461/live/David59459/2354545444/770554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV FHD" tvg-logo="http://ky-iptv.com:25461/images/16af44e57fcdfd2d2d165d88cf39f121.png" group-title="IN: Indian Entertainment",IN: ZEE TV FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/770556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZING" tvg-logo="http://ky-iptv.com:25461/images/dcf000b3e18fa7a9e857fa8253ecdde7.png" group-title="IN: Indian Entertainment",IN: ZING
+http://ky-tv.cc:25461/live/David59459/2354545444/770562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya TV" tvg-logo="http://ky-iptv.com:25461/images/c474371a6c036fca1efed758bbc784a4.png" group-title="IN: Indian Tamil",IN: Jaya TV
+http://ky-tv.cc:25461/live/David59459/2354545444/780301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun News" tvg-logo="http://ky-iptv.com:25461/images/4bc63e3b34d113b49b527d21059669cc.png" group-title="IN: Indian Tamil",IN: Sun News
+http://ky-tv.cc:25461/live/David59459/2354545444/780302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Surya Movies" tvg-logo="http://ky-iptv.com:25461/images/d379aa5ebfc33805f45d4f555e7347c6.png" group-title="IN: Indian Malayalam",IN: Surya Movies
+http://ky-tv.cc:25461/live/David59459/2354545444/786451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Janam TV" tvg-logo="http://ky-iptv.com:25461/images/6d1421d462f0f7c12a173b405df2900c.png" group-title="IN: Indian Malayalam",IN: Janam TV
+http://ky-tv.cc:25461/live/David59459/2354545444/786454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali TV" tvg-logo="http://ky-iptv.com:25461/images/9ea8941f1ddc8177c7888d361542a122.png" group-title="IN: Indian Malayalam",IN: Kairali TV
+http://ky-tv.cc:25461/live/David59459/2354545444/786455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TALKIES" tvg-logo="http://ky-iptv.com:25461/images/b10aa200d28aba8cd65ddeb96fe623c9.png" group-title="IN: Indian Marathi",IN: ZEE TALKIES
+http://ky-tv.cc:25461/live/David59459/2354545444/770552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV9 Telugu" tvg-logo="http://ky-iptv.com:25461/images/a8956e42bf3f7ec2dec4e05c89df17d2.png" group-title="IN: Indian Telugu",IN: TV9 Telugu
+http://ky-tv.cc:25461/live/David59459/2354545444/830064.m3u8
+#EXTINF:-1 tvg-id="sonymarathi.in" tvg-name="IN: Sony Marathi" tvg-logo="http://ky-iptv.com:25461/images/f62297a70ce2af6b7c67b0fb07ebb9c7.jpeg" group-title="IN: Indian Marathi",IN: Sony Marathi
+http://ky-tv.cc:25461/live/David59459/2354545444/998443.m3u8
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-name="IN: Sony Ten 3" tvg-logo="http://ky-iptv.com:25461/images/8ea65c75b8a025db3d2246c97808f772.png" group-title="IN: Indian Entertainment",IN: Sony Ten 3
+http://ky-tv.cc:25461/live/David59459/2354545444/999069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini Comedy" tvg-logo="http://ky-iptv.com:25461/images/db3b26a17be208a634452f6733f661ad.png" group-title="IN: Indian Telugu",IN: Gemini Comedy
+http://ky-tv.cc:25461/live/David59459/2354545444/1002429.m3u8
+#EXTINF:-1 tvg-id="ZeeWorld.za" tvg-name="IN: Zee world" tvg-logo="http://ky-iptv.com:25461/images/80010025169e05dfdb7cd2e6f8899820.png" group-title="IN: Indian Entertainment",IN: Zee world
+http://ky-tv.cc:25461/live/David59459/2354545444/390510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: & PICTURE HD" tvg-logo="http://ky-iptv.com:25461/images/13a9b7e7ef4a292f7106318a3cd7eefb.png" group-title="IN: Indian Entertainment",IN: & PICTURE HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: &tv HD india" tvg-logo="http://ky-iptv.com:25461/images/5157aad375c6d0fb1101ef9323cb7d60.png" group-title="IN: Indian Entertainment",IN: &tv HD india
+http://ky-tv.cc:25461/live/David59459/2354545444/1121961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star sports 3 HD" tvg-logo="http://ky-iptv.com:25461/images/c18140c83f9c91500c4d3c875fc2170d.png" group-title="IN: Indian Entertainment",IN: Star sports 3 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: AAJ TAK News" tvg-logo="http://ky-iptv.com:25461/images/86ab4b4b63fd4d8914e482dda3b4286b.png" group-title="IN: Indian Entertainment",IN: AAJ TAK News
+http://ky-tv.cc:25461/live/David59459/2354545444/1121965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ANIMAL PLANET HD" tvg-logo="http://ky-iptv.com:25461/images/a979f7ccd1f6793856c73d050f9d241b.png" group-title="IN: Indian Entertainment",IN: ANIMAL PLANET HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC EARTH HD" tvg-logo="http://ky-iptv.com:25461/images/ebc4094a88e19dbfe24a0f747165dda8.png" group-title="IN: Indian Entertainment",IN: BBC EARTH HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Rishtey" tvg-logo="http://ky-iptv.com:25461/images/fb5d6981bef57807a694ed05b0b6fc66.png" group-title="IN: Indian Entertainment",IN: COLORS Rishtey
+http://ky-tv.cc:25461/live/David59459/2354545444/1121968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS TV" tvg-logo="http://ky-iptv.com:25461/images/17af75eed52a276f6d04f9fe11e03b1f.png" group-title="IN: Indian Entertainment",IN: COLORS TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1121969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery KIDS HINDI" tvg-logo="http://ky-iptv.com:25461/images/09eb368eacd09d44b624caddb663c914.png" group-title="IN: Indian Entertainment",IN: Discovery KIDS HINDI
+http://ky-tv.cc:25461/live/David59459/2354545444/1121970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Science HINDI" tvg-logo="http://ky-iptv.com:25461/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="IN: Indian Entertainment",IN: Discovery Science HINDI
+http://ky-tv.cc:25461/live/David59459/2354545444/1121972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DSports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Dsport_logo.png/revision/latest?cb=20180723103159" group-title="IN: Indian Entertainment",IN: DSports HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: &Xplor HD" tvg-logo="http://ky-iptv.com:25461/images/2af06db87cdb65c7a2e6356fd532f6c7.jpg" group-title="IN: Indian Entertainment",IN: &Xplor HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: NICK SONIC" tvg-logo="http://ky-iptv.com:25461/images/483d467e3b9aed5f8be7ef8ad2a08ec1.png" group-title="IN: Indian Entertainment",IN: NICK SONIC
+http://ky-tv.cc:25461/live/David59459/2354545444/1121985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://ky-iptv.com:25461/images/744b20dcc43e6f78e924e2c70fb6cffe.png" group-title="IN: Indian Entertainment",IN: Sony SIX HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony YAY!" tvg-logo="http://ky-iptv.com:25461/images/279eec6704dc77c069d2315cdcd79ffb.png" group-title="IN: Indian Entertainment",IN: Sony YAY!
+http://ky-tv.cc:25461/live/David59459/2354545444/1121989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD" tvg-logo="http://ky-iptv.com:25461/images/dccee9c419702960125b395639946eba.jpg" group-title="IN: Indian Entertainment",IN: Star Plus FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: TLC HINDI" tvg-logo="http://ky-iptv.com:25461/images/7fcd7c69e74c4ab69707409542918e5d.png" group-title="IN: Indian Entertainment",IN: TLC HINDI
+http://ky-tv.cc:25461/live/David59459/2354545444/1121994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow Cricket HD" tvg-logo="http://ky-iptv.com:25461/images/b2d50fcaf5510190c43c65c2d8bf5144.png" group-title="IN: Indian Entertainment",IN: Willow Cricket HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1121995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: 92 UK" tvg-logo="http://ky-iptv.com:25461/images/21a7240c7f16c14998ff82bdaa3de7f9.png" group-title="IN: Indian Entertainment",IN: 92 UK
+http://ky-tv.cc:25461/live/David59459/2354545444/1122000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha TV" tvg-logo="http://ky-iptv.com:25461/images/0e95bb28e98bae8d1cd4028a8d27f7b8.png" group-title="IN: Indian Entertainment",IN: Aastha TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP Asmita" tvg-logo="http://ky-iptv.com:25461/images/cec119f67972aaff6366d1045e0e2be1.png" group-title="IN: Indian Gujarat",IN: ABP Asmita
+http://ky-tv.cc:25461/live/David59459/2354545444/1122003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Akaal Channel UK" tvg-logo="http://ky-iptv.com:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="IN: Indian Entertainment",IN: Akaal Channel UK
+http://ky-tv.cc:25461/live/David59459/2354545444/1122008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Akaal TV" tvg-logo="http://ky-iptv.com:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="IN: Indian Entertainment",IN: Akaal TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: AONE TV" tvg-logo="http://ky-iptv.com:25461/images/21143440f5051de6f92534f40939f788.png" group-title="IN: Indian Entertainment",IN: AONE TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ary Family" tvg-logo="http://ky-iptv.com:25461/images/00d74dd9b514bfde4c2ebaba0d6dad18.png" group-title="IN: Indian Entertainment",IN: Ary Family
+http://ky-tv.cc:25461/live/David59459/2354545444/1122015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC Toronto" tvg-logo="https://www.artsrn.ualberta.ca/MinorityMedia/files/original/197d07bd9dd1895b9c6769051707da48.png" group-title="IN: Indian Entertainment",IN: BBC Toronto
+http://ky-tv.cc:25461/live/David59459/2354545444/1122024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Big Ganga" tvg-logo="http://ky-iptv.com:25461/images/f2fe99465ce5b4106df8b691d04ea41d.png" group-title="IN: Indian Entertainment",IN: Big Ganga
+http://ky-tv.cc:25461/live/David59459/2354545444/1122028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood" tvg-logo="http://ky-iptv.com:25461/images/e111ed78576b2b7eb717886be358d53d.png" group-title="IN: Indian Entertainment",IN: Boogle Bollywood
+http://ky-tv.cc:25461/live/David59459/2354545444/1122029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Brit ASIA" tvg-logo="http://ky-iptv.com:25461/images/56a0a6a4722162dbd9f35f640783f657.png" group-title="IN: Indian Entertainment",IN: Brit ASIA
+http://ky-tv.cc:25461/live/David59459/2354545444/1122030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: CAPTAIN TV" tvg-logo="http://ky-iptv.com:25461/images/be28d5af56913e7c5ec0041d7a6590ba.png" group-title="IN: Indian Tamil",IN: CAPTAIN TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="IN: Indian Entertainment",IN: CHANNEL I
+http://ky-tv.cc:25461/live/David59459/2354545444/1122037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel Win" tvg-logo="http://ky-iptv.com:25461/images/26deaf7dba89f60209ae34e7215089ac.png" group-title="IN: Indian Entertainment",IN: Channel Win
+http://ky-tv.cc:25461/live/David59459/2354545444/1122039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chardikla Time TV" tvg-logo="http://ky-iptv.com:25461/images/e4b138e3aab625f9b47daaa061d59088.png" group-title="IN: Indian Entertainment",IN: Chardikla Time TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Awaaz HD" tvg-logo="http://ky-iptv.com:25461/images/f7c918dbb7581c5486490f179247752a.png" group-title="IN: Indian Entertainment",IN: CNBC Awaaz HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Colors UK HD" tvg-logo="http://ky-iptv.com:25461/images/12e51ee05807a41842790d8a71d5d0a4.png" group-title="IN: Indian Entertainment",IN: Colors UK HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bangla" tvg-logo="data:image/png;base64,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" group-title="IN: Indian Entertainment",IN: DD Bangla
+http://ky-tv.cc:25461/live/David59459/2354545444/1122061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD News HD" tvg-logo="http://ky-iptv.com:25461/images/e368f287cbc29075eb10ae6dbb2cd59a.png" group-title="IN: Indian Entertainment",IN: DD News HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sahyadri" tvg-logo="http://ky-iptv.com:25461/images/523a04963bd7fb91ff9e8942acee8ae6.jpg" group-title="IN: Indian Marathi",IN: DD Sahyadri
+http://ky-tv.cc:25461/live/David59459/2354545444/1122071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/DD_Urdu_Logo.jpg" group-title="IN: Indian Entertainment",IN: DD Urdu
+http://ky-tv.cc:25461/live/David59459/2354545444/1122073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dunya News" tvg-logo="http://ky-iptv.com:25461/images/5b8530f9ae5380b148c98513c34563da.jpg" group-title="IN: Indian Entertainment",IN: Dunya News
+http://ky-tv.cc:25461/live/David59459/2354545444/1122085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: ET Now" tvg-logo="http://ky-iptv.com:25461/images/c1892cf4437cf2c7874d5b7680c1ee35.png" group-title="IN: Indian Entertainment",IN: ET Now
+http://ky-tv.cc:25461/live/David59459/2354545444/1122091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Food Food" tvg-logo="http://ky-iptv.com:25461/images/4d094a26066b0b81a8e34027494c626e.png" group-title="IN: Indian Entertainment",IN: Food Food
+http://ky-tv.cc:25461/live/David59459/2354545444/1122107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: GS TV" tvg-logo="http://ky-iptv.com:25461/images/dacbeb1a79214e07d23163ca6278bb23.png" group-title="IN: Indian Gujarat",IN: GS TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gulistan News" tvg-logo="" group-title="IN: Indian Entertainment",IN: Gulistan News
+http://ky-tv.cc:25461/live/David59459/2354545444/1122114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN:  History HD" tvg-logo="http://ky-iptv.com:25461/images/d60e44441cab44540dfdeda25f36beed.png" group-title="IN: Indian Entertainment",IN:  History HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: HUM TV HD" tvg-logo="http://ky-iptv.com:25461/images/8706192480308f6a9368ea99841c711b.png" group-title="IN: Indian Entertainment",IN: HUM TV HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: JAYA MAX" tvg-logo="http://ky-iptv.com:25461/images/927a8138bfbfe86381be96efc0e66382.png" group-title="IN: Indian Tamil",IN: JAYA MAX
+http://ky-tv.cc:25461/live/David59459/2354545444/1122131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali News TV" tvg-logo="http://ky-iptv.com:25461/images/bcb7e0fc9ed1a864b6c0f47732af3b28.png" group-title="IN: Indian Malayalam",IN: Kairali News TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Living Foodz HD" tvg-logo="http://ky-iptv.com:25461/images/2e59faa350d228fcee30c037bf989f93.png" group-title="IN: Indian Entertainment",IN: Living Foodz HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1122142.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: MOHONA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/50/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="IN: Indian Entertainment",IN: MOHONA TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 India" tvg-logo="http://ky-iptv.com:25461/images/3202a2fdfbc60c825d98b85ce89a0b02.png" group-title="IN: Indian Entertainment",IN: News 18 India
+http://ky-tv.cc:25461/live/David59459/2354545444/1122177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 18 MP TV" tvg-logo="http://ky-iptv.com:25461/images/9855bb57190d0cf0981c468b58680bcf.png" group-title="IN: Indian Entertainment",IN: News 18 MP TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nick HD+" tvg-logo="http://ky-iptv.com:25461/images/880fd34b3937e69aa101b6be91703d81.png" group-title="IN: Indian Entertainment",IN: Nick HD+
+http://ky-tv.cc:25461/live/David59459/2354545444/1122180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Peace TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2f/Peace_TV_logo.png" group-title="IN: Indian Entertainment",IN: Peace TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prajaa Kannada TV" tvg-logo="http://ky-iptv.com:25461/images/843e21fbeddd8fe00dff3ce54c0bca9a.png" group-title="IN: Indian Entertainment",IN: Prajaa Kannada TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prime Asia TV" tvg-logo="http://ky-iptv.com:25461/images/5a9bfafbf5e4ed36a87802e8080d5a43.png" group-title="IN: Indian Entertainment",IN: Prime Asia TV
+http://ky-tv.cc:25461/live/David59459/2354545444/1122194.m3u8
+
+
+#EXTINF:-1 tvg-id="nine.au" tvg-name="AU 7flix Adelaide" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189636.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7flix Brisbane" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 7flix Canberra" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189638.m3u8
+#EXTINF:-1 tvg-id="7Flix.au" tvg-name="AU 7flix Darwin" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189639.m3u8
+#EXTINF:-1 tvg-id="7Flix.au" tvg-name="AU 7flix Hobart" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189640.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7flix Melbourne" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189641.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7flix Perth" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189642.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7flix Sydney" tvg-logo="http://ky-iptv.com:25461/images/28bbf8df83fc66593f1a087e65950baa.png" group-title="Australia",AU 7flix Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189643.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7mate Adelaide" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189644.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7mate Brisbane" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 7mate Canberra" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189646.m3u8
+#EXTINF:-1 tvg-id="7Mate.au" tvg-name="AU 7mate Darwin" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189647.m3u8
+#EXTINF:-1 tvg-id="7Mate.au" tvg-name="AU 7mate Hobart" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189648.m3u8
+#EXTINF:-1 tvg-id="7Mate.au" tvg-name="AU 7mate Melbourne" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189649.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7mate Perth" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189651.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7mate Sydney" tvg-logo="http://ky-iptv.com:25461/images/e02097a4ba8e4f0cf37ee1a309a77f55.png" group-title="Australia",AU 7mate Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189652.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7TWO Adelaide" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7TWO Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189653.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7TWO Brisbane" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7TWO Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 7TWO Canberra" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7TWO Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 7TWO Darwin" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7TWO Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 7TWO Hobart" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7TWO Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189657.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7TWO Melbourne" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7TWO Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189659.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7TWO Perth" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7TWO Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189660.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 7Two Sydney" tvg-logo="http://ky-iptv.com:25461/images/7bd38903d685245dd08d44b6123a9d13.png" group-title="Australia",AU 7Two Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189661.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Gem Adelaide" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189663.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Gem Brisbane" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Gem Canberra" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Gem Darwin" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Gem Hobart" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189668.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Gem Melbourne" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189670.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Gem Perth" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189671.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Gem Sydney" tvg-logo="http://ky-iptv.com:25461/images/81e793dc8317a3dbc3534ed3f242c418.png" group-title="Australia",AU 9Gem Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189674.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Go! Brisbane" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go! Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189675.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Go! Melbourne" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go! Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189676.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Go! Perth" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go! Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189677.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Go! Sydney" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go! Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189678.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Go_ Adelaide" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go_ Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Go_ Canberra" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go_ Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Go_ Darwin" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go_ Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Go_ Hobart (D)" tvg-logo="http://ky-iptv.com:25461/images/3f596f56e6b868458ed7ca052bdad94e.png" group-title="Australia",AU 9Go_ Hobart (D)
+http://ky-tv.cc:25461/live/David59459/2354545444/189683.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Life Adelaide" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189687.m3u8
+#EXTINF:-1 tvg-id="9Life.au" tvg-name="AU 9Life Brisbane" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Life Canberra" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189690.m3u8
+#EXTINF:-1 tvg-id="9Life.au" tvg-name="AU 9Life Darwin" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189691.m3u8
+#EXTINF:-1 tvg-id="9Life.au" tvg-name="AU 9Life Hobart" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189692.m3u8
+#EXTINF:-1 tvg-id="9Life.au" tvg-name="AU 9Life Melbourne" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189693.m3u8
+#EXTINF:-1 tvg-id="9Life.au" tvg-name="AU 9Life Perth" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189695.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU 9Life Sydney" tvg-logo="http://ky-iptv.com:25461/images/1b89a2e980724cb8997459fadb907712.png" group-title="Australia",AU 9Life Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Rush Brisbane" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png" group-title="Australia",AU 9Rush Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Rush Canberra" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png" group-title="Australia",AU 9Rush Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189701.m3u8
+#EXTINF:-1 tvg-id="9Rush.au" tvg-name="AU 9Rush Darwin" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png" group-title="Australia",AU 9Rush Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189702.m3u8
+#EXTINF:-1 tvg-id="9Rush.au" tvg-name="AU 9Rush Hobart" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png" group-title="Australia",AU 9Rush Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Rush Melbourne" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png" group-title="Australia",AU 9Rush Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Rush Perth" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png" group-title="Australia",AU 9Rush Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU 9Rush Sydney" tvg-logo="http://ky-iptv.com:25461/images/1888ae02e99f6f32b894f62a884e04b7.png" group-title="Australia",AU 9Rush Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189706.m3u8
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="AU ABC Kids Perth" tvg-logo="http://ky-iptv.com:25461/images/b861c12802fa8a5a02234ca81e7f0135.png" group-title="Australia",AU ABC Kids Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC NEWS Adelaide" tvg-logo="http://ky-iptv.com:25461/images/f4aa81d15e858c25e92e520d61a3e714.png" group-title="Australia",AU ABC NEWS Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC NEWS Brisbane" tvg-logo="http://ky-iptv.com:25461/images/f4aa81d15e858c25e92e520d61a3e714.png" group-title="Australia",AU ABC NEWS Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC NEWS Canberra" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png" group-title="Australia",AU ABC NEWS Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC NEWS Darwin" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png" group-title="Australia",AU ABC NEWS Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189758.m3u8
+#EXTINF:-1 tvg-id="ABCNews24.au" tvg-name="AU ABC NEWS Hobart" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png" group-title="Australia",AU ABC NEWS Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC NEWS Melbourne" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png" group-title="Australia",AU ABC NEWS Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC NEWS Perth" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png" group-title="Australia",AU ABC NEWS Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC NEWS Sydney" tvg-logo="http://ky-iptv.com:25461/images/70333fa39a02a9997ce25866edf381ba.png" group-title="Australia",AU ABC NEWS Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ACCTV Sydney" tvg-logo="http://ky-iptv.com:25461/images/3338ac22caf7b3214b1771e6625237e1.png" group-title="Australia",AU ACCTV Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189765.m3u8
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="AU Al Jazeera" tvg-logo="http://ky-iptv.com:25461/images/0847fae5d577bf352f8f991b42943925.png" group-title="Australia",AU Al Jazeera
+http://ky-tv.cc:25461/live/David59459/2354545444/189766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Al_Jazeera Sydney" tvg-logo="http://ky-iptv.com:25461/images/0847fae5d577bf352f8f991b42943925.png" group-title="Australia",AU Al_Jazeera Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ausbiz_TV Sydney" tvg-logo="http://ky-iptv.com:25461/images/edeb98a073826143e7fcecd4abbf4ad3.png" group-title="Australia",AU ausbiz_TV Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189768.m3u8
+#EXTINF:-1 tvg-id="Channel9.au" tvg-name="AU Channel_9 Adelaide " tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Adelaide 
+http://ky-tv.cc:25461/live/David59459/2354545444/189777.m3u8
+#EXTINF:-1 tvg-id="Channel9.au" tvg-name="AU Channel_9 Brisbane" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189778.m3u8
+#EXTINF:-1 tvg-id="Channel9.au" tvg-name="AU Channel_9 Canberra" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Channel_9 Darwin" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189780.m3u8
+#EXTINF:-1 tvg-id="Channel9.au" tvg-name="AU Channel_9 Hobart" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189781.m3u8
+#EXTINF:-1 tvg-id="Channel9.au" tvg-name="AU Channel_9 Melbourne" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189782.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Channel_9 Perth" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189783.m3u8
+#EXTINF:-1 tvg-id="Channels.ng" tvg-name="AU Channel_9 Sydney" tvg-logo="http://ky-iptv.com:25461/images/b7887d73cd84581a47dec458d29840f6.png" group-title="Australia",AU Channel_9 Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189784.m3u8
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-name="AU ESPN 2" tvg-logo="http://ky-iptv.com:25461/images/b5785e9f03cdec12f30a8f2750d943d8.png" group-title="Australia",AU ESPN 2
+http://ky-tv.cc:25461/live/David59459/2354545444/189786.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.au" tvg-name="AU Fox Sports 503 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6551.1489224386.png" group-title="Australia",AU Fox Sports 503 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/189789.m3u8
+#EXTINF:-1 tvg-id="foxsports504.au" tvg-name="AU Fox Sports 504 FHD" tvg-logo="http://ky-iptv.com:25461/images/33a228f2e935f0b84fd2f7682227e0b3.png" group-title="Australia",AU Fox Sports 504 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/189790.m3u8
+#EXTINF:-1 tvg-id="FoxSports5.au" tvg-name="AU Fox Sports 505 FHD" tvg-logo="http://ky-iptv.com:25461/images/ba5451d3c91a0f982f103cdbe249bc78.png" group-title="Australia",AU Fox Sports 505 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/189791.m3u8
+#EXTINF:-1 tvg-id="FoxSports6.au" tvg-name="AU Fox Sports 506 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6553.1489225082.png" group-title="Australia",AU Fox Sports 506 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/189792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Fox Sports 507 FHD" tvg-logo="http://ky-iptv.com:25461/images/1b20f22bf81cdcb6f0e3145499f922dd.png" group-title="Australia",AU Fox Sports 507 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/189793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Fuel_TV Sydney" tvg-logo="http://ky-iptv.com:25461/images/712c84d3e92e0fda3e7dd93d2ea836d4.png" group-title="Australia",AU Fuel_TV Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU NITV Sydney" tvg-logo="http://ky-iptv.com:25461/images/e53aa109b830a01a536bcca496072d82.png" group-title="Australia",AU NITV Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189800.m3u8
+#EXTINF:-1 tvg-id="OlympicChannel.us" tvg-name="AU Olympics_Channel Sydney" tvg-logo="http://ky-iptv.com:25461/images/c386a60648dc92222847656dfc9ae1fa.png" group-title="Australia",AU Olympics_Channel Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189801.m3u8
+#EXTINF:-1 tvg-id="OpenShop.au" tvg-name="AU openshop Sydney" tvg-logo="http://ky-iptv.com:25461/images/c3bf447eabe632720a3aa1a7ce401274.png" group-title="Australia",AU openshop Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189802.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="AU Outdoor_Channel Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/1024px-Outdoor_Channel.svg.png" group-title="Australia",AU Outdoor_Channel Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189803.m3u8
+#EXTINF:-1 tvg-id="PAC12Arizona.us" tvg-name="AU PAC-12 National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Pac-12_Networks_logo.png" group-title="Australia",AU PAC-12 National
+http://ky-tv.cc:25461/live/David59459/2354545444/189804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU PAC_12 Sydney" tvg-logo="http://ky-iptv.com:25461/images/64166975789f7e42164f700ac406ca37.png" group-title="Australia",AU PAC_12 Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189806.m3u8
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="AU Racing.com" tvg-logo="http://ky-iptv.com:25461/images/4955693d5fcca56547f1d70d440b65f9.png" group-title="Australia",AU Racing.com
+http://ky-tv.cc:25461/live/David59459/2354545444/189807.m3u8
+#EXTINF:-1 tvg-id="RacingCom.au" tvg-name="AU RACING COM Melbourne" tvg-logo="http://ky-iptv.com:25461/images/2f26aa3690bbda43672a30c41c5bfdbf.png" group-title="Australia",AU RACING COM Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189808.m3u8
+#EXTINF:-1 tvg-id="racing.com.au" tvg-name="AU Racing com National" tvg-logo="http://ky-iptv.com:25461/images/72c25197b6a491816d9a84b42d7205f0.png" group-title="Australia",AU Racing com National
+http://ky-tv.cc:25461/live/David59459/2354545444/189809.m3u8
+#EXTINF:-1 tvg-id="RacingCom.au" tvg-name="AU Racing com Perth" tvg-logo="http://ky-iptv.com:25461/images/2f26aa3690bbda43672a30c41c5bfdbf.png" group-title="Australia",AU Racing com Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189810.m3u8
+#EXTINF:-1 tvg-id="RacingCom.au" tvg-name="AU RACING COM Sydney" tvg-logo="http://ky-iptv.com:25461/images/2f26aa3690bbda43672a30c41c5bfdbf.png" group-title="Australia",AU RACING COM Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189811.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="AU Redbull TV" tvg-logo="http://ky-iptv.com:25461/images/2d97c6fab3c83d78eda766397d4c88b3.png" group-title="Australia",AU Redbull TV
+http://ky-tv.cc:25461/live/David59459/2354545444/189812.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="AU Redbull TV Melbourne" tvg-logo="http://ky-iptv.com:25461/images/2d97c6fab3c83d78eda766397d4c88b3.png" group-title="Australia",AU Redbull TV Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189813.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="AU Redbull TV National" tvg-logo="https://www.rallyturkey.com/wp-content/uploads/2018/01/Red-Bull-TV-logo.png" group-title="Australia",AU Redbull TV National
+http://ky-tv.cc:25461/live/David59459/2354545444/189814.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="AU Redbull TV Perth" tvg-logo="http://ky-iptv.com:25461/images/2d97c6fab3c83d78eda766397d4c88b3.png" group-title="Australia",AU Redbull TV Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189815.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-name="AU Redbull TV Sydney" tvg-logo="http://ky-iptv.com:25461/images/2d97c6fab3c83d78eda766397d4c88b3.png" group-title="Australia",AU Redbull TV Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU SBS Adelaide" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU SBS Brisbane" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189818.m3u8
+#EXTINF:-1 tvg-id="SBSCNBC.kr" tvg-name="AU SBS Canberra" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU SBS Darwin" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189821.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-name="AU SBS Food Brisbane" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189822.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-name="AU SBS Food Melbourne" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189823.m3u8
+#EXTINF:-1 tvg-id="sbsfood.au" tvg-name="AU SBS Food National" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food National
+http://ky-tv.cc:25461/live/David59459/2354545444/189824.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-name="AU SBS Food Perth" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU SBS Hobart " tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Hobart 
+http://ky-tv.cc:25461/live/David59459/2354545444/189826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU SBS Melbourne" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189828.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU SBS Perth" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU SBS Sydney" tvg-logo="http://ky-iptv.com:25461/images/be0c828ca49ae5797101b94bacbaff30.png" group-title="Australia",AU SBS Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189831.m3u8
+#EXTINF:-1 tvg-id="SBSViceland.au" tvg-name="AU SBS Viceland Melbourne" tvg-logo="http://ky-iptv.com:25461/images/4b00ae0accd865b91287e470c8332afb.png" group-title="Australia",AU SBS Viceland Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189833.m3u8
+#EXTINF:-1 tvg-id="sbsvicelandhd.au" tvg-name="AU SBS Viceland National" tvg-logo="http://ky-iptv.com:25461/images/4b00ae0accd865b91287e470c8332afb.png" group-title="Australia",AU SBS Viceland National
+http://ky-tv.cc:25461/live/David59459/2354545444/189834.m3u8
+#EXTINF:-1 tvg-id="SBSViceland.au" tvg-name="AU SBS Viceland Perth" tvg-logo="http://ky-iptv.com:25461/images/4b00ae0accd865b91287e470c8332afb.png" group-title="Australia",AU SBS Viceland Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189835.m3u8
+#EXTINF:-1 tvg-id="sbsworldmovies.au" tvg-name="AU SBS World Movies National" tvg-logo="http://ky-iptv.com:25461/images/78f1773b7a489bba2a9eb6117617b82c.png" group-title="Australia",AU SBS World Movies National
+http://ky-tv.cc:25461/live/David59459/2354545444/189836.m3u8
+#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-name="AU SBS World Movies Perth" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS World Movies Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189837.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-name="AU SBS Food Adelaide" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189838.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-name="AU SBS Food Canberra" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189840.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-name="AU SBS Food Darwin" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189841.m3u8
+#EXTINF:-1 tvg-id="SBSFood.au" tvg-name="AU SBS Food Hobart" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU SBS Food Sydney" tvg-logo="http://ky-iptv.com:25461/images/008a8cec18e3d63b60000c5a919a0964.png" group-title="Australia",AU SBS Food Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189845.m3u8
+#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-name="AU SBS World Movies Sydney" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU SBS World Movies Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189847.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Seven Adelaide" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189848.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Seven Brisbane" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189849.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Seven Canberra" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189850.m3u8
+#EXTINF:-1 tvg-id="Seven.au" tvg-name="AU Seven Darwin" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189851.m3u8
+#EXTINF:-1 tvg-id="Seven.au" tvg-name="AU Seven Hobart" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189852.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Seven Melbourne" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189853.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Seven Perth" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189854.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Seven Sydney" tvg-logo="http://ky-iptv.com:25461/images/d96df033eab2a2a6fe177363a1e9b270.png" group-title="Australia",AU Seven Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Snowy Mountains Television Sydney" tvg-logo="http://ky-iptv.com:25461/images/b12efe4e2b53de51a261421f77a3cbef.png" group-title="Australia",AU Snowy Mountains Television Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189856.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Ten Sydney" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU Ten Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189858.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU TEN Adelaide" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU TEN Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189859.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="AU Ten Brisbane" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU Ten Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU TEN Canberra" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU TEN Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189862.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU TEN Darwin" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU TEN Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU TEN Hobart" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU TEN Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189864.m3u8
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="AU TVSN Shopping (NZ)" tvg-logo="http://ky-iptv.com:25461/images/0f8fe47efac2fc8b66250854612aaf9d.png" group-title="Australia",AU TVSN Shopping (NZ)
+http://ky-tv.cc:25461/live/David59459/2354545444/189870.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU Ten Melbourne" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU Ten Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189865.m3u8
+#EXTINF:-1 tvg-id="Ten.es" tvg-name="AU Ten Perth" tvg-logo="http://ky-iptv.com:25461/images/0c73a93c8ee90e4b1429f82782ebfb93.png" group-title="Australia",AU Ten Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189867.m3u8
+#EXTINF:-1 tvg-id="abccomedyabckids.au" tvg-name="AU ABC Kids National" tvg-logo="http://ky-iptv.com:25461/images/b861c12802fa8a5a02234ca81e7f0135.png" group-title="Australia",AU ABC Kids National
+http://ky-tv.cc:25461/live/David59459/2354545444/189717.m3u8
+#EXTINF:-1 tvg-id="abcme.au" tvg-name="AU ABC ME National" tvg-logo="http://ky-iptv.com:25461/images/4bcacec5f16df1a512656d768a499562.png" group-title="Australia",AU ABC ME National
+http://ky-tv.cc:25461/live/David59459/2354545444/189720.m3u8
+#EXTINF:-1 tvg-id="SBSViceland.au" tvg-name="AU SBS VICELAND Sydney" tvg-logo="http://ky-iptv.com:25461/images/4b00ae0accd865b91287e470c8332afb.png" group-title="Australia",AU SBS VICELAND Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC ME Sydney" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png" group-title="Australia",AU ABC ME Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC ME Perth" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png" group-title="Australia",AU ABC ME Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC ME Hobart" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png" group-title="Australia",AU ABC ME Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC ME Darwin" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png" group-title="Australia",AU ABC ME Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC ME Canberra" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png" group-title="Australia",AU ABC ME Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC ME Brisbane" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png" group-title="Australia",AU ABC ME Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC ME Adelaide" tvg-logo="http://ky-iptv.com:25461/images/da2c0eb1fd9830b0c5366f93374ca5fa.png" group-title="Australia",AU ABC ME Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC KIDS Sydney" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png" group-title="Australia",AU ABC KIDS Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC KIDS Melbourne" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png" group-title="Australia",AU ABC KIDS Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189744.m3u8
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="AU ABC KIDS Hobart" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png" group-title="Australia",AU ABC KIDS Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189743.m3u8
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="AU ABC KIDS Darwin" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png" group-title="Australia",AU ABC KIDS Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189742.m3u8
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="AU ABC KIDS Canberra" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png" group-title="Australia",AU ABC KIDS Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189741.m3u8
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="AU ABC KIDS Brisbane" tvg-logo="http://ky-iptv.com:25461/images/6fefcd9c50771f29aab5f0c154591a3e.png" group-title="Australia",AU ABC KIDS Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189740.m3u8
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="AU ABC KIDS Adelaide" tvg-logo="http://ky-iptv.com:25461/images/831934a6e2112eeaa8a19334495c4f41.png" group-title="Australia",AU ABC KIDS Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189739.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Melbourne" tvg-logo="http://ky-iptv.com:25461/images/7c78d87e6c41af5c47fef6001449280b.png" group-title="Australia",AU ABC Comedy Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189736.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Hobart" tvg-logo="http://ky-iptv.com:25461/images/75268248ed64945c18dcc5cc2b96efc4.png" group-title="Australia",AU ABC Comedy Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189735.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Darwin" tvg-logo="http://ky-iptv.com:25461/images/7c78d87e6c41af5c47fef6001449280b.png" group-title="Australia",AU ABC Comedy Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189734.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Canberra" tvg-logo="http://ky-iptv.com:25461/images/7c78d87e6c41af5c47fef6001449280b.png" group-title="Australia",AU ABC Comedy Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189733.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Adelaide" tvg-logo="http://ky-iptv.com:25461/images/7c78d87e6c41af5c47fef6001449280b.png" group-title="Australia",AU ABC Comedy Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189731.m3u8
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="AU ABC Perth" tvg-logo="http://ky-iptv.com:25461/images/4187537841db17d738fe8bf7e7087e46.png" group-title="Australia",AU ABC Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189728.m3u8
+#EXTINF:-1 tvg-id="abcnews.au" tvg-name="AU ABC News National" tvg-logo="http://ky-iptv.com:25461/images/e2ab190c2497597119a42a0bf6a4e697.png" group-title="Australia",AU ABC News National
+http://ky-tv.cc:25461/live/David59459/2354545444/189725.m3u8
+#EXTINF:-1 tvg-id="ABCME.au" tvg-name="AU ABC Melbourne" tvg-logo="http://ky-iptv.com:25461/images/5e09901552cda270377d966697e1062c.png" group-title="Australia",AU ABC Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189722.m3u8
+#EXTINF:-1 tvg-id="ABCME.au" tvg-name="AU ABC ME Melbourne" tvg-logo="http://ky-iptv.com:25461/images/4bcacec5f16df1a512656d768a499562.png" group-title="Australia",AU ABC ME Melbourne
+http://ky-tv.cc:25461/live/David59459/2354545444/189719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC Darwin" tvg-logo="http://ky-iptv.com:25461/images/75268248ed64945c18dcc5cc2b96efc4.png" group-title="Australia",AU ABC Darwin
+http://ky-tv.cc:25461/live/David59459/2354545444/189715.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Sydney" tvg-logo="http://ky-iptv.com:25461/images/7c78d87e6c41af5c47fef6001449280b.png" group-title="Australia",AU ABC Comedy Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC Canberra" tvg-logo="http://ky-iptv.com:25461/images/75268248ed64945c18dcc5cc2b96efc4.png" group-title="Australia",AU ABC Canberra
+http://ky-tv.cc:25461/live/David59459/2354545444/189710.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Brisbane" tvg-logo="http://ky-iptv.com:25461/images/7c78d87e6c41af5c47fef6001449280b.png" group-title="Australia",AU ABC Comedy Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189711.m3u8
+#EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="AU ABC Comedy Perth" tvg-logo="http://ky-iptv.com:25461/images/7c78d87e6c41af5c47fef6001449280b.png" group-title="Australia",AU ABC Comedy Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC Hobart" tvg-logo="http://ky-iptv.com:25461/images/75268248ed64945c18dcc5cc2b96efc4.png" group-title="Australia",AU ABC Hobart
+http://ky-tv.cc:25461/live/David59459/2354545444/189716.m3u8
+#EXTINF:-1 tvg-id="ABC Kids" tvg-name="AU ABC Brisbane" tvg-logo="http://ky-iptv.com:25461/images/75268248ed64945c18dcc5cc2b96efc4.png" group-title="Australia",AU ABC Brisbane
+http://ky-tv.cc:25461/live/David59459/2354545444/189708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ABC Adelaide" tvg-logo="http://ky-iptv.com:25461/images/75268248ed64945c18dcc5cc2b96efc4.png" group-title="Australia",AU ABC Adelaide
+http://ky-tv.cc:25461/live/David59459/2354545444/189707.m3u8
+#EXTINF:-1 tvg-id="foxsports502.au" tvg-name="AU Fox Sports 502 FHD" tvg-logo="http://ky-iptv.com:25461/images/33e2c8fbcd98106aa9c0082787d63b86.png" group-title="Australia",AU Fox Sports 502 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/189788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU ACCTV Perth" tvg-logo="http://ky-iptv.com:25461/images/3338ac22caf7b3214b1771e6625237e1.png" group-title="Australia",AU ACCTV Perth
+http://ky-tv.cc:25461/live/David59459/2354545444/189764.m3u8
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="AU beIN Sports 1" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="Australia",AU beIN Sports 1
+http://ky-tv.cc:25461/live/David59459/2354545444/189769.m3u8
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="AU beIN Sports 2" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6591.1491350441.png" group-title="Australia",AU beIN Sports 2
+http://ky-tv.cc:25461/live/David59459/2354545444/189770.m3u8
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="AU beIN Sports 3" tvg-logo="http://ky-iptv.com:25461/images/a6188947f4779c5604682df452c3a0e1.png" group-title="Australia",AU beIN Sports 3
+http://ky-tv.cc:25461/live/David59459/2354545444/189771.m3u8
+#EXTINF:-1 tvg-id="FOXSports1.ph" tvg-name="AU Fox Sports 501 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png" group-title="Australia",AU Fox Sports 501 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/189787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Sky News HD" tvg-logo="http://ky-iptv.com:25461/images/a58835cd9a1bc68da691e922bd37a6ff.png" group-title="Australia",AU Sky News HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1100957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU Fox Sports News" tvg-logo="http://ky-iptv.com:25461/images/ae59103738c0ccadac518cfc266be2c8.png" group-title="Australia",AU Fox Sports News
+http://ky-tv.cc:25461/live/David59459/2354545444/1545823.m3u8
+#EXTINF:-1 tvg-id="ESPN.au" tvg-name="AU ESPN 1" tvg-logo="http://ky-iptv.com:25461/images/d7e8c9a639c624fb306171f986a16ae9.png" group-title="Australia",AU ESPN 1
+http://ky-tv.cc:25461/live/David59459/2354545444/189785.m3u8
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-name="AU Fox_Sports_News Sydney" tvg-logo="http://ky-iptv.com:25461/images/f1d167ce57e9bad19afcbb4a79d16869.png" group-title="Australia",AU Fox_Sports_News Sydney
+http://ky-tv.cc:25461/live/David59459/2354545444/189794.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="13emeRue.mu" tvg-name="FR 13eme RUE HD" tvg-logo="http://ky-iptv.com:25461/images/1840fbfb8ab2e74749a0ed7ea7c7e201.png" group-title="FR: France Cinema",FR 13eme RUE HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182409.m3u8
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR ACTION HD" tvg-logo="http://ky-iptv.com:25461/images/1a9805585e099b9d948ec8f26eea9ec4.png" group-title="FR: France Cinema",FR ACTION HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182411.m3u8
+#EXTINF:-1 tvg-id="canalcinema.fr" tvg-name="FR CANAL PLUS CINEMA FHD" tvg-logo="http://ky-iptv.com:25461/images/12a8d49bbc53b678a18c645c8378059b.png" group-title="FR: France Cinema",FR CANAL PLUS CINEMA FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182414.m3u8
+#EXTINF:-1 tvg-id="canaldecale.fr" tvg-name="FR: CANAL PLUS DECALE HD" tvg-logo="http://ky-iptv.com:25461/images/a6705063b4003f7d2c95d0827f302cc3.png" group-title="FR: France Cinema",FR: CANAL PLUS DECALE HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182418.m3u8
+#EXTINF:-1 tvg-id="canalfamily.fr" tvg-name="FR CANAL PLUS FAMILY" tvg-logo="http://ky-iptv.com:25461/images/9946fa2e49462888bc0c5d179b61cd65.png" group-title="FR: France Cinema",FR CANAL PLUS FAMILY
+http://ky-tv.cc:25461/live/David59459/2354545444/182419.m3u8
+#EXTINF:-1 tvg-id="canal.fr" tvg-name="FR CANAL PLUS FHD" tvg-logo="http://ky-iptv.com:25461/images/b15178589eb3b42117bee96ced125445.png" group-title="FR: France Cinema",FR CANAL PLUS FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182422.m3u8
+#EXTINF:-1 tvg-id="canalseries.fr" tvg-name="FR CANAL PLUS SERIES FHD" tvg-logo="http://ky-iptv.com:25461/images/ff4c08b21e259e9ca636720b181a5624.png" group-title="FR: France Cinema",FR CANAL PLUS SERIES FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182425.m3u8
+#EXTINF:-1 tvg-id="canalsport.fr" tvg-name="FR: CANAL PLUS SPORT FHD" tvg-logo="http://ky-iptv.com:25461/images/9f1d297932872604565bf8da98358d5f.png" group-title="FR: France Sports",FR: CANAL PLUS SPORT FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182428.m3u8
+#EXTINF:-1 tvg-id="cineclassic.fr" tvg-name="FR CINE CLASSIC" tvg-logo="http://ky-iptv.com:25461/images/fdb2f75a72f2b69de9a0c1c55d5a2731.png" group-title="FR: France Cinema",FR CINE CLASSIC
+http://ky-tv.cc:25461/live/David59459/2354545444/182431.m3u8
+#EXTINF:-1 tvg-id="cineemotion.fr" tvg-name="FR CINE EMOTION HD" tvg-logo="http://ky-iptv.com:25461/images/ba669e6fad87e2762f6cfdb369344e10.png" group-title="FR: France Cinema",FR CINE EMOTION HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182436.m3u8
+#EXTINF:-1 tvg-id="cinefamiz.fr" tvg-name="FR CINE FAMIZ HD" tvg-logo="http://ky-iptv.com:25461/images/2984cffe7acbd7699c26fdb152e7a0e1.png" group-title="FR: France Cinema",FR CINE FAMIZ HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182438.m3u8
+#EXTINF:-1 tvg-id="cinefrisson.fr" tvg-name="FR CINE FRISSON HD" tvg-logo="http://ky-iptv.com:25461/images/50236dc58bc7a0b736c09ae391b5768c.png" group-title="FR: France Cinema",FR CINE FRISSON HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182439.m3u8
+#EXTINF:-1 tvg-id="cinepremier.fr" tvg-name="FR CINE PREMIER" tvg-logo="http://ky-iptv.com:25461/images/aad5e28d5ad31b567c4caa19a6361420.png" group-title="FR: France Cinema",FR CINE PREMIER
+http://ky-tv.cc:25461/live/David59459/2354545444/182442.m3u8
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-name="FR OCS CITY HD" tvg-logo="http://ky-iptv.com:25461/images/7ba60fbb4d0d14c50674b01edbe877a7.png" group-title="FR: France Cinema",FR OCS CITY HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182447.m3u8
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="FR OCS Geants HD" tvg-logo="http://ky-iptv.com:25461/images/ee80cc49f837a1e71578214299b4fadc.png" group-title="FR: France Cinema",FR OCS Geants HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182449.m3u8
+#EXTINF:-1 tvg-id="paramount.fr" tvg-name="FR PARAMOUNT CHANNEL HD" tvg-logo="http://ky-iptv.com:25461/images/47c1d2ca6356818661d4950680e9f7e4.png" group-title="FR: France Cinema",FR PARAMOUNT CHANNEL HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182453.m3u8
+#EXTINF:-1 tvg-id="parisprem.fr" tvg-name="FR PARIS PREMIERE HD" tvg-logo="http://ky-iptv.com:25461/images/71a984478cc9f5f02c2e9f7fab0babb0.png" group-title="FR: France Cinema",FR PARIS PREMIERE HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182455.m3u8
+#EXTINF:-1 tvg-id="RougeTV.ch" tvg-name="FR ROUGE TV HD" tvg-logo="https://d2obs2d3lmpnq9.cloudfront.net/rouge-play/RougeTv/Rouge.png" group-title="FR: France Cinema",FR ROUGE TV HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182457.m3u8
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="FR RTL9 HD" tvg-logo="http://ky-iptv.com:25461/images/9301ab820e3985d7275cbf5161d86907.png" group-title="FR: France Cinema",FR RTL9 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182459.m3u8
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR SERIE CLUB FHD" tvg-logo="http://ky-iptv.com:25461/images/a7db20631b89d796300f4159e78922af.png" group-title="FR: France Cinema",FR SERIE CLUB FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182460.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR SYFY HD" tvg-logo="http://ky-iptv.com:25461/images/9a537b3cf50ce21d5da684af9bc12070.png" group-title="FR: France Cinema",FR SYFY HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182463.m3u8
+#EXTINF:-1 tvg-id="tcmcinema.fr" tvg-name="FR TCM CINEMA HD" tvg-logo="http://ky-iptv.com:25461/images/8be890113e41fc49909320cde6fed5b5.png" group-title="FR: France Cinema",FR TCM CINEMA HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182465.m3u8
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR TFX HD" tvg-logo="http://ky-iptv.com:25461/images/bdef3fe5a5caf4cf9f0a2e1dbaef2646.png" group-title="FR: France Cinema",FR TFX HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182467.m3u8
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR TMC HD" tvg-logo="http://ky-iptv.com:25461/images/7b6faf3a02f370bbaacc147a02fac3c5.png" group-title="FR: France Cinema",FR TMC HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 02" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 02
+http://ky-tv.cc:25461/live/David59459/2354545444/182344.m3u8
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="FR OCS CHOC HD" tvg-logo="http://ky-iptv.com:25461/images/124a402d93b683c69436134211521789.png" group-title="FR: France Cinema",FR OCS CHOC HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182445.m3u8
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="FR OCS MAX" tvg-logo="http://ky-iptv.com:25461/images/5706a5ef21e436377a5a671fa92c0310.png" group-title="FR: France Cinema",FR OCS MAX
+http://ky-tv.cc:25461/live/David59459/2354545444/182450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR A+ HD" tvg-logo="http://ky-iptv.com:25461/images/16d060f48795d3536020a38283fa4b73.png" group-title="FR: France Cinema",FR A+ HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1188471.m3u8
+#EXTINF:-1 tvg-id="cineclub.fr" tvg-name="FR CINE CLUB HD" tvg-logo="http://ky-iptv.com:25461/images/ad61ab143223efbc24c7d2583be69251.png" group-title="FR: France Cinema",FR CINE CLUB HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182434.m3u8
+#EXTINF:-1 tvg-id="Cine.ar" tvg-name="FR CINE POLAR+ HD" tvg-logo="http://ky-iptv.com:25461/images/66f81f5951441819e257fee7fd4e1a5e.png" group-title="FR: France Cinema",FR CINE POLAR+ HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182441.m3u8
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 9" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 9
+http://ky-tv.cc:25461/live/David59459/2354545444/182342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 01" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 01
+http://ky-tv.cc:25461/live/David59459/2354545444/182343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 03" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 03
+http://ky-tv.cc:25461/live/David59459/2354545444/182345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 04" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 04
+http://ky-tv.cc:25461/live/David59459/2354545444/182346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 05" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 05
+http://ky-tv.cc:25461/live/David59459/2354545444/182347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 06" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 06
+http://ky-tv.cc:25461/live/David59459/2354545444/182348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 07" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 07
+http://ky-tv.cc:25461/live/David59459/2354545444/182349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 08" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 08
+http://ky-tv.cc:25461/live/David59459/2354545444/182350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 10" tvg-logo="http://ky-iptv.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="FR: France Cinema",FR: A LA CARTE 10
+http://ky-tv.cc:25461/live/David59459/2354545444/182351.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="South Africa Supersport Play 1" tvg-logo="" group-title="Africa Super Sports",South Africa Supersport Play 1
+http://ky-tv.cc:25461/live/David59459/2354545444/386575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Premier League" tvg-logo="" group-title="Africa Super Sports",South Africa SuperSport Premier League
+http://ky-tv.cc:25461/live/David59459/2354545444/386576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport PSL" tvg-logo="http://ky-iptv.com:25461/images/7d0e54451f97e86ee9f4837712406310.png" group-title="Africa Super Sports",South Africa SuperSport PSL
+http://ky-tv.cc:25461/live/David59459/2354545444/386577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa Supersport Tennis" tvg-logo="http://ky-iptv.com:25461/images/410b173025e30bc51d6b42b8081c7c22.png" group-title="Africa Super Sports",South Africa Supersport Tennis
+http://ky-tv.cc:25461/live/David59459/2354545444/386578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Rugby" tvg-logo="http://ky-iptv.com:25461/images/a2843624bcdb705b82d97a13d862e238.png" group-title="Africa Super Sports",South Africa SuperSport Rugby
+http://ky-tv.cc:25461/live/David59459/2354545444/386579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Variety 1" tvg-logo="http://ky-iptv.com:25461/images/dfdbd7c30609c79bd06b5859efdb94ef.png" group-title="Africa Super Sports",South Africa SuperSport Variety 1
+http://ky-tv.cc:25461/live/David59459/2354545444/386580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Variety 3" tvg-logo="http://ky-iptv.com:25461/images/b96ef5e6b20e0da37eacfa28de03f42c.png" group-title="Africa Super Sports",South Africa SuperSport Variety 3
+http://ky-tv.cc:25461/live/David59459/2354545444/386582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Variety 4" tvg-logo="http://ky-iptv.com:25461/images/2bd779bd11bdd1b10509dfff1f9cf359.png" group-title="Africa Super Sports",South Africa SuperSport Variety 4
+http://ky-tv.cc:25461/live/David59459/2354545444/386583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Action" tvg-logo="data:image/jpeg;base64,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" group-title="Africa Super Sports",South Africa SuperSport Action
+http://ky-tv.cc:25461/live/David59459/2354545444/386585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Cricket" tvg-logo="http://ky-iptv.com:25461/images/50ee4335a5d9f930e185ae47538fecf7.png" group-title="Africa Super Sports",South Africa SuperSport Cricket
+http://ky-tv.cc:25461/live/David59459/2354545444/386586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SUPERSPORT MAXIMO" tvg-logo="http://ky-iptv.com:25461/images/8d23d5133887bc8dae33f46d08cc679d.jpg" group-title="Africa Super Sports",South Africa SUPERSPORT MAXIMO
+http://ky-tv.cc:25461/live/David59459/2354545444/386588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Variety 2" tvg-logo="http://ky-iptv.com:25461/images/544074e4401a467fdde0d42ba7a62c1e.png" group-title="Africa Super Sports",South Africa SuperSport Variety 2
+http://ky-tv.cc:25461/live/David59459/2354545444/386581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Motorsport" tvg-logo="" group-title="Africa Super Sports",South Africa SuperSport Motorsport
+http://ky-tv.cc:25461/live/David59459/2354545444/386584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Football" tvg-logo="http://ky-iptv.com:25461/images/305c9bef1a6761c0360a0f8511250019.png" group-title="Africa Super Sports",South Africa SuperSport Football
+http://ky-tv.cc:25461/live/David59459/2354545444/1019733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Golf" tvg-logo="http://ky-iptv.com:25461/images/0ec07f4fc4578b842185aa99b4bfcd37.png" group-title="Africa Super Sports",South Africa SuperSport Golf
+http://ky-tv.cc:25461/live/David59459/2354545444/1019734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SUPERSPORT MAXIMO 1" tvg-logo="http://ky-iptv.com:25461/images/8d23d5133887bc8dae33f46d08cc679d.jpg" group-title="Africa Super Sports",South Africa SUPERSPORT MAXIMO 1
+http://ky-tv.cc:25461/live/David59459/2354545444/387382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SUPERSPORT BLITZ" tvg-logo="http://ky-iptv.com:25461/images/e41bf6dae0a19b1f8794231d5d08c052.png" group-title="Africa Super Sports",South Africa SUPERSPORT BLITZ
+http://ky-tv.cc:25461/live/David59459/2354545444/386587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Grandstand" tvg-logo="http://ky-iptv.com:25461/images/ad4c133b247c9b50a2adae08faffd885.png" group-title="Africa Super Sports",South Africa SuperSport Grandstand
+http://ky-tv.cc:25461/live/David59459/2354545444/1328208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="South Africa SuperSport Euro2020" tvg-logo="http://ky-iptv.com:25461/images/c8e2aec91de777a7193e3d4234596e50.png" group-title="Africa Super Sports",South Africa SuperSport Euro2020
+http://ky-tv.cc:25461/live/David59459/2354545444/1396666.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC2 4K" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC2 4K
+http://ky-tv.cc:25461/live/David59459/2354545444/1575074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC3 4K" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC3 4K
+http://ky-tv.cc:25461/live/David59459/2354545444/1575075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC4 4K" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC4 4K
+http://ky-tv.cc:25461/live/David59459/2354545444/1575076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC5 4K" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC5 4K
+http://ky-tv.cc:25461/live/David59459/2354545444/1575077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC1 SD" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC1 SD
+http://ky-tv.cc:25461/live/David59459/2354545444/1575087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC5 SD" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC5 SD
+http://ky-tv.cc:25461/live/David59459/2354545444/1575088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC6 SD" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC6 SD
+http://ky-tv.cc:25461/live/David59459/2354545444/1575089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC7 SD" tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/13333.png?64001" group-title="SSC SPORT",SPO: SSC7 SD
+http://ky-tv.cc:25461/live/David59459/2354545444/1575090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC1 HD" tvg-logo="" group-title="SSC SPORT",SPO: SSC1 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1636371.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC2 HD" tvg-logo="" group-title="SSC SPORT",SPO: SSC2 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1636372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC3 HD" tvg-logo="" group-title="SSC SPORT",SPO: SSC3 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1636373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC5 HD" tvg-logo="" group-title="SSC SPORT",SPO: SSC5 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1636374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC4 HD" tvg-logo="" group-title="SSC SPORT",SPO: SSC4 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1636375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC6 HD" tvg-logo="" group-title="SSC SPORT",SPO: SSC6 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1636376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SSC7 HD" tvg-logo="" group-title="SSC SPORT",SPO: SSC7 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/1636377.m3u8
+
+
+
+#EXTINF:-1 tvg-id="beinsport1.fr" tvg-name="FR beIN SPORTS 1" tvg-logo="http://ky-iptv.com:25461/images/05397aa742818786cc39d5712cf65671.png" group-title="FR: France Sports",FR beIN SPORTS 1
+http://ky-tv.cc:25461/live/David59459/2354545444/182316.m3u8
+#EXTINF:-1 tvg-id="beinsport2.fr" tvg-name="FR beIN SPORTS 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/de5db570dc9a71dd9f3e0068bec83540.png" group-title="FR: France Sports",FR beIN SPORTS 2 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182319.m3u8
+#EXTINF:-1 tvg-id="beinsport3.fr" tvg-name="FR beIN SPORTS 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/a6188947f4779c5604682df452c3a0e1.png" group-title="FR: France Sports",FR beIN SPORTS 3 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/324a0ea0009fd126ba8dc2db49382f6b.png" group-title="FR: France Sports",FR: RMC Sport 1 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/1345663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/324a0ea0009fd126ba8dc2db49382f6b.png" group-title="FR: France Sports",FR: RMC Sport 2 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/1345664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/324a0ea0009fd126ba8dc2db49382f6b.png" group-title="FR: France Sports",FR: RMC Sport 3 FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/1345665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR KOMBAT SPORT HD" tvg-logo="http://ky-iptv.com:25461/images/a9585ea3f1f7038cfc5b5622f194e201.png" group-title="FR: France Sports",FR KOMBAT SPORT HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 10 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 10 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 9 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 9 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636093.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 8 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 8 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 7 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 7 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 6 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 6 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 5 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 5 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 4 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 4 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 3 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 3 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 2 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 2 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AMAZON PRIME 1 FHD (LIVE EVENTS ONLY)" tvg-logo="http://ky-iptv.com:25461/images/586f02e703e0f718bc654c9c141f1681.png" group-title="FR: Amazon Prime",FR: AMAZON PRIME 1 FHD (LIVE EVENTS ONLY)
+http://ky-tv.cc:25461/live/David59459/2354545444/1636101.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 01" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 01
+http://ky-tv.cc:25461/live/David59459/2354545444/182352.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 02" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 02
+http://ky-tv.cc:25461/live/David59459/2354545444/182353.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 03" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 03
+http://ky-tv.cc:25461/live/David59459/2354545444/182354.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 04" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 04
+http://ky-tv.cc:25461/live/David59459/2354545444/182355.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 05" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 05
+http://ky-tv.cc:25461/live/David59459/2354545444/182356.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 06" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 06
+http://ky-tv.cc:25461/live/David59459/2354545444/182357.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 07" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 07
+http://ky-tv.cc:25461/live/David59459/2354545444/182358.m3u8
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 08" tvg-logo="http://ky-iptv.com:25461/images/3bcecfc4caa0623c1816345802b87628.png" group-title="FR: France Sports",FR: CANAL PLAY 08
+http://ky-tv.cc:25461/live/David59459/2354545444/182359.m3u8
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="FR Equidia Live" tvg-logo="http://ky-iptv.com:25461/images/4135d9ea9e5149456fd6fef2c7f614b4.png" group-title="FR: France Sports",FR Equidia Live
+http://ky-tv.cc:25461/live/David59459/2354545444/182366.m3u8
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR Equipe 21" tvg-logo="http://ky-iptv.com:25461/images/08acc2238ef62c1ba12bdb126ef04f4d.png" group-title="FR: France Sports",FR Equipe 21
+http://ky-tv.cc:25461/live/David59459/2354545444/182368.m3u8
+#EXTINF:-1 tvg-id="eusrosports1.fr" tvg-name="FR EuroSport 1" tvg-logo="http://ky-iptv.com:25461/images/d150164a5d35a502baa08e9101df684e.png" group-title="FR: France Sports",FR EuroSport 1
+http://ky-tv.cc:25461/live/David59459/2354545444/182370.m3u8
+#EXTINF:-1 tvg-id="eurosports2.fr" tvg-name="FR EuroSport 2" tvg-logo="http://ky-iptv.com:25461/images/8cdfb80c9163d6d3b63f6083ab3a7d44.png" group-title="FR: France Sports",FR EuroSport 2
+http://ky-tv.cc:25461/live/David59459/2354545444/182372.m3u8
+#EXTINF:-1 tvg-id="exsports.fr" tvg-name="FR EXTREME SPORTS HD" tvg-logo="http://ky-iptv.com:25461/images/8280e96b3f0d3ed9652d0a708cb1a2fd.png" group-title="FR: France Sports",FR EXTREME SPORTS HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182374.m3u8
+#EXTINF:-1 tvg-id="foot24.fr" tvg-name="FR Foot24" tvg-logo="http://ky-iptv.com:25461/images/7cb31ec77842c9bbd8dc265184da5a45.png" group-title="FR: France Sports",FR Foot24
+http://ky-tv.cc:25461/live/David59459/2354545444/182375.m3u8
+#EXTINF:-1 tvg-id="gold.fr" tvg-name="FR Golf Channel" tvg-logo="http://ky-iptv.com:25461/images/4bf103d66a014cb4ff2c60b5c321d71d.png" group-title="FR: France Sports",FR Golf Channel
+http://ky-tv.cc:25461/live/David59459/2354545444/182377.m3u8
+#EXTINF:-1 tvg-id="gold.fr" tvg-name="FR Golf Plus" tvg-logo="http://ky-iptv.com:25461/images/4bf103d66a014cb4ff2c60b5c321d71d.png" group-title="FR: France Sports",FR Golf Plus
+http://ky-tv.cc:25461/live/David59459/2354545444/182379.m3u8
+#EXTINF:-1 tvg-id="infosport.fr" tvg-name="FR Infosport HD" tvg-logo="http://ky-iptv.com:25461/images/798d25f9442c95732dfd966a954a9c6b.png" group-title="FR: France Sports",FR Infosport HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182382.m3u8
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="FR RMC Sport Access 2 HD" tvg-logo="http://ky-iptv.com:25461/images/a69219717aee565bc377610e96e15d51.png" group-title="FR: France Sports",FR RMC Sport Access 2 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182386.m3u8
+#EXTINF:-1 tvg-id="RMCSportAccess1.fr" tvg-name="FR RMC Sport Access 3 HD" tvg-logo="http://ky-iptv.com:25461/images/2abb58e1a442f27f10d9f583668c586f.png" group-title="FR: France Sports",FR RMC Sport Access 3 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182387.m3u8
+#EXTINF:-1 tvg-id="rmcsport10.fr" tvg-name="FR RMC Sport Live 10 HD" tvg-logo="http://ky-iptv.com:25461/images/73f7a850dd01387e5f5518c701635cd1.png" group-title="FR: France Sports",FR RMC Sport Live 10 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182390.m3u8
+#EXTINF:-1 tvg-id="rmcsport11.fr" tvg-name="FR RMC Sport Live 11 HD" tvg-logo="http://ky-iptv.com:25461/images/ba236d84ddfb219907a842401438bcac.png" group-title="FR: France Sports",FR RMC Sport Live 11 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182391.m3u8
+#EXTINF:-1 tvg-id="rmcsport12.fr" tvg-name="FR RMC Sport Live 12 HD" tvg-logo="http://ky-iptv.com:25461/images/46b7de88a9173549ed688fa97b505c92.png" group-title="FR: France Sports",FR RMC Sport Live 12 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182392.m3u8
+#EXTINF:-1 tvg-id="rmcsport13.fr" tvg-name="FR RMC Sport Live 13 HD" tvg-logo="http://ky-iptv.com:25461/images/c001c8984064b89d661efc95799bca12.png" group-title="FR: France Sports",FR RMC Sport Live 13 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182393.m3u8
+#EXTINF:-1 tvg-id="rmcsport14.fr" tvg-name="FR RMC Sport Live 14 HD" tvg-logo="http://ky-iptv.com:25461/images/4ff87330169dc4f811e83297fd0c95c7.png" group-title="FR: France Sports",FR RMC Sport Live 14 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182394.m3u8
+#EXTINF:-1 tvg-id="rmcsport16.fr" tvg-name="FR RMC Sport Live 16 HD" tvg-logo="http://ky-iptv.com:25461/images/2419f9d5ac9ed0098d3b887d3e6efa0a.png" group-title="FR: France Sports",FR RMC Sport Live 16 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182396.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive12.fr" tvg-name="FR: RMC Sport Live 2 HD" tvg-logo="http://ky-iptv.com:25461/images/8bc2f6668e579f62e9de17c9c74e1860.png" group-title="FR: France Sports",FR: RMC Sport Live 2 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182397.m3u8
+#EXTINF:-1 tvg-id="RMCSportLive13.fr" tvg-name="FR RMC Sport Live 3" tvg-logo="http://ky-iptv.com:25461/images/bb013de0c898cd2bf0d8453734bed276.png" group-title="FR: France Sports",FR RMC Sport Live 3
+http://ky-tv.cc:25461/live/David59459/2354545444/182399.m3u8
+#EXTINF:-1 tvg-id="rmcsport5.fr" tvg-name="FR RMC Sport Live 5 HD" tvg-logo="http://ky-iptv.com:25461/images/2092612efb3266757fe1c0bd345ed3f3.png" group-title="FR: France Sports",FR RMC Sport Live 5 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182402.m3u8
+#EXTINF:-1 tvg-id="rmcsport6.fr" tvg-name="FR RMC Sport Live 6 HD" tvg-logo="http://ky-iptv.com:25461/images/21237b501688e268ee434eb696bb12cf.png" group-title="FR: France Sports",FR RMC Sport Live 6 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182403.m3u8
+#EXTINF:-1 tvg-id="rmcsport7.fr" tvg-name="FR RMC Sport Live 7 HD" tvg-logo="http://ky-iptv.com:25461/images/b80dbe52324a4e8e3067a0611cc74eb0.png" group-title="FR: France Sports",FR RMC Sport Live 7 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182404.m3u8
+#EXTINF:-1 tvg-id="rmcsport8.fr" tvg-name="FR RMC Sport Live 8 HD" tvg-logo="http://ky-iptv.com:25461/images/914d012fb6a57dd9ecf30cee75cf5057.png" group-title="FR: France Sports",FR RMC Sport Live 8 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182405.m3u8
+#EXTINF:-1 tvg-id="rmcsport9.fr" tvg-name="FR RMC Sport Live 9 HD" tvg-logo="http://ky-iptv.com:25461/images/1e35a555a3133c087973e1879bad1700.png" group-title="FR: France Sports",FR RMC Sport Live 9 HD
+http://ky-tv.cc:25461/live/David59459/2354545444/182406.m3u8
+#EXTINF:-1 tvg-id="canalsport.fr" tvg-name="FR: CANAL PLUS SPORT FHD" tvg-logo="http://ky-iptv.com:25461/images/9f1d297932872604565bf8da98358d5f.png" group-title="FR: France Sports",FR: CANAL PLUS SPORT FHD
+http://ky-tv.cc:25461/live/David59459/2354545444/182428.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="INDIA SERVER",KBS WORLD HD
