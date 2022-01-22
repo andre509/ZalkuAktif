@@ -1,5 +1,210 @@
 #EXTM3U 
 
+
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", ASTRO Citra HD
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71146.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", BOO
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/1697.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", AXN
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60464.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Cinemax
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60480.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", CINEMAX HD
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71058.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", HBO HD
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71057.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", HBO Family
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60474.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", HBO Hits
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60458.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", HBO Signature
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60456.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Hits Movies
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60457.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", MNC Entertainment 
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60466.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Vision Prime
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60291.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", ZBioskop
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60349.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Thrill
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60276.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", TvN
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60281.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", TVN Movies
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60282.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Warner TV
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/60292.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", CELESTIAL
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/1718.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", BOLLYONE HD
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71037.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", CCM
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71046.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", HISTORY HD
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71074.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", AXN HD
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71087.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", WARNER TV
+http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71094.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Thrill
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRxM7vkHPuoAaCzxAiHN_QkU/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", SCM
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR22ihKA2K3ZpdfoDLmDgtLE/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", AXN
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR29su5yi304sJBoViSnmog4/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", CCM
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR5OWA00VGgMPFOA5HEk8Ztw/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Celestial Movies
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1M0EpRtj_SseNoQ9X9u_FE/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Cinema World
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR59m885muvEnOMqO1Fgxtts/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Cinemax
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR57Hi8jQc1QYNteq1DPrCE4/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", History
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1tPCuQZ5lY32u0ujZj3q1k/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Hits
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR8c98MD2Z_fH9MU4l88bjBA/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", HITS_Movies
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR36Y8RjkI0_44HZu6h0K-m0/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", KIX
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7wam-9ABMYM5lnTWf76344/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", TVN
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7qfM6jzAuansw-kBK-fXpM/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", TVN Movies
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9kzgM26bQedOzSgZVf2nGQ/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Warner TV
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR54LFZ4l_M5oGYLGCdyFLG4/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Xing Kong TV
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR1deId0PUkE1NXouHLiMG6w/m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", Zee Bioskop
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRyJgmzr0SXp4BzXFtvj47a0/m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", SKYFLIX 1
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/28.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", SKYFLIX 2
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/29.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", SKYFLIX 3
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/30.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", SKYFLIX 4
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/31.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", BeoutQ Arabic
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/41.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Beout Q Cinema
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/42.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HBO MAX 1
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/119.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HBO MAX 2
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/120.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HBO MAX 3
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/121.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HBO MAX 4 
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/122.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Netflix Comedy - FR
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/114.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", NEtflix Action - FR
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/115.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Netflix Kids - FR
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/116.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Netflix SYFY - FR
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/117.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Netflix Western - FR
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/118.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HULU ACTION
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/32.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HULU ARABIA
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/33.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HULU BOLLYWOOD
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/34.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HULU BOX OFFICE
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", HULU KIDS
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/36.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", DRAGON ACTION
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/37.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Dragon ARABIC 
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/38.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Dragon ULTRA
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/40.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", DRAGON COMEDY
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/39.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Shahid Action
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/43.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", SHAHID ARABIA
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/44.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Shahid Comedy
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/45.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Shahid Documentary
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/46.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Shahid SYFY
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/47.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Infinity Action
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/48.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Iinfinity Comedy
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/49.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Infinity KIDS
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/50.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Infinity Romance
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/51.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Majestic Arabia
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/52.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Majestic Movie
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/53.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", Majestic KIDS
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/54.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", IFLIX Action
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/55.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", IFLIX Arabic
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/56.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", IFLIX Prime
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/57.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtJhjf33/IMG-20220113-155641-461.jpg" group-title="MOVIE ARAB", IFLIX Moudablaj
+#EXTVLCOPT:http-user-agent=nigeria.newstv
+http://chimeratv.live:25461/live/qtvrf/CGssw0dEPO/58.m3u8
+
+
+
 #EXTINF:-1 group-title="INDONESIA",Live 1
 http://141.95.19.219:25461/live/HalowTV/jBwLBZrbhSZp/21.m3u8 
 #EXTINF:-1 group-title="INDONESIA",Live 2
