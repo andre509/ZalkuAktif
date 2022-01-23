@@ -1,6 +1,64 @@
 #EXTM3U 
 
 
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",FWD
+http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Racing Kuda
+http://211.21.12.236:11935/live/cs02.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Golf Ntwork
+http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch Game
+http://211.21.12.236:11935/live/cs04.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch ?
+http://211.21.12.236:11935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Cartoon
+http://211.21.12.236:11935/live/cs12.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Discovery
+http://211.21.12.236:11935/live/cs13.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",History
+http://211.21.12.236:11935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Tbs News
+http://211.21.12.236:11935/live/cs15.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",KbsWorld
+http://211.21.12.236:11935/live/cs16.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",J Musik
+http://211.21.12.236:11935/live/cs17.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch Opera
+http://211.21.12.236:11935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch Hikari
+http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Disnep ch
+http://211.21.12.236:11935/live/cs20.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch 1
+http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch 2
+http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Golf
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Mahjong ch
+http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Animax
+http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Sport Golf2
+http://211.21.12.236:11935/live/cs26.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Movie
+http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch Hook
+http://211.21.12.236:11935/live/cs28.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Ch Drama
+http://211.21.12.236:11935/live/cs29.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK", J Sport
+http://211.21.12.236:11935/live/cs05.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK", J Sport 2
+http://211.21.12.236:11935/live/cs06.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK", J Sport 3
+http://211.21.12.236:11935/live/cs07.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK", J Sport 4
+http://211.21.12.236:11935/live/cs09.stream/playlist.m3u8
+#EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK", Sport WWW
+http://211.21.12.236:11935/live/cs08.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", ASTRO Citra HD
 http://mvu03.wanicelife.com:8880/live/SY12B213/NGR7956A/71146.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIES NET", BOO
