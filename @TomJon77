@@ -1,6 +1,9 @@
 #EXTM3U 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2L6vMGB/IMG-20211217-163943-107.jpg" group-title="SPORT RANCAK TES",Bein English1 FHD
+http://84.16.224.202:8080/LE_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2L6vMGB/IMG-20211217-163943-107.jpg" group-title="SPORT RANCAK TES",Bein English2 FHD
+http://84.16.224.202:8080/LE_4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",FWD
 http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8
 #EXTINF:-1 logo="https://i.postimg.cc/q7Ystqcg/IMG-20211216-161054-252.jpg" group-title="JAPAN RANCAK",Racing Kuda
