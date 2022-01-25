@@ -10,10 +10,13 @@ http://103.153.39.36:8000/play/a00j
 #EXTINF: -1  group-title="INDIA", MAX ᴴᴰ⁺ 
 http://103.153.39.36:8000/play/a00h
 #EXTINF: -1  group-title="INDIA", MN+ ᴴᴰ⁺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
 http://103.153.39.36:8000/play/a00u
 #EXTINF: -1  group-title="INDIA", MNX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
 http://103.153.39.36:8000/play/a01h
 #EXTINF: -1  group-title="INDIA", MOVIES NO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
 http://103.153.39.36:8000/play/a01i
 #EXTINF: -1  group-title="INDIA", NAT Geo Wild ᴴᴰ⁺
 http://103.153.39.36:8000/play/a00i
@@ -22,6 +25,7 @@ http://103.153.39.36:8000/play/a00x
 #EXTINF: -1  group-title="INDIA", Nick Jr. 
 http://103.153.39.36:8000/play/a023
 #EXTINF: -1  group-title="INDIA", PIX ᴴᴰ⁺ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20120101 Firefox/33.0
 http://103.153.39.36:8000/play/a016
 #EXTINF: -1  group-title="INDIA", Pogo 
 http://103.153.39.36:8000/play/a022
