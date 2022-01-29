@@ -1,5 +1,167 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="ALL BeIN SPORT",Bein Max 1HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Max 2HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 3HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Max 3HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 4HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Max 4HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1SD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="ALL BeIN SPORT",Bein Max 1SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Max 2SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 1low" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Max 1low
+http://20.118.128.16:2082/live/dzwin1/dzwin1/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Max 2low" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Max 2low
+http://20.118.128.16:2082/live/dzwin1/dzwin1/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="ALL BeIN SPORT",Bein News
+http://20.118.128.16:2082/live/dzwin1/dzwin1/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="ALL BeIN SPORT",Bein Sports
+http://20.118.128.16:2082/live/dzwin1/dzwin1/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4K" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/4k_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Sports 4K
+http://20.118.128.16:2082/live/dzwin1/dzwin1/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f892%2fbein-sports-premium-1.png" group-title="ALL BeIN SPORT",BeinSport_Prem1HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f893%2fbein-sports-premium-1.png" group-title="ALL BeIN SPORT",BeinSport_Prem2HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f894%2fbein-sports-premium-1.png" group-title="ALL BeIN SPORT",BeinSport_Prem3HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa.png" group-title="ALL BeIN SPORT",Bein Sports 1 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa.png" group-title="ALL BeIN SPORT",Bein Sports 2 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa.png" group-title="ALL BeIN SPORT",Bein Sports 3 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-4-qa.png" group-title="ALL BeIN SPORT",Bein Sports 4 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-5-qa.png" group-title="ALL BeIN SPORT",Bein Sports 5 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-6-qa.png" group-title="ALL BeIN SPORT",Bein Sports 6 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-7-qa.png" group-title="ALL BeIN SPORT",Bein Sports 7 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Bein Xtra1 HD" tvg-logo="" group-title="ALL BeIN SPORT",AR:Bein Xtra1 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR:Bein Xtra2 HD" tvg-logo="" group-title="ALL BeIN SPORT",AR:Bein Xtra2 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports_ENG1HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f213%2fbein-sports-english-1.png" group-title="ALL BeIN SPORT",Bein Sports_ENG1HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports_ENG2HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f214%2fbein-sports-english-1.png" group-title="ALL BeIN SPORT",Bein Sports_ENG2HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports FRA1HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="ALL BeIN SPORT",BeinSports FRA1HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports FRA2HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="ALL BeIN SPORT",BeinSports FRA2HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports FRA3HD" tvg-logo="https://img.kooora.com/?i=o%2fh%2f1%2f362%2fbein-sports-french-1.png" group-title="ALL BeIN SPORT",BeinSports FRA3HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1FHD" tvg-logo="http://logo.ndasat.com/iptv/images/40478_mbcpro1.png" group-title="ALL BeIN SPORT",BeinSport_Prem1FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2FHD" tvg-logo="http://logo.ndasat.com/iptv/images/53425_mbcpro2.png" group-title="ALL BeIN SPORT",BeinSport_Prem2FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3FHD" tvg-logo="http://logo.ndasat.com/iptv/images/57953_mbcpro1.png" group-title="ALL BeIN SPORT",BeinSport_Prem3FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 FHD" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 1 FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2 FHD" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 2 FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3 FHD" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 3 FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4 FHD" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 4 FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5 FHD" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 5 FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports  6 FHD" tvg-logo="http://logo.ndasat.com/iptv/images/39166_logomobiledzair.png" group-title="ALL BeIN SPORT",Bein Sports  6 FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7 FHD" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 7 FHD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/54.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport Prem1HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="ALL BeIN SPORT",BeinSport Prem1HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport Prem2HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="ALL BeIN SPORT",BeinSport Prem2HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport Prem3HQ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="ALL BeIN SPORT",BeinSport Prem3HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports  1HQ" tvg-logo="http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="ALL BeIN SPORT",Bein Sports  1HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2HQ" tvg-logo="http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="ALL BeIN SPORT",Bein Sports 2HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3HQ" tvg-logo="http://logo.ndasat.com/iptv/images/78849_unnamed.png" group-title="ALL BeIN SPORT",Bein Sports 3HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4HQ" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 4HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/62.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5HQ" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 5HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6HQ" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 6HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7HQ" tvg-logo="" group-title="ALL BeIN SPORT",Bein Sports 7HQ
+http://20.118.128.16:2082/live/dzwin1/dzwin1/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem1SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="ALL BeIN SPORT",BeinSport_Prem1SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem2SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="ALL BeIN SPORT",BeinSport_Prem2SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSport_Prem3SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="ALL BeIN SPORT",BeinSport_Prem3SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 1 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa.png" group-title="ALL BeIN SPORT",BeinSports 1 SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 2 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa.png" group-title="ALL BeIN SPORT",BeinSports 2 SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 3 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa.png" group-title="ALL BeIN SPORT",BeinSports 3 SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 4 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_tr_sports_04_hd.png" group-title="ALL BeIN SPORT",BeinSports 4 SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 5 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-5-qa.png" group-title="ALL BeIN SPORT",Beinsports 5 SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beinsports 6 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-6-qa.png" group-title="ALL BeIN SPORT",Beinsports 6 SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeinSports 7 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-7-qa.png" group-title="ALL BeIN SPORT",BeinSports 7 SD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/76.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="ALL BeIN SPORT",FR:Bein Sport 1 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="ALL BeIN SPORT",FR:Bein Sport 2 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="ALL BeIN SPORT",FR:Bein Sport 3 HD
+http://20.118.128.16:2082/live/dzwin1/dzwin1/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-max-4-qa-fr.png" group-title="ALL BeIN SPORT",FR:BEIN SPORT MAX4
+http://20.118.128.16:2082/live/dzwin1/dzwin1/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_05_hd.png" group-title="ALL BeIN SPORT",FR:BEIN SPORT MAX5
+http://20.118.128.16:2082/live/dzwin1/dzwin1/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_06_hd.png" group-title="ALL BeIN SPORT",FR:BEIN SPORT MAX6
+http://20.118.128.16:2082/live/dzwin1/dzwin1/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_07_hd.png" group-title="ALL BeIN SPORT",FR:BEIN SPORT MAX7
+http://20.118.128.16:2082/live/dzwin1/dzwin1/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:BEIN SPORT MAX8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_08_hd.png" group-title="ALL BeIN SPORT",FR:BEIN SPORT MAX8
+http://20.118.128.16:2082/live/dzwin1/dzwin1/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="ALL BeIN SPORT",FR:RMC Sport 1
+http://20.118.128.16:2082/live/dzwin1/dzwin1/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="ALL BeIN SPORT",FR:RMC Sport 2
+http://20.118.128.16:2082/live/dzwin1/dzwin1/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 3" tvg-logo="https://tvepg.eu/img/luxembourg/logo/rmc_sport_3.png" group-title="ALL BeIN SPORT",FR:RMC Sport 3
+http://20.118.128.16:2082/live/dzwin1/dzwin1/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport 4" tvg-logo="https://tvepg.eu/img/luxembourg/logo/rmc_sport_4.png" group-title="ALL BeIN SPORT",FR:RMC Sport 4
+http://20.118.128.16:2082/live/dzwin1/dzwin1/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live5" tvg-logo="http://fauconteam.com//logo//RMC-SPORT-LIVE-5-HD.png" group-title="ALL BeIN SPORT",FR:RMC Sport Live5
+http://20.118.128.16:2082/live/dzwin1/dzwin1/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live6" tvg-logo="http://fauconteam.com//logo//RMC-SPORT-LIVE-6-HD.png" group-title="ALL BeIN SPORT",FR:RMC Sport Live6
+http://20.118.128.16:2082/live/dzwin1/dzwin1/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live7" tvg-logo="http://fauconteam.com//logo//RMC-SPORT-LIVE-7-HD.png" group-title="ALL BeIN SPORT",FR:RMC Sport Live7
+http://20.118.128.16:2082/live/dzwin1/dzwin1/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC Sport Live8" tvg-logo="http://fauconteam.com//logo//RMC-SPORT-LIVE-8-HD.png" group-title="ALL BeIN SPORT",FR:RMC Sport Live8
+http://20.118.128.16:2082/live/dzwin1/dzwin1/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports1" tvg-logo="" group-title="ALL BeIN SPORT",SSC Sports1
+http://20.118.128.16:2082/live/dzwin1/dzwin1/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports2" tvg-logo="" group-title="ALL BeIN SPORT",SSC Sports2
+http://20.118.128.16:2082/live/dzwin1/dzwin1/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports3" tvg-logo="" group-title="ALL BeIN SPORT",SSC Sports3
+http://20.118.128.16:2082/live/dzwin1/dzwin1/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports4" tvg-logo="" group-title="ALL BeIN SPORT",SSC Sports4
+http://20.118.128.16:2082/live/dzwin1/dzwin1/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports5" tvg-logo="" group-title="ALL BeIN SPORT",SSC Sports5
+http://20.118.128.16:2082/live/dzwin1/dzwin1/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports6" tvg-logo="" group-title="ALL BeIN SPORT",SSC Sports6
+http://20.118.128.16:2082/live/dzwin1/dzwin1/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sports7" tvg-logo="" group-title="ALL BeIN SPORT",SSC Sports7
+http://20.118.128.16:2082/live/dzwin1/dzwin1/108.m3u8
 
 #EXTINF: -1  group-title="INDIA", FOX Life ᴴᴰ⁺
 http://103.153.39.36:8000/play/a01t
