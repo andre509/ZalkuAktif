@@ -1,4 +1,90 @@
 #EXTM3U 
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1" tvg-logo="" group-title="BEIN SPORTS",BeIN PREMIUM 1
+http://maxq.live:25461/000123/111/605
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2" tvg-logo="" group-title="BEIN SPORTS",BeIN PREMIUM 2
+http://maxq.live:25461/000123/111/606
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 1" tvg-logo="http://2111.space:8080/images/CAF.png" group-title="BEIN SPORTS",BeIN SPORT Max 1
+http://maxq.live:25461/000123/111/607
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 2" tvg-logo="http://2111.space:8080/images/CAF.png" group-title="BEIN SPORTS",BeIN SPORT Max 2
+http://maxq.live:25461/000123/111/608
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1 PREMIUM HD" tvg-logo="" group-title="BEIN SPORTS",BEIN 1 PREMIUM HD
+http://maxq.live:25461/000123/111/492
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 2 PREMIUM HD" tvg-logo="" group-title="BEIN SPORTS",BEIN 2 PREMIUM HD
+http://maxq.live:25461/000123/111/474
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3 PREMIUM HD" tvg-logo="" group-title="BEIN SPORTS",BEIN 3 PREMIUM HD
+http://maxq.live:25461/000123/111/475
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 1 HD
+http://maxq.live:25461/000123/111/476
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 2 HD
+http://maxq.live:25461/000123/111/477
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 3 HD
+http://maxq.live:25461/000123/111/478
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 HD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 4 HD
+http://maxq.live:25461/000123/111/479
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 HD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 5 HD
+http://maxq.live:25461/000123/111/480
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 HD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 6 HD
+http://maxq.live:25461/000123/111/481
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 HD" tvg-logo="" group-title="BEIN SPORTS",BEIN SPORTS 7 HD
+http://maxq.live:25461/000123/111/482
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="http://2111.space:8080/images/CAF.png" group-title="BEIN SPORTS",Bein Sports Max 1 HD
+http://maxq.live:25461/000123/111/895
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="http://2111.space:8080/images/CAF.png" group-title="BEIN SPORTS",Bein Sports Max 2 HD
+http://maxq.live:25461/000123/111/896
+#EXTINF:-1 tvg-id="" tvg-name="SSC HD" tvg-logo="" group-title="BEIN SPORTS",SSC HD
+http://maxq.live:25461/000123/111/897
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1 SD" tvg-logo="" group-title="BEIN SPORTS",BeIN PREMIUM 1 SD
+http://maxq.live:25461/000123/111/890
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2 SD" tvg-logo="" group-title="BEIN SPORTS",BeIN PREMIUM 2 SD
+http://maxq.live:25461/000123/111/891
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 1 SD" tvg-logo="" group-title="BEIN SPORTS",BeIN SPORT Max 1 SD
+http://maxq.live:25461/000123/111/892
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 2 SD" tvg-logo="" group-title="BEIN SPORTS",BeIN SPORT Max 2 SD
+http://maxq.live:25461/000123/111/893
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 1 low" tvg-logo="" group-title="BEIN SPORTS",BeIN PREMIUM 1 low
+http://maxq.live:25461/000123/111/902
+#EXTINF:-1 tvg-id="" tvg-name="BeIN PREMIUM 2 low" tvg-logo="" group-title="BEIN SPORTS",BeIN PREMIUM 2 low
+http://maxq.live:25461/000123/111/903
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 1 Low" tvg-logo="" group-title="BEIN SPORTS",BeIN SPORT Max 1 Low
+http://maxq.live:25461/000123/111/904
+#EXTINF:-1 tvg-id="" tvg-name="BeIN SPORT Max 2 Low" tvg-logo="" group-title="BEIN SPORTS",BeIN SPORT Max 2 Low
+http://maxq.live:25461/000123/111/905
+
+#EXTINF:-1 tvg-chno="117" tvg-id="" tvg-name="Bein sport 1 4K" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/917686183939682314/Logopit_1638863771985.png" group-title="SPORTS METI",Bein sport 1 4K
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/211
+#EXTINF:-1 tvg-chno="118" tvg-id="" tvg-name="Bein sport 2 4K" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/917686183939682314/Logopit_1638863771985.png" group-title="SPORTS METI",Bein sport 2 4K
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/212
+#EXTINF:-1 tvg-chno="119" tvg-id="" tvg-name="Bein sport 3 4K" tvg-logo="https://cdn.discordapp.com/attachments/696720405800419360/917686183939682314/Logopit_1638863771985.png" group-title="SPORTS METI",Bein sport 3 4K
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/213
+#EXTINF:-1 tvg-chno="107" tvg-id="" tvg-name="Super sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="SPORTS METI",Super sport 1 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/87
+#EXTINF:-1 tvg-chno="108" tvg-id="" tvg-name="Super sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="SPORTS METI",Super sport 2 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/88
+#EXTINF:-1 tvg-chno="109" tvg-id="" tvg-name="Super sport 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="SPORTS METI",Super sport 2 FHD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/89
+#EXTINF:-1 tvg-chno="110" tvg-id="" tvg-name="Super sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="SPORTS METI",Super sport 3 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/90
+#EXTINF:-1 tvg-chno="111" tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="SPORTS METI",Super Sport 4 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/91
+#EXTINF:-1 tvg-chno="112" tvg-id="" tvg-name="Tring sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="SPORTS METI",Tring sport 1 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/93
+#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-name="Tring sport 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="SPORTS METI",Tring sport 2 FHD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/94
+#EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="Tring sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="SPORTS METI",Tring sport 3 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/96
+#EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="Rtsh sport" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Sport.png" group-title="SPORTS METI",Rtsh sport
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/102
+#EXTINF:-1 tvg-chno="116" tvg-id="" tvg-name="Arena sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Arena%20Sport%202.png" group-title="SPORTS METI",Arena sport 2 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/200
+#EXTINF:-1 tvg-chno="120" tvg-id="" tvg-name="Arena Premium 1 HD" tvg-logo="" group-title="SPORTS METI",Arena Premium 1 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/323
+#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="Arena Premium 2 HD" tvg-logo="" group-title="SPORTS METI",Arena Premium 2 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/324
+#EXTINF:-1 tvg-chno="122" tvg-id="" tvg-name="Arena Premium 3 HD" tvg-logo="" group-title="SPORTS METI",Arena Premium 3 HD
+http://78.31.67.69:8080/MetiTV1shkurtmbyllet/s2UK8vu86a/325
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 1HD" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="ALL BeIN SPORT",Bein Max 1HD
 http://20.118.128.16:2082/live/dzwin1/dzwin1/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Max 2HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="ALL BeIN SPORT",Bein Max 2HD
