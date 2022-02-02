@@ -1,4 +1,36 @@
 #EXTM3U 
+
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK", HBO Backup
+#https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757958
+https://Lnk.ec/hboID?shareext.ts
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK", HBO Signature
+#https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757959
+https://Lnk.ec/hboSigID?shareext.ts
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK", HBO Family
+#https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757960
+https://Lnk.ec/hboFamID?shareext.ts
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK", HBO Hits
+#https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757961
+https://Lnk.ec/hboHitsID?shareext.ts
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK", HBO CINEMAX
+#https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757963
+https://Lnk.ec/cinemaxID?shareext.ts
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK",HBO
+https://dik.si/hbosyarman
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK",HBO Family
+https://dik.si/hbofamsyarman
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK",HBO Hits
+https://dik.si/hbohitsyarman
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK",CINEMAX
+https://dik.si/cinemaxsyarman
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK",HBO HD(china)
+http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK",Cinemax(china)
+http://211.23.114.106:8559/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
+#EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK",SCMOVIE
+https://lnk.ec/scmovie?shareext.ts
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LINK SPORTS",SPORT 1
 https://zg9ub-3rjb3b-5cg44aa-pktraom.googglecdns.com/edu/ch02/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LINK SPORTS",SPORT 2
