@@ -1,5 +1,92 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg" group-title="MOVIE-MOVIE",MBC 1
+http://195.88.87.241:25461/abc2021/0987654321/54
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg" group-title="MOVIE-MOVIE",MBC 2
+http://195.88.87.241:25461/abc2021/0987654321/55
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg" group-title="MOVIE-MOVIE",MBC 3
+http://195.88.87.241:25461/abc2021/0987654321/56
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg" group-title="MOVIE-MOVIE",MBC 4
+http://195.88.87.241:25461/abc2021/0987654321/57
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg" group-title="MOVIE-MOVIE",MBC 5
+http://195.88.87.241:25461/abc2021/0987654321/58
+#EXTINF:-1 tvg-id="" tvg-name="MBC أكشن" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg" group-title="MOVIE-MOVIE",MBC أكشن
+http://195.88.87.241:25461/abc2021/0987654321/59
+#EXTINF:-1 tvg-id="" tvg-name="MBC بوليوود" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MOVIE-MOVIE",MBC بوليوود
+http://195.88.87.241:25461/abc2021/0987654321/60
+#EXTINF:-1 tvg-id="" tvg-name="MBC دراما" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg" group-title="MOVIE-MOVIE",MBC دراما
+http://195.88.87.241:25461/abc2021/0987654321/61
+#EXTINF:-1 tvg-id="" tvg-name="MBC دراما  بلس" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg" group-title="MOVIE-MOVIE",MBC دراما  بلس
+http://195.88.87.241:25461/abc2021/0987654321/62
+#EXTINF:-1 tvg-id="" tvg-name="MBC مصر 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg" group-title="MOVIE-MOVIE",MBC مصر 1
+http://195.88.87.241:25461/abc2021/0987654321/63
+#EXTINF:-1 tvg-id="" tvg-name="MBC مصر 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg" group-title="MOVIE-MOVIE",MBC مصر 2
+http://195.88.87.241:25461/abc2021/0987654321/64
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR MAX" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg" group-title="MOVIE-MOVIE",MBC MASR MAX
+http://195.88.87.241:25461/abc2021/0987654321/65
+#EXTINF:-1 tvg-id="" tvg-name="MBC-PARSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MBC_Persia.jpg/220px-MBC_Persia.jpg" group-title="MOVIE-MOVIE",MBC-PARSIA
+http://195.88.87.241:25461/abc2021/0987654321/12342
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Action" tvg-logo="" group-title="MOVIE-MOVIE",AV:Netflix Action
+http://195.88.87.241:25461/abc2021/0987654321/11037
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish1" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish1
+http://195.88.87.241:25461/live/abc2021/0987654321/12817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish3" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish3
+http://195.88.87.241:25461/live/abc2021/0987654321/12818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish2" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish2
+http://195.88.87.241:25461/live/abc2021/0987654321/12819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish4" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish4
+http://195.88.87.241:25461/live/abc2021/0987654321/12820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish5" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish5
+http://195.88.87.241:25461/live/abc2021/0987654321/12821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish6" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish6
+http://195.88.87.241:25461/live/abc2021/0987654321/12822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish7" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish7
+http://195.88.87.241:25461/live/abc2021/0987654321/12823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish8" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish8
+http://195.88.87.241:25461/live/abc2021/0987654321/12824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:BoxEnglish9" tvg-logo="" group-title="MOVIE-MOVIE",BO:BoxEnglish9
+http://195.88.87.241:25461/live/abc2021/0987654321/12825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BO:Boxindia2" tvg-logo="" group-title="MOVIE-MOVIE",BO:Boxindia2
+http://195.88.87.241:25461/live/abc2021/0987654321/12826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Scifi" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="MOVIE-MOVIE",Netflix Scifi
+http://195.88.87.241:25461/abc2021/0987654321/11038
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Thriller" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="MOVIE-MOVIE",AV:Netflix Thriller
+http://195.88.87.241:25461/abc2021/0987654321/11039
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Drama" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="MOVIE-MOVIE",AV:Netflix Drama
+http://195.88.87.241:25461/abc2021/0987654321/11040
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Comedy" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="MOVIE-MOVIE",AV:Netflix Comedy
+http://195.88.87.241:25461/abc2021/0987654321/11041
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Classic" tvg-logo="http://logo.ndasat.com/iptv/images/21010_dcbbb60dcd49ddfa3376513edacf9fcd.jpg" group-title="MOVIE-MOVIE",AV:Netflix Classic
+http://195.88.87.241:25461/abc2021/0987654321/11042
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Bollywood" tvg-logo="http://logo.ndasat.com/iptv/images/43632_400_F_8217801_7dW3tD4PB91VkuSHH5KKihOkvLrgkyNh.jpg" group-title="MOVIE-MOVIE",Netflix Bollywood
+http://195.88.87.241:25461/abc2021/0987654321/11043
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Disney 2" tvg-logo="" group-title="MOVIE-MOVIE",AV:Netflix Disney 2
+http://195.88.87.241:25461/abc2021/0987654321/11045
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Zaman" tvg-logo="" group-title="MOVIE-MOVIE",AV:Netflix Zaman
+http://195.88.87.241:25461/abc2021/0987654321/11046
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Arabic2" tvg-logo="" group-title="MOVIE-MOVIE",AV:Netflix Arabic2
+http://195.88.87.241:25461/abc2021/0987654321/11047
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Turkish" tvg-logo="" group-title="MOVIE-MOVIE",Netflix Turkish
+http://195.88.87.241:25461/abc2021/0987654321/11048
+#EXTINF:-1 tvg-id="" tvg-name="AV:Netflix Turkish2" tvg-logo="" group-title="MOVIE-MOVIE",AV:Netflix Turkish2
+http://195.88.87.241:25461/abc2021/0987654321/11049
+#EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="http://logo.ndasat.com/iptv/images/97482_OMF.jpg" group-title="MOVIE-MOVIE",Mix Hollywood
+http://195.88.87.241:25461/abc2021/0987654321/11050
+#EXTINF:-1 tvg-id="" tvg-name="AV:BeoutQ Movies1" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="MOVIE-MOVIE",AV:BeoutQ Movies1
+http://195.88.87.241:25461/abc2021/0987654321/11550
+#EXTINF:-1 tvg-id="" tvg-name="AV:BeoutQ Movies2" tvg-logo="" group-title="MOVIE-MOVIE",AV:BeoutQ Movies2
+http://195.88.87.241:25461/abc2021/0987654321/11551
+#EXTINF:-1 tvg-id="" tvg-name="AV:BeoutQ Action1" tvg-logo="" group-title="MOVIE-MOVIE",AV:BeoutQ Action1
+http://195.88.87.241:25461/abc2021/0987654321/11552
+#EXTINF:-1 tvg-id="" tvg-name="AV:BeoutQ Aflam1" tvg-logo="" group-title="MOVIE-MOVIE",AV:BeoutQ Aflam1
+http://195.88.87.241:25461/abc2021/0987654321/11553
+#EXTINF:-1 tvg-id="" tvg-name="AV:BeoutQ Cinema" tvg-logo="" group-title="MOVIE-MOVIE",AV:BeoutQ Cinema
+http://195.88.87.241:25461/abc2021/0987654321/11554
+#EXTINF:-1 tvg-id="" tvg-name="AV:BeoutQ Kids" tvg-logo="" group-title="MOVIE-MOVIE",AV:BeoutQ Kids
+http://195.88.87.241:25461/abc2021/0987654321/11555
+
+
+
 #EXTINF: -1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE RANCAK", HBO Backup
 #https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757958
 https://Lnk.ec/hboID?shareext.ts
