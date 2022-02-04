@@ -1,5 +1,17 @@
 #EXTM3U 
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Arena 1
+https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757643
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Super Sport 1
+https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757645
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Super Sport 2
+https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757646
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Super Sport 3
+https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757647
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Super Sport 4
+https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757648
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Filma 24
 http://62.210.152.92:25461/kanale2/Ass/34
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",GOLD 1 HD
