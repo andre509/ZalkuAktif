@@ -1,5 +1,33 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Filma 24
+http://62.210.152.92:25461/kanale2/Ass/34
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",GOLD 1 HD
+http://62.210.152.92:25461/kanale2/Ass/35
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Premium 2 HD
+http://62.210.152.92:25461/kanale2/Ass/36
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Premium 3 
+http://62.210.152.92:25461/kanale2/Ass/80
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",ACTION HD
+http://62.210.152.92:25461/kanale2/Ass/37
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Premium 1 HD
+http://62.210.152.92:25461/kanale2/Ass/38
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Fantazi HD
+http://62.210.152.92:25461/kanale2/Ass/39
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",X Family
+http://62.210.152.92:25461/kanale2/Ass/40
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",PREMIER 1
+http://62.210.152.92:25461/kanale2/Ass/41
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Triller HD
+http://62.210.152.92:25461/kanale2/Ass/42
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",Gold 2
+http://62.210.152.92:25461/kanale2/Ass/43
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",RTSH Film
+http://62.210.152.92:25461/kanale2/Ass/59
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QQ7KVjY/MOVIE-ARAB.jpg" group-title="MOVIE-MOVIE",TDC
+http://62.210.152.92:25461/kanale2/Ass/60
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg" group-title="MOVIE-MOVIE",MBC 1
 http://195.88.87.241:25461/abc2021/0987654321/54
 #EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg" group-title="MOVIE-MOVIE",MBC 2
