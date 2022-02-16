@@ -1,5 +1,29 @@
 #EXTM3U 
 
+#EXTINF:-1 group-title="NETCOFFE",Techstorm
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/585
+#EXTINF:-1 group-title="NETCOFFE",HBO Family ID
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/656
+#EXTINF:-1 group-title="NETCOFFE",HBO Hits ID
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/657
+#EXTINF:-1 group-title="NETCOFFE",HBO Signature ID
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/658
+#EXTINF:-1 group-title="NETCOFFE",Cinemax ID
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/659
+#EXTINF:-1 group-title="NETCOFFE",HBO ID
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/655
+#EXTINF:-1 group-title="NETCOFFE",Flik ᴵᴰ
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/647
+#EXTINF:-1 group-title="NETCOFFE",Thrill ᴵᴰ
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/648
+#EXTINF:-1 group-title="NETCOFFE",HITS ᴵᴰ
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/649
+#EXTINF:-1 group-title="NETCOFFE",HITS Movies ᴵᴰ
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/650
+#EXTINF:-1 group-title="NETCOFFE",MY Familychannel ID
+http://live.netcoffee.id:25005/test/bisaoffkapanaja/652
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Arena 1
 https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757643
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Super Sport 1
