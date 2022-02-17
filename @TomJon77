@@ -2,25 +2,28 @@
 
 #EXTINF:-1 group-title="NETCOFFE",Techstorm
 http://live.netcoffee.id:25005/test/bisaoffkapanaja/585
+#EXTINF:-1 group-title="NETCOFFE",HBO
+https://t.ly/HboSantuy
+#EXTINF:-1 group-title="NETCOFFE",HBO Sig
+https://t.ly/SigSantuy
 #EXTINF:-1 group-title="NETCOFFE",HBO Family ID
 https://t.ly/HbofamSantuy
 #EXTINF:-1 group-title="NETCOFFE",HBO Hits ID
-https://soo.gd/hbohitssantuy13
-http://live.netcoffee.id:25005/test/bisaoffkapanaja/658
+https://t.ly/hbohitsSantuy
 #EXTINF:-1 group-title="NETCOFFE",Cinemax ID
-https://soo.gd/cinemaxSantuy
-http://live.netcoffee.id:25005/test/bisaoffkapanaja/655
+https://t.ly/CinemaxSantuy
 #EXTINF:-1 group-title="NETCOFFE",Flik ᴵᴰ
 http://live.netcoffee.id:25005/test/bisaoffkapanaja/647
 #EXTINF:-1 group-title="NETCOFFE",Thrill ᴵᴰ
 http://live.netcoffee.id:25005/test/bisaoffkapanaja/648
 #EXTINF:-1 group-title="NETCOFFE",HITS ᴵᴰ
-http://live.netcoffee.id:25005/test/bisaoffkapanaja/649
+https://t.ly/HitsSantuy
 #EXTINF:-1 group-title="NETCOFFE",HITS Movies ᴵᴰ
-http://live.netcoffee.id:25005/test/bisaoffkapanaja/650
+https://t.ly/HitMovieSantuy
 #EXTINF:-1 group-title="NETCOFFE",MY Familychannel ID
-http://live.netcoffee.id:25005/test/bisaoffkapanaja/652
-
+https://t.ly/MyfamchSantuy
+#EXTINF:-1 group-title="NETCOFFE",UseeSpot1
+https://t.ly/UseeSport1Santuy
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORT RANCAK TES", Astro Arena 1
 https://m3u-editor.com/serve/3a75dd20-686d-11ec-a82a-3f161b2ea01e/461757643
