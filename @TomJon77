@@ -4141,6 +4141,76 @@ https://eiei.livedoomovies.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTTHAI EIEI 2" ,SKYNET SPORTSHD 
+https://eiei.livedoomovie.com:4432/03_skynetsporthd_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTTHAI EIEI 2", SKYNET SPORTS1 
+https://eiei.livedoomovie.com:4432/03_skynetsport1_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTTHAI EIEI 2", SKYNET SPORTS2 
+https://eiei.livedoomovie.com:4432/03_skynetsport2_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTTHAI EIEI 2", SKYNET SPORTS3 
+https://eiei.livedoomovie.com:4432/03_skynetsport3_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTTHAI EIEI 2", SKYNET SPORTS4 
+https://eiei.livedoomovie.com:4432/03_skynetsport4_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTTHAI EIEI 2", SKYNET SPORTS5 
+https://eiei.livedoomovie.com:4432/03_skynetsport5_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTTHAI EIEI 2", SKYNET SPORTS6 
+https://eiei.livedoomovie.com:4432/03_skynetsport6_480p/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", SPOTV 1
+https://eiei.livedoomovie.com:4432/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", SPOTV
+https://eiei.livedoomovie.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", SPOTV 2
+https://eiei.livedoomovie.com:4432/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTTHAI EIEI 2", Bein Sport 1
+https://eiei.livedoomovie.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTTHAI EIEI 2", Bein Sport 2(720p)
+https://eiei.livedoomovie.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTTHAI EIEI 2", Bein Sport 2
+https://eiei.livedoomovie.com:4432/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTTHAI EIEI 2",NBA True
+https://eiei.livedoomovie.com:4432/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTTHAI EIEI 2",True Tennis
+https://eiei.livedoomovie.com:4432/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTTHAI EIEI 2",Golf Channel Thailand True
+https://eiei.livedoomovie.com:4432/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", PremierHD1
+https://eiei.livedoomovie.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", PremierHD2
+https://eiei.livedoomovie.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", PremierHD3
+https://eiei.livedoomovie.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", PremierHD4
+https://eiei.livedoomovie.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", PremierHD5
+https://eiei.livedoomovie.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", True sporthd1
+https://eiei.livedoomovie.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", True sporthd2
+https://eiei.livedoomovie.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", True sporthd3
+https://eiei.livedoomovie.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", True sport5
+https://eiei.livedoomovie.com:4432/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", True sport6
+https://eiei.livedoomovie.com:4432/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", True sport7
+https://eiei.livedoomovie.com:4432/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", Sport TV 1
+https://eiei.livedoomovie.com:4432/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", Sport TV 2
+https://eiei.livedoomovie.com:4432/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", Sport TV 3
+https://eiei.livedoomovie.com:4432/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", Sport TV 4
+https://eiei.livedoomovie.com:4432/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTTHAI EIEI 2", Sport TV 5
+https://eiei.livedoomovie.com:4432/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="CUP",CH 1
