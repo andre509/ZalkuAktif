@@ -1,5 +1,49 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE A1
+http://cdn4.cyclingnews.live/hls/Q1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE A2
+http://cdn4.cyclingnews.live/hls/Q2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE A3
+http://cdn4.cyclingnews.live/hls/Q3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE A4
+http://cdn4.cyclingnews.live/hls/Q4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 1
+http://lnk.ec/Sportsantuy1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 2
+http://lnk.ec/Sportsantuy2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 3
+http://lnk.ec/Sportsantuy3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 4
+http://lnk.ec/Sportsantuy4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 1b
+http://lnk.ec/Santuy5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 2b
+http://lnk.ec/Santuy6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 3b
+http://lnk.ec/Santuy7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 4b
+http://lnk.ec/Santuy8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 1c
+http://45.134.21.199/hls/S1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 2c
+http://45.134.21.199/hls/S2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 3c
+http://45.134.21.199/hls/S3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 4c
+http://45.134.21.199/hls/S4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 1d
+http://77.247.109.249/hls/T1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 2d
+http://77.247.109.249/hls/T2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 3d
+http://77.247.109.249/hls/T3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="LIVESPORT",LIVE 4d
+http://77.247.109.249/hls/T4.m3u8
+
+
+
+
 #EXTINF: -1 group-title="LOKAL DVT",INDIA S2
 http://202.150.172.35:8000/play/indias2
 #EXTINF: -1 group-title="LOKAL DVT",INDOSAT S2
