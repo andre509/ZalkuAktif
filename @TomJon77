@@ -1,6 +1,195 @@
 #EXTM3U 
 
+#EXTINF: -1 group-title="LOKAL DVT",INDIA S2
+http://202.150.172.35:8000/play/indias2
+#EXTINF: -1 group-title="LOKAL DVT",INDOSAT S2
+http://202.150.172.35:8000/play/indosats2
+#EXTINF: -1 group-title="LOKAL DVT",INDOSIAR S2
+http://202.150.172.35:8000/play/indosiars2
+#EXTINF: -1 group-title="LOKAL DVT",SCTV S2
+http://202.150.172.35:8000/play/sctvs2
+#EXTINF: -1 group-title="LOKAL DVT",SINEMA INDONESIA S2
+http://202.150.172.35:8000/play/sinemaindonesias2
+#EXTINF: -1 group-title="LOKAL DVT",SINEMA X S2
+http://202.150.172.35:8000/play/sinema-xs2
+#EXTINF: -1 group-title="LOKAL DVT",SINEMAX S2
+http://202.150.172.35:8000/play/sinemaxs2
+#EXTINF: -1 group-title="LOKAL DVT",TRANS7 HD S2
+http://202.150.172.35:8000/play/trans7hds2
+#EXTINF: -1 group-title="LOKAL DVT",TRANS7 S2
+http://202.150.172.35:8000/play/trans7s2
+#EXTINF: -1 group-title="LOKAL DVT",TRANSTV HD S2
+http://202.150.172.35:8000/play/transtvhds2
+#EXTINF: -1 group-title="LOKAL DVT",TRANSTV S2
+http://202.150.172.35:8000/play/transtvs2
+#EXTINF: -1 group-title="LOKAL DVT",TRT WORLD HD S2
+http://202.150.172.35:8000/play/trtworldhds2
+#EXTINF: -1 group-title="LOKAL DVT",TVONE S2
+http://202.150.172.35:8000/play/tvones2
+#EXTINF: -1 group-title="LOKAL DVT",TVP S2
+http://202.150.172.35:8000/play/tvps2
+#EXTINF: -1 group-title="LOKAL DVT",TVP2 S2
+http://202.150.172.35:8000/play/tvp2s2
+#EXTINF: -1 group-title="LOKAL DVT",YTN MAIN S2
+http://202.150.172.35:8000/play/ytnmains2
+#EXTINF: -1 group-title="LOKAL DVT",ZORINSTV S2
+http://202.150.172.35:8000/play/zorinstvs2
+#EXTINF: -1 group-title="LOKAL DVT",iNEWS S2
+http://202.150.172.35:8000/play/inews
+#EXTINF: -1 group-title="LOKAL DVT",CGTN S2
+http://202.150.172.35:8000/play/cgtns2
+#EXTINF: -1 group-title="LOKAL DVT",CH14 HD S2
+http://202.150.172.35:8000/play/ch14hds2
+#EXTINF: -1 group-title="LOKAL DVT",CH7 S2
+http://202.150.172.35:8000/play/ch7s2
+#EXTINF: -1 group-title="LOKAL DVT",DAAITV S2
+http://202.150.172.35:8000/play/daaitvs2
+#EXTINF: -1 group-title="LOKAL DVT",DIGDAYA S2
+http://202.150.172.35:8000/play/digdayatvs2
+#EXTINF: -1 group-title="LOKAL DVT",DIYON TV S2
+http://202.150.172.35:8000/play/diyontvs2
+#EXTINF: -1 group-title="LOKAL DVT",DRAKOR PLUS S2
+http://202.150.172.35:8000/play/drakorpluss2
+#EXTINF: -1 group-title="LOKAL DVT",ELSHINTA S2
+http://202.150.172.35:8000/play/elshintas2
+#EXTINF: -1 group-title="LOKAL DVT",ELSHINTA2 S2
+http://202.150.172.35:8000/play/elshinta2s2
+#EXTINF: -1 group-title="LOKAL DVT",JAKTV S2
+http://202.150.172.35:8000/play/jaktvs2
+#EXTINF: -1 group-title="LOKAL DVT",JITV S2
+http://202.150.172.35:8000/play/jitvs2
+#EXTINF: -1 group-title="LOKAL DVT",JTV SBY S2
+http://202.150.172.35:8000/play/jtvsbys2
+#EXTINF: -1 group-title="LOKAL DVT",K-DRAMA S2
+http://202.150.172.35:8000/play/kdramas2
+#EXTINF: -1 group-title="LOKAL DVT",KBS WORLD24 MAIN S2
+http://202.150.172.35:8000/play/kbsworld24mains2
+#EXTINF: -1 group-title="LOKAL DVT",KIDZONE+ S2
+http://202.150.172.35:8000/play/kidzone+s2
+#EXTINF: -1 group-title="LOKAL DVT",KOMPAS TV S2
+http://202.150.172.35:8000/play/kompastvs2
+#EXTINF: -1 group-title="LOKAL DVT",KTV S2
+http://202.150.172.35:8000/play/ktvs2
+#EXTINF: -1 group-title="LOKAL DVT",LOTUSTV S2
+http://202.150.172.35:8000/play/lotustvs2
+#EXTINF: -1 group-title="LOKAL DVT",M CINE S2
+http://202.150.172.35:8000/play/m-cines2
+#EXTINF: -1 group-title="LOKAL DVT",MADINAH S2
+http://202.150.172.35:8000/play/madinahs2
+#EXTINF: -1 group-title="LOKAL DVT",MAGNA CH S2
+http://202.150.172.35:8000/play/magnachs2
+#EXTINF: -1 group-title="LOKAL DVT",MAKKAH S2
+http://202.150.172.35:8000/play/makkahs2
+#EXTINF: -1 group-title="LOKAL DVT",MATRIXTV S2
+http://202.150.172.35:8000/play/matrixtvs2
+#EXTINF: -1 group-title="LOKAL DVT",MCINE S2
+http://202.150.172.35:8000/play/mcines2
+#EXTINF: -1 group-title="LOKAL DVT",METROTV HD S2
+http://202.150.172.35:8000/play/metrotvhds2
+#EXTINF: -1 group-title="LOKAL DVT",METROTV JATIM S2
+http://202.150.172.35:8000/play/metrotvjatims2
+#EXTINF: -1 group-title="LOKAL DVT",METROTV S2
+http://202.150.172.35:8000/play/metrotvs2
+#EXTINF: -1 group-title="LOKAL DVT",MHOTV S2
+http://202.150.172.35:8000/play/mhotvs2
+#EXTINF: -1 group-title="LOKAL DVT",MyTV S2
+http://202.150.172.35:8000/play/mytvs2
 
+
+
+
+#EXTINF: -1 group-title="P RAMLEE",Nujum pak belalang
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/A3BrJL_RVzg
+
+#EXTINF: -1 group-title="P RAMLEE",Ahmad Albab
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/nTNOx5Fc54Y
+
+#EXTINF: -1 group-title="P RAMLEE",Anak bapak
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/5QNyAv_7LuQ
+
+#EXTINF: -1 group-title="P RAMLEE",Antar dua darjat
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/cMAQ7h6GroA
+
+#EXTINF: -1 group-title="P RAMLEE",Laksamana do re mi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/NnVoVq36EAY
+
+#EXTINF: -1 group-title="P RAMLEE",Merana
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/ltBfU-hFVPQ
+
+#EXTINF: -1 group-title="P RAMLEE",Labu labi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/-hfVoARHZfU
+
+#EXTINF: -1 group-title="P RAMLEE",Nasib labu labi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/JHZFacq72NM
+
+#EXTINF: -1 group-title="P RAMLEE",Tiga abdul
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/FoQzX3v2euY
+
+#EXTINF: -1 group-title="P RAMLEE",Ibu mertuaku
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/t6op5osHGfs
+
+#EXTINF: -1 group-title="P RAMLEE",Nasib do re mi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/-FysxSL6T6k
+
+#EXTINF: -1 group-title="P RAMLEE",Anakku Sazali
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/9mn_mSlB4zY
+
+#EXTINF: -1 group-title="P RAMLEE",Madu tiga
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/xH3yNlplqZY
+
+#EXTINF: -1 group-title="P RAMLEE",Bawang puteh bawang merah
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/AzBpaQttCdE
+
+#EXTINF: -1 group-title="P RAMLEE",Badang - wahid satay
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/-7nZ1QAyQw4
+
+#EXTINF: -1 group-title="P RAMLEE",Ali baba bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/5Jldr0xULg8
+
+#EXTINF: -1 group-title="P RAMLEE",Abu hassan pencuri
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/a_4JGAdEg5c
+
+#EXTINF: -1 group-title="P RAMLEE",Semerah padi
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/_5U0x_eqHWQ
+
+#EXTINF: -1 group-title="P RAMLEE",Pendekar bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/uSH33yUy9zY
+
+#EXTINF: -1 group-title="P RAMLEE",Sumpah orang minyak
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/r5xNjIm0EPk
+
+#EXTINF: -1 group-title="P RAMLEE",Musang berjanggut
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/73vGFxtSmKc
+
+#EXTINF: -1 group-title="P RAMLEE",Seniman bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/7GicBysGDCk
+
+#EXTINF: -1 group-title="P RAMLEE",Bujang lapok
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/TNUHBWvGWdw
+
+#EXTINF: -1 group-title="P RAMLEE",Masam masam manis
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/MbfmOVA6_ac
+
+#EXTINF: -1 group-title="P RAMLEE",Sarjan hassan
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/BKhAnjMQPW0
+
+#EXTINF: -1 group-title="P RAMLEE",Tiga botak
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/PMfJPYME7YU
+
+#EXTINF: -1 group-title="P RAMLEE",6 jahanam
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/GKdCNRaB4F8
+
+#EXTINF: -1 group-title="P RAMLEE",Minta nombor ekor
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/zvjb-AnjHtU
+
+#EXTINF: -1 group-title="P RAMLEE",Hang jebat
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/489ih7ox73o
+
+#EXTINF: -1 group-title="P RAMLEE",Hang tuah
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/zF_LwF9GO1s
+
+#EXTINF: -1 group-title="P RAMLEE",Keluarga 69
+http://4rr0w.my.id/ysb.mp4?url=https://youtu.be/3BtO2FQvFj4
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN" ,TV Asahi
 http://50.7.74.29:8880/hls/j00014/index.m3u8
