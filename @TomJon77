@@ -1,5 +1,28 @@
 #EXTM3U 
 
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Sport HD1 
+https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Sport HD2 
+https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Sport HD3 
+https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Sport HD4 
+https://master.server-cdn-streaming.com/api/live-player/33/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Sport HD5 
+https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Premier 1 
+https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Premier 2 
+https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Premier 3 
+https://master.server-cdn-streaming.com/api/live-player/47/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Premier 4 
+https://master.server-cdn-streaming.com/api/live-player/48/live.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Premier 5 
+https://master.server-cdn-streaming.com/api/live-player/49/live.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="MYSIA/ASTRO",001:TV 1
 http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/1734.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="MYSIA/ASTRO",002:TV 2
