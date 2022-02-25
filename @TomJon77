@@ -1,6 +1,119 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 501 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png" group-title="SPORT AU/UK",AU: Fox Sports 501 FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 502 FHD" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="SPORT AU/UK",AU: Fox Sports 502 FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48271.ts
+#EXTINF:-1 tvg-ID="foxsports503hd.au" tvg-name="AU: Fox Sports 503 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6551.1489224386.png" group-title="SPORT AU/UK",AU: Fox Sports 503 FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 504 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/1200px-Fox_Sports_wordmark_logo.svg.png" group-title="SPORT AU/UK",AU: Fox Sports 504 FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48269.ts
+#EXTINF:-1 tvg-ID="foxsports505hd.au" tvg-name="AU: Fox Sports 505 FHD" tvg-logo="https://media.info/i/lf/0/1489224687/6552.png" group-title="SPORT AU/UK",AU: Fox Sports 505 FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48268.ts
+#EXTINF:-1 tvg-ID="foxsports506hd.au" tvg-name="AU: Fox Sports 506 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6553.1489225082.png" group-title="SPORT AU/UK",AU: Fox Sports 506 FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 507 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="SPORT AU/UK",AU: Fox Sports 507 FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48266.ts
+#EXTINF:-1 tvg-ID="foxsportsnewshd.au" tvg-name="AU: Fox Sports News FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" group-title="SPORT AU/UK",AU: Fox Sports News FHD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48265.ts
+#EXTINF:-1 tvg-ID="foxsports506hd.au" tvg-name="AU: FOX SPORTS 506 HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6553.1489225082.png" group-title="SPORT AU/UK",AU: FOX SPORTS 506 HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/46541.ts
+#EXTINF:-1 tvg-ID="foxsportsnewshd.au" tvg-name="AU: FOX SPORTS NEWS" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" group-title="SPORT AU/UK",AU: FOX SPORTS NEWS
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/46540.ts
+#EXTINF:-1 tvg-ID="boxnation.uk" tvg-name="UK: Boxnation" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL.png" group-title="SPORT AU/UK",UK: Boxnation
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/9.ts
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1 backup" tvg-logo="https://sport-tv-guide.live/images/stations/a97.png" group-title="SPORT AU/UK",UK: BT Sport 1 backup
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/8950.ts
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg" group-title="SPORT AU/UK",UK: BT Sport 1 HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/8.ts
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="SPORT AU/UK",UK: BT Sport 2 HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/6.ts
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3 HD" tvg-logo="https://1.bp.blogspot.com/-NT0JpdM8_Ko/XPexW-fri_I/AAAAAAAAAxE/2_i5Ev0r1BQjPmFB0u-fOs0H2GmDWdb_wCLcBGAs/w1200-h630-p-k-no-nu/bt-sport-3-bt-sport-3-live-bt-sport-3-live-stream-bt-sport-3-live-streaming-bt-sport-3-hd-bt-sport-3-channel%255B1%255D-min.png" group-title="SPORT AU/UK",UK: BT Sport 3 HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/5547.ts
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT Sport 3 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-bt-sport-3-108.png" group-title="SPORT AU/UK",UK: BT Sport 3 SD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/4954.ts
+#EXTINF:-1 tvg-ID="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1491.1436396789.png" group-title="SPORT AU/UK",UK: BT Sport ESPN
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/4.ts
+#EXTINF:-1 tvg-ID="btsportx1.uk" tvg-name="UK: BT Sport Extra 1" tvg-logo="https://2.bp.blogspot.com/-azqq1Emdevo/WH_NhuUPZxI/AAAAAAAADL0/AB9WGeFcfzI1leFu9SX4JgQX7Wx5ba-ugCLcB/s1600/bt_sport_extra_634x306x24_expand_h98c87b69.jpg" group-title="SPORT AU/UK",UK: BT Sport Extra 1
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/4476.ts
+#EXTINF:-1 tvg-ID="btsportx2.uk" tvg-name="UK: BT Sport Extra 2" tvg-logo="https://4.bp.blogspot.com/-XL0aPGQwu4c/WQ9U2ArNaKI/AAAAAAAAAcs/BFDRQ5JmalE3pahfqt8mY-KCD3-U4yUKgCEw/s1600/BT-SPORTS-2-SD.jpg" group-title="SPORT AU/UK",UK: BT Sport Extra 2
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/4477.ts
+#EXTINF:-1 tvg-ID="btsportx4.uk" tvg-name="UK: BT Sport Extra 4" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/5/5796.1438199951.png" group-title="SPORT AU/UK",UK: BT Sport Extra 4
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/4479.ts
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sports 2 SD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1540.1565312726.png" group-title="SPORT AU/UK",UK: BT Sports 2 SD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/2464.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Celtic FC TV (Live for Matches )" tvg-logo="https://pbs.twimg.com/profile_images/1390283206340091906/yHRQAyh0_400x400.jpg" group-title="SPORT AU/UK",UK: Celtic FC TV (Live for Matches )
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/7682.ts
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK: Chelsea FC" tvg-logo="https://media.info/i/lf/300/1489269064/1163.png" group-title="SPORT AU/UK",UK: Chelsea FC
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/1030.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: CHELSEA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="SPORT AU/UK",UK: CHELSEA TV
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/3973.ts
+#EXTINF:-1 tvg-ID="eir Sport 1" tvg-name="UK: Eir Sports1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Eirsportlogo.png" group-title="SPORT AU/UK",UK: Eir Sports1
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/4683.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eir Sports2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="SPORT AU/UK",UK: Eir Sports2
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/4684.ts
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="SPORT AU/UK",UK: LFC TV
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/2895.ts
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="UK: LFC TV HD" tvg-logo="https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0001/21/thumb_20605_default_news_size_5.jpeg" group-title="SPORT AU/UK",UK: LFC TV HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/7996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Manchester United TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT AU/UK",UK: Manchester United TV
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/433.ts
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT AU/UK",UK: MUTV
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/758.ts
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="UK: MUTV Backup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT AU/UK",UK: MUTV Backup
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/7686.ts
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="UK: Racing UK" tvg-logo="https://i.ytimg.com/vi/x-XgfFWA-pk/maxresdefault.jpg" group-title="SPORT AU/UK",UK: Racing UK
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: RANGERS FC TV (matchtime)" tvg-logo="https://pbs.twimg.com/profile_images/1304049400742907906/YNx_cExg.jpg" group-title="SPORT AU/UK",UK: RANGERS FC TV (matchtime)
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/7681.ts
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport 1 SD" tvg-logo="https://www.logolynx.com/images/logolynx/8a/8a6abd6379d710038da0c9bdf8fb8d88.png" group-title="SPORT AU/UK",UK: Sky Sport 1 SD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/1922.ts
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="UK: Sky Sport Arena HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sky_Sport_Arena_HD_-_Logo_2018.svg/2000px-Sky_Sport_Arena_HD_-_Logo_2018.svg.png" group-title="SPORT AU/UK",UK: Sky Sport Arena HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/10165.ts
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="UK: Sky Sport F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="SPORT AU/UK",UK: Sky Sport F1 HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/443.ts
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="UK: Sky Sport Football HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sky_Sport_Football_HD_-_Logo_2018.svg/1280px-Sky_Sport_Football_HD_-_Logo_2018.svg.png" group-title="SPORT AU/UK",UK: Sky Sport Football HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/10164.ts
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="UK: Sky Sport News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcmqGYxOCPQpcS39TMDmFc93yEh2Pcd4BxfE8-ILog7k-1L3wA" group-title="SPORT AU/UK",UK: Sky Sport News
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/16.ts
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION" tvg-logo="https://ulango.tv/uploads/channels/3782194/logo_sky%20sport%20action.png" group-title="SPORT AU/UK",UK: SKY SPORTS ACTION
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/2461.ts
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="UK: SKY SPORTS ACTION HD" tvg-logo="http://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK.png" group-title="SPORT AU/UK",UK: SKY SPORTS ACTION HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/22.ts
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="SPORT AU/UK",UK: SKY SPORTS CRICKET
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/2462.ts
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="UK: SKY SPORTS CRICKET HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjliNWU0NWEtNDA2Yy00MjZjLWJkZTgtNTJkN2UwNTUwYmFkXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="SPORT AU/UK",UK: SKY SPORTS CRICKET HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/24.ts
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="http://www.europrotour.com/wp-content/uploads/2018/05/SS-golf-logo.png" group-title="SPORT AU/UK",UK: SKY SPORTS GOLF
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/2460.ts
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="UK: SKY SPORTS GOLF HD" tvg-logo="https://3.bp.blogspot.com/-J0Pyy7gBqro/W7ZpdkCICOI/AAAAAAAAIxw/-On8N-Jw5m0efbXnCc-EVlnp9z7es9guwCLcBGAs/s1600/sky-golf.png" group-title="SPORT AU/UK",UK: SKY SPORTS GOLF HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/20.ts
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SPORT AU/UK",UK: SKY SPORTS MAIN EVENT
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/2463.ts
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1086.1507600158.png" group-title="SPORT AU/UK",UK: SKY SPORTS MAIN EVENT HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/26.ts
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="UK: Sky Sports Mix" tvg-logo="https://1.bp.blogspot.com/-4oVo8TMIJxI/WohtpC1-LUI/AAAAAAAAF58/5Sow6yoQJywxI7Xx-swAEWzdexB63E9VACLcBGAs/s1600/sky-sports-mix-vector-logo.png" group-title="SPORT AU/UK",UK: Sky Sports Mix
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/5496.ts
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="SPORT AU/UK",UK: SKY SPORTS PREMIER LEAGUE
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/2459.ts
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://www.moddingway.com/screenshots/files/226106/big.jpg" group-title="SPORT AU/UK",UK: SKY SPORTS PREMIER LEAGUE HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Sky Sports The Open HD" tvg-logo="https://e1.365dm.com/16/05/2048x1152/sky-sports-the-open-open-on-sky_3476525.jpg" group-title="SPORT AU/UK",UK: Sky Sports The Open HD
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/11782.ts
+
+
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE OK",Celestial Movies net
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/46471.ts
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE OK",Hits Movie net
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/46446.ts
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE OK",Paramount net
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/46450.ts
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE OK",StarChineseMovies HD net
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/46443.ts
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/1fd196803d039ccb1111a22cca56177d.png" group-title="MOVIE OK",Fox Family Movies HD net
+http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/6174.ts
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Sport HD1 
 https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TRUESPORT", True Sport HD2 
