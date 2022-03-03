@@ -7,6 +7,57 @@ https://wigistream.to/embed/8ih71v
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me
 https://i-am-so-cool.licenses4.me/cdn/premium119/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", RMC Sport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me
+https://i-am-so-cool.licenses4.me/cdn/premium120/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BEINSPORTS 1 ENGLISH🇬🇧
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium61/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BEINSPORTS 2 ENGLISH🇬🇧
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium90/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BEINSPORTS 3 ENGLISH🇬🇧
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium46/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BEINSPORTS EXTRA
+#EXTVLCOPT:http-referrer=http://sportzonline.to
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BT SPORT 1🇬🇧
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium31/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BT SPORT 2🇬🇧
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium32/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BT SPORT 3🇬🇧
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium33/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BT SPORT ESPN🇬🇧
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://i-am-so-cool.licenses4.me/cdn/premium34/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", SKYSPORTS FOOTBALL HD
+#EXTVLCOPT:http-referrer=https://www.skybtsports.com/
+https://8k.nowtv.vip/live/skyfootball/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", SKYSPORTS English Premier league
+#EXTVLCOPT:http-referrer=https://www.skybtsports.com/
+https://8k.nowtv.vip/live/skyepl/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", SKYSPORTS ARENA
+#EXTVLCOPT:http-referrer=https://www.skybtsports.com/
+https://8k.nowtv.vip/live/skyarenahd/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", LIVE SPORT
+#EXTVLCOPT:http-referrer=http://sportzonline.to
+https://v6.sportzonline.to/channels/hd/hd1.php
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", LIVE SPORT 2
+#EXTVLCOPT:http-user-agent=yacineapp.tv
+https://v6.sportzonline.to/channels/hd/hd2.php
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", LIVE SPORT 3
+#EXTVLCOPT:http-user-agent=yacineapp.tv
+https://v6.sportzonline.to/channels/hd/hd3.php
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", LIVE SPORT 4
+#EXTVLCOPT:http-user-agent=exoplayer_video
+https://v6.sportzonline.to/channels/hd/hd4.php
+
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 501 FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png" group-title="SPORT AU/UK",AU: Fox Sports 501 FHD
 http://iptvfree1.com:8080/live/live:david.romok/4bteskwwjs342/48272.ts
 #EXTINF:-1 tvg-ID="" tvg-name="AU: Fox Sports 502 FHD" tvg-logo="https://origin.go.foxsports.com.au/wp-content/uploads/2017/02/aaaa_log_foxl_a-1.png" group-title="SPORT AU/UK",AU: Fox Sports 502 FHD
