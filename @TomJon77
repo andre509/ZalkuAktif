@@ -3,9 +3,9 @@
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", BEINSPORTS 1 FRANCE
 #EXTVLCOPT:http-referrer=https://wigistream.to/embed/8ih71v
 https://wigistream.to/embed/8ih71v
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", RMC Sport 1 back
-#EXTVLCOPT:http-referrer=https://leet365.cc/fr/1/4
-https://tihdukxhbitnsmoh.wzcdn431.net:8443/hls/qtv90ewauczcn.m3u8?s=q3fDGKnuZKU3iAeUWKH_NQ&e=1646609627
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", bein france 1
+#EXTVLCOPT:http-referrer=https://wigistream.to/embed/8ih71v
+https://tihdukxhbitnsmoh.wzcdn431.net:8443/hls/8ih71v.m3u8?s=Xkhb7AanwnmmVcnSSDNWFQ&e=1646610396
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="TES", RMC Sport 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me
 https://i-am-so-cool.licenses4.me/cdn/premium119/chunks.m3u8
