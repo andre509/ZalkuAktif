@@ -1,6 +1,226 @@
 #EXTM3U 
 
-#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="ASTRO/MYSIA",MY001:TV 1
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="ASTRO/MYSIA",MY002:TV 2
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="ASTRO/MYSIA",MY003:TV 3
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="ASTRO/MYSIA",MY004:NTV 7
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="ASTRO/MYSIA",MY005:TV 8
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="ASTRO/MYSIA",MY006:TV 9
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="" group-title="ASTRO/MYSIA",MY029:WARNA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="" group-title="ASTRO/MYSIA",MY030:RIA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="ASTRO/MYSIA",MY031:AWANI
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="ASTRO/MYSIA",MY034:OASIS
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO PRIMA HD" tvg-logo="" group-title="ASTRO/MYSIA",MY042:ASTRO PRIMA HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO OASIS HD" tvg-logo="" group-title="ASTRO/MYSIA",MY043:ASTRO OASIS HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY045:ASTRO NAURA" tvg-logo="" group-title="ASTRO/MYSIA",MY045:ASTRO NAURA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="ASTRO/MYSIA",MY046:TV ALHIJRAH
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71024.m3u8
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="ASTRO/MYSIA",MY038:BOO
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY175:Astro Rania HD" tvg-logo="" group-title="ASTRO/MYSIA",MY175:Astro Rania HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY176:Astro Aura HD" tvg-logo="" group-title="ASTRO/MYSIA",MY176:Astro Aura HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY177:ASTRO Citra HD" tvg-logo="" group-title="ASTRO/MYSIA",MY177:ASTRO Citra HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY178:ABO Tayangan Hebat" tvg-logo="" group-title="ASTRO/MYSIA",MY178:ABO Tayangan Hebat
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="ASTRO/MYSIA",MY179:TVS
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY180:ASTRO ASSP Plus HD" tvg-logo="" group-title="ASTRO/MYSIA",MY180:ASTRO ASSP Plus HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SG002:Channel 8" tvg-logo="" group-title="ASTRO/MYSIA",SG002:Channel 8
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="" group-title="ASTRO/MYSIA",MY012:AEC
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY130:ASTRO ARENA HD" tvg-logo="" group-title="ASTRO/MYSIA",MY130:ASTRO ARENA HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="ASTRO/MYSIA",MY132:beIN SPORTS
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY133:bEIN MAX" tvg-logo="" group-title="ASTRO/MYSIA",MY133:bEIN MAX
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="ASTRO/MYSIA",MY134:EUROSPORT HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="" group-title="ASTRO/MYSIA",MY135:GOLF CHANNEL HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="ASTRO/MYSIA",MY013:Super Sport 1
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1722.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="ASTRO/MYSIA",MY014:Super Sport 2
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1721.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="ASTRO/MYSIA",MY015:Super Sport 3
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1720.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="ASTRO/MYSIA",MY016:Super Sport 4
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY043:ASTRO ASSP4 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/59217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY042:ASTRO ASSP3 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/59218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="ASTRO/MYSIA",MY040:ASTRO ASSP HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/59220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY041:ASTRO ASSP2 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/59219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="ASTRO/MYSIA",MY017:CELESTIAL
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="ASTRO/MYSIA",MY018:BERNAMA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="ASTRO/MYSIA",MY020:Star Chinese Channel
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="" group-title="ASTRO/MYSIA",MY021:XIAO TAI YANG
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY022:SCM Legend" tvg-logo="" group-title="ASTRO/MYSIA",MY022:SCM Legend
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="ASTRO/MYSIA",MY023:TVB CLASSIC
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="ASTRO/MYSIA",MY007:QUAN JIA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY008:SHUANG XING" tvg-logo="" group-title="ASTRO/MYSIA",MY008:SHUANG XING
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="ASTRO/MYSIA",MY009:Wah Lai Toi
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="ASTRO/MYSIA",MY010:HUA HEE DAI
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="ASTRO/MYSIA",MY011:AOD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY035:Suria" tvg-logo="" group-title="ASTRO/MYSIA",MY035:Suria
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="ASTRO/MYSIA",MY037:WWE
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SG003:Channel U" tvg-logo="" group-title="ASTRO/MYSIA",SG003:Channel U
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/1693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY047:GO SHOP RUUMA" tvg-logo="" group-title="ASTRO/MYSIA",MY047:GO SHOP RUUMA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY048:GO SHOP GAAYA" tvg-logo="" group-title="ASTRO/MYSIA",MY048:GO SHOP GAAYA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY049:VAANAVIL" tvg-logo="" group-title="ASTRO/MYSIA",MY049:VAANAVIL
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY059:BOLLYONE HD" tvg-logo="" group-title="ASTRO/MYSIA",MY059:BOLLYONE HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="ASTRO/MYSIA",MY073:CCM
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY075:CCTV4 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY076:AOD 352 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY077:AOD 353 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY078:AOD 354 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY079:AOD 355 HD" tvg-logo="" group-title="ASTRO/MYSIA",MY079:AOD 355 HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="ASTRO/MYSIA",MY080:KBS World HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="ASTRO/MYSIA",MY081:ONE HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY082:Oh!K HD" tvg-logo="" group-title="ASTRO/MYSIA",MY082:Oh!K HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY083:tvN HD" tvg-logo="" group-title="ASTRO/MYSIA",MY083:tvN HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY084:HITS MOVIES HD" tvg-logo="" group-title="ASTRO/MYSIA",MY084:HITS MOVIES HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY085:HBO HD" tvg-logo="" group-title="ASTRO/MYSIA",MY085:HBO HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY086:CINEMAX HD" tvg-logo="" group-title="ASTRO/MYSIA",MY086:CINEMAX HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY087:tvN Movies" tvg-logo="" group-title="ASTRO/MYSIA",MY087:tvN Movies
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY088:ASTRO AWANI" tvg-logo="" group-title="ASTRO/MYSIA",MY088:ASTRO AWANI
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="ASTRO/MYSIA",MY097:8TV
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY099:DISCOVERY HD" tvg-logo="" group-title="ASTRO/MYSIA",MY099:DISCOVERY HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="ASTRO/MYSIA",MY100:DISCOVERY ASIA
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY101:DISC SCI HD" tvg-logo="" group-title="ASTRO/MYSIA",MY101:DISC SCI HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="ASTRO/MYSIA",MY102:HISTORY HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="ASTRO/MYSIA",MY103:ANIMAL PLANET HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY108:ASTRO CERIA HD" tvg-logo="" group-title="ASTRO/MYSIA",MY108:ASTRO CERIA HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY112:CARTOON NTWK HD" tvg-logo="" group-title="ASTRO/MYSIA",MY112:CARTOON NTWK HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71084.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="ASTRO/MYSIA",MY113:NICKELODEON HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="ASTRO/MYSIA",MY114:NICK JR
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="ASTRO/MYSIA",MY115:AXN HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY116:Phoenix" tvg-logo="" group-title="ASTRO/MYSIA",MY116:Phoenix
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="ASTRO/MYSIA",MY117:HITS HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="ASTRO/MYSIA",MY118:TLC HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="ASTRO/MYSIA",MY119:FOOD NTWK HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71091.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="ASTRO/MYSIA",MY120:AFN HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71092.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="ASTRO/MYSIA",MY122:WARNER TV
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY123:C&I HD" tvg-logo="" group-title="ASTRO/MYSIA",MY123:C&I HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY124:HGTV HD" tvg-logo="" group-title="ASTRO/MYSIA",MY124:HGTV HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="ASTRO/MYSIA",MY125:DMAX HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71097.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY126:COMEDY CENTRAL" tvg-logo="" group-title="ASTRO/MYSIA",MY126:COMEDY CENTRAL
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="ASTRO/MYSIA",MY127:MTV
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="ASTRO/MYSIA",MY128:ANIMAX
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY129:eGG Network" tvg-logo="" group-title="ASTRO/MYSIA",MY129:eGG Network
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO RUGBY PASS TV" tvg-logo="" group-title="ASTRO/MYSIA",MY136:ASTRO RUGBY PASS TV
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO CRICKET" tvg-logo="" group-title="ASTRO/MYSIA",MY137:ASTRO CRICKET
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY138:ANIPLUS HD" tvg-logo="" group-title="ASTRO/MYSIA",MY138:ANIPLUS HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="ASTRO/MYSIA",MY139:KPLUS HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY146:bEIN SPORT MAX" tvg-logo="" group-title="ASTRO/MYSIA",MY146:bEIN SPORT MAX
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="ASTRO/MYSIA",MY147:BBC Earth HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="ASTRO/MYSIA",MY148:BBC Lifestyle
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY150:Blue Ant Extreme" tvg-logo="" group-title="ASTRO/MYSIA",MY150:Blue Ant Extreme
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY151:Boomerang HD" tvg-logo="" group-title="ASTRO/MYSIA",MY151:Boomerang HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY153:Colors Cineplex" tvg-logo="" group-title="ASTRO/MYSIA",MY153:Colors Cineplex
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY158:FX Cinema HD" tvg-logo="" group-title="ASTRO/MYSIA",MY158:FX Cinema HD
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY162:ABO Movie Thangathirai" tvg-logo="" group-title="ASTRO/MYSIA",MY162:ABO Movie Thangathirai
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="ASTRO/MYSIA",MY164:Paramount Channel
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY166:Luxe TV" tvg-logo="" group-title="ASTRO/MYSIA",MY166:Luxe TV
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="ASTRO/MYSIA",MY168:SCM
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="ASTRO/MYSIA",MY169:SETi Chinese
+http://95.214.235.96:8880/live/SY14C251/DHR7923A/71139.m3u8
+
 #EXTINF:-1 logo="https://imgur.com/ER9rwIt.png" tvg-id="5403a91b831a2dd6156fe37cef40e033 " group-title="KOREA", 채널S
 http://1.235.147.198:9981/stream/channelid/464061268?ticket=40A344B26866E47D09D0DDD9FF0C710ABA92B1B2&profile=pass
 #EXTINF:-1 logo="https://imgur.com/YP7a1j6.png" tvg-id="03e76903249d34b70d87c7911d9b7519 " group-title="KOREA", 공영쇼핑
