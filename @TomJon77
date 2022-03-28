@@ -1,5 +1,86 @@
 #EXTM3U 
 
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",Channel8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",MediacorpChannel8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",MediacorpChannel5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",MediacorpChannelU
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-14: 
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",Newtv: 
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-5: 
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-8: 
+http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",Newtv: 
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-3 
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",四川卫视  
+http://ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-10 
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-14 
+http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",四川卫视  
+http://ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-3 
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-10 
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-5 
+http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-8 
+http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-1 
+http://223.110.243.170/PLTV/3/224/3221226316/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-1 
+http://183.207.249.15/PLTV/3/224/3221225530/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-5++  
+http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-6
+http://183.207.249.15/PLTV/3/224/3221225548/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-8 
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-10 
+http://183.207.249.14/PLTV/3/224/3221225550/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-8 
+http://223.110.243.170/PLTV/3/224/3221227204/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-12 
+http://183.207.249.14/PLTV/3/224/3221225556/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",CCTV-6 
+http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",本NEWS243 
+https://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",HBO 
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",[ TG4 ]: 
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",[ BadenTV ]: 
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",[ TVSN ]: 
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",[ 3AWMelbourne ]: 
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",3TV ]: 
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",[ MDF.1 ]: 
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",MelloTV ]: 
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",UK-LondonLive ]: 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="MYSIA/ASTRO mvu03EX",MY001:TV 1
 http://mvu03.wanicelife.com:8880/live/SWFAF143575/VD6UF9EX/1734.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="MYSIA/ASTRO mvu03EX",MY002:TV 2
