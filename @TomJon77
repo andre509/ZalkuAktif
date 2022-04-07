@@ -131,7 +131,36 @@ https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", Bein 1
+https://mediasv.online/stream_tv/607_BEIN1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", Bein 2
+https://mediasv.online/stream_tv/608_BEIN2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Sport HD1 
+https://mediasv.online/stream_tv/600_eng1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Sport HD2 
+https://mediasv.online/stream_tv/602_eng2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Sport HD3 
+https://mediasv.online/stream_tv/603_eng3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Sport HD4 
+https://mediasv.online/stream_tv/604_eng4/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Sport HD5 
+https://mediasv.online/stream_tv/605_eng5/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Premier 1 
+https://mediasv.online/stream_tv/600_eng1/playlist.m3u8 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Premier 2 
+https://mediasv.online/stream_tv/667_Ts_HD2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Premier 3 
+https://mediasv.online/stream_tv/668_Ts_HD3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Premier 4 
+https://mediasv.online/stream_tv/669_Ts_HD4/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Premier 5 
+https://mediasv.online/stream_tv/684_TSP5/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Premier 6
+https://mediasv.online/stream_tv/686_TSP7/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", True Premier 7
+https://mediasv.online/stream_tv/666_Ts_HD1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK", Nfl
+https://mediasv.online/stream_tv/672_NFL/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",Channel8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
