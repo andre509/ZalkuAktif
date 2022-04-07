@@ -1,6 +1,138 @@
 #EXTM3U 
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV" ,SKYNET SPORTSHD 
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/03_skynetsporthd_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS1 
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/03_skynetsport1_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS2 
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/03_skynetsport2_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS3 
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/03_skynetsport3_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS4 
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/03_skynetsport4_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS5 
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/03_skynetsport5_480p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS6 
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", SPOTV 1
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", SPOTV
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", SPOTV 2
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", Bein Sport 1
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_epl1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", Bein Sport 2(720p)
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_epl2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", Bein Sport 2
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD1
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD2
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD3
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD4
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD5
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sporthd1
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sporthd2
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sporthd3
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sport5
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sport6
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sport7
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV",NBA True
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV",True Tennis
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV",Golf Channel Thailand True
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 1
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 2
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 3
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 4
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 5
+#EXTVLCOPT:http-referrer=https://www.i-moviehd.com 
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/qMzQpkZ/bean.jpg" group-title="TESCCTV",Channel8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
@@ -3317,103 +3449,7 @@ https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_sport6_480p/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS R2", True sport7
 https://r2-sn-w5nuxa-o536.googlevideocdn.com/sports/02_sport7_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV" ,SKYNET SPORTSHD 
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/03_skynetsporthd_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS1 
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/03_skynetsport1_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS2 
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/03_skynetsport2_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS3 
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/03_skynetsport3_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS4 
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/03_skynetsport4_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS5 
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/03_skynetsport5_480p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg group-title="SPORTS THAI EXTV", SKYNET SPORTS6 
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", SPOTV 1
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", SPOTV
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", SPOTV 2
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", Bein Sport 1
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_epl1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", Bein Sport 2(720p)
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_epl2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", Bein Sport 2
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD1
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD2
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD3
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD4
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", PremierHD5
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sporthd1
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sporthd2
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sporthd3
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sport5
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_sport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sport6
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV", True sport7
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV",NBA True
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV",True Tennis
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="SPORTS THAI EXTV",Golf Channel Thailand True
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_golfhd_720p/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 1
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 2
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 3
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 4
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS THAI EXTV", Sport TV 5
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com
-https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 
