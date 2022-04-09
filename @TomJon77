@@ -1,102 +1,104 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT",SKYNET SPORTSHD 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/03_skynetsporthd_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SKYNET SPORTS1 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/03_skynetsport1_480p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SKYNET SPORTS2 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/03_skynetsport2_480p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SKYNET SPORTS3 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/03_skynetsport3_480p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SKYNET SPORTS4 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/03_skynetsport4_480p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SKYNET SPORTS5 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/03_skynetsport5_480p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SKYNET SPORTS6 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SPOTV 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_foxsport_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SPOTV
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", SPOTV 2
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Bein Sport 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_epl1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Bein Sport 2(720p)
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_epl2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Bein Sport 2
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", PremierHD1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", PremierHD2
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", PremierHD3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", PremierHD4
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", PremierHD5
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", True sporthd1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", True sporthd2
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", True sporthd3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", True sport5
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", True sport6
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", True sport7
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT",NBA True
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT",True Tennis
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT",Golf Channel Thailand True
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Sport TV 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Sport TV 2
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Sport TV 3
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Sport TV 4
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS THAISPORT", Sport TV 5
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=tv 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=live_tv 
 https://sport.livedoomovie.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
+
+
 
 
 
