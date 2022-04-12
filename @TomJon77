@@ -1,5 +1,42 @@
 #EXTM3U 
-
+#EXTINF:0,Premier HD1
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,Premier HD1
+#EXTGRP:กฬา 
+https://live.andaman888th.com/live/tpf1/sport/tpf1-480/chunks.m3u8?nimblesessionid=21753196
+#EXTINF:0,Premier HD2
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0,Premier HD3
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0,Premier HD4
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0,Premier HD5
+#EXTGRP:กฬา 
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+#EXTINF:0,True Sport HD1
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD2
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD 2
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD3
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,True Sports HD3
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD4
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0,True Sports HD4
+#EXTGRP:กฬา 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R0pZRv3T/BOLA.jpg" group-title="SPORTS TES", SPOTV 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/ 
