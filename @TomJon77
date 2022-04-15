@@ -1,6 +1,82 @@
 #EXTM3U 
 
 
+#EXTINF:-1 group-title="LOKAL DENS",tvOne 
+http://rr2.dens.tv/s/s105/index3.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
+#EXTINF:-1 group-title="LOKAL DENS",RCTI 
+http://202.150.161.116:80/RCTI/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 group-title="LOKAL DENS",antv 
+http://rr2.dens.tv/s/s07/index3.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
+#EXTINF:-1 group-title="LOKAL DENS",TransTV 
+http://rr2.dens.tv/s/s05/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans_TV
+#EXTINF:-1 group-title="LOKAL DENS",Trans7 
+http://rr.dens.tv/h/h11/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Trans7
+#EXTINF:-1 group-title="LOKAL DENS",MNCTV 
+http://202.150.161.116:80/MNCTV/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv
+#EXTINF:-1 group-title="LOKAL DENS",MetroTV 
+http://rr.dens.tv/h/h12/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
+#EXTINF:-1 group-title="LOKAL DENS",KompasTV 
+http://rr2.dens.tv/s/s104/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
+#EXTINF:-1 group-title="LOKAL DENS",BeritaSatu 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
+#EXTINF:-1 group-title="LOKAL DENS",CNNINDONESIA 
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="LOKAL DENS",INEWS 
+http://telorceplok.xtgem.com@watchtvfoot.com:80/QVVSVIMAZ6/TJXMGL1CTL/4315?http://telorceplok.xtgem.com/jangan/asal.bongkar.cok/m3u8|checked_by=free_iptvm3u_reciver
+#EXTINF:-1 group-title="LOKAL DENS",RTV 
+http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
+#EXTINF:-1 group-title="LOKAL DENS",NET. 
+http://rr2.dens.tv/s/s08/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET.
+
+#EXTINF:-1 group-title="LOKAL DENS",TVRI 
+http://rr2.dens.tv/s/s11/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=TVRI
+#EXTINF:-1 group-title="LOKAL DENS",TVRIsportHD 
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL DENS",KIX 
+http://rr1.dens.tv/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
+#EXTINF:-1 group-title="LOKAL DENS",tvN 
+http://rr1.dens.tv/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
+#EXTINF:-1 group-title="LOKAL DENS",tvNMovies 
+http://rr1.dens.tv/h/h21/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
+#EXTINF:-1 group-title="LOKAL DENS",CelestialMovies 
+http://rr1.dens.tv/h/h14/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Celestial_Movies
+#EXTINF:-1 group-title="LOKAL DENS",CelestialClassicMovies 
+http://rr2.dens.tv/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+#EXTINF:-1 group-title="LOKAL DENS",Thrill 
+http://rr2.dens.tv/s/s34/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Thrill
+#EXTINF:-1 group-title="LOKAL DENS",CinemaWorld 
+http://rr1.dens.tv/h/h04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CinemaWorld_HD
+#EXTINF:-1 group-title="LOKAL DENS",MyCinemaAsia 
+http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
+#EXTINF:-1 group-title="LOKAL DENS",MyCinema 
+http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
+#EXTINF:-1 group-title="LOKAL DENS",MyCinemaEurope 
+http://rr.dens.tv/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
+#EXTINF:-1 group-title="LOKAL DENS",MyFamilyChannel 
+http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+#EXTINF:-1 group-title="LOKAL DENS",AXN 
+http://rr1.dens.tv/h/h141/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
+#EXTINF:-1 group-title="LOKAL DENS",ROCKEntertainment 
+http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+#EXTINF:-1 group-title="LOKAL DENS",ROCKExtreme 
+http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
+
+#EXTINF:-1 group-title="LOKAL DENS",JazzChannel-Qwest 
+http://group1-swiftservehd-1.dens.tv/h/h94/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Jazz_Channel_-_Qwest_Trial-
+#EXTINF:-1 group-title="LOKAL DENS",M2OTV 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="LOKAL DENS",FIGHTSPORTS 
+http://rr1.dens.tv/h/h05/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=FIGHT_SPORTS_HD
+
+#EXTINF:-1 group-title="LOKAL DENS",BeinSport_1_ENG 
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL DENS",BeinSport_2_ENG 
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL DENS",BeinSport_3_ENG 
+http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
+
 
 
 
