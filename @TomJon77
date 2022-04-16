@@ -1,5 +1,32 @@
 #EXTM3U 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",CanalSport 1
+http://lnk.ec/CanalsportSantuy1.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",CanalSport 2
+http://lnk.ec/CanalSport2.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",CanalSport 3
+http://lnk.ec/Canal3Santuy.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",CanalSport 4
+http://lnk.ec/Canal4Santuy.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",CanalSport Premium
+http://lnk.ec/CanalpremiumSantuy.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",ElevenSport 1
+http://lnk.ec/Elevensport1Santuy.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",ElevenSport 2
+http://lnk.ec/ElevenSport2.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",ElevenSport 3
+http://lnk.ec/ElevenSport3.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",ElevenSport 4
+http://lnk.ec/ElevenSport4.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",DIEMA SPORT 1
+http://lnk.ec/Diemasport.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",DIEMA SPORT 2
+http://lnk.ec/Diemasport2.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",DIEMA SPORT 3
+http://lnk.ec/Diemasport3.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",SETANTA SPORT 1
+http://lnk.ec/Setantasport1.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",SETANTA SPORT 2
+http://lnk.ec/Setantasport2.ts
 
 #EXTINF:-1 group-title="LOKAL DENS",tvOne 
 http://rr2.dens.tv/s/s105/index3.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
