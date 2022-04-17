@@ -1,4 +1,204 @@
 #EXTM3U 
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",SonyPixFHD
+http://31.172.87.31:2200/R-EX/FHD_SONY_PIX_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",EnglishFoxLifeHD
+http://31.172.87.31:2200/R-EX/ENGLISH_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",EnglishStarMoivesSelectHD
+http://31.172.87.31:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",EnglishStarWorldHD
+http://31.172.87.31:2200/R-EX/ENGLISH_STAR_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",SonyMaxUK Back
+http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",SonyMaxUK
+http://31.172.87.31:2200/EX/sonymaxuk-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiMNPlusHD
+http://31.172.87.31:2200/R-EX/HINDI_MN_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiFoxLifeHD
+http://31.172.87.31:2200/R-EX/HINDI_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiMoviesNOWHD
+http://31.172.87.31:2200/R-EX/HINDI_MOVIES_NOW_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiAndTVHD
+http://31.172.87.31:2200/R-EX/HINDI_AND_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiAndFlixHD
+http://31.172.87.31:2200/R-EX/HINDI_AND_FLIX_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiNatGeoWildHD
+http://31.172.87.31:2200/R-EX/HINDI_NAT_GEO_WILD_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiMINIPLEXHD
+http://31.172.87.31:2200/R-EX/HINDI_MINIPLEX_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiHistoryTV18HD
+http://31.172.87.31:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiSonySABHD
+http://31.172.87.31:2200/R-EX/HINDI_SONY_SAB_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiSonyMaxHD
+http://31.172.87.31:2200/R-EX/HINDI_SONY_MAX_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiNatGeoHD
+http://31.172.87.31:2200/R-EX/HINDI_NAT_GEO_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",SonyTV
+http://31.172.87.31:2200/EX/sonytv-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",WillowCricketHD
+http://31.172.87.31:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StudioOne
+http://31.172.87.31:2200/R-EX/STUDIO_ONE-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ColorsRishty
+http://31.172.87.31:2200/R-EX/COLOR_RISHTEY_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",AndPicturesFHD
+http://31.172.87.31:2200/R-EX/FHD_AND_PICTURES_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StarWorldFHD
+http://31.172.87.31:2200/R-EX/FHD_STAR_WORLD_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ZeeCafeFHD
+http://31.172.87.31:2200/+R-EX/FHD_ZEE_CAFE_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StarPlusFHD
+http://31.172.87.31:2200/R-EX/FHD_STAR_PLUS_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StarMaaMoviesFHD
+http://31.172.87.31:2200/R-EX/FHD_STAR_MAA_MOV-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",CalaryTV
+http://31.172.87.31:2200/R-EX/CALVARY_TV-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StarMaaFHD
+http://31.172.87.31:2200/R-EX/FHD_STAR_MAA_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StarGoldFHD
+http://31.172.87.31:2200/R-EX/FHD_STAR_GOLD_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StarBharatFHD
+http://31.172.87.31:2200/R-EX/FHD_STAR_BHARAT_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ZeeTVFHD
+http://31.172.87.31:2200/R-EX/FHD_ZEE_TV_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",AndTVFHD
+http://31.172.87.31:2200/R-EX/FHD_AND_TV_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ZeeTVHD
+http://31.172.87.31:2200/EX/zeetvhd-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ZeeBollywood
+http://31.172.87.31:2200/EX/zeebollywood-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",Foodxp
+http://31.172.87.31:2200/NL/foodxp-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",EnglishZeeCafeHD
+http://31.172.87.31:2200/R-EX/ENGLISH_ZEE_CAFE_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ColorsUK
+http://31.172.87.31:2200/EX/colorsuk-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ColorsRishtey
+http://31.172.87.31:2200/NL/colorsrishtey-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",SonyAsia
+http://31.172.87.31:2200/NL/sonytvasia-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",Zinguk
+http://31.172.87.31:2200/EX/zinguk-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ZeeAction
+http://31.172.87.31:2200/EX/zeeaction-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",ZeeCinema
+http://31.172.87.31:2200/EX/zeecinema-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",TamilFoxLifeHD
+http://31.172.87.31:2200/R-EX/TAMIL_FOX_LIFE_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",TamilSonyBBCEarthHD
+http://31.172.87.31:2200/R-EX/TAMIL_SONY_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",TamilHistoryTV18HD
+http://31.172.87.31:2200/R-EX/TAMIL_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",TamilNatGeoTamilHD
+http://31.172.87.31:2200/R-EX/TAMIL_NAT_GEO_TAMIL_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiZeeAnmolCinema
+
+http://31.172.87.31:2200/R-EX/HINDI_ZEE_ANMOL_CINEMA-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiZeeAction
+http://31.172.87.31:2200/R-EX/HINDI_ZEE_ACTION-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiENews24
+http://31.172.87.31:2200/R-EX/HINDI_E_NEWS_24-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiSonyMax2
+http://31.172.87.31:2200/R-EX/HINDI_SONY_MAX_2-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiNDTV24x7
+http://31.172.87.31:2200/R-EX/HINDI_NDTV_24x7-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",StarSportsHindiHD1
+http://31.172.87.31:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiUTVMovies
+http://31.172.87.31:2200/R-EX/HINDI_UTV_MOVIES-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiZeeTVHD
+http://31.172.87.31:2200/R-EX/HINDI_ZEE_TV_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiStarPlusHD
+http://31.172.87.31:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiStarGoldSelectHD
+http://31.172.87.31:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiStarGoldHD
+http://31.172.87.31:2200/R-EX/HINDI_STAR_GOLD_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiStarBharatHD
+http://31.172.87.31:2200/R-EX/HINDI_STAR_BHARAT_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiColorsHD
+http://31.172.87.31:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiMHOneNews
+http://31.172.87.31:2200/R-EX/HINDI_MH_ONE_NEWS-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",SonyTen2FHD
+http://31.172.87.31:2200/R-EX/FHD_SONY_TEN2_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",EnglishDiscoveryWorldHD
+http://31.172.87.31:2200/R-EX/ENGLISH_DISCOVERY_WORLD_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",AryNews
+http://31.172.87.31:2200/R-EX/ARY_NEWS_-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",EnglishStarWorldPremierHD
+http://31.172.87.31:2200/R-EX/ENGLISH_STAR_WORLD_PREMIER_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",EnglishStarMoviesHD
+http://31.172.87.31:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiZing
+http://31.172.87.31:2200/R-EX/HINDI_ZING-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiABPNews
+http://31.172.87.31:2200/R-EX/HINDI_ABP_NEWS-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiB4UMusic
+http://31.172.87.31:2200/R-EX/HINDI_B4U_MUSIC-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiStarUtsavMovies
+http://31.172.87.31:2200/R-EX/HINDI_STAR_UTSAV_MOVIES-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",HindiMTVBeatsHD
+http://31.172.87.31:2200/R-EX/HINDI_MTV_BEATS_HD-in/tracks-v1a1/mono.m3u8?token=RED_wDqfNTFBwkaz28krc24EPw==,1647147490.6423232819|User-Agent=REDLINECLIENT
+
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",CanalSport 1
 http://lnk.ec/CanalsportSantuy1.ts
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",CanalSport 2
