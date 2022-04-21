@@ -1,6 +1,7 @@
 #EXTM3U 
 
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/x8shmBGj/movie-logo.jpg" group-title="MOVIES OK",Sony Pix HD
+https://bit.ly/3Hs-sonypix
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/8zrvqW0t/sports-ok.jpg" group-title="SPORT OK",Supersport Variety 1🇿🇦
 #EXTVLCOPT:http-referrer=https://www.skybtsports.com/
 https://d2u47bc4eeyblk.cloudfront.net/live/ssvariety1/playlist.m3u8
