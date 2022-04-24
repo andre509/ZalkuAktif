@@ -1,5 +1,91 @@
 #EXTM3U 
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Premium 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Premium 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Premium 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/3
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 1 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/4
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 2 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/5
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 3 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/6
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 4 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/7
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 5 HD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Pre 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/9
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Pre 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/10
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Pre 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/11
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 1 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/12
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 2 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/13
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 3 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/14
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 4 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/15
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 5 SD
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/16
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPORTS-ON-TIME-1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/17
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPORTS-ON-TIME-2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/18
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", ontime sd1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/20
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", ontime 2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/21
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", newapp
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/movie/live_sport_android/live_sport_ios/22.mp4
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", Bein 1 vip
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/23
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", Ssss
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/movie/live_sport_android/live_sport_ios/24.mp4
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", Beinfhd
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/25
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", bein afc
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/26
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", afc1
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/27
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", afc2
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/28
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", afc1sd
+#EXTVLCOPT:http-user-agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/29
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Animal Planet HD
 https://nonton.site:8443/1842273725/9237641816/358
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Crime Investigation
