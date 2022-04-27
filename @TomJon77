@@ -1,5 +1,139 @@
 #EXTM3U 
 
+
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",RCTI
+http://202.150.172.34:4000/play/rctit2
+
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",MNCTV
+http://202.150.172.34:4000/play/mnctvt2
+
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",GTV
+http://202.150.172.34:4000/play/gtvt2
+
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",INEWS
+http://202.150.172.34:4000/play/inewst2
+
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",INDOSIAR HD
+http://202.150.172.34:4000/play/indosiarhdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",SCTV HD
+http://202.150.172.34:4000/play/sctvhdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",ANTV DIGITAL
+http://202.150.172.34:4000/play/antvdigitalt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVONE DIGITAL
+http://202.150.172.34:4000/play/tvonedigitalt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TRANS 7
+http://202.150.172.35:8000/play/trans7s2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TRANS TV
+http://202.150.172.35:8000/play/transtvhds2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVRI SPORT
+http://202.150.172.34:4000/play/trans7hdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVRI WORLD
+http://202.150.172.34:4000/play/transtvhdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",RTV 1
+http://202.150.172.34:4000/play/rtv1
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",RTV 2
+http://202.150.172.34:4000/play/rtv2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",KOMPAS TV
+http://202.150.172.34:4000/play/kompastvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",METRO TV
+http://202.150.172.34:4000/play/metrotvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",METROTV HD
+http://202.150.172.34:4000/play/metrotvhdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",NET
+http://202.150.172.34:4000/play/nett2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",NUSANTARATV
+http://202.150.172.34:4000/play/nusantaratvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",OCHANNEL HD
+http://202.150.172.34:4000/play/ochannelhdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",CNBC INDONESIA HD
+http://202.150.172.34:4000/play/cnbcindonesiahdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",CNN INDONESIA HD
+http://202.150.172.34:4000/play/cnnindonesiahdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",MYTV
+http://202.150.172.34:4000/play/mytvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",SPORT ONE
+http://202.150.172.34:4000/play/sportonet2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",Smile TV
+http://202.150.172.34:4000/play/smiletv
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TEMPO TV
+http://202.150.172.34:4000/play/tempotvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVMU
+http://202.150.172.34:4000/play/tvmut2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVRI 3
+http://202.150.172.34:4000/play/tvri3t2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVRI DKI
+http://202.150.172.34:4000/play/tvridkit2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVRI NASIONAL
+http://202.150.172.34:4000/play/tvrinasionalt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",TVRI SPORT HD
+http://202.150.172.34:4000/play/tvrisporthdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",UGTV
+http://202.150.172.34:4000/play/ugtvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",KTV
+http://202.150.172.34:4000/play/ktvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",MAGNA CHANNEL
+http://202.150.172.34:4000/play/magnachannelt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",MENTARITV HD
+http://202.150.172.34:4000/play/mentaritvhdt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",INSPIRA TV
+http://202.150.172.34:4000/play/inspiratvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",JAKTV
+http://202.150.172.34:4000/play/jaktvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",JPMTV
+http://202.150.172.34:4000/play/jpmtvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",BADAR TV
+http://202.150.172.34:4000/play/badartvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",BBSTV JAKARTA
+http://202.150.172.34:4000/play/bbstvjktt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",BNTV
+http://202.150.172.34:4000/play/bntvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",DAAITV
+http://202.150.172.34:4000/play/daaitvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",ELSHINTA TV
+http://202.150.172.34:4000/play/elshintatvt2
+#EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",GRAMEDIA TV
+http://202.150.172.34:4000/play/gramediatvt2
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",INDOSIARS2
+http://202.150.172.35:8000/play/indosiars2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",SCTVS2
+http://202.150.172.35:8000/play/sctvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",SINEMAINDONESIAS2
+http://202.150.172.35:8000/play/sinemaindonesias2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",TRANS7HDS2
+http://202.150.172.35:8000/play/trans7hds2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",TRANS7S2
+http://202.150.172.35:8000/play/trans7s2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",TRANSTVHDS2
+http://202.150.172.35:8000/play/transtvhds2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",TRANSTVS2
+http://202.150.172.35:8000/play/transtvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",TVONES2
+http://202.150.172.35:8000/play/tvones2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",ZORINSTVS2
+http://202.150.172.35:8000/play/zorinstvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",DAAITVS2
+http://202.150.172.35:8000/play/daaitvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",ELSHINTAS2
+http://202.150.172.35:8000/play/elshintas2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",JAKTVS2
+http://202.150.172.35:8000/play/jaktvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",K-DRAMAS2
+http://202.150.172.35:8000/play/kdramas2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",KIDZONE+S2
+http://202.150.172.35:8000/play/kidzone+s2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",KOMPASTVS2
+http://202.150.172.35:8000/play/kompastvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",KTVS2
+http://202.150.172.35:8000/play/ktvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",LOTUSTVS2
+http://202.150.172.35:8000/play/lotustvs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",MAGNACHS2
+http://202.150.172.35:8000/play/magnachs2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg" group-title="TV DIGITAL INDO",MyTVS2
+http://202.150.172.35:8000/play/mytvs2
+
+
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Premium 1 HD
 #EXTVLCOPT:http-user-agent=live_sport1986
 http://89.163.251.5:8080/live_sport_android/live_sport_ios/1
