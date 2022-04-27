@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="TES PLUS" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",RCTI 1
 #EXTVLCOPT:http-referrer=http://m.rctiplus.com
-https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_100000=6.m3u8
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="TES PLUS" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",RCTI
 #EXTVLCOPT:http-referrer=http://m.rctiplus.com
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
