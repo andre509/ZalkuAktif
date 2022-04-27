@@ -1,6 +1,7 @@
 #EXTM3U 
-
-
+#EXTINF:-1 group-title="TES PLUS" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",RCTI
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 #EXTINF:-1 group-title="TV DIGITAL INDO" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg",RCTI
 http://202.150.172.34:4000/play/rctit2
 
