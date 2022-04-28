@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 group-title="VID" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg", SCTV VID
-#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD-mp4a_98800_eng=2-init.mp4
 https://token-media-vidio-com.akamaized.net/exp=1651177589~acl=/uploads/6767480/*~hmac=15a3c13b46548f5b7a77d027fbebdd798c6d5705b5ee3723a98f9513ba70c8cb/uploads/6767480/ets-playlist-1200-6b34a.m3u8
 #EXTINF:-1 group-title="BT" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg", BT 1
 #EXTVLCOPT:http-referrer=https://www.xn--72czp5emaz0ab6b.com/
