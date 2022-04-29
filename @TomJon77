@@ -1,8 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 group-title="VID" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg", SCTV VID
 #EXTVLCOPT:http-referrer=http://udoofree.com
-http://139.99.27.33:9998/assp1/preview.mp4?token=b0d49c7373e227f4f338b5e210187e63f1270506-ac03eb9c8928a082e42ddc7efa5ff4b6-1651249319-1651238519
-https://token-media-vidio-com.akamaized.net/exp=1651177589~acl=/uploads/6767480/*~hmac=15a3c13b46548f5b7a77d027fbebdd798c6d5705b5ee3723a98f9513ba70c8cb/uploads/6767480/ets-playlist-1200-6b34a.m3u8
+http://139.99.27.33:9998/assp1_720/index.m3u8?token=351b8273eec34570869003f143984b22770bff00-ef5e10054a20ed2ce4fbae06044878f0-1651249592-1651238792
 #EXTINF:-1 group-title="BT" tvg-logo="https://i.postimg.cc/5Nd0m8K3/Digitaltv.jpg", BT 1
 #EXTVLCOPT:http-referrer=https://www.xn--72czp5emaz0ab6b.com/
 https://eiei.livedoomovie.com:4432/02_BTSPORTHD_2_720p/chunklist.m3u8
