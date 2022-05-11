@@ -1,6 +1,67 @@
 #EXTM3U 
 
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 HINDI 360P
+http://195.2.71.8:8081/live/hindi/chunks.m3u8
 
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 360P
+http://94.103.92.143:8081/live/english/chunks.m3u8
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 HINDI 480P
+https://melbet.mynrwsf.xyz/ipllive1/480p.m3u8?|Referer=https://ipldekh.site/.m3u8
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 HINDI 480P
+https://b1.iplhd1.gq/live/livestream.m3u8?|referer=https://iplhd1.cf/
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 HINDI 540P
+https://raax.xyz/dorach.m3u8?ch=starhindi|User-agent=Dora TV&Referer=https://noob4cast.com&cookie=Dora TV&DORA TV TOKEN=Dora TV
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 HINDI 720P
+http://31.172.87.51:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=RED_DYjenE3Te-92aGzz_erqAA==,1652218385.9359072311|User-agent=REDLINECLIENT
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 HINDI 720P
+http://melbetipl.mynrwsf.xyz/ipllive/720p.m3u8
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 HINDI 1080P
+https://mk-hossain.3d.tc:443/ch/live/ssp1hindi.m3u8
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 540P
+https://raax.xyz/dorach.m3u8?ch=star1in|user-agent=Dora TV&referer=https://noob4cast.com&cookie=Dora TV&DORA TV TOKEN=Dora TV
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 1 720P
+https://uload.ru.com/cdn/premium370/playlist.m3u8?|referer=https://player.licenses4.me/
+
+#EXTINF:-1  group-title="INDI",STAR SPORTS 2
+https://prod-ec-eu-central-1.video.pscp.tv.raax.xyz/ch.m3u8?ch=star2in|User-agent=Dora TV&Referer=https://123zcast.me&cookie=Dora TV&DORA TV TOKEN=Dora TV
+
+#EXTINF:-1  group-title="INDI",ASTRO CRICKET
+https://uload.ru.com/cdn/premium370/chunks.m3u8|referer=https://player.licenses4.me/.m3u8
+
+#EXTINF:-1  group-title="INDI",FOX CRICKET 501
+https://uload.ru.com/cdn/premium369/chunks.m3u8|referer=https://player.licenses4.me/.m3u8
+
+#EXTINF:-1  group-title="INDI",SUPER SPORTS CRICKET
+http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
+
+#EXTINF:-1  group-title="INDI",GAZI TV HD
+http://103.124.110.34:8082/gtv/index.m3u8
+
+#EXTINF:-1  group-title="INDI",T SPORTS HD
+http://103.124.110.34:8082/tsp/index.m3u8
+
+#EXTINF:-1  group-title="INDI",SKY SPORTS CRICKET
+http://103.124.110.34:8082/SKY-SPORTS-CRICKET/index.m3u8
+
+#EXTINF:-1  group-title="INDI",WILLOW CRICKET HD
+http://103.124.110.34:8082/WILLOW-CRICKET-HD/index.m3u8
+
+#EXTINF:-1  group-title="INDI",WILLOW CRICKET HD
+http://31.172.87.55:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=RED_DYjenE3Te-92aGzz_erqAA==,1652218385.9359072311|User-agent=REDLINECLIENT
+
+#EXTINF:-1  group-title="INDI",SKY SPORTS CRICKET
+http://31.172.87.56:2200/EX/Sky_Sports_Cricket_FHD-uk/tracks-v1a1/mono.m3u8?token=RED_DYjenE3Te-92aGzz_erqAA==,1652218385.9359072311|User-agent=REDLINECLIENT
+
+#EXTINF:-1  group-title="INDI",IPL AUTO
+https://aknews.cf/ipl/auto.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",🇧🇷 ⚽️➾ ESPN
 http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -292,198 +353,6 @@ http://202.150.172.35:8000/play/magnachs2
 http://202.150.172.35:8000/play/mytvs2
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Premium 1 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/1
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Premium 2 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Premium 3 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/3
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 1 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 2 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/5
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 3 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/6
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 4 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/7
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 5 HD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Pre 1 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/9
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Pre 2 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/10
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports Pre 3 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/11
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 1 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/12
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 2 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/13
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 3 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/14
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 4 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/15
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPO: beIN Sports 5 SD
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/16
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPORTS-ON-TIME-1
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/17
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", SPORTS-ON-TIME-2
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/18
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", ontime sd1
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/20
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", ontime 2
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/21
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", newapp
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/movie/live_sport_android/live_sport_ios/22.mp4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", Bein 1 vip
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/23
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", Ssss
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/movie/live_sport_android/live_sport_ios/24.mp4
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", Beinfhd
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/25
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", bein afc
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/26
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", afc1
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/27
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", afc2
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/28
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9fVmLWsg/beinsport.png" group-title="BEIN SPORTS", afc1sd
-#EXTVLCOPT:http-user-agent=live_sport1986
-http://89.163.251.5:8080/live_sport_android/live_sport_ios/29
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Animal Planet HD
-https://nonton.site:8443/1842273725/9237641816/358
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Crime Investigation
-https://nonton.site:8443/1842273725/9237641816/332
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Da Vinci Learning
-https://nonton.site:8443/1842273725/9237641816/36729
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Discovery Asia
-https://nonton.site:8443/1842273725/9237641816/779
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Discovery Channel HD
-https://nonton.site:8443/1842273725/9237641816/165
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Discovery Shed
-https://nonton.site:8443/1842273725/9237641816/333
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Discovery Turbo
-https://nonton.site:8443/1842273725/9237641816/462
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",History FHD
-https://nonton.site:8443/1842273725/9237641816/8131
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",History HD
-https://nonton.site:8443/1842273725/9237641816/718
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Lingua Channel
-https://nonton.site:8443/1842273725/9237641816/14944
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Love Nature 4K
-https://nonton.site:8443/1842273725/9237641816/36767
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Nat Geo HD
-https://nonton.site:8443/1842273725/9237641816/96
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Nat Geo People HD
-https://nonton.site:8443/1842273725/9237641816/455
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Nat Geo Wild HD
-https://nonton.site:8443/1842273725/9237641816/97
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Ruang Terampil
-https://nonton.site:8443/1842273725/9237641816/36731
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Smithsonian Channel
-https://nonton.site:8443/1842273725/9237641816/35998
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",TV Edukasi
-https://nonton.site:8443/1842273725/9237641816/36732
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Animax
-https://nonton.site:8443/1842273725/9237641816/3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Aniplus
-https://nonton.site:8443/1842273725/9237641816/2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Baby First
-https://nonton.site:8443/1842273725/9237641816/1204
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Boomerang ID
-https://nonton.site:8443/1842273725/9237641816/305
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Cartoon Network ID HD
-https://nonton.site:8443/1842273725/9237641816/680
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",CBeebies
-https://nonton.site:8443/1842273725/9237641816/491
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Indi Kids
-https://nonton.site:8443/1842273725/9237641816/3479
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",My Kidz
-https://nonton.site:8443/1842273725/9237641816/213
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Disney UK
-https://nonton.site:8443/1842273725/9237641816/2336
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Disney XD
-https://nonton.site:8443/1842273725/9237641816/104
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Dream Works HD
-https://nonton.site:8443/1842273725/9237641816/32529
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Duck TV
-https://nonton.site:8443/1842273725/9237641816/1854
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Dunia Anak
-https://nonton.site:8443/1842273725/9237641816/907
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Horee
-https://nonton.site:8443/1842273725/9237641816/14106
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",My Kidz
-https://nonton.site:8443/1842273725/9237641816/1483
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Nick Jr 2
-https://nonton.site:8443/1842273725/9237641816/341
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Nick Jr ID
-https://nonton.site:8443/1842273725/9237641816/522
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Nick Toons
-https://nonton.site:8443/1842273725/9237641816/335
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Nickelodeon ID
-https://nonton.site:8443/1842273725/9237641816/962
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Toonmax
-https://nonton.site:8443/1842273725/9237641816/1116
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",XingXong
-https://nonton.site:8443/1842273725/9237641816/36764
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Zoo Moo HD
-https://nonton.site:8443/1842273725/9237641816/14104
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",.idku
-https://nonton.site:8443/1842273725/9237641816/36730
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",AFN HD
-https://nonton.site:8443/1842273725/9237641816/807
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",BBC Lifestyle HD
-https://nonton.site:8443/1842273725/9237641816/36766
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Blue Ant Entertainment HD
-https://nonton.site:8443/1842273725/9237641816/1506
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Citra Drama
-https://nonton.site:8443/1842273725/9237641816/905
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",DMAX
-https://nonton.site:8443/1842273725/9237641816/483
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Eat & Go
-https://nonton.site:8443/1842273725/9237641816/26979
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Every Good Game
-https://nonton.site:8443/1842273725/9237641816/921
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Fashion TV
-https://nonton.site:8443/1842273725/9237641816/280
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",HGTV
-https://nonton.site:8443/1842273725/9237641816/537
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",Insert
-https://nonton.site:8443/1842273725/9237641816/1763
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",NHK World Japan
-https://nonton.site:8443/1842273725/9237641816/785
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",TLC English
-https://nonton.site:8443/1842273725/9237641816/351
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE 2",TLC HD
-https://nonton.site:8443/1842273725/9237641816/352
 
 
 
@@ -553,217 +422,7 @@ http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 http://178.218.196.218:8000/play/a008/index.m3u8
 
 
-#EXTINF:-1  tvg-id=""tvg-name="ATV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" group-title="MovieSite",ATV
-https://nonton.site:8443/Thopani/Haidir/29899
-#EXTINF:-1  tvg-id="AXN.id"tvg-name="AXN"tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="MovieSite",AXN
-https://nonton.site:8443/Thopani/Haidir/9
-#EXTINF:-1  tvg-id="BioskopIndonesia.id"tvg-name="BioskopIndonesia"tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="MovieSite",BioskopIndonesia
-https://nonton.site:8443/Thopani/Haidir/908
-#EXTINF:-1  tvg-id=""tvg-name="BlueAntExtremeHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MovieSite",BlueAntExtremeHD
-https://nonton.site:8443/Thopani/Haidir/811
-#EXTINF:-1  tvg-id="CelestialMovieSites.id"tvg-name="CelestialMovieSites"tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="MovieSite",CelestialMovieSites
-https://nonton.site:8443/Thopani/Haidir/5
-#EXTINF:-1  tvg-id=""tvg-name="CinemaxFHD"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="MovieSite",CinemaxFHD
-https://nonton.site:8443/Thopani/Haidir/30185
-#EXTINF:-1  tvg-id="CineMax.id"tvg-name="CinemaxID"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" group-title="MovieSite",CinemaxID
-https://nonton.site:8443/Thopani/Haidir/2156
-#EXTINF:-1  tvg-id=""tvg-name="FLIKHD"tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="MovieSite",FLIKHD
-https://nonton.site:8443/Thopani/Haidir/29592
-#EXTINF:-1  tvg-id="FOXActionMovieSites.id"tvg-name="HitsMovieSites"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MovieSite",HitsMovieSites
-https://nonton.site:8443/Thopani/Haidir/1478
-#EXTINF:-1  tvg-id="FOXActionMovieSites.id"tvg-name="HitsMovieSitesHD"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="MovieSite",HitsMovieSitesHD
-https://nonton.site:8443/Thopani/Haidir/99
-#EXTINF:-1  tvg-id=""tvg-name="MyFamilyChannel"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" group-title="MovieSite",MyFamilyChannel
-https://nonton.site:8443/Thopani/Haidir/14994
-#EXTINF:-1  tvg-id="FOX.id"tvg-name="FOXHD"tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" group-title="MovieSite",FOXHD
-https://nonton.site:8443/Thopani/Haidir/95
-#EXTINF:-1  tvg-id="FoxLife.id"tvg-name="HITS"tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="MovieSite",HITS
-https://nonton.site:8443/Thopani/Haidir/94
-#EXTINF:-1  tvg-id="BabyTV.uk"tvg-name="ParamountNetwork"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="MovieSite",ParamountNetwork
-https://nonton.site:8443/Thopani/Haidir/98
-#EXTINF:-1  tvg-id=""tvg-name="GalaxyPremiumSD"tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MovieSite",GalaxyPremiumSD
-https://nonton.site:8443/Thopani/Haidir/29603
-#EXTINF:-1  tvg-id=""tvg-name="GalaxySD"tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" group-title="MovieSite",GalaxySD
-https://nonton.site:8443/Thopani/Haidir/29604
-#EXTINF:-1  tvg-id=""tvg-name="HBOFamilyFHD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MovieSite",HBOFamilyFHD
-https://nonton.site:8443/Thopani/Haidir/30184
-#EXTINF:-1  tvg-id="HBOFamily.id"tvg-name="HBOFamilyHD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MovieSite",HBOFamilyHD
-https://nonton.site:8443/Thopani/Haidir/592
-#EXTINF:-1  tvg-id=""tvg-name="HBOFamilySD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MovieSite",HBOFamilySD
-https://nonton.site:8443/Thopani/Haidir/26598
-#EXTINF:-1  tvg-id=""tvg-name="HBOFHD"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="MovieSite",HBOFHD
-https://nonton.site:8443/Thopani/Haidir/1496
-#EXTINF:-1  tvg-id="HBO.id"tvg-name="HBOHD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MovieSite",HBOHD
-https://nonton.site:8443/Thopani/Haidir/210
-#EXTINF:-1  tvg-id="HBOHits.id"tvg-name="HBOHitsFHD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="MovieSite",HBOHitsFHD
-https://nonton.site:8443/Thopani/Haidir/11492
-#EXTINF:-1  tvg-id="HBOHits.id"tvg-name="HBOHitsHD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MovieSite",HBOHitsHD
-https://nonton.site:8443/Thopani/Haidir/591
-#EXTINF:-1  tvg-id=""tvg-name="HBOHitsSD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MovieSite",HBOHitsSD
-https://nonton.site:8443/Thopani/Haidir/26596
-#EXTINF:-1  tvg-id=""tvg-name="HBOSD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="MovieSite",HBOSD
-https://nonton.site:8443/Thopani/Haidir/26595
-#EXTINF:-1  tvg-id="HBOSignature.id"tvg-name="HBOSignatureFHD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MovieSite",HBOSignatureFHD
-https://nonton.site:8443/Thopani/Haidir/1498
-#EXTINF:-1  tvg-id="HBOSignature.id"tvg-name="HBOSignatureHD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MovieSite",HBOSignatureHD
-https://nonton.site:8443/Thopani/Haidir/873
-#EXTINF:-1  tvg-id=""tvg-name="HBOSignatureSD"tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MovieSite",HBOSignatureSD
-https://nonton.site:8443/Thopani/Haidir/26597
-#EXTINF:-1  tvg-id="HITS.id"tvg-name="HITSHD"tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="MovieSite",HITSHD
-https://nonton.site:8443/Thopani/Haidir/1195
-#EXTINF:-1  tvg-id=""tvg-name="HitsMovieSiteSD"tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="MovieSite",HitsMovieSiteSD
-https://nonton.site:8443/Thopani/Haidir/957
-#EXTINF:-1  tvg-id=""tvg-name="IMCSD"tvg-logo="" group-title="MovieSite",IMCSD
-https://nonton.site:8443/Thopani/Haidir/35484
-#EXTINF:-1  tvg-id=""tvg-name="IN:&Picture"tvg-logo="" group-title="MovieSite",IN:&Picture
-https://nonton.site:8443/Thopani/Haidir/31875
-#EXTINF:-1  tvg-id=""tvg-name="IN:&TVHD"tvg-logo="" group-title="MovieSite",IN:&TVHD
-https://nonton.site:8443/Thopani/Haidir/31876
-#EXTINF:-1  tvg-id="KIX.id"tvg-name="KIXHD"tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="MovieSite",KIXHD
-https://nonton.site:8443/Thopani/Haidir/8
-#EXTINF:-1  tvg-id="Lifetime.id"tvg-name="LifeTimeHD"tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="MovieSite",LifeTimeHD
-https://nonton.site:8443/Thopani/Haidir/866
-#EXTINF:-1  tvg-id=""tvg-name="StarChineseMovieSitesHD"tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="MovieSite",StarChineseMovieSitesHD
-https://nonton.site:8443/Thopani/Haidir/780
-#EXTINF:-1  tvg-id=""tvg-name="StarChineseMovieSitesLegend"tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" group-title="MovieSite",StarChineseMovieSitesLegend
-https://nonton.site:8443/Thopani/Haidir/1859
-#EXTINF:-1  tvg-id="ABC.au"tvg-name="StarWorld"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" group-title="MovieSite",StarWorld
-https://nonton.site:8443/Thopani/Haidir/381
-#EXTINF:-1  tvg-id="Thrill.id"tvg-name="Thrill"tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MovieSite",Thrill
-https://nonton.site:8443/Thopani/Haidir/4
-#EXTINF:-1  tvg-id="WarnerTV.id"tvg-name="WarnerTVIDHD"tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MovieSite",WarnerTVIDHD
-https://nonton.site:8443/Thopani/Haidir/1533
-#EXTINF:-1  tvg-id="WakuWakuJapan.id"tvg-name="WakuWakuJapanHD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="MovieSite",WakuWakuJapanHD
-https://nonton.site:8443/Thopani/Haidir/717
-#EXTINF:-1  tvg-id=""tvg-name="KDrama"tvg-logo="" group-title="MovieSite",KDrama
-https://nonton.site:8443/Thopani/Haidir/35769
-#EXTINF:-1  tvg-id="Kplus.id"tvg-name="KPlus"tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="MovieSite",KPlus
-https://nonton.site:8443/Thopani/Haidir/18
-#EXTINF:-1  tvg-id=""tvg-name="KBSWorldHD"tvg-logo="" group-title="MovieSite",KBSWorldHD
-https://nonton.site:8443/Thopani/Haidir/15057
-#EXTINF:-1  tvg-id="AnimalPlanet.id"tvg-name="SGEMHD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="MovieSite",SGEMHD
-https://nonton.site:8443/Thopani/Haidir/770
-#EXTINF:-1  tvg-id="SonyOne.id"tvg-name="SonyONE"tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="MovieSite",SonyONE
-https://nonton.site:8443/Thopani/Haidir/19
-#EXTINF:-1  tvg-id="ABC.au"tvg-name="TVNID"tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="MovieSite",TVNID
-https://nonton.site:8443/Thopani/Haidir/767
-#EXTINF:-1  tvg-id="TVNMovies.id"tvg-name="tVNMoviesHD"tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="MovieSite",tVNMoviesHD
-https://nonton.site:8443/Thopani/Haidir/927
-#EXTINF:-1  tvg-id="AnimalPlanet.id"tvg-name="ChannelVHD"tvg-logo="" group-title="MovieSite",ChannelVHD
-https://nonton.site:8443/Thopani/Haidir/766
-#EXTINF:-1  tvg-id=""tvg-name="CitraDangdut"tvg-logo="" group-title="MovieSite",CitraDangdut
-https://nonton.site:8443/Thopani/Haidir/2207
-#EXTINF:-1  tvg-id="WarnerTV.id"tvg-name="WarnerTVIDHD"tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MovieSite",WarnerTVIDHD
-https://nonton.site:8443/Thopani/Haidir/1533
 
-
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",AnimalPlanetHD
-https://nonton.site:8443/Thopani/Haidir/358
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",CrimeInvestigation
-https://nonton.site:8443/Thopani/Haidir/332
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DaVinciLearning
-https://nonton.site:8443/Thopani/Haidir/36729
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DiscoveryAsia
-https://nonton.site:8443/Thopani/Haidir/779
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DiscoveryChannelHD
-https://nonton.site:8443/Thopani/Haidir/165
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DiscoveryShed
-https://nonton.site:8443/Thopani/Haidir/333
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DiscoveryTurbo
-https://nonton.site:8443/Thopani/Haidir/462
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",HistoryFHD
-https://nonton.site:8443/Thopani/Haidir/8131
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",HistoryHD
-https://nonton.site:8443/Thopani/Haidir/718
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",LinguaChannel
-https://nonton.site:8443/Thopani/Haidir/14944
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",LoveNature4K
-https://nonton.site:8443/Thopani/Haidir/36767
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NatGeoHD
-https://nonton.site:8443/Thopani/Haidir/96
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NatGeoPeopleHD
-https://nonton.site:8443/Thopani/Haidir/455
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NatGeoWildHD
-https://nonton.site:8443/Thopani/Haidir/97
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",RuangTerampil
-https://nonton.site:8443/Thopani/Haidir/36731
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",SmithsonianChannel
-https://nonton.site:8443/Thopani/Haidir/35998
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",TVEdukasi
-https://nonton.site:8443/Thopani/Haidir/36732
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",Animax
-https://nonton.site:8443/Thopani/Haidir/3
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",Aniplus
-https://nonton.site:8443/Thopani/Haidir/2
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",BabyFirst
-https://nonton.site:8443/Thopani/Haidir/1204
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",BoomerangID
-https://nonton.site:8443/Thopani/Haidir/305
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",CartoonNetworkIDHD
-https://nonton.site:8443/Thopani/Haidir/680
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",CBeebies
-https://nonton.site:8443/Thopani/Haidir/491
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",IndiKids
-https://nonton.site:8443/Thopani/Haidir/3479
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",MyKidz
-https://nonton.site:8443/Thopani/Haidir/213
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DisneyUK
-https://nonton.site:8443/Thopani/Haidir/2336
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DisneyXD
-https://nonton.site:8443/Thopani/Haidir/104
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DreamWorksHD
-https://nonton.site:8443/Thopani/Haidir/32529
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DuckTV
-https://nonton.site:8443/Thopani/Haidir/1854
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DuniaAnak
-https://nonton.site:8443/Thopani/Haidir/907
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",Horee
-https://nonton.site:8443/Thopani/Haidir/14106
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",MyKidz
-https://nonton.site:8443/Thopani/Haidir/1483
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NickJr2
-https://nonton.site:8443/Thopani/Haidir/341
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NickJrID
-https://nonton.site:8443/Thopani/Haidir/522
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NickToons
-https://nonton.site:8443/Thopani/Haidir/335
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NickelodeonID
-https://nonton.site:8443/Thopani/Haidir/962
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",Toonmax
-https://nonton.site:8443/Thopani/Haidir/1116
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",XingXong
-https://nonton.site:8443/Thopani/Haidir/36764
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",ZooMooHD
-https://nonton.site:8443/Thopani/Haidir/14104
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",.idku
-https://nonton.site:8443/Thopani/Haidir/36730
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",AFNHD
-https://nonton.site:8443/Thopani/Haidir/807
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",BBCLifestyleHD
-https://nonton.site:8443/Thopani/Haidir/36766
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",BlueAntEntertainmentHD
-https://nonton.site:8443/Thopani/Haidir/1506
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",CitraDrama
-https://nonton.site:8443/Thopani/Haidir/905
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",DMAX
-https://nonton.site:8443/Thopani/Haidir/483
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",Eat&Go
-https://nonton.site:8443/Thopani/Haidir/26979
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",EveryGoodGame
-https://nonton.site:8443/Thopani/Haidir/921
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",FashionTV
-https://nonton.site:8443/Thopani/Haidir/280
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",HGTV
-https://nonton.site:8443/Thopani/Haidir/537
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",Insert
-https://nonton.site:8443/Thopani/Haidir/1763
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",NHKWorldJapan
-https://nonton.site:8443/Thopani/Haidir/785
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",TLCEnglish
-https://nonton.site:8443/Thopani/Haidir/351
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/m25HskR2/know.jpg" group-title="KNOW/KIDS SITE",TLCHD
-https://nonton.site:8443/Thopani/Haidir/352
 
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/0QDXHJbh/INDIA.jpg" group-title="INDIA TOKEN",SonyPixFHD
